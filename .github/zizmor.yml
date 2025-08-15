@@ -1,0 +1,7 @@
+rules:
+  unpinned-uses:
+    config:
+      policies:
+        gotmax23/*: ref-pin
+        actions/*: ref-pin
+        zizmorcore/zizmor-action: ref-pin

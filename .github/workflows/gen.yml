@@ -1,0 +1,72 @@
+---
+name: Download data
+'on':
+  push:
+  schedule:
+    # Daily at midnight
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      security-events: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+      - name: zizmor
+        uses: zizmorcore/zizmor-action@v0.1.2
+      - name: actionlint
+        uses: docker://rhysd/actionlint:latest
+  download:
+    needs:
+      - lint
+    runs-on: ubuntu-latest
+    steps:
+    - name: Create directory
+      run: >
+        mkdir -p data/extras
+    - name: Download
+      working-directory: data/extras
+      run: >
+        wget
+        https://src.fedoraproject.org/extras/pagure_bz.json
+        https://src.fedoraproject.org/extras/pagure_owner_alias.json
+        https://src.fedoraproject.org/extras/pagure_poc.json
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: data
+        path: data
+  commit:
+    needs:
+      - download
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    permissions:
+      contents: write
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v5
+      with:
+        persist-credentials: true
+    - name: Set Git user to github-actions
+      uses: gotmax23/set-bot-git-user-action@v1
+      with:
+        bot: github-actions
+        name: "Github Actions"
+    - name: Download artifact
+      uses: actions/download-artifact@v5
+      with:
+        name: data
+        path: data
+    - name: Commit changes
+      run: |
+        git add data
+        git commit -m "Update data"
+        git push
