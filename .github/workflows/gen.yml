@@ -28,9 +28,14 @@ jobs:
       - lint
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          persist-credentials: false
       - name: Create directory
-        run: >
+        run: |
           mkdir -p data/extras
+          rm -f data/extras/*
       - name: Download
         working-directory: data/extras
         run: >
@@ -38,6 +43,8 @@ jobs:
           https://src.fedoraproject.org/extras/pagure_bz.json
           https://src.fedoraproject.org/extras/pagure_owner_alias.json
           https://src.fedoraproject.org/extras/pagure_poc.json
+      - name: Sort pagure_bz.json
+        run: python3 tools/pagure_bz_sort.py
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
