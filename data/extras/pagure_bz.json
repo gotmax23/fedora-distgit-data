@@ -13616,7 +13616,7 @@
             "tstellar"
         ],
         "clang18": [
-            "orphan"
+            "petersen"
         ],
         "clang5.0": [
             "orphan"
@@ -61400,7 +61400,7 @@
             "tstellar"
         ],
         "lld18": [
-            "orphan"
+            "petersen"
         ],
         "lldb": [
             "airlied",
@@ -61512,7 +61512,7 @@
             "tstellar"
         ],
         "llvm18": [
-            "orphan"
+            "petersen"
         ],
         "llvm19": [
             "@fedora-llvm-team",
@@ -106079,8 +106079,7 @@
             "@python-packagers-sig",
             "fale",
             "knivnia",
-            "mikelo2",
-            "orphan"
+            "mikelo2"
         ],
         "python-colorcet": [
             "orphan"
@@ -112340,6 +112339,9 @@
         "python-mwlib-xhtml": [
             "orphan"
         ],
+        "python-mwparserfromhell": [
+            "dreua"
+        ],
         "python-myghty": [
             "orphan"
         ],
@@ -116662,7 +116664,7 @@
             "pszubiak"
         ],
         "python-roman": [
-            "orphan",
+            "gui1ty",
             "rebus"
         ],
         "python-roman-numerals-py": [
