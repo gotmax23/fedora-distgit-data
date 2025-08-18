@@ -48016,7 +48016,8 @@
             "michich"
         ],
         "intel-npu-driver": [
-            "aekoroglu"
+            "aekoroglu",
+            "xanderlent"
         ],
         "intel-one-mono-fonts": [
             "principis"
@@ -141640,7 +141641,8 @@
         ],
         "rust-safetensors": [
             "@rust-sig",
-            "thunderbirdtr"
+            "thunderbirdtr",
+            "xanderlent"
         ],
         "rust-salsa20": [
             "@rust-sig",
