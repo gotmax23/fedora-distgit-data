@@ -4085,7 +4085,6 @@
             "orphan"
         ],
         "HdrHistogram_c": [
-            "agerstmayr",
             "jkurik",
             "lzap",
             "nathans",
@@ -8254,6 +8253,11 @@
         ],
         "ants": [
             "jwrdegoede"
+        ],
+        "anubis": [
+            "@go-sig",
+            "dcavalca",
+            "nikromen"
         ],
         "anymeal": [
             "fed500"
@@ -13141,7 +13145,6 @@
             "orphan"
         ],
         "chan": [
-            "agerstmayr",
             "jkurik",
             "lzap",
             "nathans",
@@ -14177,6 +14180,7 @@
         ],
         "cobbler": [
             "brejoc",
+            "carlwgeorge",
             "kwizart",
             "ngompa",
             "orion",
@@ -15654,7 +15658,7 @@
             "orphan"
         ],
         "cranc": [
-            "lenkaseg"
+            "orphan"
         ],
         "crash": [
             "crash",
@@ -16414,6 +16418,8 @@
         ],
         "czmq": [
             "denisarnaud",
+            "fedepell",
+            "lecris",
             "tdawson"
         ],
         "d-din-fonts": [
@@ -22791,7 +22797,7 @@
             "orphan"
         ],
         "fast-cdr": [
-            "orphan"
+            "fedepell"
         ],
         "fast-user-switch-applet": [
             "orphan"
@@ -32614,6 +32620,9 @@
         "go-compilers": [
             "jchaloup",
             "orphan"
+        ],
+        "go-fdo-client": [
+            "kgiusti"
         ],
         "go-i18n": [
             "orphan"
@@ -43214,6 +43223,7 @@
             "qulogic"
         ],
         "golang-x-tools-expect": [
+            "@go-sig",
             "qulogic"
         ],
         "golang-x-vuln": [
@@ -75219,7 +75229,8 @@
         ],
         "nodejs-undici": [
             "aradchen",
-            "jstanek"
+            "jstanek",
+            "tjuhasz"
         ],
         "nodejs-unicode-7.0.0": [
             "orphan"
@@ -106529,7 +106540,8 @@
         ],
         "python-curio": [
             "@python-packagers-sig",
-            "carlwgeorge"
+            "carlwgeorge",
+            "fedepell"
         ],
         "python-cursive": [
             "orphan"
@@ -113969,8 +113981,7 @@
             "orphan"
         ],
         "python-plotly": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "python-plotnine": [
             "orphan"
@@ -124536,7 +124547,8 @@
             "suve"
         ],
         "rmol": [
-            "denisarnaud"
+            "denisarnaud",
+            "lecris"
         ],
         "rmtfs": [
             "javierm"
@@ -129230,6 +129242,9 @@
         ],
         "rust-async-global-executor": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-async-global-executor2": [
             "decathorpe"
         ],
         "rust-async-io": [
@@ -135722,6 +135737,7 @@
             "blinxen"
         ],
         "rust-imara-diff0.1": [
+            "@rust-sig",
             "blinxen"
         ],
         "rust-imgref": [
@@ -140372,6 +140388,7 @@
             "elmarco"
         ],
         "rust-qemu-rdp": [
+            "@rust-sig",
             "elmarco"
         ],
         "rust-qoi": [
@@ -160788,6 +160805,7 @@
         ],
         "zeromq": [
             "denisarnaud",
+            "fedepell",
             "stevetraylen",
             "tdawson"
         ],
