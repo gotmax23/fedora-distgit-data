@@ -13015,6 +13015,7 @@
             "branto",
             "josef",
             "kkeithle",
+            "marcan",
             "steve",
             "stingray"
         ],
@@ -24337,6 +24338,7 @@
             "aarem",
             "hobbes1069",
             "ngompa",
+            "orion",
             "phracek"
         ],
         "fluent-bit": [
@@ -30614,7 +30616,7 @@
             "orphan"
         ],
         "glava": [
-            "qulogic"
+            "orphan"
         ],
         "glaxium": [
             "jwrdegoede"
@@ -32622,6 +32624,7 @@
             "orphan"
         ],
         "go-fdo-client": [
+            "@go-sig",
             "kgiusti"
         ],
         "go-i18n": [
@@ -55783,6 +55786,7 @@
             "ajax",
             "bentiss",
             "jexposit",
+            "orion",
             "rstrode"
         ],
         "libXpm": [
@@ -67588,9 +67592,9 @@
             "orphan"
         ],
         "mod_wsgi": [
+            "abbra",
             "jorton",
-            "luhliarik",
-            "orphan"
+            "luhliarik"
         ],
         "mod_xsendfile": [
             "orion"
@@ -95063,8 +95067,8 @@
             "perl-sig"
         ],
         "perl-XML-Rules": [
-            "orphan",
-            "perl-sig"
+            "perl-sig",
+            "pghmcfc"
         ],
         "perl-XML-SAX": [
             "jplesnik",
@@ -108036,6 +108040,9 @@
             "gtb",
             "lhinds"
         ],
+        "python-exceptiongroup": [
+            "pnemade"
+        ],
         "python-exdir": [
             "@neuro-sig",
             "ankursinha"
@@ -115765,6 +115772,9 @@
             "@python-packagers-sig",
             "mikelo2"
         ],
+        "python-pytest-recording": [
+            "limb"
+        ],
         "python-pytest-regressions": [
             "@epel-packagers-sig",
             "jjames",
@@ -116068,7 +116078,7 @@
         ],
         "python-qcengine": [
             "@python-packagers-sig",
-            "orphan"
+            "jussilehtola"
         ],
         "python-qcustomplot-pyqt": [
             "tieugene"
@@ -117574,7 +117584,7 @@
             "@epel-packagers-sig",
             "@python-packagers-sig",
             "jonathanspw",
-            "qulogic"
+            "orphan"
         ],
         "python-soaplib": [
             "orphan"
@@ -123004,8 +123014,8 @@
         "qtile": [
             "akdev",
             "dannycolin",
-            "jdulaney",
-            "orphan"
+            "frostyx",
+            "jdulaney"
         ],
         "qtile-extras": [
             "dannycolin",
@@ -123016,7 +123026,6 @@
             "farchord"
         ],
         "qtiocompressor": [
-            "eclipseo",
             "fale",
             "gbcox",
             "oget"
@@ -138411,6 +138420,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-object0.36": [
+            "decathorpe"
+        ],
         "rust-objekt": [
             "orphan"
         ],
@@ -141626,6 +141638,9 @@
         ],
         "rust-ruzstd": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-ruzstd0.7": [
             "decathorpe"
         ],
         "rust-rxml": [
