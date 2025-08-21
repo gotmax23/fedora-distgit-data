@@ -15753,6 +15753,9 @@
             "@go-sig",
             "buckaroogeek"
         ],
+        "cri-o1.34": [
+            "buckaroogeek"
+        ],
         "cri-tools": [
             "@go-sig",
             "buckaroogeek",
@@ -15779,6 +15782,9 @@
         ],
         "cri-tools1.33": [
             "@go-sig",
+            "buckaroogeek"
+        ],
+        "cri-tools1.34": [
             "buckaroogeek"
         ],
         "cricscore-applet": [
@@ -17905,11 +17911,10 @@
             "msuchy"
         ],
         "distro-info": [
-            "orphan",
-            "suraia"
+            "orphan"
         ],
         "distro-info-data": [
-            "suraia"
+            "orphan"
         ],
         "distrobox": [
             "alciregi"
@@ -18779,7 +18784,7 @@
             "orphan"
         ],
         "dput-ng": [
-            "suraia"
+            "orphan"
         ],
         "dqlite": [
             "ganto"
@@ -29901,6 +29906,9 @@
         "ghc9.12": [
             "petersen"
         ],
+        "ghc9.14": [
+            "petersen"
+        ],
         "ghc9.2": [
             "petersen"
         ],
@@ -32859,7 +32867,7 @@
         ],
         "golang-cloud-google-firestore": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-cloud-google-iam": [
             "@go-sig",
@@ -33702,7 +33710,7 @@
         ],
         "golang-github-avast-retry4": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-aviddiviner-murmur": [
             "orphan"
@@ -33819,7 +33827,7 @@
         ],
         "golang-github-azure-storage-blob": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-azuread-microsoft-authentication-library": [
             "@go-sig",
@@ -37248,7 +37256,7 @@
         ],
         "golang-github-ipinfo-2": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-ishidawataru-sctp": [
             "@go-sig",
@@ -43939,6 +43947,9 @@
             "pbrobinson",
             "pwhalen"
         ],
+        "greenboot-rs": [
+            "saypaul"
+        ],
         "greenisland": [
             "orphan"
         ],
@@ -50415,6 +50426,10 @@
         ],
         "jfreechart": [
             "didiksupriadi41"
+        ],
+        "jfrog-cli": [
+            "@go-sig",
+            "rathann"
         ],
         "jfsutils": [
             "fcami"
@@ -65200,6 +65215,9 @@
         ],
         "mingw-antlr": [
             "sailer"
+        ],
+        "mingw-appstream": [
+            "elmarco"
         ],
         "mingw-atk": [
             "kalev",
@@ -95852,7 +95870,6 @@
         ],
         "pgbouncer": [
             "devrim",
-            "orphan",
             "praiskup",
             "slaanesh"
         ],
@@ -120265,7 +120282,7 @@
         ],
         "python-wxnatpy": [
             "@neuro-sig",
-            "orphan"
+            "ankursinha"
         ],
         "python-wxpython4": [
             "swt2c"
@@ -128291,16 +128308,14 @@
             "jaymzh"
         ],
         "rubygem-turbolinks": [
-            "@ruby-packagers-sig",
             "jaruga",
-            "pvalena",
-            "vondruch"
+            "orphan",
+            "pvalena"
         ],
         "rubygem-turbolinks-source": [
-            "@ruby-packagers-sig",
             "jaruga",
-            "pvalena",
-            "vondruch"
+            "orphan",
+            "pvalena"
         ],
         "rubygem-typhoeus": [
             "@ruby-packagers-sig",
