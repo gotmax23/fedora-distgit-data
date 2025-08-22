@@ -799,7 +799,6 @@
         ],
         "firefox": [
             "@flatpak-sig",
-            "erack",
             "ghishadow",
             "kalev",
             "stransky",
@@ -23953,7 +23952,6 @@
             "dm0"
         ],
         "firefox": [
-            "erack",
             "gecko-maint",
             "ghishadow",
             "klaas",
@@ -47426,7 +47424,6 @@
         ],
         "icu": [
             "denisarnaud",
-            "erack",
             "rstrode"
         ],
         "icu4j": [
@@ -64817,6 +64814,7 @@
             "orphan"
         ],
         "meson": [
+            "bonzini",
             "carlwgeorge",
             "ghishadow",
             "ignatenkobrain",
@@ -102074,7 +102072,8 @@
             "hhorak",
             "ignatenkobrain",
             "ljavorsk",
-            "mschorm"
+            "mschorm",
+            "psloboda"
         ],
         "proxytoys": [
             "gil",
@@ -116516,7 +116515,7 @@
             "mhayden"
         ],
         "python-requests-pkcs12": [
-            "orphan"
+            "lslebodn"
         ],
         "python-requests-toolbelt": [
             "ignatenkobrain",
@@ -116731,7 +116730,6 @@
         "python-rosdistro": [
             "@robotics-sig",
             "cottsay",
-            "orphan",
             "thofmann"
         ],
         "python-rosinstall": [
@@ -119809,7 +119807,6 @@
             "frantisekz",
             "humaton",
             "ngompa",
-            "orphan",
             "pingou"
         ],
         "python-virt-firmware": [
@@ -134259,6 +134256,9 @@
             "@gnome-sig",
             "@rust-sig",
             "kalev"
+        ],
+        "rust-glycin-common": [
+            "decathorpe"
         ],
         "rust-glycin-utils": [
             "@gnome-sig",
@@ -152737,7 +152737,6 @@
             "raphgro"
         ],
         "thunderbird": [
-            "erack",
             "ghishadow",
             "kengert",
             "klaas",
@@ -157556,7 +157555,6 @@
             "sandeeps"
         ],
         "woff2": [
-            "erack",
             "tpopela"
         ],
         "woffTools": [
@@ -159230,7 +159228,6 @@
         "xmount": [
             "fab",
             "kwizart",
-            "orphan",
             "rebus"
         ],
         "xmountains": [
