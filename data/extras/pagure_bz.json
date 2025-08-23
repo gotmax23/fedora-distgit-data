@@ -109861,7 +109861,7 @@
             "orphan"
         ],
         "python-holidays": [
-            "orphan"
+            "ankursinha"
         ],
         "python-homeconnect": [
             "orphan"
@@ -113489,8 +113489,7 @@
             "orphan"
         ],
         "python-papermill": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "python-paperwork-backend": [
             "@python-packagers-sig",
@@ -123218,8 +123217,8 @@
         ],
         "quesoglc": [
             "cheese",
-            "karlik",
-            "orphan"
+            "jwrdegoede",
+            "karlik"
         ],
         "queuegraph": [
             "orphan"
@@ -138111,6 +138110,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-nom_locate": [
+            "decathorpe"
+        ],
         "rust-noop_proc_macro": [
             "@rust-sig",
             "decathorpe"
@@ -140744,6 +140746,9 @@
         "rust-range_map_vec": [
             "@rust-sig",
             "osteffen"
+        ],
+        "rust-rangemap": [
+            "decathorpe"
         ],
         "rust-ratatui": [
             "@rust-sig",
@@ -145765,6 +145770,9 @@
         "rust-web-time": [
             "@rust-sig",
             "dcavalca"
+        ],
+        "rust-web_atoms": [
+            "decathorpe"
         ],
         "rust-webbrowser": [
             "@rust-sig",
