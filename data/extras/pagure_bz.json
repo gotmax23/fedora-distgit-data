@@ -10297,13 +10297,12 @@
         ],
         "b43-fwcutter": [
             "linville",
-            "orphan"
+            "peter"
         ],
         "b43-openfwwf": [
             "peter"
         ],
         "b43-tools": [
-            "orphan",
             "peter"
         ],
         "babel": [
@@ -55674,6 +55673,7 @@
             "ajax",
             "bentiss",
             "jexposit",
+            "orion",
             "rhughes",
             "rstrode"
         ],
@@ -68259,7 +68259,7 @@
         ],
         "mpop": [
             "fab",
-            "orphan"
+            "peter"
         ],
         "mppenc": [
             "mschwendt"
@@ -78601,7 +78601,8 @@
             "ovasik"
         ],
         "openspecfun": [
-            "nalimilan"
+            "nalimilan",
+            "orion"
         ],
         "openssh": [
             "@crypto-team",
@@ -103573,6 +103574,10 @@
         "python-absl-py": [
             "music"
         ],
+        "python-accelerate": [
+            "@python-packagers-sig",
+            "xanderlent"
+        ],
         "python-accept-types": [
             "italomga",
             "orange-kao",
@@ -104406,6 +104411,9 @@
         ],
         "python-autocommand": [
             "omos"
+        ],
+        "python-autodocsumm": [
+            "fed500"
         ],
         "python-autograd": [
             "orphan"
@@ -106713,6 +106721,10 @@
         "python-datanommer-models": [
             "ralph",
             "zlopez"
+        ],
+        "python-datasets": [
+            "@python-packagers-sig",
+            "xanderlent"
         ],
         "python-dateparser": [
             "@epel-packagers-sig",
@@ -109081,7 +109093,8 @@
             "@epel-packagers-sig",
             "ignatenkobrain",
             "kkeithle",
-            "orion"
+            "orion",
+            "sagitter"
         ],
         "python-gevent-eventemitter": [
             "orphan"
@@ -149028,6 +149041,9 @@
             "java-sig",
             "orphan"
         ],
+        "sonic": [
+            "fed500"
+        ],
         "sonic-visualiser": [
             "@multimedia-sig",
             "salimma"
@@ -154838,7 +154854,7 @@
             "ppisar"
         ],
         "unar": [
-            "orphan"
+            "peter"
         ],
         "unbescape": [
             "gil",
