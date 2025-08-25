@@ -47796,11 +47796,11 @@
         ],
         "indi-3rdparty-drivers": [
             "@astro-sig",
-            "mattia"
+            "orphan"
         ],
         "indi-3rdparty-libraries": [
             "@astro-sig",
-            "mattia"
+            "orphan"
         ],
         "indi-aagcloudwatcher": [
             "orphan"
@@ -55923,10 +55923,10 @@
             "spot"
         ],
         "libahp-gt": [
-            "mattia"
+            "orphan"
         ],
         "libahp-xc": [
-            "mattia"
+            "orphan"
         ],
         "libaiff": [
             "music"
@@ -104199,7 +104199,7 @@
         ],
         "python-asciitree": [
             "@python-packagers-sig",
-            "orphan"
+            "qulogic"
         ],
         "python-ase": [],
         "python-asgiref": [
@@ -110537,7 +110537,6 @@
             "@python-packagers-sig",
             "kkeithle",
             "omos",
-            "orphan",
             "radez"
         ],
         "python-javabridge": [
@@ -151532,7 +151531,7 @@
         ],
         "system76-keyboard-configurator": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "systemd": [
             "cyberpear",
