@@ -5157,6 +5157,7 @@
         ],
         "R-curl": [
             "@r-maint-sig",
+            "jeroenooms",
             "qulogic"
         ],
         "R-cyclocomp": [
@@ -5739,6 +5740,7 @@
         ],
         "R-openssl": [
             "@r-maint-sig",
+            "jeroenooms",
             "qulogic"
         ],
         "R-orcutt": [
@@ -5779,6 +5781,7 @@
         ],
         "R-pdftools": [
             "@r-maint-sig",
+            "jeroenooms",
             "qulogic"
         ],
         "R-pillar": [
@@ -15510,6 +15513,7 @@
             "terjeros"
         ],
         "cpl": [
+            "@astro-sig",
             "sergiopr"
         ],
         "cpm": [
@@ -15783,6 +15787,7 @@
             "buckaroogeek"
         ],
         "cri-tools1.34": [
+            "@go-sig",
             "buckaroogeek"
         ],
         "cricscore-applet": [
@@ -22195,6 +22200,7 @@
             "orphan"
         ],
         "esorex": [
+            "@astro-sig",
             "sergiopr"
         ],
         "esound": [
@@ -22861,7 +22867,8 @@
             "dcavalca"
         ],
         "fatrace": [
-            "kevin"
+            "kevin",
+            "martinpitt"
         ],
         "fatrat": [
             "orphan"
@@ -33228,7 +33235,7 @@
         ],
         "golang-github-adamslevy-jsonrpc2_14": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-adrg-xdg": [
             "@go-sig",
@@ -33463,7 +33470,7 @@
         ],
         "golang-github-anacrolix-log": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-anacrolix-missinggo": [
             "orphan"
@@ -33812,7 +33819,7 @@
         ],
         "golang-github-azure-sdk-storage-azblob": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-azure-sdk-storage-azfile": [
             "@go-sig",
@@ -34314,7 +34321,7 @@
         ],
         "golang-github-charmbracelet-bubbles": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-charmbracelet-bubbletea": [
             "@go-sig",
@@ -35888,7 +35895,7 @@
         ],
         "golang-github-geoffgarside-ber": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-getkin-kin-openapi": [
             "@go-sig",
@@ -36981,7 +36988,7 @@
         ],
         "golang-github-hokaccha-prettyjson": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-hooklift-assert": [
             "@go-sig",
@@ -37687,7 +37694,7 @@
         ],
         "golang-github-jwalton-supportscolor": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-jwilder-encoding": [
             "orphan"
@@ -37865,7 +37872,7 @@
         ],
         "golang-github-koofr-httpclient": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-koofr-koofrclient": [
             "@go-sig",
@@ -40280,7 +40287,7 @@
         ],
         "golang-github-rodaine-table": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-rogpeppe-charset": [
             "@go-sig",
@@ -40657,7 +40664,7 @@
         ],
         "golang-github-shurcool-graphql": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-shurcool-highlight": [
             "orphan"
@@ -41649,7 +41656,7 @@
         ],
         "golang-github-willscott-nfs-client": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-withfig-autocomplete-tools-integrations-cobra": [
             "orphan"
@@ -47423,6 +47430,7 @@
         ],
         "icu": [
             "denisarnaud",
+            "mfabian",
             "rstrode"
         ],
         "icu4j": [
@@ -68515,7 +68523,8 @@
         "mu": [
             "@python-packagers-sig",
             "churchyard",
-            "kushal"
+            "kushal",
+            "orphan"
         ],
         "muParser": [
             "alexpl",
@@ -100567,6 +100576,9 @@
             "@kde-sig",
             "marcdeop"
         ],
+        "plasma-keyboard": [
+            "farchord"
+        ],
         "plasma-mediacenter": [
             "@kde-sig",
             "siddharths",
@@ -104270,6 +104282,7 @@
             "sergiopr"
         ],
         "python-astropy": [
+            "@astro-sig",
             "fedepell",
             "orion",
             "sergiopr"
@@ -109610,7 +109623,7 @@
             "ankursinha"
         ],
         "python-graphene": [
-            "jpena"
+            "orphan"
         ],
         "python-graphene-sqlalchemy": [
             "orphan"
@@ -111918,7 +111931,8 @@
         ],
         "python-microfs": [
             "@python-packagers-sig",
-            "churchyard"
+            "churchyard",
+            "orphan"
         ],
         "python-microsoft-security-utilities-secret-masker": [
             "jcline"
@@ -112874,6 +112888,7 @@
         "python-nudatus": [
             "@python-packagers-sig",
             "churchyard",
+            "orphan",
             "zbrown"
         ],
         "python-nudepy": [
@@ -115288,7 +115303,8 @@
         ],
         "python-pyqtchart": [
             "@python-packagers-sig",
-            "churchyard"
+            "churchyard",
+            "orphan"
         ],
         "python-pyqtgraph": [
             "swt2c"
@@ -116392,7 +116408,7 @@
         ],
         "python-renderspec": [
             "@openstack-sig",
-            "jpena"
+            "orphan"
         ],
         "python-reno": [
             "@epel-packagers-sig",
@@ -118686,8 +118702,7 @@
             "@openstack-sig",
             "@python-packagers-sig",
             "apevec",
-            "carlwgeorge",
-            "orphan"
+            "carlwgeorge"
         ],
         "python-testscenarios": [
             "@python-packagers-sig",
@@ -129277,6 +129292,7 @@
             "decathorpe"
         ],
         "rust-async-global-executor2": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-async-io": [
@@ -134269,6 +134285,7 @@
             "kalev"
         ],
         "rust-glycin-common": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-glycin-utils": [
@@ -136956,6 +136973,12 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-librsvg-rebind-sys0.1": [
+            "decathorpe"
+        ],
+        "rust-librsvg-rebind0.1": [
+            "decathorpe"
+        ],
         "rust-librsvg2.56": [
             "orphan"
         ],
@@ -137435,6 +137458,9 @@
         ],
         "rust-match_cfg": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-match_token": [
             "decathorpe"
         ],
         "rust-matchers": [
@@ -138123,6 +138149,7 @@
             "decathorpe"
         ],
         "rust-nom_locate": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-noop_proc_macro": [
@@ -138450,6 +138477,7 @@
             "decathorpe"
         ],
         "rust-object0.36": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-objekt": [
@@ -140760,6 +140788,7 @@
             "osteffen"
         ],
         "rust-rangemap": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-ratatui": [
@@ -141673,6 +141702,7 @@
             "decathorpe"
         ],
         "rust-ruzstd0.7": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-rxml": [
@@ -145784,6 +145814,7 @@
             "dcavalca"
         ],
         "rust-web_atoms": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-webbrowser": [
@@ -157578,6 +157609,7 @@
             "sandeeps"
         ],
         "woff2": [
+            "pnemade",
             "tpopela"
         ],
         "woffTools": [
