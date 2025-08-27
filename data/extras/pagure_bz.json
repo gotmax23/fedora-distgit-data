@@ -16862,7 +16862,7 @@
         ],
         "ddclient": [
             "cicku",
-            "orphan",
+            "gotmax23",
             "sagitter"
         ],
         "ddcutil": [
@@ -39849,7 +39849,7 @@
         ],
         "golang-github-projectdiscovery-freeport": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-projectdiscovery-goconfig": [
             "@go-sig",
@@ -39865,7 +39865,7 @@
         ],
         "golang-github-projectdiscovery-hmap": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-projectdiscovery-httputil": [
             "@go-sig",
@@ -39896,7 +39896,7 @@
         ],
         "golang-github-projectdiscovery-reflectutil": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-projectdiscovery-retryabledns": [
             "@go-sig",
@@ -40357,7 +40357,7 @@
         ],
         "golang-github-ryszard-goskiplist": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-sabhiram-gitignore": [
             "@go-sig",
@@ -53968,6 +53968,7 @@
         ],
         "kmod": [
             "esyr",
+            "jwboyer",
             "kmod-maint",
             "zsun"
         ],
@@ -79119,7 +79120,8 @@
             "akoutsou",
             "fzdarsky",
             "obudai",
-            "ochosi"
+            "ochosi",
+            "supakeen"
         ],
         "osbuild-composer": [
             "@go-sig",
@@ -84547,6 +84549,9 @@
         "perl-Dispatch-Class": [
             "mspacek"
         ],
+        "perl-Dist-Build": [
+            "cra"
+        ],
         "perl-Dist-CheckConflicts": [
             "perl-sig",
             "pghmcfc"
@@ -85018,6 +85023,12 @@
             "corsepiu",
             "laxathom",
             "perl-sig"
+        ],
+        "perl-ExtUtils-Builder": [
+            "cra"
+        ],
+        "perl-ExtUtils-Builder-Compiler": [
+            "cra"
         ],
         "perl-ExtUtils-CBuilder": [
             "jplesnik",
@@ -85501,6 +85512,9 @@
         "perl-File-ShareDir-ProjectDistDir": [
             "jplesnik",
             "perl-sig"
+        ],
+        "perl-File-ShareDir-Tiny": [
+            "cra"
         ],
         "perl-File-ShouldUpdate": [
             "shlomif"
@@ -95930,7 +95944,7 @@
             "orphan"
         ],
         "pgzero": [
-            "lbalhar"
+            "orphan"
         ],
         "phan": [
             "orphan"
@@ -103627,7 +103641,7 @@
         ],
         "python-adafruit-board-toolkit": [
             "@python-packagers-sig",
-            "lbalhar"
+            "orphan"
         ],
         "python-adafruit-platformdetect": [
             "fab"
@@ -105751,7 +105765,7 @@
             "@python-packagers-sig",
             "ignatenkobrain",
             "jcaratzas",
-            "orphan",
+            "limb",
             "radez"
         ],
         "python-cherrypy2": [
@@ -109881,7 +109895,7 @@
             "orphan"
         ],
         "python-hl7": [
-            "ankursinha"
+            "orphan"
         ],
         "python-hole": [
             "orphan"
@@ -110510,7 +110524,6 @@
         ],
         "python-jaraco-collections": [
             "@python-packagers-sig",
-            "orphan",
             "radez"
         ],
         "python-jaraco-context": [
@@ -112205,9 +112218,8 @@
             "peter"
         ],
         "python-moss": [
-            "@neuro-sig",
-            "ankursinha",
-            "ignatenkobrain"
+            "ignatenkobrain",
+            "orphan"
         ],
         "python-mox": [
             "orphan"
@@ -112709,9 +112721,8 @@
             "orphan"
         ],
         "python-nipy": [
-            "@neuro-sig",
-            "ankursinha",
-            "ignatenkobrain"
+            "ignatenkobrain",
+            "orphan"
         ],
         "python-nipype": [
             "orphan"
@@ -113335,7 +113346,7 @@
         "python-oslo-i18n": [
             "@epel-packagers-sig",
             "@openstack-sig",
-            "orphan"
+            "limb"
         ],
         "python-oslo-log": [
             "@epel-packagers-sig",
@@ -113696,7 +113707,7 @@
             "@epel-packagers-sig",
             "@openstack-sig",
             "apevec",
-            "orphan"
+            "gui1ty"
         ],
         "python-pbs": [
             "orphan"
@@ -114624,7 +114635,8 @@
             "orphan"
         ],
         "python-pycryptodomex": [
-            "melmorabity"
+            "melmorabity",
+            "rcallicotte"
         ],
         "python-pyct": [
             "orphan"
@@ -116806,8 +116818,7 @@
             "theyoyojo"
         ],
         "python-rply": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "python-rpm-generators": [
             "@python-packagers-sig",
@@ -118698,7 +118709,6 @@
             "mrunge"
         ],
         "python-testresources": [
-            "@epel-packagers-sig",
             "@openstack-sig",
             "@python-packagers-sig",
             "apevec",
@@ -120068,8 +120078,7 @@
         ],
         "python-webob": [
             "@infra-sig",
-            "ondrejj",
-            "orphan"
+            "ondrejj"
         ],
         "python-webob1.0": [
             "orphan"
@@ -150380,6 +150389,7 @@
             "carlosrodrifernandez",
             "dcavalca",
             "pemensik",
+            "pwouters",
             "salimma"
         ],
         "struts": [
