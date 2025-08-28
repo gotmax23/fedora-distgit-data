@@ -4489,8 +4489,8 @@
             "rhughes"
         ],
         "PackageKit-Qt": [
-            "@gnome-sig",
             "@kde-sig",
+            "ngompa",
             "rhughes"
         ],
         "Pagila": [
@@ -8587,8 +8587,7 @@
         "apcupsd": [
             "germano",
             "limb",
-            "sandeen",
-            "tsmetana"
+            "sandeen"
         ],
         "ape": [
             "orphan"
@@ -23409,7 +23408,6 @@
             "orphan"
         ],
         "fedora-screensaver-theme": [
-            "@gnome-sig",
             "orphan",
             "rstrode"
         ],
@@ -24875,8 +24873,7 @@
         ],
         "freeglut": [
             "jexposit",
-            "limb",
-            "tsmetana"
+            "limb"
         ],
         "freehdl": [
             "orphan",
@@ -32332,7 +32329,6 @@
             "orphan"
         ],
         "gnome-themes-extra": [
-            "@gnome-sig",
             "orphan"
         ],
         "gnome-themes-extras": [
@@ -48181,7 +48177,7 @@
         ],
         "ipa-hcc": [
             "cheimes",
-            "orphan"
+            "ftweedal"
         ],
         "ipa-mincho-fonts": [
             "fonts-sig",
@@ -57561,7 +57557,6 @@
             "kalev"
         ],
         "libgweather4": [
-            "@gnome-sig",
             "amigadave"
         ],
         "libgxim": [
@@ -60742,7 +60737,6 @@
             "rstrode"
         ],
         "libwpe": [
-            "@gnome-sig",
             "bunnyapocalypse",
             "catanzaro"
         ],
@@ -102763,7 +102757,6 @@
             "limb"
         ],
         "pygobject2": [
-            "@gnome-sig",
             "limb",
             "mclasen",
             "rhughes",
@@ -102794,7 +102787,6 @@
         ],
         "pygtk2": [
             "@alt-gtk-de-sig",
-            "@gnome-sig",
             "limb",
             "mclasen",
             "rhughes",
@@ -106996,8 +106988,7 @@
             "orphan"
         ],
         "python-dipy": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "python-dirhash": [
             "cottsay"
@@ -120723,7 +120714,8 @@
             "@infra-sig",
             "abompard",
             "cheeselee",
-            "kkeithle"
+            "kkeithle",
+            "orphan"
         ],
         "python-zope-filerepresentation": [
             "orphan"
@@ -148677,8 +148669,7 @@
             "orphan"
         ],
         "smartmontools": [
-            "mhlavink",
-            "tsmetana"
+            "mhlavink"
         ],
         "smartsim": [
             "orphan"
@@ -150398,6 +150389,7 @@
             "orphan"
         ],
         "stubby": [
+            "antedebaas",
             "jorton",
             "pemensik",
             "pwouters"
@@ -153713,7 +153705,6 @@
             "jwrdegoede"
         ],
         "tracker": [
-            "@gnome-sig",
             "amigadave",
             "ignatenkobrain",
             "rishi"
@@ -155155,7 +155146,6 @@
         ],
         "upower": [
             "benzea",
-            "rhughes",
             "smallorange"
         ],
         "uprof": [
@@ -157743,7 +157733,6 @@
             "orphan"
         ],
         "wpebackend-fdo": [
-            "@gnome-sig",
             "bunnyapocalypse",
             "catanzaro"
         ],

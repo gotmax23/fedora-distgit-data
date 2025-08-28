@@ -5697,9 +5697,9 @@
             "fedora": "ngompa"
         },
         "PackageKit-Qt": {
-            "admin": "rhughes",
-            "epel": "rhughes",
-            "fedora": "rhughes"
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "Pagila": {
             "admin": "orphan",
@@ -32167,7 +32167,7 @@
             "fedora": "orphan"
         },
         "freeipa": {
-            "admin": "ipa-maint",
+            "admin": "abbra",
             "epel": "ipa-maint",
             "fedora": "ipa-maint"
         },
@@ -62562,9 +62562,9 @@
             "fedora": "tagoh"
         },
         "ipa-hcc": {
-            "admin": "orphan",
+            "admin": "ftweedal",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "ftweedal"
         },
         "ipa-mincho-fonts": {
             "admin": "tagoh",
@@ -87047,9 +87047,9 @@
             "fedora": "orphan"
         },
         "mod_wsgi": {
-            "admin": "abbra",
-            "epel": "abbra",
-            "fedora": "abbra"
+            "admin": "luhliarik",
+            "epel": "luhliarik",
+            "fedora": "luhliarik"
         },
         "mod_xsendfile": {
             "admin": "orion",
@@ -137797,9 +137797,9 @@
             "fedora": "orphan"
         },
         "python-dipy": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-dirhash": {
             "admin": "cottsay",
@@ -155282,9 +155282,9 @@
             "fedora": "abompard"
         },
         "python-zope-exceptions": {
-            "admin": "abompard",
+            "admin": "orphan",
             "epel": "kkeithle",
-            "fedora": "abompard"
+            "fedora": "orphan"
         },
         "python-zope-filerepresentation": {
             "admin": "orphan",
@@ -200192,9 +200192,9 @@
             "fedora": "orphan"
         },
         "upower": {
-            "admin": "rhughes",
-            "epel": "rhughes",
-            "fedora": "rhughes"
+            "admin": "smallorange",
+            "epel": "smallorange",
+            "fedora": "smallorange"
         },
         "uprof": {
             "admin": "orphan",
