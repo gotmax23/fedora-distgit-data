@@ -7850,6 +7850,7 @@
         "anaconda": [
             "anaconda-maint",
             "kkoukiou",
+            "toshio",
             "wwoods"
         ],
         "anaconda-liveinst": [
@@ -7868,7 +7869,8 @@
             "jkonecny",
             "kkoukiou",
             "m4rtink",
-            "rvykydal"
+            "rvykydal",
+            "toshio"
         ],
         "anaconda-yum-plugins": [
             "clumens",
@@ -56837,7 +56839,8 @@
             "orphan"
         ],
         "libell": [
-            "lkundrak"
+            "lkundrak",
+            "suve"
         ],
         "libemu": [
             "rebus"
@@ -78263,7 +78266,6 @@
             "orphan"
         ],
         "openldap": [
-            "ramereth",
             "spichugi",
             "vashirov"
         ],
@@ -81879,6 +81881,7 @@
         ],
         "perl-Cairo": [
             "perl-sig",
+            "ppisar",
             "spot"
         ],
         "perl-Cairo-GObject": [
@@ -83244,6 +83247,9 @@
         "perl-Crypt-SmbHash": [
             "perl-sig",
             "pghmcfc"
+        ],
+        "perl-Crypt-SysRandom-XS": [
+            "jplesnik"
         ],
         "perl-Crypt-Twofish": [
             "cra",
@@ -105230,9 +105236,9 @@
         "python-bleach": [
             "@epel-packagers-sig",
             "ignatenkobrain",
-            "orphan",
             "romaingeissler1a",
-            "salimma"
+            "salimma",
+            "trix"
         ],
         "python-blessed": [
             "abompard",
@@ -107032,7 +107038,6 @@
             "@openstack-sig",
             "dreua",
             "fab",
-            "jonathanspw",
             "orion"
         ],
         "python-django": [
@@ -109052,6 +109057,7 @@
         ],
         "python-geoip2": [
             "carlwgeorge",
+            "fedepell",
             "ignatenkobrain",
             "lbalhar"
         ],
@@ -111799,6 +111805,7 @@
         ],
         "python-maxminddb": [
             "carlwgeorge",
+            "fedepell",
             "ignatenkobrain",
             "lbalhar"
         ],
@@ -114076,6 +114083,7 @@
         ],
         "python-pocketlint": [
             "jkonecny",
+            "kkoukiou",
             "vtrefny"
         ],
         "python-podcastparser": [
@@ -114488,7 +114496,8 @@
         ],
         "python-pyahocorasick": [
             "@python-packagers-sig",
-            "eclipseo"
+            "gotmax23",
+            "rathann"
         ],
         "python-pyaib": [
             "dcavalca",
@@ -115005,7 +115014,7 @@
             "kevin"
         ],
         "python-pylint-venv": [
-            "orphan"
+            "gui1ty"
         ],
         "python-pylons": [
             "orphan"
@@ -121407,6 +121416,9 @@
         ],
         "python3-sphinx": [
             "orphan"
+        ],
+        "python3-sphinxcontrib-doxylink": [
+            "mzamazal"
         ],
         "python3-sqlalchemy": [
             "orphan"
@@ -147393,7 +147405,6 @@
             "raveit65"
         ],
         "seahorse-nautilus": [
-            "@gnome-sig",
             "alexpl",
             "rtcm"
         ],

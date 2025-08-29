@@ -73137,9 +73137,9 @@
             "fedora": "orphan"
         },
         "libell": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
         },
         "libemu": {
             "admin": "rebus",
@@ -106713,7 +106713,7 @@
         },
         "perl-Cairo": {
             "admin": "spot",
-            "epel": "spot",
+            "epel": "ppisar",
             "fedora": "spot"
         },
         "perl-Cairo-GObject": {
@@ -108180,6 +108180,11 @@
             "admin": "pghmcfc",
             "epel": "pghmcfc",
             "fedora": "pghmcfc"
+        },
+        "perl-Crypt-SysRandom-XS": {
+            "admin": "jplesnik",
+            "epel": "jplesnik",
+            "fedora": "jplesnik"
         },
         "perl-Crypt-Twofish": {
             "admin": "jplesnik",
@@ -135527,9 +135532,9 @@
             "fedora": "orphan"
         },
         "python-bleach": {
-            "admin": "orphan",
-            "epel": "salimma",
-            "fedora": "mrunge"
+            "admin": "trix",
+            "epel": "trix",
+            "fedora": "trix"
         },
         "python-blessed": {
             "admin": "abompard",
@@ -140493,7 +140498,7 @@
         },
         "python-geoip2": {
             "admin": "lbalhar",
-            "epel": "lbalhar",
+            "epel": "fedepell",
             "fedora": "lbalhar"
         },
         "python-geojson": {
@@ -143873,7 +143878,7 @@
         },
         "python-maxminddb": {
             "admin": "lbalhar",
-            "epel": "sbluhm",
+            "epel": "fedepell",
             "fedora": "lbalhar"
         },
         "python-maya": {
@@ -147322,9 +147327,9 @@
             "fedora": "thebeanogamer"
         },
         "python-pyahocorasick": {
-            "admin": "eclipseo",
-            "epel": "eclipseo",
-            "fedora": "eclipseo"
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
         },
         "python-pyaib": {
             "admin": "dcavalca",
@@ -148002,9 +148007,9 @@
             "fedora": "@infra-sig"
         },
         "python-pylint-venv": {
-            "admin": "orphan",
+            "admin": "gui1ty",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "gui1ty"
         },
         "python-pylons": {
             "admin": "orphan",
@@ -156300,6 +156305,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "python3-sphinxcontrib-doxylink": {
+            "admin": "mzamazal",
+            "epel": "mzamazal",
+            "fedora": "mzamazal"
         },
         "python3-sqlalchemy": {
             "admin": "orphan",
