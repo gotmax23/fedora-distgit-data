@@ -37451,7 +37451,7 @@
             "orphan"
         ],
         "gstreamer-plugins-fc": [
-            "mschwendt"
+            "orphan"
         ],
         "gstreamer-plugins-flumpegdemux": [
             "orphan"
@@ -48067,6 +48067,7 @@
         ],
         "libell": [
             "suve",
+            "pbrobinson",
             "lkundrak"
         ],
         "libemu": [
@@ -71603,6 +71604,9 @@
         "perl-Crypt-SmbHash": [
             "pghmcfc"
         ],
+        "perl-Crypt-SysRandom": [
+            "jplesnik"
+        ],
         "perl-Crypt-SysRandom-XS": [
             "jplesnik"
         ],
@@ -89657,6 +89661,9 @@
         ],
         "python-advisory-parser": [
             "bytehackr"
+        ],
+        "python-aeidon": [
+            "sshil"
         ],
         "python-aenum": [
             "umutd3401"
@@ -121589,7 +121596,7 @@
             "pbrobinson"
         ],
         "rust-secret-service": [
-            "decathorpe"
+            "music"
         ],
         "rust-selectors": [
             "kalev"
@@ -124392,7 +124399,8 @@
             "dm0"
         ],
         "rust-vm-memory": [
-            "slp"
+            "slp",
+            "dm0"
         ],
         "rust-vm-superio": [
             "dm0"
@@ -132465,7 +132473,7 @@
             "pwu"
         ],
         "ularn": [
-            "limb"
+            "orphan"
         ],
         "ulauncher": [
             "atim",

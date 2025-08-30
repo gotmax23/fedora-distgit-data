@@ -15757,6 +15757,7 @@
             "buckaroogeek"
         ],
         "cri-o1.34": [
+            "@go-sig",
             "buckaroogeek"
         ],
         "cri-tools": [
@@ -16925,14 +16926,12 @@
         ],
         "debmirror": [
             "ngompa",
-            "sergiomb",
             "slaanesh"
         ],
         "debootstrap": [
             "jonathanspw",
             "lkundrak",
-            "ngompa",
-            "sergiomb"
+            "ngompa"
         ],
         "debugbreak": [
             "music"
@@ -17561,8 +17560,7 @@
             "smani"
         ],
         "dh-make": [
-            "ngompa",
-            "sergiomb"
+            "ngompa"
         ],
         "dhall": [
             "petersen"
@@ -44373,7 +44371,7 @@
             "tjikkun"
         ],
         "gstreamer-plugins-fc": [
-            "mschwendt"
+            "orphan"
         ],
         "gstreamer-plugins-flumpegdemux": [
             "orphan"
@@ -54813,6 +54811,7 @@
             "buckaroogeek"
         ],
         "kubernetes1.34": [
+            "@go-sig",
             "buckaroogeek"
         ],
         "kubrick": [
@@ -56840,6 +56839,7 @@
         ],
         "libell": [
             "lkundrak",
+            "pbrobinson",
             "suve"
         ],
         "libemu": [
@@ -59305,8 +59305,7 @@
         ],
         "libprojectM": [
             "@multimedia-sig",
-            "ngompa",
-            "sergiomb"
+            "ngompa"
         ],
         "libprojectM-qt": [
             "orphan"
@@ -63224,8 +63223,7 @@
             "@epel-packagers-sig",
             "ngompa",
             "orion",
-            "patches",
-            "sergiomb"
+            "patches"
         ],
         "mana": [
             "ablu",
@@ -67054,8 +67052,7 @@
         "mirmon": [
             "cicku",
             "jonathanspw",
-            "rcallicotte",
-            "sergiomb"
+            "rcallicotte"
         ],
         "mirrorbrain": [
             "orphan"
@@ -75603,8 +75600,7 @@
             "orphan"
         ],
         "nodm": [
-            "orphan",
-            "sergiomb"
+            "orphan"
         ],
         "nodoka-theme-gnome": [
             "orphan"
@@ -83247,6 +83243,9 @@
         "perl-Crypt-SmbHash": [
             "perl-sig",
             "pghmcfc"
+        ],
+        "perl-Crypt-SysRandom": [
+            "jplesnik"
         ],
         "perl-Crypt-SysRandom-XS": [
             "jplesnik"
@@ -96668,8 +96667,7 @@
             "orphan"
         ],
         "php-facedetect": [
-            "orphan",
-            "sergiomb"
+            "orphan"
         ],
         "php-fedora-autoloader": [
             "remi",
@@ -101105,8 +101103,7 @@
         ],
         "po-debconf": [
             "ngompa",
-            "oron",
-            "sergiomb"
+            "oron"
         ],
         "po4a": [
             "sharkcz",
@@ -103676,6 +103673,9 @@
         ],
         "python-advisory-parser": [
             "bytehackr"
+        ],
+        "python-aeidon": [
+            "sshil"
         ],
         "python-aenum": [
             "umutd3401"
@@ -141945,7 +141945,7 @@
         ],
         "rust-secret-service": [
             "@rust-sig",
-            "decathorpe"
+            "music"
         ],
         "rust-selectors": [
             "@rust-sig",
@@ -145579,6 +145579,7 @@
         ],
         "rust-vm-memory": [
             "@rust-sig",
+            "dm0",
             "slp"
         ],
         "rust-vm-superio": [
@@ -152533,8 +152534,7 @@
             "smani"
         ],
         "tetrinetx": [
-            "ngompa",
-            "sergiomb"
+            "ngompa"
         ],
         "tetrominos": [
             "michalvala",
@@ -154827,7 +154827,7 @@
             "pwu"
         ],
         "ularn": [
-            "limb",
+            "orphan",
             "wart"
         ],
         "ulauncher": [
@@ -156885,7 +156885,6 @@
         ],
         "webalizer": [
             "jorton",
-            "sergiomb",
             "supakeen"
         ],
         "webanalyze": [

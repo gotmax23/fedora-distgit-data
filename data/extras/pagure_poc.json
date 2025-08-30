@@ -57522,7 +57522,7 @@
             "fedora": "orphan"
         },
         "gstreamer-plugins-fc": {
-            "admin": "mschwendt",
+            "admin": "orphan",
             "epel": "orphan",
             "fedora": "mschwendt"
         },
@@ -108181,6 +108181,11 @@
             "epel": "pghmcfc",
             "fedora": "pghmcfc"
         },
+        "perl-Crypt-SysRandom": {
+            "admin": "jplesnik",
+            "epel": "jplesnik",
+            "fedora": "jplesnik"
+        },
         "perl-Crypt-SysRandom-XS": {
             "admin": "jplesnik",
             "epel": "jplesnik",
@@ -133485,6 +133490,11 @@
             "admin": "bytehackr",
             "epel": "bytehackr",
             "fedora": "bytehackr"
+        },
+        "python-aeidon": {
+            "admin": "sshil",
+            "epel": "sshil",
+            "fedora": "sshil"
         },
         "python-aenum": {
             "admin": "umutd3401",
@@ -182877,9 +182887,9 @@
             "fedora": "pbrobinson"
         },
         "rust-secret-service": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-selectors": {
             "admin": "kalev",
@@ -199772,9 +199782,9 @@
             "fedora": "pwu"
         },
         "ularn": {
-            "admin": "limb",
-            "epel": "limb",
-            "fedora": "limb"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "ulauncher": {
             "admin": "atim",
