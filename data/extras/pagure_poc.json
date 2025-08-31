@@ -50147,9 +50147,9 @@
             "fedora": "orphan"
         },
         "golang-github-minio-highwayhash": {
-            "admin": "fuller",
-            "epel": "fuller",
-            "fedora": "fuller"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-minio-md5-simd": {
             "admin": "mikelo2",
@@ -155297,9 +155297,9 @@
             "fedora": "abompard"
         },
         "python-zope-exceptions": {
-            "admin": "orphan",
+            "admin": "dreua",
             "epel": "kkeithle",
-            "fedora": "orphan"
+            "fedora": "dreua"
         },
         "python-zope-filerepresentation": {
             "admin": "orphan",

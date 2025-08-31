@@ -38689,7 +38689,7 @@
         ],
         "golang-github-minio-highwayhash": [
             "@go-sig",
-            "fuller"
+            "orphan"
         ],
         "golang-github-minio-md5-simd": [
             "@go-sig",
@@ -120723,8 +120723,8 @@
             "@infra-sig",
             "abompard",
             "cheeselee",
-            "kkeithle",
-            "orphan"
+            "dreua",
+            "kkeithle"
         ],
         "python-zope-filerepresentation": [
             "orphan"
