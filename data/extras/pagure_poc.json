@@ -19402,9 +19402,9 @@
             "fedora": "orphan"
         },
         "convertall": {
-            "admin": "yselkowitz",
-            "epel": "yselkowitz",
-            "fedora": "yselkowitz"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "convmv": {
             "admin": "nphilipp",
@@ -71772,9 +71772,9 @@
             "fedora": "jexposit"
         },
         "libIDL": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "libQGLViewer": {
             "admin": "orphan",
@@ -142942,9 +142942,9 @@
             "fedora": "ngompa"
         },
         "python-klusta": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-kmod": {
             "admin": "mlombard",
@@ -143117,9 +143117,9 @@
             "fedora": "peter"
         },
         "python-lazyarray": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-lcm2": {
             "admin": "orphan",
@@ -151236,6 +151236,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "python-snakemake-interface-scheduler-plugins": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "python-snakemake-interface-storage-plugins": {
             "admin": "music",
             "epel": "music",
@@ -158822,9 +158827,9 @@
             "fedora": "topazus"
         },
         "qwt": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "dreua",
+            "epel": "dreua",
+            "fedora": "dreua"
         },
         "qwt-doc": {
             "admin": "orphan",

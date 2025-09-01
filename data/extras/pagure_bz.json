@@ -15145,7 +15145,7 @@
             "orphan"
         ],
         "convertall": [
-            "yselkowitz"
+            "orphan"
         ],
         "convmv": [
             "nphilipp",
@@ -55636,7 +55636,7 @@
         ],
         "libIDL": [
             "@gnome-sig",
-            "music",
+            "orphan",
             "rhughes",
             "rstrode"
         ],
@@ -111066,8 +111066,7 @@
             "orion"
         ],
         "python-klusta": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "python-kmod": [
             "mlombard"
@@ -111201,8 +111200,7 @@
             "peter"
         ],
         "python-lazyarray": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "python-lcm2": [
             "orphan"
@@ -117573,6 +117571,9 @@
             "@neuro-sig",
             "music"
         ],
+        "python-snakemake-interface-scheduler-plugins": [
+            "music"
+        ],
         "python-snakemake-interface-storage-plugins": [
             "@neuro-sig",
             "music"
@@ -123338,7 +123339,7 @@
             "topazus"
         ],
         "qwt": [
-            "orphan",
+            "dreua",
             "rdieter",
             "tdawson"
         ],
