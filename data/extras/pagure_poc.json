@@ -16222,9 +16222,9 @@
             "fedora": "tomh"
         },
         "catch22": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "catdoc": {
             "admin": "drago01",
@@ -16560,6 +16560,11 @@
             "admin": "mattia",
             "epel": "mattia",
             "fedora": "mattia"
+        },
+        "cellbroadcastd": {
+            "admin": "lihis",
+            "epel": "lihis",
+            "fedora": "lihis"
         },
         "celluloid": {
             "admin": "vascom",
@@ -27877,9 +27882,9 @@
             "fedora": "orphan"
         },
         "epson-inkjet-printer-escpr": {
-            "admin": "mateusrodcosta",
+            "admin": "orphan",
             "epel": "orion",
-            "fedora": "mateusrodcosta"
+            "fedora": "orphan"
         },
         "epson-inkjet-printer-escpr2": {
             "admin": "orphan",
@@ -65642,9 +65647,9 @@
             "fedora": "orphan"
         },
         "jneuroml-core": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "jni-inchi": {
             "admin": "orphan",
@@ -118291,6 +118296,11 @@
             "epel": "ppisar",
             "fedora": "ppisar"
         },
+        "perl-Sys-HostIP": {
+            "admin": "jplesnik",
+            "epel": "jplesnik",
+            "fedora": "jplesnik"
+        },
         "perl-Sys-Hostname-Long": {
             "admin": "pghmcfc",
             "epel": "pghmcfc",
@@ -122677,9 +122687,9 @@
             "fedora": "orphan"
         },
         "php-brick-math": {
-            "admin": "remi",
-            "epel": "remi",
-            "fedora": "remi"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "php-brick-varexporter": {
             "admin": "remi",
@@ -132577,9 +132587,9 @@
             "fedora": "dcantrell"
         },
         "pyplane": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "pypoker-eval": {
             "admin": "orphan",
@@ -135737,9 +135747,9 @@
             "fedora": "defolos"
         },
         "python-brian2": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-brother": {
             "admin": "orphan",
@@ -138817,9 +138827,9 @@
             "fedora": "mattia"
         },
         "python-duecredit": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-dukpy": {
             "admin": "zbyszek",
@@ -138947,9 +138957,9 @@
             "fedora": "orphan"
         },
         "python-efel": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-egenix-mx-base": {
             "admin": "orphan",
@@ -146297,9 +146307,9 @@
             "fedora": "adrienverge"
         },
         "python-pathtools": {
-            "admin": "fed500",
-            "epel": "fed500",
-            "fedora": "fed500"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pathvalidate": {
             "admin": "gui1ty",
@@ -147677,9 +147687,9 @@
             "fedora": "ankursinha"
         },
         "python-pyelectro": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pyembroidery": {
             "admin": "fed500",

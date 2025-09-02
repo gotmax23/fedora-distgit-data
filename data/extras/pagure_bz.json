@@ -12723,8 +12723,7 @@
             "tomh"
         ],
         "catch22": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "catdoc": [
             "drago01",
@@ -12968,6 +12967,9 @@
         ],
         "celestia-data": [
             "mattia"
+        ],
+        "cellbroadcastd": [
+            "lihis"
         ],
         "celluloid": [
             "vascom"
@@ -20593,7 +20595,6 @@
             "orphan"
         ],
         "edflib": [
-            "@neuro-sig",
             "orphan"
         ],
         "edg-gridftp-client": [
@@ -21580,8 +21581,8 @@
         ],
         "epson-inkjet-printer-escpr": [
             "jpopelka",
-            "mateusrodcosta",
-            "orion"
+            "orion",
+            "orphan"
         ],
         "epson-inkjet-printer-escpr2": [
             "orphan"
@@ -49495,6 +49496,7 @@
             "mkoncek"
         ],
         "jaxb-api2": [
+            "mizdebsk",
             "mkoncek"
         ],
         "jaxb-dtd-parser": [
@@ -50655,8 +50657,7 @@
             "orphan"
         ],
         "jneuroml-core": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "jni-inchi": [
             "orphan"
@@ -60703,7 +60704,8 @@
             "smani"
         ],
         "libwebsockets": [
-            "fab"
+            "fab",
+            "pbrobinson"
         ],
         "libwfut": [
             "bruno",
@@ -79470,6 +79472,7 @@
             "@epel-packagers-sig",
             "cicku",
             "daandemeyer",
+            "imbev",
             "zbyszek"
         ],
         "pacmanager": [
@@ -92378,6 +92381,9 @@
             "perl-sig",
             "ppisar"
         ],
+        "perl-Sys-HostIP": [
+            "jplesnik"
+        ],
         "perl-Sys-Hostname-Long": [
             "iarnell",
             "perl-sig",
@@ -96227,7 +96233,7 @@
             "orphan"
         ],
         "php-brick-math": [
-            "remi"
+            "orphan"
         ],
         "php-brick-varexporter": [
             "remi"
@@ -102989,8 +102995,7 @@
             "dcantrell"
         ],
         "pyplane": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "pypoker-eval": [
             "orphan"
@@ -103959,7 +103964,6 @@
             "orphan"
         ],
         "python-amply": [
-            "@neuro-sig",
             "orphan"
         ],
         "python-amqp": [
@@ -105395,8 +105399,7 @@
             "trix"
         ],
         "python-brian2": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "python-brother": [
             "orphan"
@@ -106635,7 +106638,6 @@
             "rathann"
         ],
         "python-cyipopt": [
-            "@neuro-sig",
             "orphan"
         ],
         "python-cymruwhois": [
@@ -107770,8 +107772,7 @@
             "mattia"
         ],
         "python-duecredit": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "python-dukpy": [
             "@python-packagers-sig",
@@ -107845,7 +107846,6 @@
             "orphan"
         ],
         "python-editdistance": [
-            "@neuro-sig",
             "orphan"
         ],
         "python-editdistance-s": [
@@ -107863,8 +107863,7 @@
             "orphan"
         ],
         "python-efel": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "python-egenix-mx-base": [
             "orphan"
@@ -113677,7 +113676,7 @@
         "python-pathtools": [
             "@python-packagers-sig",
             "besser82",
-            "fed500"
+            "orphan"
         ],
         "python-pathvalidate": [
             "gui1ty",
@@ -114751,8 +114750,7 @@
             "ankursinha"
         ],
         "python-pyelectro": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "python-pyembroidery": [
             "fed500"
@@ -115154,7 +115152,6 @@
             "orphan"
         ],
         "python-pynwb": [
-            "@neuro-sig",
             "lbazan"
         ],
         "python-pyo": [
@@ -136988,9 +136985,11 @@
             "decathorpe"
         ],
         "rust-librsvg-rebind-sys0.1": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-librsvg-rebind0.1": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-librsvg2.56": [
@@ -137475,6 +137474,7 @@
             "decathorpe"
         ],
         "rust-match_token": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-matchers": [
