@@ -45552,7 +45552,6 @@
         "helix": [
             "@rust-sig",
             "blinxen",
-            "dernik",
             "ghishadow"
         ],
         "hellanzb": [
@@ -53997,7 +53996,7 @@
             "than"
         ],
         "kmscon": [
-            "orphan"
+            "jfalempe"
         ],
         "kmscube": [
             "ernunes"
@@ -55753,7 +55752,6 @@
             "bentiss",
             "jexposit",
             "ofourdan",
-            "rhughes",
             "rstrode"
         ],
         "libXfont": [
@@ -100840,6 +100838,7 @@
             "@epel-packagers-sig",
             "java-sig",
             "mizdebsk",
+            "mkoncek",
             "salimma"
         ],
         "plexus-container-default": [
@@ -104393,6 +104392,7 @@
         "python-atpublic": [
             "@epel-packagers-sig",
             "abompard",
+            "fedepell",
             "jonathanspw"
         ],
         "python-attrs": [
@@ -104468,8 +104468,7 @@
             "neurowinter"
         ],
         "python-avocado": [
-            "cleber",
-            "orphan"
+            "cleber"
         ],
         "python-avro": [
             "neurowinter"
@@ -111879,6 +111878,7 @@
             "@infra-sig",
             "@python-packagers-sig",
             "apevec",
+            "fedepell",
             "hguemar",
             "jonathanspw",
             "sgallagh"
@@ -116689,6 +116689,10 @@
         "python-rich-toolkit": [
             "music"
         ],
+        "python-rignore": [
+            "@rust-sig",
+            "music"
+        ],
         "python-ring-doorbell": [
             "orphan"
         ],
@@ -117442,8 +117446,6 @@
             "orphan"
         ],
         "python-sklearn-nature-inspired-algorithms": [
-            "@neuro-sig",
-            "ankursinha",
             "iztokf"
         ],
         "python-slackclient": [
@@ -129142,6 +129144,9 @@
         "rust-ashpd": [
             "@rust-sig",
             "kalev"
+        ],
+        "rust-ashpd0.11": [
+            "decathorpe"
         ],
         "rust-ashpd0.6": [
             "@rust-sig",

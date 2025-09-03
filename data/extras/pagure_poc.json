@@ -69692,9 +69692,9 @@
             "fedora": "orphan"
         },
         "kmod": {
-            "admin": "kmod-maint",
-            "epel": "kmod-maint",
-            "fedora": "kmod-maint"
+            "admin": "jwboyer",
+            "epel": "jwboyer",
+            "fedora": "jwboyer"
         },
         "kmodtool": {
             "admin": "kwizart",
@@ -69722,9 +69722,9 @@
             "fedora": "than"
         },
         "kmscon": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "jfalempe",
+            "epel": "jfalempe",
+            "fedora": "jfalempe"
         },
         "kmscube": {
             "admin": "ernunes",
@@ -134557,9 +134557,9 @@
             "fedora": "neurowinter"
         },
         "python-avocado": {
-            "admin": "orphan",
+            "admin": "cleber",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "cleber"
         },
         "python-avro": {
             "admin": "neurowinter",
@@ -150167,6 +150167,11 @@
             "fedora": "ksurma"
         },
         "python-rich-toolkit": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "python-rignore": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"
@@ -166588,6 +166593,11 @@
         },
         "rust-ashpd": {
             "admin": "kalev",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-ashpd0.11": {
+            "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
