@@ -3985,7 +3985,6 @@
         ],
         "GConf2": [
             "@epel-packagers-sig",
-            "@gnome-sig",
             "mclasen",
             "ppisar",
             "rstrode",
@@ -4055,7 +4054,6 @@
             "martinkg"
         ],
         "GraphicsMagick": [
-            "@epel-packagers-sig",
             "dcavalca",
             "ixs",
             "ngompa",
@@ -8177,6 +8175,7 @@
         "ant": [
             "java-sig",
             "mizdebsk",
+            "mkoncek",
             "msrb"
         ],
         "ant-antlr3": [
@@ -12995,7 +12994,6 @@
             "lkundrak"
         ],
         "centos-packager": [
-            "@epel-packagers-sig",
             "dcavalca"
         ],
         "centpkg": [
@@ -13992,7 +13990,6 @@
             "filiperosset"
         ],
         "clutter": [
-            "@gnome-sig",
             "fmuellner",
             "kalev",
             "otaylor",
@@ -14019,7 +14016,6 @@
             "orphan"
         ],
         "clutter-gst3": [
-            "@gnome-sig",
             "amigadave"
         ],
         "clutter-gst3-epel": [
@@ -14331,7 +14327,6 @@
             "orphan"
         ],
         "cogl": [
-            "@gnome-sig",
             "fmuellner",
             "kalev"
         ],
@@ -16729,7 +16724,6 @@
             "orphan"
         ],
         "dbus-glib": [
-            "@gnome-sig",
             "mclasen",
             "rstrode",
             "walters"
@@ -16756,7 +16750,6 @@
             "kkofler"
         ],
         "dbus-sharp": [
-            "@gnome-sig",
             "chkr",
             "mclasen",
             "rstrode",
@@ -26134,7 +26127,6 @@
             "orphan"
         ],
         "gconf-editor": [
-            "@gnome-sig",
             "mclasen",
             "rstrode",
             "trawets"
@@ -31228,7 +31220,6 @@
             "kalev"
         ],
         "glycin-loaders": [
-            "@gnome-sig",
             "@rust-sig",
             "kalev"
         ],
@@ -31286,7 +31277,6 @@
         ],
         "gmime": [
             "@epel-packagers-sig",
-            "@gnome-sig",
             "mclasen",
             "rstrode"
         ],
@@ -31569,7 +31559,6 @@
             "mtasaka"
         ],
         "gnome-common": [
-            "@gnome-sig",
             "amigadave",
             "mkasik",
             "salimma"
@@ -31621,7 +31610,6 @@
             "orphan"
         ],
         "gnome-dictionary": [
-            "@gnome-sig",
             "mclasen"
         ],
         "gnome-directory-thumbnailer": [
@@ -31642,7 +31630,6 @@
             "orphan"
         ],
         "gnome-doc-utils": [
-            "@gnome-sig",
             "amigadave",
             "limb",
             "mclasen",
@@ -31717,7 +31704,6 @@
         ],
         "gnome-icon-theme": [
             "@epel-packagers-sig",
-            "@gnome-sig",
             "kalev",
             "kni",
             "rhughes",
@@ -34544,7 +34530,7 @@
         ],
         "golang-github-cnf-structhash": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-cockroachdb-apd": [
             "orphan"
@@ -43949,6 +43935,7 @@
             "pwhalen"
         ],
         "greenboot-rs": [
+            "pwhalen",
             "saypaul"
         ],
         "greenisland": [
@@ -67554,7 +67541,6 @@
         ],
         "mod_proxy_cluster": [
             "csutherl",
-            "huwang",
             "jajik",
             "jfclere",
             "rhusar",
@@ -68928,6 +68914,7 @@
             "psloboda"
         ],
         "mysql8.4": [
+            "gui1ty",
             "mschorm",
             "psloboda"
         ],
@@ -108336,7 +108323,7 @@
             "cottsay"
         ],
         "python-filetype": [
-            "orphan"
+            "gbcox"
         ],
         "python-findpython": [
             "@python-packagers-sig",
@@ -112361,7 +112348,7 @@
         ],
         "python-munkres": [
             "fab",
-            "orphan",
+            "gbcox",
             "tagoh"
         ],
         "python-murano-pkg-check": [
@@ -115978,8 +115965,8 @@
             "orphan"
         ],
         "python-pytimeparse": [
+            "jujens",
             "mrunge",
-            "orphan",
             "pkilambi"
         ],
         "python-pytn3270": [
@@ -119317,6 +119304,7 @@
         ],
         "python-txaio": [
             "@epel-packagers-sig",
+            "fedepell",
             "jujens"
         ],
         "python-txamqp": [
@@ -143322,7 +143310,8 @@
         ],
         "rust-sysinfo": [
             "@rust-sig",
-            "atim"
+            "atim",
+            "tarvin"
         ],
         "rust-sysinfo0.19": [
             "@rust-sig",
@@ -143338,6 +143327,9 @@
         ],
         "rust-sysinfo0.30": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-sysinfo0.33": [
             "decathorpe"
         ],
         "rust-syslog": [
@@ -153324,7 +153316,6 @@
         "tomcat-jakartaee-migration": [
             "csutherl",
             "dsoumis",
-            "huwang",
             "szappis"
         ],
         "tomcat-native": [

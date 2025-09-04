@@ -44692,9 +44692,9 @@
             "fedora": "alexsaezm"
         },
         "golang-github-cnf-structhash": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-cockroachdb-apd": {
             "admin": "orphan",
@@ -86977,9 +86977,9 @@
             "fedora": "orphan"
         },
         "mod_proxy_cluster": {
-            "admin": "huwang",
-            "epel": "huwang",
-            "fedora": "huwang"
+            "admin": "szappis",
+            "epel": "szappis",
+            "fedora": "szappis"
         },
         "mod_proxy_fcgi": {
             "admin": "orphan",
@@ -139597,9 +139597,9 @@
             "fedora": "cottsay"
         },
         "python-filetype": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "gbcox",
+            "epel": "gbcox",
+            "fedora": "gbcox"
         },
         "python-findpython": {
             "admin": "thrnciar",
@@ -144627,9 +144627,9 @@
             "fedora": "@infra-sig"
         },
         "python-munkres": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "gbcox",
+            "epel": "gbcox",
+            "fedora": "gbcox"
         },
         "python-murano-pkg-check": {
             "admin": "jpena",
@@ -149277,9 +149277,9 @@
             "fedora": "orphan"
         },
         "python-pytimeparse": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "jujens",
+            "epel": "jujens",
+            "fedora": "jujens"
         },
         "python-pytn3270": {
             "admin": "dcavalca",
@@ -184681,6 +184681,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-sysinfo0.33": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-syslog": {
             "admin": "eneville",
             "epel": "eneville",
@@ -197752,7 +197757,7 @@
             "fedora": "csutherl"
         },
         "tomcat-jakartaee-migration": {
-            "admin": "huwang",
+            "admin": "szappis",
             "epel": "szappis",
             "fedora": "szappis"
         },

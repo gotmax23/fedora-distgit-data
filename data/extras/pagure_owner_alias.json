@@ -6799,7 +6799,8 @@
             "cicku"
         ],
         "ant": [
-            "mizdebsk"
+            "mizdebsk",
+            "mkoncek"
         ],
         "ant-antlr3": [
             "orphan"
@@ -29457,7 +29458,7 @@
             "alexsaezm"
         ],
         "golang-github-cnf-structhash": [
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-cockroachdb-apd": [
             "orphan"
@@ -37094,7 +37095,8 @@
             "pwhalen"
         ],
         "greenboot-rs": [
-            "saypaul"
+            "saypaul",
+            "pwhalen"
         ],
         "greenisland": [
             "orphan"
@@ -57618,9 +57620,8 @@
             "orphan"
         ],
         "mod_proxy_cluster": [
-            "huwang",
-            "jfclere",
             "szappis",
+            "jfclere",
             "csutherl",
             "jajik",
             "rhusar"
@@ -93700,7 +93701,7 @@
             "cottsay"
         ],
         "python-filetype": [
-            "orphan"
+            "gbcox"
         ],
         "python-findpython": [
             "thrnciar"
@@ -97128,7 +97129,7 @@
             "kevin"
         ],
         "python-munkres": [
-            "orphan",
+            "gbcox",
             "tagoh"
         ],
         "python-murano-pkg-check": [
@@ -100218,7 +100219,7 @@
             "orphan"
         ],
         "python-pytimeparse": [
-            "orphan",
+            "jujens",
             "mrunge"
         ],
         "python-pytn3270": [
@@ -122689,6 +122690,9 @@
         "rust-sysinfo0.30": [
             "decathorpe"
         ],
+        "rust-sysinfo0.33": [
+            "decathorpe"
+        ],
         "rust-syslog": [
             "eneville"
         ],
@@ -131129,10 +131133,9 @@
             "van"
         ],
         "tomcat-jakartaee-migration": [
-            "huwang",
+            "szappis",
             "dsoumis",
-            "csutherl",
-            "szappis"
+            "csutherl"
         ],
         "tomcat-native": [
             "csutherl",
