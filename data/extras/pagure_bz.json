@@ -4296,7 +4296,6 @@
             "orphan"
         ],
         "NetworkManager": [
-            "@gnome-sig",
             "bengal",
             "ffmancera",
             "ihuguet",
@@ -4382,7 +4381,6 @@
             "orphan"
         ],
         "ORBit2": [
-            "@gnome-sig",
             "limb",
             "rstrode"
         ],
@@ -9833,7 +9831,6 @@
             "than"
         ],
         "audiofile": [
-            "@gnome-sig",
             "ajax",
             "limb",
             "mclasen",
@@ -11130,7 +11127,6 @@
             "kwizart"
         ],
         "bitstream-vera-fonts": [
-            "@gnome-sig",
             "aekoroglu",
             "fonts-sig",
             "jkastner",
@@ -11317,7 +11313,6 @@
             "orphan"
         ],
         "bluecurve-icon-theme": [
-            "@gnome-sig",
             "ngompa",
             "rstrode"
         ],
@@ -11477,7 +11472,6 @@
             "pbrobinson"
         ],
         "bogofilter": [
-            "@gnome-sig",
             "adrian",
             "salimma"
         ],
@@ -13187,7 +13181,6 @@
             "tkorbar"
         ],
         "check": [
-            "@gnome-sig",
             "ajax",
             "jjames",
             "mclasen",
@@ -16584,7 +16577,6 @@
             "wzzrd"
         ],
         "dasher": [
-            "@gnome-sig",
             "mclasen",
             "yaneti"
         ],
@@ -17352,7 +17344,6 @@
             "ngompa"
         ],
         "desktop-backgrounds": [
-            "@gnome-sig",
             "dchen",
             "luya",
             "mclasen",
@@ -20038,7 +20029,8 @@
             "i18n-team",
             "moceap",
             "petersen",
-            "tagoh"
+            "tagoh",
+            "tuxsavvy"
         ],
         "ebay-cors-filter": [
             "orphan"
@@ -20100,7 +20092,6 @@
             "orphan"
         ],
         "echo-icon-theme": [
-            "@gnome-sig",
             "luya",
             "mclasen",
             "rstrode"
@@ -22197,7 +22188,6 @@
             "sergiopr"
         ],
         "esound": [
-            "@gnome-sig",
             "mclasen",
             "robert"
         ],
@@ -23697,7 +23687,6 @@
         ],
         "festival": [
             "@epel-packagers-sig",
-            "@gnome-sig",
             "bruno",
             "mattdm",
             "mclasen",
@@ -24048,7 +24037,6 @@
             "orphan"
         ],
         "flac": [
-            "@gnome-sig",
             "ajax",
             "fhrdina",
             "mclasen",
@@ -24504,7 +24492,6 @@
             "orphan"
         ],
         "fontconfig": [
-            "@gnome-sig",
             "ajax",
             "fonts-sig",
             "i18n-team",
@@ -24996,7 +24983,6 @@
             "orphan"
         ],
         "freetype": [
-            "@gnome-sig",
             "ajax",
             "fonts-sig",
             "ghishadow",
@@ -25046,7 +25032,6 @@
             "orphan"
         ],
         "fribidi": [
-            "@gnome-sig",
             "mclasen",
             "rstrode",
             "salimma",
@@ -26961,7 +26946,6 @@
             "cfeist"
         ],
         "gftp": [
-            "@gnome-sig",
             "limb",
             "mclasen",
             "rstrode"
@@ -31796,7 +31780,6 @@
             "yselkowitz"
         ],
         "gnome-mime-data": [
-            "@gnome-sig",
             "rstrode"
         ],
         "gnome-mines": [
@@ -31826,7 +31809,6 @@
             "orphan"
         ],
         "gnome-nettool": [
-            "@gnome-sig",
             "kalev",
             "mclasen",
             "rhughes",
@@ -31852,7 +31834,6 @@
             "orphan"
         ],
         "gnome-packagekit": [
-            "@gnome-sig",
             "rhughes"
         ],
         "gnome-paint": [
@@ -31875,7 +31856,6 @@
             "snirkel"
         ],
         "gnome-photos": [
-            "@gnome-sig",
             "kalev",
             "pranvk",
             "rishi"
@@ -31956,7 +31936,6 @@
             "orphan"
         ],
         "gnome-screenshot": [
-            "@gnome-sig",
             "mclasen"
         ],
         "gnome-search-tool": [
@@ -31980,7 +31959,6 @@
             "yaneti"
         ],
         "gnome-sharp": [
-            "@gnome-sig",
             "laxathom",
             "mclasen",
             "rhughes",
@@ -32267,7 +32245,6 @@
             "yaneti"
         ],
         "gnome-system-log": [
-            "@gnome-sig",
             "rstrode"
         ],
         "gnome-system-monitor": [
@@ -32373,14 +32350,12 @@
             "ferdnyc"
         ],
         "gnome-vfs2": [
-            "@gnome-sig",
             "limb",
             "mclasen",
             "rhughes",
             "rstrode"
         ],
         "gnome-vfs2-monikers": [
-            "@gnome-sig",
             "limb",
             "rhughes",
             "rstrode"
@@ -44454,9 +44429,9 @@
             "wtaymans"
         ],
         "gstreamermm": [
-            "@epel-packagers-sig",
             "@multimedia-sig",
-            "rathann"
+            "rathann",
+            "robert"
         ],
         "gsview": [
             "orphan"
@@ -44564,7 +44539,6 @@
             "tpokorra"
         ],
         "gtk-sharp2": [
-            "@gnome-sig",
             "chkr",
             "laxathom",
             "mclasen",
@@ -44603,14 +44577,12 @@
             "nonamedotc"
         ],
         "gtk2": [
-            "@gnome-sig",
             "mclasen",
             "rhughes",
             "rstrode",
             "tdawson"
         ],
         "gtk2-engines": [
-            "@gnome-sig",
             "mclasen",
             "rhughes",
             "rstrode",
@@ -44744,7 +44716,6 @@
             "orphan"
         ],
         "gtksourceview2": [
-            "@gnome-sig",
             "mclasen",
             "mtasaka",
             "rstrode"
@@ -44755,7 +44726,6 @@
         ],
         "gtksourceview3": [
             "@epel-packagers-sig",
-            "@gnome-sig",
             "jwass3",
             "mclasen"
         ],
@@ -44786,7 +44756,6 @@
             "smani"
         ],
         "gtkspell": [
-            "@gnome-sig",
             "mclasen",
             "rhughes",
             "rstrode",
@@ -44944,6 +44913,9 @@
             "orphan"
         ],
         "guile-reader": [
+            "fed500"
+        ],
+        "guile-syntax-highlight": [
             "fed500"
         ],
         "guile22": [
@@ -45728,7 +45700,6 @@
             "ankursinha"
         ],
         "highlight": [
-            "@gnome-sig",
             "filiperosset",
             "kevin",
             "laxathom",
@@ -46280,7 +46251,6 @@
             "orphan"
         ],
         "hunspell": [
-            "@gnome-sig",
             "limb",
             "mclasen",
             "rhughes",
@@ -46357,7 +46327,6 @@
             "pnemade"
         ],
         "hunspell-en": [
-            "@gnome-sig",
             "limb",
             "mclasen",
             "rhughes",
@@ -47399,7 +47368,6 @@
             "suve"
         ],
         "icon-naming-utils": [
-            "@gnome-sig",
             "cottsay",
             "raveit65",
             "rhughes",
@@ -48064,7 +48032,6 @@
             "orphan"
         ],
         "intltool": [
-            "@gnome-sig",
             "mclasen",
             "raveit65",
             "rstrode"
@@ -48426,7 +48393,6 @@
             "cleech"
         ],
         "iso-codes": [
-            "@gnome-sig",
             "i18n-team",
             "mclasen",
             "pnemade",
@@ -52365,6 +52331,7 @@
             "linville",
             "masami",
             "mchehab",
+            "naiithink",
             "patrickt",
             "smallorange",
             "steved"
@@ -55299,7 +55266,6 @@
             "msalle"
         ],
         "lcms": [
-            "@gnome-sig",
             "mclasen",
             "rhughes",
             "rstrode",
@@ -55622,7 +55588,6 @@
             "rstrode"
         ],
         "libIDL": [
-            "@gnome-sig",
             "orphan",
             "rhughes",
             "rstrode"
@@ -55990,7 +55955,6 @@
             "dcavalca"
         ],
         "libart_lgpl": [
-            "@gnome-sig",
             "mclasen",
             "rhughes",
             "rstrode",
@@ -56133,13 +56097,11 @@
             "xavierb"
         ],
         "libbonobo": [
-            "@gnome-sig",
             "mclasen",
             "rstrode",
             "trawets"
         ],
         "libbonoboui": [
-            "@gnome-sig",
             "mclasen",
             "rhughes",
             "rstrode",
@@ -56516,7 +56478,6 @@
             "ueno"
         ],
         "libdazzle": [
-            "@gnome-sig",
             "kalev",
             "yaneti"
         ],
@@ -56853,7 +56814,6 @@
             "suve"
         ],
         "liberation-fonts": [
-            "@gnome-sig",
             "fonts-sig",
             "i18n-team",
             "markotaris",
@@ -56926,7 +56886,6 @@
             "rebus"
         ],
         "libexif": [
-            "@gnome-sig",
             "ajax",
             "ndim",
             "rhughes",
@@ -57282,7 +57241,6 @@
             "orphan"
         ],
         "libglade2": [
-            "@gnome-sig",
             "rhughes",
             "rstrode",
             "yselkowitz"
@@ -57322,7 +57280,6 @@
             "orphan"
         ],
         "libgnome": [
-            "@gnome-sig",
             "mclasen",
             "rhughes",
             "rstrode",
@@ -57342,7 +57299,6 @@
             "orphan"
         ],
         "libgnome-keyring": [
-            "@gnome-sig",
             "mclasen",
             "rishi",
             "stefw"
@@ -57351,7 +57307,6 @@
             "orphan"
         ],
         "libgnomecanvas": [
-            "@gnome-sig",
             "rhughes",
             "rstrode",
             "yselkowitz"
@@ -57373,7 +57328,6 @@
             "orphan"
         ],
         "libgnomekbd": [
-            "@gnome-sig",
             "mclasen",
             "rhughes",
             "rstrode"
@@ -57430,7 +57384,6 @@
             "pbrobinson"
         ],
         "libgpod": [
-            "@gnome-sig",
             "chkr",
             "limb",
             "mclasen",
@@ -58876,7 +58829,6 @@
             "limb"
         ],
         "libogg": [
-            "@gnome-sig",
             "ajax",
             "jwrdegoede",
             "mlichvar",
@@ -58893,7 +58845,6 @@
             "mtasaka"
         ],
         "liboil": [
-            "@gnome-sig",
             "mclasen",
             "rhughes",
             "rstrode",
@@ -59316,7 +59267,6 @@
             "michich"
         ],
         "libpst": [
-            "@gnome-sig",
             "mcrha",
             "salimma"
         ],
@@ -59921,7 +59871,6 @@
             "jskarvad"
         ],
         "libsoup": [
-            "@gnome-sig",
             "danw",
             "limb",
             "mclasen",
@@ -60172,7 +60121,6 @@
             "ueno"
         ],
         "libtheora": [
-            "@gnome-sig",
             "ajax",
             "jwrdegoede",
             "mclasen",
@@ -60456,7 +60404,6 @@
             "orphan"
         ],
         "libutempter": [
-            "@gnome-sig",
             "mclasen",
             "rstrode",
             "tkorbar"
@@ -64448,7 +64395,6 @@
             "orphan"
         ],
         "media-player-info": [
-            "@gnome-sig",
             "tdawson"
         ],
         "mediaconch": [
@@ -65193,7 +65139,6 @@
             "orphan"
         ],
         "mingw-adwaita-icon-theme": [
-            "@gnome-sig",
             "rhughes"
         ],
         "mingw-adwaita-qt": [
@@ -65267,7 +65212,6 @@
             "nmav"
         ],
         "mingw-colord": [
-            "@gnome-sig",
             "rhughes"
         ],
         "mingw-colord-gtk": [
@@ -65563,7 +65507,6 @@
             "smani"
         ],
         "mingw-hicolor-icon-theme": [
-            "@gnome-sig",
             "rhughes"
         ],
         "mingw-hidapi": [
@@ -65627,7 +65570,6 @@
             "sailer"
         ],
         "mingw-libcroco": [
-            "@gnome-sig",
             "rhughes"
         ],
         "mingw-libdb": [
@@ -65687,7 +65629,6 @@
             "smani"
         ],
         "mingw-libgusb": [
-            "@gnome-sig",
             "rhughes"
         ],
         "mingw-libid3tag": [
@@ -65746,7 +65687,6 @@
             "etrunko"
         ],
         "mingw-librsvg2": [
-            "@gnome-sig",
             "rhughes"
         ],
         "mingw-librttopo": [
@@ -68034,7 +67974,6 @@
             "nonamedotc"
         ],
         "mousetweaks": [
-            "@gnome-sig",
             "mclasen"
         ],
         "movit": [
@@ -79850,7 +79789,6 @@
         ],
         "par2cmdline": [
             "rineau",
-            "slaanesh",
             "tadej"
         ],
         "paragui": [
@@ -102619,7 +102557,6 @@
             "praiskup"
         ],
         "pycairo": [
-            "@gnome-sig",
             "kalev",
             "mclasen",
             "rhughes",
@@ -103690,16 +103627,16 @@
             "orphan"
         ],
         "python-agate": [
-            "jujens"
+            "orphan"
         ],
         "python-agate-dbf": [
-            "jujens"
+            "orphan"
         ],
         "python-agate-excel": [
-            "jujens"
+            "orphan"
         ],
         "python-agate-sql": [
-            "jujens"
+            "orphan"
         ],
         "python-ailment": [
             "fab",
@@ -104420,6 +104357,7 @@
         ],
         "python-autobahn": [
             "@epel-packagers-sig",
+            "fedepell",
             "jujens"
         ],
         "python-autoclasstoc": [
@@ -106557,7 +106495,7 @@
             "kevin"
         ],
         "python-csvkit": [
-            "jujens"
+            "orphan"
         ],
         "python-ctags": [
             "orphan"
@@ -115965,8 +115903,8 @@
             "orphan"
         ],
         "python-pytimeparse": [
-            "jujens",
             "mrunge",
+            "orphan",
             "pkilambi"
         ],
         "python-pytn3270": [
@@ -122477,7 +122415,6 @@
             "tdawson"
         ],
         "qqwing": [
-            "@gnome-sig",
             "catanzaro",
             "yaneti"
         ],
@@ -123754,7 +123691,6 @@
             "orphan"
         ],
         "rdesktop": [
-            "@gnome-sig",
             "cra",
             "mclasen",
             "oholy",
@@ -149450,7 +149386,6 @@
             "jonathanspw"
         ],
         "speex": [
-            "@gnome-sig",
             "ajax",
             "mclasen",
             "rhughes",
@@ -149458,7 +149393,6 @@
             "tkorbar"
         ],
         "speexdsp": [
-            "@gnome-sig",
             "amigadave"
         ],
         "spew": [
@@ -150061,7 +149995,8 @@
         "star": [
             "ljavorsk",
             "ovasik",
-            "praiskup"
+            "praiskup",
+            "tuxsavvy"
         ],
         "starcal": [
             "hedayat"
@@ -156132,7 +156067,6 @@
             "echevemaster"
         ],
         "vinagre": [
-            "@gnome-sig",
             "amigadave",
             "elmarco",
             "feborges",
@@ -156430,7 +156364,6 @@
             "orphan"
         ],
         "vorbis-tools": [
-            "@gnome-sig",
             "jnovy",
             "jwrdegoede",
             "kdudka",
@@ -156508,7 +156441,6 @@
             "orion"
         ],
         "vte": [
-            "@gnome-sig",
             "limb"
         ],
         "vte291": [
@@ -160587,7 +160519,6 @@
             "mmcgrath"
         ],
         "ytnef": [
-            "@gnome-sig",
             "mzavalavz",
             "salimma",
             "sharkcz"

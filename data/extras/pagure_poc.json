@@ -58266,6 +58266,11 @@
             "epel": "fed500",
             "fedora": "fed500"
         },
+        "guile-syntax-highlight": {
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
+        },
         "guile22": {
             "admin": "tkorbar",
             "epel": "tkorbar",
@@ -133537,24 +133542,24 @@
             "fedora": "orphan"
         },
         "python-agate": {
-            "admin": "jujens",
-            "epel": "jujens",
-            "fedora": "jujens"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-agate-dbf": {
-            "admin": "jujens",
-            "epel": "jujens",
-            "fedora": "jujens"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-agate-excel": {
-            "admin": "jujens",
-            "epel": "jujens",
-            "fedora": "jujens"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-agate-sql": {
-            "admin": "jujens",
-            "epel": "jujens",
-            "fedora": "jujens"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-ailment": {
             "admin": "fab",
@@ -137267,9 +137272,9 @@
             "fedora": "kevin"
         },
         "python-csvkit": {
-            "admin": "jujens",
-            "epel": "jujens",
-            "fedora": "jujens"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-ctags": {
             "admin": "orphan",
@@ -149277,9 +149282,9 @@
             "fedora": "orphan"
         },
         "python-pytimeparse": {
-            "admin": "jujens",
-            "epel": "jujens",
-            "fedora": "jujens"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pytn3270": {
             "admin": "dcavalca",
@@ -184683,8 +184688,8 @@
         },
         "rust-sysinfo0.33": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-syslog": {
             "admin": "eneville",
