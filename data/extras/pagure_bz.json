@@ -13492,7 +13492,6 @@
             "thalman"
         ],
         "cjs": [
-            "@epel-packagers-sig",
             "leigh123linux",
             "raveit65"
         ],
@@ -38659,7 +38658,7 @@
         ],
         "golang-github-minio-selfupdate": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-minio-sha256-simd": [
             "@go-sig",
@@ -44578,7 +44577,6 @@
         ],
         "gtk2": [
             "mclasen",
-            "rhughes",
             "rstrode",
             "tdawson"
         ],
@@ -60570,7 +60568,6 @@
             "vpv"
         ],
         "libvorbis": [
-            "@gnome-sig",
             "ajax",
             "jwrdegoede",
             "mclasen",
@@ -78977,8 +78974,8 @@
             "orphan"
         ],
         "orocos-kdl": [
-            "cottsay",
-            "orphan"
+            "@robotics-sig",
+            "cottsay"
         ],
         "orpie": [
             "orphan"
@@ -80143,7 +80140,6 @@
         ],
         "pcp": [
             "agerstmayr",
-            "fberat",
             "jkurik",
             "lchilton",
             "nathans",
@@ -112521,7 +112517,7 @@
             "orphan"
         ],
         "python-netdisco": [
-            "orphan"
+            "thebeanogamer"
         ],
         "python-netifaces": [
             "apevec",
@@ -117921,6 +117917,9 @@
             "@python-packagers-sig",
             "churchyard",
             "ksurma"
+        ],
+        "python-sphinxcontrib-doxylink": [
+            "mzamazal"
         ],
         "python-sphinxcontrib-fulltoc": [
             "bowlofeggs",

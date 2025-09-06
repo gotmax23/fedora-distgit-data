@@ -17238,7 +17238,7 @@
         },
         "cjs": {
             "admin": "leigh123linux",
-            "epel": "@epel-packagers-sig",
+            "epel": "leigh123linux",
             "fedora": "leigh123linux"
         },
         "cjson": {
@@ -50162,9 +50162,9 @@
             "fedora": "mikelo2"
         },
         "golang-github-minio-selfupdate": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-minio-sha256-simd": {
             "admin": "mikelo2",
@@ -78218,7 +78218,7 @@
         },
         "libxml++": {
             "admin": "blinxen",
-            "epel": "@epel-packagers-sig",
+            "epel": "robert",
             "fedora": "blinxen"
         },
         "libxml++30": {
@@ -103292,9 +103292,9 @@
             "fedora": "orphan"
         },
         "orocos-kdl": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "orpie": {
             "admin": "orphan",
@@ -144942,9 +144942,9 @@
             "fedora": "orphan"
         },
         "python-netdisco": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "thebeanogamer",
+            "epel": "thebeanogamer",
+            "fedora": "thebeanogamer"
         },
         "python-netifaces": {
             "admin": "ftrivino",
@@ -151795,6 +151795,11 @@
             "admin": "ksurma",
             "epel": "ksurma",
             "fedora": "ksurma"
+        },
+        "python-sphinxcontrib-doxylink": {
+            "admin": "mzamazal",
+            "epel": "mzamazal",
+            "fedora": "mzamazal"
         },
         "python-sphinxcontrib-fulltoc": {
             "admin": "orphan",
@@ -199617,9 +199622,9 @@
             "fedora": "pcahyna"
         },
         "udica": {
-            "admin": "lvrabec",
-            "epel": "lvrabec",
-            "fedora": "lvrabec"
+            "admin": "vmojzis",
+            "epel": "vmojzis",
+            "fedora": "vmojzis"
         },
         "udis86": {
             "admin": "scottt",
