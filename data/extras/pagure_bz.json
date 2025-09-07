@@ -36323,7 +36323,7 @@
         ],
         "golang-github-google-jsonnet": [
             "@go-sig",
-            "fuller"
+            "orphan"
         ],
         "golang-github-google-martian": [
             "@go-sig",
@@ -36813,8 +36813,8 @@
         ],
         "golang-github-hashicorp-raft": [
             "@go-sig",
-            "fuller",
-            "jchaloup"
+            "jchaloup",
+            "orphan"
         ],
         "golang-github-hashicorp-raft-boltdb": [
             "@go-sig",
@@ -38989,7 +38989,7 @@
         ],
         "golang-github-nats-io-stan": [
             "@go-sig",
-            "fuller"
+            "orphan"
         ],
         "golang-github-nats-io-streaming": [
             "orphan"
@@ -42089,8 +42089,8 @@
         ],
         "golang-google-grpc": [
             "@go-sig",
-            "fuller",
-            "mikelo2"
+            "mikelo2",
+            "orphan"
         ],
         "golang-google-protobuf": [
             "@epel-packagers-sig",
@@ -42894,8 +42894,8 @@
         ],
         "golang-opentelemetry-otel": [
             "@go-sig",
-            "fuller",
-            "mikelo2"
+            "mikelo2",
+            "orphan"
         ],
         "golang-opentelemetry-otel-0.20": [
             "@go-sig",
@@ -60782,9 +60782,9 @@
             "pghmcfc"
         ],
         "libxml++": [
-            "@epel-packagers-sig",
             "blinxen",
-            "hguemar"
+            "hguemar",
+            "robert"
         ],
         "libxml++30": [
             "kalev"
@@ -108353,7 +108353,6 @@
             "churchyard"
         ],
         "python-flask": [
-            "@epel-packagers-sig",
             "@python-packagers-sig",
             "frantisekz",
             "humaton",
@@ -116200,8 +116199,8 @@
         ],
         "python-ratelimitingfilter": [
             "@abrt-sig",
-            "mkutlak",
-            "msuchy"
+            "msuchy",
+            "orphan"
         ],
         "python-ratinabox": [
             "@neuro-sig",
@@ -120360,7 +120359,7 @@
             "churchyard"
         ],
         "python-xmlsec": [
-            "mkutlak"
+            "orphan"
         ],
         "python-xmltodict": [
             "@infra-sig",

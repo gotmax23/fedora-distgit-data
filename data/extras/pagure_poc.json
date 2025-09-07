@@ -47092,9 +47092,9 @@
             "fedora": "jjelen"
         },
         "golang-github-google-jsonnet": {
-            "admin": "fuller",
-            "epel": "fuller",
-            "fedora": "fuller"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-google-martian": {
             "admin": "alexsaezm",
@@ -47722,9 +47722,9 @@
             "fedora": "orphan"
         },
         "golang-github-hashicorp-raft": {
-            "admin": "fuller",
+            "admin": "orphan",
             "epel": "jchaloup",
-            "fedora": "fuller"
+            "fedora": "orphan"
         },
         "golang-github-hashicorp-raft-boltdb": {
             "admin": "eclipseo",
@@ -50577,9 +50577,9 @@
             "fedora": "fuller"
         },
         "golang-github-nats-io-stan": {
-            "admin": "fuller",
-            "epel": "fuller",
-            "fedora": "fuller"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-nats-io-streaming": {
             "admin": "orphan",
@@ -54607,9 +54607,9 @@
             "fedora": "orphan"
         },
         "golang-google-grpc": {
-            "admin": "fuller",
-            "epel": "fuller",
-            "fedora": "fuller"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-google-protobuf": {
             "admin": "alexsaezm",
@@ -55682,9 +55682,9 @@
             "fedora": "alexsaezm"
         },
         "golang-opentelemetry-otel": {
-            "admin": "fuller",
-            "epel": "fuller",
-            "fedora": "fuller"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-opentelemetry-otel-0.20": {
             "admin": "alexsaezm",
@@ -149662,9 +149662,9 @@
             "fedora": "orphan"
         },
         "python-ratelimitingfilter": {
-            "admin": "mkutlak",
-            "epel": "mkutlak",
-            "fedora": "mkutlak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-ratinabox": {
             "admin": "orphan",
@@ -154957,9 +154957,9 @@
             "fedora": "churchyard"
         },
         "python-xmlsec": {
-            "admin": "mkutlak",
-            "epel": "mkutlak",
-            "fedora": "mkutlak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-xmltodict": {
             "admin": "fab",
