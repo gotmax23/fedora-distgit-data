@@ -22802,6 +22802,11 @@
             "pwouters",
             "rominf"
         ],
+        "fastapi-cloud-cli": [
+            "music",
+            "pwouters",
+            "rominf"
+        ],
         "fastback": [
             "gavin",
             "jonathanspw"
@@ -31460,7 +31465,6 @@
             "@gnome-sig",
             "kalev",
             "mclasen",
-            "rhughes",
             "rstrode",
             "ryanlerch"
         ],
@@ -56886,7 +56890,6 @@
         "libexif": [
             "ajax",
             "ndim",
-            "rhughes",
             "rstrode",
             "yselkowitz"
         ],
@@ -145878,6 +145881,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-wiremix": [
+            "@rust-sig",
+            "wojnilowicz"
+        ],
         "rust-wiremock": [
             "@rust-sig",
             "music"
@@ -150926,7 +150933,6 @@
             "orphan"
         ],
         "swaks": [
-            "@epel-packagers-sig",
             "mmckinst",
             "robert",
             "stevetraylen",
@@ -160399,7 +160405,6 @@
             "@gnome-sig",
             "amigadave",
             "mclasen",
-            "rhughes",
             "rstrode",
             "stransky",
             "xhorak"

@@ -29531,6 +29531,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "fastapi-cloud-cli": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "fastback": {
             "admin": "jonathanspw",
             "epel": "jonathanspw",
@@ -188058,6 +188063,11 @@
         },
         "rust-winnow0.6": {
             "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-wiremix": {
+            "admin": "wojnilowicz",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
