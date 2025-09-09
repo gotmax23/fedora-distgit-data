@@ -11586,7 +11586,8 @@
             "jeckersb",
             "jlebon",
             "jmarrero",
-            "walters"
+            "walters",
+            "xiaofwan"
         ],
         "bootc-gtk": [
             "imbev"
@@ -13260,6 +13261,9 @@
         ],
         "chez-scheme": [
             "petersen"
+        ],
+        "chezmoi": [
+            "mikelo2"
         ],
         "chibi-scheme": [
             "sham1"
@@ -25963,7 +25967,7 @@
             "salimma"
         ],
         "gaupol": [
-            "sshil"
+            "orphan"
         ],
         "gausssum": [
             "jussilehtola",
@@ -77522,6 +77526,10 @@
             "bruno",
             "orphan"
         ],
+        "oh-my-posh": [
+            "@go-sig",
+            "solomoncyj"
+        ],
         "ohc": [
             "jvanek",
             "orphan"
@@ -101571,7 +101579,7 @@
             "than"
         ],
         "powerline": [
-            "asn",
+            "orphan",
             "salimma",
             "sicherha"
         ],
@@ -115974,7 +115982,7 @@
         ],
         "python-pyvirtualize": [
             "@python-packagers-sig",
-            "raphgro"
+            "orphan"
         ],
         "python-pyvit": [
             "orphan"
@@ -122773,7 +122781,8 @@
         ],
         "qt5ct": [
             "@kde-sig",
-            "jgrulich"
+            "jgrulich",
+            "mochaa"
         ],
         "qt6": [
             "@kde-sig",
@@ -124694,6 +124703,10 @@
         "rocm-smi": [
             "@rocm-packagers-sig",
             "mystro256"
+        ],
+        "rocm-validation-suite": [
+            "@rocm-packagers-sig",
+            "trix"
         ],
         "rocminfo": [
             "@rocm-packagers-sig",
@@ -129071,6 +129084,7 @@
             "kalev"
         ],
         "rust-ashpd0.11": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-ashpd0.6": [
@@ -131152,6 +131166,11 @@
         "rust-core_affinity": [
             "@rust-sig",
             "lecris"
+        ],
+        "rust-core_maths": [
+            "@rust-sig",
+            "music",
+            "v02460"
         ],
         "rust-coreos-installer": [
             "@coreos-sig",
@@ -135587,6 +135606,11 @@
             "@rust-sig",
             "music"
         ],
+        "rust-icu_locale_data": [
+            "@rust-sig",
+            "music",
+            "v02460"
+        ],
         "rust-icu_locid": [
             "@rust-sig",
             "music"
@@ -135623,6 +135647,11 @@
         "rust-icu_provider_macros": [
             "@rust-sig",
             "music"
+        ],
+        "rust-icu_segmenter_data": [
+            "@rust-sig",
+            "music",
+            "v02460"
         ],
         "rust-id-arena": [
             "orphan"
@@ -143267,6 +143296,7 @@
             "decathorpe"
         ],
         "rust-sysinfo0.33": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-syslog": [
@@ -154763,7 +154793,6 @@
             "pwu"
         ],
         "ularn": [
-            "orphan",
             "wart"
         ],
         "ulauncher": [

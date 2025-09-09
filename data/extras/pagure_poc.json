@@ -16941,6 +16941,11 @@
             "epel": "petersen",
             "fedora": "petersen"
         },
+        "chezmoi": {
+            "admin": "mikelo2",
+            "epel": "mikelo2",
+            "fedora": "mikelo2"
+        },
         "chibi-scheme": {
             "admin": "sham1",
             "epel": "sham1",
@@ -33742,9 +33747,9 @@
             "fedora": "orphan"
         },
         "gaupol": {
-            "admin": "sshil",
-            "epel": "sshil",
-            "fedora": "sshil"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "gausssum": {
             "admin": "orphan",
@@ -101421,6 +101426,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "oh-my-posh": {
+            "admin": "solomoncyj",
+            "epel": "solomoncyj",
+            "fedora": "solomoncyj"
+        },
         "ohc": {
             "admin": "orphan",
             "epel": "orphan",
@@ -130782,9 +130792,9 @@
             "fedora": "marcdeop"
         },
         "powerline": {
-            "admin": "asn",
-            "epel": "asn",
-            "fedora": "asn"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "powerline-go": {
             "admin": "eclipseo",
@@ -149377,9 +149387,9 @@
             "fedora": "swt2c"
         },
         "python-pyvirtualize": {
-            "admin": "raphgro",
-            "epel": "raphgro",
-            "fedora": "raphgro"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pyvit": {
             "admin": "orphan",
@@ -160741,6 +160751,11 @@
             "epel": "mystro256",
             "fedora": "mystro256"
         },
+        "rocm-validation-suite": {
+            "admin": "trix",
+            "epel": "trix",
+            "fedora": "trix"
+        },
         "rocminfo": {
             "admin": "tstellar",
             "epel": "orphan",
@@ -169256,6 +169271,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-core_maths": {
+            "admin": "v02460",
+            "epel": "v02460",
+            "fedora": "v02460"
+        },
         "rust-coreos-installer": {
             "admin": "jlebon",
             "epel": "@rust-sig",
@@ -174906,6 +174926,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "rust-icu_locale_data": {
+            "admin": "v02460",
+            "epel": "v02460",
+            "fedora": "v02460"
+        },
         "rust-icu_locid": {
             "admin": "music",
             "epel": "music",
@@ -174950,6 +174975,11 @@
             "admin": "music",
             "epel": "music",
             "fedora": "music"
+        },
+        "rust-icu_segmenter_data": {
+            "admin": "v02460",
+            "epel": "v02460",
+            "fedora": "v02460"
         },
         "rust-id-arena": {
             "admin": "orphan",
@@ -199832,9 +199862,9 @@
             "fedora": "pwu"
         },
         "ularn": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "wart",
+            "epel": "wart",
+            "fedora": "wart"
         },
         "ulauncher": {
             "admin": "atim",
