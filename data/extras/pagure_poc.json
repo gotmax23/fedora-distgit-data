@@ -63247,9 +63247,9 @@
             "fedora": "tartina"
         },
         "jack-mixer": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "vtrefny",
+            "epel": "vtrefny",
+            "fedora": "vtrefny"
         },
         "jack-rack": {
             "admin": "orphan",
@@ -147702,9 +147702,9 @@
             "fedora": "orphan"
         },
         "python-pyedflib": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pyelectro": {
             "admin": "orphan",
@@ -191845,6 +191845,11 @@
             "admin": "dfateyev",
             "epel": "dfateyev",
             "fedora": "dfateyev"
+        },
+        "smtprelay": {
+            "admin": "neelc",
+            "epel": "neelc",
+            "fedora": "neelc"
         },
         "smuxi": {
             "admin": "orphan",
