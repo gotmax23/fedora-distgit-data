@@ -36863,7 +36863,7 @@
         ],
         "golang-github-hashicorp-terraform-exec": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-hashicorp-terraform-json": [
             "@go-sig",
@@ -38101,7 +38101,7 @@
         ],
         "golang-github-liquidweb": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-liquidweb-lwapi": [
             "@go-sig",
@@ -40346,7 +40346,7 @@
         ],
         "golang-github-sacloud-packages": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-safchain-ethtool": [
             "@go-sig",
@@ -63292,6 +63292,7 @@
             "psloboda"
         ],
         "mariadb-connector-odbc": [
+            "@db-sig",
             "ljavorsk",
             "mschorm",
             "psloboda"
@@ -80988,6 +80989,7 @@
         "perl-Astro-FITS-CFITSIO": [
             "@scitech_sig",
             "orion",
+            "orphan",
             "perl-sig"
         ],
         "perl-Astro-SunTime": [
@@ -114832,6 +114834,7 @@
             "@epel-packagers-sig",
             "@python-packagers-sig",
             "cottsay",
+            "orphan",
             "zbyszek"
         ],
         "python-pygrocy": [
@@ -124721,6 +124724,10 @@
             "mystro256",
             "trix"
         ],
+        "rocprofiler-register": [
+            "@rocm-packagers-sig",
+            "trix"
+        ],
         "rocrand": [
             "@rocm-packagers-sig",
             "mystro256"
@@ -132823,6 +132830,7 @@
         ],
         "rust-eza": [
             "@rust-sig",
+            "allanfreitas",
             "orphan",
             "tautropfli"
         ],
@@ -139577,6 +139585,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-png0.17": [
+            "decathorpe"
+        ],
         "rust-podio": [
             "orphan"
         ],
@@ -143661,6 +143672,9 @@
         ],
         "rust-tiff0.6": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-tiff0.9": [
             "decathorpe"
         ],
         "rust-tiger": [
@@ -148590,6 +148604,7 @@
             "lsm5"
         ],
         "slitherer": [
+            "@kde-sig",
             "ngompa"
         ],
         "sloccount": [

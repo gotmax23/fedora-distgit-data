@@ -47782,9 +47782,9 @@
             "fedora": "@go-sig"
         },
         "golang-github-hashicorp-terraform-exec": {
-            "admin": "eclipseo",
-            "epel": "eclipseo",
-            "fedora": "eclipseo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-hashicorp-terraform-json": {
             "admin": "eclipseo",
@@ -49412,9 +49412,9 @@
             "fedora": "orphan"
         },
         "golang-github-liquidweb": {
-            "admin": "eclipseo",
-            "epel": "eclipseo",
-            "fedora": "eclipseo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-liquidweb-lwapi": {
             "admin": "orphan",
@@ -52317,9 +52317,9 @@
             "fedora": "eclipseo"
         },
         "golang-github-sacloud-packages": {
-            "admin": "eclipseo",
-            "epel": "eclipseo",
-            "fedora": "eclipseo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-safchain-ethtool": {
             "admin": "alexsaezm",
@@ -105832,9 +105832,9 @@
             "fedora": "eseyman"
         },
         "perl-Astro-FITS-CFITSIO": {
-            "admin": "orion",
-            "epel": "orion",
-            "fedora": "orion"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "perl-Astro-SunTime": {
             "admin": "kni",
@@ -147902,9 +147902,9 @@
             "fedora": "orphan"
         },
         "python-pygraphviz": {
-            "admin": "zbyszek",
-            "epel": "zbyszek",
-            "fedora": "zbyszek"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pygrocy": {
             "admin": "orphan",
@@ -160770,6 +160770,11 @@
             "admin": "trix",
             "epel": "@rocm-packagers-sig",
             "fedora": "@rocm-packagers-sig"
+        },
+        "rocprofiler-register": {
+            "admin": "trix",
+            "epel": "trix",
+            "fedora": "trix"
         },
         "rocrand": {
             "admin": "mystro256",
@@ -179966,6 +179971,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-png0.17": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-podio": {
             "admin": "orphan",
             "epel": "orphan",
@@ -185200,6 +185210,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-tiff0.9": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-tiger": {
             "admin": "orphan",
