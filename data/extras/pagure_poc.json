@@ -5631,6 +5631,11 @@
             "epel": "hobbes1069",
             "fedora": "hobbes1069"
         },
+        "OpenImageIO2.5": {
+            "admin": "hobbes1069",
+            "epel": "hobbes1069",
+            "fedora": "hobbes1069"
+        },
         "OpenLP": {
             "admin": "trb143",
             "epel": "trb143",
@@ -90351,6 +90356,11 @@
             "epel": "mtasaka",
             "fedora": "mtasaka"
         },
+        "ngtcp2": {
+            "admin": "pemensik",
+            "epel": "pemensik",
+            "fedora": "pemensik"
+        },
         "nheko": {
             "admin": "xvitaly",
             "epel": "xvitaly",
@@ -130666,6 +130676,11 @@
             "epel": "fjanus",
             "fedora": "fjanus"
         },
+        "postgresql16-anonymizer": {
+            "admin": "pkhartsk",
+            "epel": "pkhartsk",
+            "fedora": "pkhartsk"
+        },
         "postgresql16-decoderbufs": {
             "admin": "fjanus",
             "epel": "fjanus",
@@ -153986,6 +154001,11 @@
             "epel": "abompard",
             "fedora": "python-maint"
         },
+        "python-urllib3-epel": {
+            "admin": "churchyard",
+            "epel": "churchyard",
+            "fedora": "churchyard"
+        },
         "python-urlobject": {
             "admin": "orphan",
             "epel": "orphan",
@@ -171765,6 +171785,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-foldhash0.1": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-font-kit": {
             "admin": "decathorpe",
@@ -195548,7 +195573,7 @@
         },
         "systemd-extras": {
             "admin": "robert",
-            "epel": "robert",
+            "epel": "jonathanspw",
             "fedora": "robert"
         },
         "systemd-swap": {

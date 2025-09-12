@@ -4431,6 +4431,9 @@
             "@epel-packagers-sig",
             "hobbes1069"
         ],
+        "OpenImageIO2.5": [
+            "hobbes1069"
+        ],
         "OpenLP": [
             "trb143"
         ],
@@ -31207,9 +31210,9 @@
         ],
         "glycin": [
             "@gnome-sig",
+            "@multimedia-sig",
             "@rust-sig",
-            "decathorpe",
-            "kalev"
+            "decathorpe"
         ],
         "glycin-loaders": [
             "@rust-sig",
@@ -55307,7 +55310,8 @@
             "orphan"
         ],
         "ldapvi": [
-            "eseyman"
+            "eseyman",
+            "xavierb"
         ],
         "ldc": [
             "cicku",
@@ -57115,6 +57119,7 @@
             "orphan"
         ],
         "libgda": [
+            "@gnome-sig",
             "limb"
         ],
         "libgda5": [
@@ -70015,6 +70020,11 @@
         "ngspice": [
             "mschweikardt",
             "mtasaka"
+        ],
+        "ngtcp2": [
+            "@dns-sig",
+            "asn",
+            "pemensik"
         ],
         "nheko": [
             "xvitaly",
@@ -101487,6 +101497,9 @@
             "fjanus",
             "ndavidov"
         ],
+        "postgresql16-anonymizer": [
+            "pkhartsk"
+        ],
         "postgresql16-decoderbufs": [
             "fjanus"
         ],
@@ -119606,6 +119619,9 @@
             "churchyard",
             "jcline"
         ],
+        "python-urllib3-epel": [
+            "churchyard"
+        ],
         "python-urlobject": [
             "jdulaney",
             "orphan"
@@ -133130,6 +133146,9 @@
         ],
         "rust-foldhash": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-foldhash0.1": [
             "decathorpe"
         ],
         "rust-font-kit": [
@@ -151586,6 +151605,8 @@
             "robert"
         ],
         "systemd-extras": [
+            "dcavalca",
+            "jonathanspw",
             "robert"
         ],
         "systemd-swap": [
