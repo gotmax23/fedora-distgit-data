@@ -19791,6 +19791,9 @@
         "dustmite": [
             "orphan"
         ],
+        "dustrac": [
+            "suve"
+        ],
         "dvb-apps": [
             "orphan",
             "pbrobinson"
@@ -54138,7 +54141,7 @@
             "than"
         ],
         "kompose": [
-            "orphan"
+            "buckaroogeek"
         ],
         "kongress": [
             "@kde-sig",
@@ -59132,7 +59135,6 @@
         "libpgf": [
             "nucleo",
             "orion",
-            "orphan",
             "rdieter",
             "tdawson"
         ],
@@ -99264,6 +99266,9 @@
         "php-smarty-gettext": [
             "xavierb"
         ],
+        "php-smarty4": [
+            "xavierb"
+        ],
         "php-smbclient": [
             "remi"
         ],
@@ -113062,7 +113067,9 @@
         ],
         "python-openid-teams": [
             "@epel-packagers-sig",
+            "@infra-sig",
             "kevin",
+            "nphilipp",
             "puiterwijk",
             "tdawson"
         ],
@@ -114846,8 +114853,8 @@
         "python-pygraphviz": [
             "@epel-packagers-sig",
             "@python-packagers-sig",
+            "@robotics-sig",
             "cottsay",
-            "orphan",
             "zbyszek"
         ],
         "python-pygrocy": [
@@ -124396,7 +124403,6 @@
             "amigadave",
             "dwmw2",
             "mclasen",
-            "rhughes",
             "rstrode",
             "snirkel"
         ],
@@ -126481,19 +126487,19 @@
         ],
         "rubygem-guard": [
             "@ruby-packagers-sig",
-            "jackorp"
+            "orphan"
         ],
         "rubygem-guard-compat": [
             "@ruby-packagers-sig",
-            "jackorp"
+            "orphan"
         ],
         "rubygem-guard-livereload": [
             "@ruby-packagers-sig",
-            "jackorp"
+            "orphan"
         ],
         "rubygem-guard-shell": [
             "@ruby-packagers-sig",
-            "jackorp"
+            "orphan"
         ],
         "rubygem-haml": [
             "clalance",
@@ -126872,7 +126878,7 @@
         ],
         "rubygem-lumberjack": [
             "@ruby-packagers-sig",
-            "jackorp"
+            "orphan"
         ],
         "rubygem-macaddr": [
             "valtri"
@@ -127190,7 +127196,7 @@
         ],
         "rubygem-notiffany": [
             "@ruby-packagers-sig",
-            "jackorp"
+            "orphan"
         ],
         "rubygem-oauth": [
             "orphan"
@@ -135626,6 +135632,11 @@
         "rust-icu_collections": [
             "@rust-sig",
             "music"
+        ],
+        "rust-icu_locale": [
+            "@rust-sig",
+            "music",
+            "v02460"
         ],
         "rust-icu_locale_core": [
             "@rust-sig",

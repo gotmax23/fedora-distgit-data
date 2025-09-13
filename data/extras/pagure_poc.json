@@ -25436,6 +25436,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "dustrac": {
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
+        },
         "dvb-apps": {
             "admin": "orphan",
             "epel": "orphan",
@@ -69967,9 +69972,9 @@
             "fedora": "than"
         },
         "kompose": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "buckaroogeek",
+            "epel": "buckaroogeek",
+            "fedora": "buckaroogeek"
         },
         "kongress": {
             "admin": "aleasto",
@@ -76187,9 +76192,9 @@
             "fedora": "wcohen"
         },
         "libpgf": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "nucleo",
+            "epel": "nucleo",
+            "fedora": "nucleo"
         },
         "libphidget": {
             "admin": "orphan",
@@ -127616,6 +127621,11 @@
             "epel": "xavierb",
             "fedora": "xavierb"
         },
+        "php-smarty4": {
+            "admin": "xavierb",
+            "epel": "xavierb",
+            "fedora": "xavierb"
+        },
         "php-smbclient": {
             "admin": "remi",
             "epel": "remi",
@@ -147917,9 +147927,9 @@
             "fedora": "orphan"
         },
         "python-pygraphviz": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-pygrocy": {
             "admin": "orphan",
@@ -163182,24 +163192,24 @@
             "fedora": "mtasaka"
         },
         "rubygem-guard": {
-            "admin": "jackorp",
-            "epel": "jackorp",
-            "fedora": "jackorp"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-guard-compat": {
-            "admin": "jackorp",
-            "epel": "jackorp",
-            "fedora": "jackorp"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-guard-livereload": {
-            "admin": "jackorp",
-            "epel": "jackorp",
-            "fedora": "jackorp"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-guard-shell": {
-            "admin": "jackorp",
-            "epel": "jackorp",
-            "fedora": "jackorp"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-haml": {
             "admin": "vondruch",
@@ -163697,9 +163707,9 @@
             "fedora": "vondruch"
         },
         "rubygem-lumberjack": {
-            "admin": "jackorp",
-            "epel": "jackorp",
-            "fedora": "jackorp"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-macaddr": {
             "admin": "valtri",
@@ -164122,9 +164132,9 @@
             "fedora": "mtasaka"
         },
         "rubygem-notiffany": {
-            "admin": "jackorp",
-            "epel": "jackorp",
-            "fedora": "jackorp"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-oauth": {
             "admin": "orphan",
@@ -171788,8 +171798,8 @@
         },
         "rust-foldhash0.1": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-font-kit": {
             "admin": "decathorpe",
@@ -174950,6 +174960,11 @@
             "admin": "music",
             "epel": "music",
             "fedora": "music"
+        },
+        "rust-icu_locale": {
+            "admin": "v02460",
+            "epel": "v02460",
+            "fedora": "v02460"
         },
         "rust-icu_locale_core": {
             "admin": "music",
@@ -179998,8 +180013,8 @@
         },
         "rust-png0.17": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-podio": {
             "admin": "orphan",
@@ -185238,8 +185253,8 @@
         },
         "rust-tiff0.9": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-tiger": {
             "admin": "orphan",
