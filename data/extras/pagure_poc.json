@@ -19272,9 +19272,9 @@
             "fedora": "lkundrak"
         },
         "console-bridge": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "console-image-viewer": {
             "admin": "jvanek",
@@ -101257,9 +101257,9 @@
             "fedora": "orphan"
         },
         "octomap": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "odb": {
             "admin": "orphan",
@@ -102357,9 +102357,9 @@
             "fedora": "orphan"
         },
         "openni": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "openni-primesense": {
             "admin": "orphan",
@@ -135992,9 +135992,9 @@
             "fedora": "pbrobinson"
         },
         "python-catkin-sphinx": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-catkin_lint": {
             "admin": "ankursinha",
@@ -136007,9 +136007,9 @@
             "fedora": "ankursinha"
         },
         "python-catkin_tools": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-cattrs": {
             "admin": "ankursinha",
@@ -148163,7 +148163,7 @@
         },
         "python-pymilter": {
             "admin": "gui1ty",
-            "epel": "orphan",
+            "epel": "bojan",
             "fedora": "gui1ty"
         },
         "python-pymoc": {
@@ -150327,9 +150327,9 @@
             "fedora": "ankursinha"
         },
         "python-rospkg": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-roundrobin": {
             "admin": "jonathanspw",
@@ -189912,9 +189912,9 @@
             "fedora": "ngompa"
         },
         "sdformat": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "sdl-crypto": {
             "admin": "dcavalca",
@@ -200407,9 +200407,9 @@
             "fedora": "orphan"
         },
         "urdfdom-headers": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "uread": {
             "admin": "limb",

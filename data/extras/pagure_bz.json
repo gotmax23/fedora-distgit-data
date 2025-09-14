@@ -13844,7 +13844,6 @@
             "orphan"
         ],
         "cliquer": [
-            "carlosrodrifernandez",
             "jjames"
         ],
         "clisp": [
@@ -15016,7 +15015,7 @@
         ],
         "console-bridge": [
             "@robotics-sig",
-            "orphan"
+            "cottsay"
         ],
         "console-image-viewer": [
             "jvanek"
@@ -61955,7 +61954,6 @@
             "orphan"
         ],
         "lrcalc": [
-            "carlosrodrifernandez",
             "jjames"
         ],
         "lrmi": [
@@ -77386,7 +77384,7 @@
         ],
         "octomap": [
             "@robotics-sig",
-            "orphan",
+            "cottsay",
             "rineau"
         ],
         "odb": [
@@ -78269,8 +78267,7 @@
         "openni": [
             "@robotics-sig",
             "cottsay",
-            "jkastner",
-            "orphan"
+            "jkastner"
         ],
         "openni-primesense": [
             "cottsay",
@@ -105501,7 +105498,7 @@
         ],
         "python-catkin-sphinx": [
             "@robotics-sig",
-            "orphan"
+            "cottsay"
         ],
         "python-catkin_lint": [
             "@robotics-sig",
@@ -105519,7 +105516,6 @@
             "@robotics-sig",
             "ankursinha",
             "cottsay",
-            "orphan",
             "rmattes"
         ],
         "python-cattrs": [
@@ -115029,6 +115025,7 @@
             "salimma"
         ],
         "python-pymilter": [
+            "bojan",
             "gui1ty",
             "pwouters",
             "sdgathman"
@@ -116733,8 +116730,7 @@
         ],
         "python-rospkg": [
             "@robotics-sig",
-            "cottsay",
-            "orphan"
+            "cottsay"
         ],
         "python-roundrobin": [
             "jonathanspw"
@@ -147325,7 +147321,7 @@
         ],
         "sdformat": [
             "@robotics-sig",
-            "orphan"
+            "cottsay"
         ],
         "sdl-crypto": [
             "dcavalca"
@@ -155206,7 +155202,7 @@
         ],
         "urdfdom-headers": [
             "@robotics-sig",
-            "orphan"
+            "cottsay"
         ],
         "uread": [
             "limb"
