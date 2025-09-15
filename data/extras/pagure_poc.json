@@ -43112,9 +43112,9 @@
             "fedora": "orphan"
         },
         "golang-github-akutz-gosync": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-akutz-memconn": {
             "admin": "orphan",
@@ -46237,9 +46237,9 @@
             "fedora": "eclipseo"
         },
         "golang-github-fatih-color": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "mikep",
+            "epel": "mikep",
+            "fedora": "mikep"
         },
         "golang-github-fatih-pool": {
             "admin": "orphan",
@@ -49032,9 +49032,9 @@
             "fedora": "fale"
         },
         "golang-github-klauspost-compress": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "mikep",
+            "epel": "mikep",
+            "fedora": "mikep"
         },
         "golang-github-klauspost-cpuid": {
             "admin": "orphan",
@@ -50002,9 +50002,9 @@
             "fedora": "dcavalca"
         },
         "golang-github-mdlayher-vsock": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-mdlayher-wifi": {
             "admin": "copperi",
@@ -51607,9 +51607,9 @@
             "fedora": "@go-sig"
         },
         "golang-github-projectdiscovery-blackrock": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-projectdiscovery-cdncheck": {
             "admin": "orphan",
@@ -52067,9 +52067,9 @@
             "fedora": "orphan"
         },
         "golang-github-remeh-sizedwaitgroup": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-remind101-migrate": {
             "admin": "eclipseo",
@@ -61847,9 +61847,9 @@
             "fedora": "peter"
         },
         "ilmbase": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
         },
         "ilua": {
             "admin": "churchyard",
@@ -89407,9 +89407,9 @@
             "fedora": "tibbs"
         },
         "nbc": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "dcavalca",
+            "epel": "dcavalca",
+            "fedora": "dcavalca"
         },
         "nbd": {
             "admin": "pgreco",
@@ -98917,9 +98917,9 @@
             "fedora": "orphan"
         },
         "notejot": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "notekit": {
             "admin": "lyessaadi",
@@ -99042,9 +99042,9 @@
             "fedora": "xfgusta"
         },
         "nqc": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "dcavalca",
+            "epel": "dcavalca",
+            "fedora": "dcavalca"
         },
         "nqp": {
             "admin": "topazus",
@@ -122392,9 +122392,9 @@
             "fedora": "orphan"
         },
         "phonon-qt4": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "sagitter",
+            "epel": "sagitter",
+            "fedora": "sagitter"
         },
         "phonon-qt4-backend-gstreamer": {
             "admin": "orphan",
@@ -130817,9 +130817,9 @@
             "fedora": "marcdeop"
         },
         "powerline": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "sicherha",
+            "epel": "sicherha",
+            "fedora": "sicherha"
         },
         "powerline-go": {
             "admin": "eclipseo",
@@ -149617,9 +149617,9 @@
             "fedora": "thunderbirdtr"
         },
         "python-queuelib": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "echevemaster",
+            "epel": "echevemaster",
+            "fedora": "echevemaster"
         },
         "python-quixote": {
             "admin": "orphan",
@@ -175021,6 +175021,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "rust-icu_segmenter": {
+            "admin": "v02460",
+            "epel": "v02460",
+            "fedora": "v02460"
+        },
         "rust-icu_segmenter_data": {
             "admin": "v02460",
             "epel": "v02460",
@@ -195588,7 +195593,7 @@
         },
         "systemd-extras": {
             "admin": "robert",
-            "epel": "jonathanspw",
+            "epel": "robert",
             "fedora": "robert"
         },
         "systemd-swap": {

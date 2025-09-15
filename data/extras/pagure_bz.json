@@ -31214,6 +31214,7 @@
             "@gnome-sig",
             "@multimedia-sig",
             "@rust-sig",
+            "bgilbert",
             "decathorpe"
         ],
         "glycin-loaders": [
@@ -33283,7 +33284,7 @@
         ],
         "golang-github-akutz-gosync": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-akutz-memconn": [
             "@go-sig",
@@ -35677,7 +35678,7 @@
         ],
         "golang-github-fatih-color": [
             "@go-sig",
-            "orphan"
+            "mikep"
         ],
         "golang-github-fatih-pool": [
             "jchaloup",
@@ -37794,7 +37795,7 @@
         ],
         "golang-github-klauspost-compress": [
             "@go-sig",
-            "orphan"
+            "mikep"
         ],
         "golang-github-klauspost-cpuid": [
             "@go-sig",
@@ -38538,7 +38539,7 @@
         ],
         "golang-github-mdlayher-vsock": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-mdlayher-wifi": [
             "@go-sig",
@@ -39795,7 +39796,7 @@
         ],
         "golang-github-projectdiscovery-blackrock": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-projectdiscovery-cdncheck": [
             "@go-sig",
@@ -40146,7 +40147,7 @@
         ],
         "golang-github-remeh-sizedwaitgroup": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-remind101-migrate": [
             "@go-sig",
@@ -47588,8 +47589,8 @@
         ],
         "ilmbase": [
             "kwizart",
-            "orphan",
-            "rdieter"
+            "rdieter",
+            "yselkowitz"
         ],
         "ilua": [
             "@python-packagers-sig",
@@ -69283,7 +69284,7 @@
             "tibbs"
         ],
         "nbc": [
-            "orphan"
+            "dcavalca"
         ],
         "nbd": [
             "pgreco"
@@ -75656,7 +75657,7 @@
             "orphan"
         ],
         "notejot": [
-            "music"
+            "orphan"
         ],
         "notekit": [
             "lyessaadi"
@@ -75747,7 +75748,7 @@
             "xfgusta"
         ],
         "nqc": [
-            "orphan"
+            "dcavalca"
         ],
         "nqp": [
             "gerd",
@@ -95950,7 +95951,7 @@
             "than"
         ],
         "phonon-qt4": [
-            "orphan"
+            "sagitter"
         ],
         "phonon-qt4-backend-gstreamer": [
             "orphan"
@@ -101595,7 +101596,6 @@
             "than"
         ],
         "powerline": [
-            "orphan",
             "salimma",
             "sicherha"
         ],
@@ -106155,7 +106155,8 @@
         ],
         "python-commoncode": [
             "@python-packagers-sig",
-            "eclipseo"
+            "eclipseo",
+            "gotmax23"
         ],
         "python-compal": [
             "orphan"
@@ -108088,11 +108089,13 @@
         ],
         "python-extractcode-7z": [
             "@python-packagers-sig",
-            "eclipseo"
+            "eclipseo",
+            "gotmax23"
         ],
         "python-extractcode-libarchive": [
             "@python-packagers-sig",
-            "eclipseo"
+            "eclipseo",
+            "gotmax23"
         ],
         "python-extras": [
             "@python-packagers-sig",
@@ -112719,7 +112722,8 @@
         ],
         "python-normality": [
             "@python-packagers-sig",
-            "eclipseo"
+            "eclipseo",
+            "gotmax23"
         ],
         "python-norpm": [
             "praiskup"
@@ -116154,8 +116158,8 @@
             "thunderbirdtr"
         ],
         "python-queuelib": [
-            "fab",
-            "orphan"
+            "echevemaster",
+            "fab"
         ],
         "python-quixote": [
             "maxamillion",
@@ -116940,7 +116944,8 @@
         ],
         "python-saneyaml": [
             "@python-packagers-sig",
-            "eclipseo"
+            "eclipseo",
+            "gotmax23"
         ],
         "python-sanic": [
             "blaise",
@@ -119302,7 +119307,8 @@
         ],
         "python-typecode-libmagic": [
             "@python-packagers-sig",
-            "eclipseo"
+            "eclipseo",
+            "gotmax23"
         ],
         "python-typedecorator": [
             "orphan"
@@ -119590,7 +119596,8 @@
         ],
         "python-uritools": [
             "@python-packagers-sig",
-            "eclipseo"
+            "eclipseo",
+            "gotmax23"
         ],
         "python-url-normalize": [
             "kni"
@@ -135679,6 +135686,11 @@
         "rust-icu_provider_macros": [
             "@rust-sig",
             "music"
+        ],
+        "rust-icu_segmenter": [
+            "@rust-sig",
+            "music",
+            "v02460"
         ],
         "rust-icu_segmenter_data": [
             "@rust-sig",
