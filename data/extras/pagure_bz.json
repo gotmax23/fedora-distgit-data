@@ -10439,8 +10439,8 @@
             "orphan"
         ],
         "bandit": [
-            "mikelo2",
-            "misc"
+            "misc",
+            "orphan"
         ],
         "bandwidthd": [
             "orphan"
@@ -11238,7 +11238,7 @@
         ],
         "bloaty": [
             "music",
-            "orphan"
+            "suve"
         ],
         "blobAndConquer": [
             "orphan"
@@ -13266,6 +13266,7 @@
             "petersen"
         ],
         "chezmoi": [
+            "@go-sig",
             "mikelo2"
         ],
         "chibi-scheme": [
@@ -23942,7 +23943,7 @@
         "firebird": [
             "cicku",
             "jonathanspw",
-            "makowski"
+            "orphan"
         ],
         "firecontrol": [
             "orphan"
@@ -35169,7 +35170,7 @@
         "golang-github-djherbis-times": [
             "@go-sig",
             "jchaloup",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-dlasky-gotk3-layershell": [
             "@go-sig",
@@ -44904,7 +44905,8 @@
             "orphan"
         ],
         "guidelines-support-library": [
-            "fed500"
+            "fed500",
+            "fedepell"
         ],
         "guile": [
             "orphan"
@@ -45739,6 +45741,10 @@
         ],
         "hip": [
             "orphan"
+        ],
+        "hip-tests": [
+            "@rocm-packagers-sig",
+            "trix"
         ],
         "hipblas": [
             "@rocm-packagers-sig",
@@ -52343,7 +52349,6 @@
             "linville",
             "masami",
             "mchehab",
-            "naiithink",
             "patrickt",
             "smallorange",
             "steved"
@@ -55601,7 +55606,7 @@
             "rstrode"
         ],
         "libIDL": [
-            "orphan",
+            "limb",
             "rhughes",
             "rstrode"
         ],
@@ -77891,6 +77896,9 @@
             "alexpl",
             "jussilehtola",
             "sagitter"
+        ],
+        "openbao": [
+            "dwd"
         ],
         "openbgpd": [
             "robert"
@@ -104149,7 +104157,7 @@
         ],
         "python-arpeggio": [
             "@python-packagers-sig",
-            "churchyard"
+            "orphan"
         ],
         "python-arpy": [
             "@python-packagers-sig",
@@ -113552,7 +113560,7 @@
         ],
         "python-parver": [
             "@python-packagers-sig",
-            "churchyard"
+            "orphan"
         ],
         "python-pass-import": [
             "wojnilowicz"
@@ -118448,7 +118456,7 @@
             "music"
         ],
         "python-system-calls": [
-            "hrw"
+            "orphan"
         ],
         "python-systemd": [
             "mjia",
@@ -126265,6 +126273,7 @@
         ],
         "rubygem-flexmock": [
             "mtasaka",
+            "stevetraylen",
             "tdawson"
         ],
         "rubygem-fog": [
@@ -130344,6 +130353,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-canon-json": [
+            "uril"
+        ],
         "rust-cap": [
             "@rust-sig",
             "dcavalca"
@@ -133158,6 +133170,7 @@
             "decathorpe"
         ],
         "rust-foldhash0.1": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-font-kit": [
@@ -137851,6 +137864,9 @@
         "rust-more-asserts": [
             "orphan"
         ],
+        "rust-moxcms": [
+            "decathorpe"
+        ],
         "rust-mp4parse": [
             "@rust-sig",
             "decathorpe"
@@ -139624,6 +139640,7 @@
             "decathorpe"
         ],
         "rust-png0.17": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-podio": [
@@ -140208,6 +140225,9 @@
         "rust-pwd": [
             "@rust-sig",
             "salimma"
+        ],
+        "rust-pxfm": [
+            "decathorpe"
         ],
         "rust-pyo3": [
             "@rust-sig",
@@ -143713,6 +143733,7 @@
             "decathorpe"
         ],
         "rust-tiff0.9": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-tiger": [
@@ -148820,6 +148841,7 @@
             "dfateyev"
         ],
         "smtprelay": [
+            "@go-sig",
             "neelc"
         ],
         "smuxi": [

@@ -8735,7 +8735,7 @@
             "orphan"
         ],
         "bandit": [
-            "mikelo2",
+            "orphan",
             "misc"
         ],
         "bandwidthd": [
@@ -9442,7 +9442,7 @@
             "preichl"
         ],
         "bloaty": [
-            "orphan",
+            "suve",
             "music"
         ],
         "blobAndConquer": [
@@ -20632,7 +20632,7 @@
             "suraia"
         ],
         "firebird": [
-            "makowski",
+            "orphan",
             "cicku"
         ],
         "firecontrol": [
@@ -30002,7 +30002,7 @@
             "eclipseo"
         ],
         "golang-github-djherbis-times": [
-            "mikelo2",
+            "orphan",
             "jchaloup"
         ],
         "golang-github-dlasky-gotk3-layershell": [
@@ -38684,6 +38684,9 @@
         "hip": [
             "orphan"
         ],
+        "hip-tests": [
+            "trix"
+        ],
         "hipblas": [
             "trix"
         ],
@@ -46966,7 +46969,7 @@
             "jexposit"
         ],
         "libIDL": [
-            "orphan",
+            "limb",
             "rstrode",
             "rhughes",
             "alexl"
@@ -67068,6 +67071,9 @@
             "alexpl",
             "jussilehtola"
         ],
+        "openbao": [
+            "dwd"
+        ],
         "openbgpd": [
             "robert"
         ],
@@ -69616,8 +69622,7 @@
         ],
         "perl-App-Asciio": [
             "orphan",
-            "jplesnik",
-            "ppisar"
+            "jplesnik"
         ],
         "perl-App-CLI": [
             "eseyman"
@@ -90158,7 +90163,7 @@
             "orphan"
         ],
         "python-arpeggio": [
-            "churchyard"
+            "orphan"
         ],
         "python-arpy": [
             "jonathanspw",
@@ -98233,7 +98238,7 @@
             "qulogic"
         ],
         "python-parver": [
-            "churchyard"
+            "orphan"
         ],
         "python-pass-import": [
             "wojnilowicz"
@@ -102422,7 +102427,7 @@
             "music"
         ],
         "python-system-calls": [
-            "hrw"
+            "orphan"
         ],
         "python-systemd": [
             "zbyszek",
@@ -112691,6 +112696,9 @@
         "rust-camino": [
             "decathorpe"
         ],
+        "rust-canon-json": [
+            "uril"
+        ],
         "rust-cap": [
             "dcavalca"
         ],
@@ -118510,6 +118518,9 @@
         "rust-more-asserts": [
             "orphan"
         ],
+        "rust-moxcms": [
+            "decathorpe"
+        ],
         "rust-mp4parse": [
             "decathorpe"
         ],
@@ -120344,6 +120355,9 @@
         ],
         "rust-pwd": [
             "salimma"
+        ],
+        "rust-pxfm": [
+            "decathorpe"
         ],
         "rust-pyo3": [
             "decathorpe"
