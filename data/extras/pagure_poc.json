@@ -9543,7 +9543,7 @@
         },
         "akmods": {
             "admin": "kwizart",
-            "epel": "sergiomb",
+            "epel": "kwizart",
             "fedora": "kwizart"
         },
         "akode": {
@@ -31717,9 +31717,9 @@
             "fedora": "orphan"
         },
         "fontforge": {
-            "admin": "kevin",
-            "epel": "kevin",
-            "fedora": "kevin"
+            "admin": "pnemade",
+            "epel": "pnemade",
+            "fedora": "pnemade"
         },
         "fontik": {
             "admin": "orphan",
@@ -42617,9 +42617,9 @@
             "fedora": "orphan"
         },
         "golang-contrib-opencensus-exporter-stackdriver": {
-            "admin": "alexsaezm",
-            "epel": "alexsaezm",
-            "fedora": "alexsaezm"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-contrib-opencensus-integrations-ocsql": {
             "admin": "mikep",
@@ -55697,9 +55697,9 @@
             "fedora": "alexsaezm"
         },
         "golang-opentelemetry-contrib-0.20": {
-            "admin": "alexsaezm",
-            "epel": "alexsaezm",
-            "fedora": "alexsaezm"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-opentelemetry-otel": {
             "admin": "orphan",
@@ -71872,9 +71872,9 @@
             "fedora": "orphan"
         },
         "libXcm": {
-            "admin": "kwizart",
-            "epel": "kwizart",
-            "fedora": "kwizart"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "libXcomposite": {
             "admin": "bentiss",
@@ -77697,9 +77697,9 @@
             "fedora": "topazus"
         },
         "libuninameslist": {
-            "admin": "kevin",
-            "epel": "kevin",
-            "fedora": "kevin"
+            "admin": "pnemade",
+            "epel": "pnemade",
+            "fedora": "pnemade"
         },
         "libuninum": {
             "admin": "terjeros",
@@ -159733,8 +159733,8 @@
         },
         "redhat-rpm-config": {
             "admin": "ffesti",
-            "epel": "ffesti",
-            "fedora": "ffesti"
+            "epel": "packaging-team",
+            "fedora": "packaging-team"
         },
         "redict": {
             "admin": "jonathanspw",
@@ -163302,9 +163302,9 @@
             "fedora": "orphan"
         },
         "rubygem-hiredis": {
-            "admin": "vondruch",
-            "epel": "vondruch",
-            "fedora": "vondruch"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-hitimes": {
             "admin": "vondruch",
@@ -172727,9 +172727,9 @@
             "fedora": "@rust-sig"
         },
         "rust-git-absorb": {
-            "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-git-delta": {
             "admin": "omos",
@@ -173352,7 +173352,7 @@
             "fedora": "@rust-sig"
         },
         "rust-google-cloud-auth": {
-            "admin": "ankursinha",
+            "admin": "orphan",
             "epel": "ankursinha",
             "fedora": "@rust-sig"
         },
@@ -173362,7 +173362,7 @@
             "fedora": "@rust-sig"
         },
         "rust-google-cloud-storage": {
-            "admin": "ankursinha",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -199427,9 +199427,9 @@
             "fedora": "gbailey"
         },
         "tweeny": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "mochaa",
+            "epel": "mochaa",
+            "fedora": "mochaa"
         },
         "tweepy": {
             "admin": "orphan",
