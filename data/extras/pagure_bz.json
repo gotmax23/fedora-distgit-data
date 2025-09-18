@@ -43234,6 +43234,10 @@
         "golang-xorm-core": [
             "orphan"
         ],
+        "golangci-lint": [
+            "@go-sig",
+            "gotmax23"
+        ],
         "gold": [
             "orphan",
             "zaniyah"
@@ -66859,6 +66863,9 @@
             "gil",
             "java-sig",
             "orphan"
+        ],
+        "minify": [
+            "mikelo2"
         ],
         "minigalaxy": [
             "atim"
@@ -94417,7 +94424,6 @@
             "mspacek",
             "perl-sig",
             "pghmcfc",
-            "rhughes",
             "rstrode"
         ],
         "perl-URI-Encode": [
@@ -115762,7 +115768,7 @@
             "sergiopr"
         ],
         "python-pytest-ordering": [
-            "orphan"
+            "rcallicotte"
         ],
         "python-pytest-param-files": [
             "@epel-packagers-sig",
@@ -130466,6 +130472,9 @@
             "@rust-sig",
             "atim"
         ],
+        "rust-cargo-rpmstatus": [
+            "pemensik"
+        ],
         "rust-cargo-util": [
             "@rust-sig",
             "decathorpe"
@@ -135390,9 +135399,15 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-hickory-proto0.24": [
+            "music"
+        ],
         "rust-hickory-resolver": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-hickory-resolver0.24": [
+            "music"
         ],
         "rust-hidapi": [
             "@rust-sig",
@@ -137840,6 +137855,10 @@
         "rust-modifier": [
             "orphan"
         ],
+        "rust-moka": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-monitord": [
             "@rust-sig",
             "dcavalca"
@@ -138479,6 +138498,10 @@
         "rust-number_prefix": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-numpy": [
+            "@rust-sig",
+            "xanderlent"
         ],
         "rust-numtoa": [
             "@rust-sig",
@@ -142171,6 +142194,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-serde_core": [
+            "decathorpe"
+        ],
         "rust-serde_default": [
             "@rust-sig",
             "wojnilowicz"
@@ -143412,6 +143438,11 @@
         "rust-tabwriter": [
             "@rust-sig",
             "music"
+        ],
+        "rust-tagptr": [
+            "@rust-sig",
+            "music",
+            "pemensik"
         ],
         "rust-take": [
             "orphan"
@@ -145569,6 +145600,7 @@
         "rust-vhost-device-vsock": [
             "@rust-sig",
             "dm0",
+            "dorinda",
             "sbonazzo",
             "slp"
         ],
@@ -145639,6 +145671,9 @@
         "rust-vsimd": [
             "@rust-sig",
             "orphan"
+        ],
+        "rust-vsock": [
+            "dorinda"
         ],
         "rust-vsort": [
             "@rust-sig",
