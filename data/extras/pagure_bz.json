@@ -10374,7 +10374,7 @@
             "orphan"
         ],
         "badwolf": [
-            "lyessaadi"
+            "orphan"
         ],
         "baekmuk-bdf-fonts": [
             "fonts-sig",
@@ -12360,7 +12360,7 @@
             "orphan"
         ],
         "cage": [
-            "lyessaadi"
+            "orphan"
         ],
         "cagibi": [
             "jreznik",
@@ -17634,7 +17634,7 @@
             "orphan"
         ],
         "dialect": [
-            "lyessaadi"
+            "orphan"
         ],
         "dialog": [
             "mlichvar",
@@ -54132,8 +54132,7 @@
             "than"
         ],
         "komikku": [
-            "atim",
-            "lyessaadi"
+            "atim"
         ],
         "kommit": [
             "@kde-sig",
@@ -64257,7 +64256,7 @@
             "orphan"
         ],
         "mbpfan": [
-            "lyessaadi"
+            "orphan"
         ],
         "mbrowse": [
             "orphan"
@@ -64681,7 +64680,7 @@
             "zsun"
         ],
         "menulibre": [
-            "lyessaadi"
+            "orphan"
         ],
         "mepack": [
             "iucar"
@@ -68536,7 +68535,7 @@
             "praiskup"
         ],
         "multimarkdown": [
-            "lyessaadi"
+            "orphan"
         ],
         "multimedia-menus": [
             "eeickmeyer",
@@ -75672,7 +75671,7 @@
             "orphan"
         ],
         "notekit": [
-            "lyessaadi"
+            "orphan"
         ],
         "notemeister": [
             "orphan"
@@ -105892,8 +105891,7 @@
         ],
         "python-cloudscraper": [
             "atim",
-            "limb",
-            "lyessaadi"
+            "limb"
         ],
         "python-cloudservers": [
             "clalance",
@@ -106142,7 +106140,6 @@
             "fed500"
         ],
         "python-colorthief": [
-            "lyessaadi",
             "orphan"
         ],
         "python-colorzero": [
@@ -114383,8 +114380,7 @@
         ],
         "python-pure-protobuf": [
             "dherrera",
-            "limb",
-            "lyessaadi"
+            "limb"
         ],
         "python-puremagic": [
             "@neuro-sig",
@@ -114749,7 +114745,7 @@
             "orphan"
         ],
         "python-pyfiglet": [
-            "lyessaadi"
+            "orphan"
         ],
         "python-pyfim": [
             "orphan"
@@ -120183,7 +120179,7 @@
             "orphan"
         ],
         "python-willow": [
-            "lyessaadi"
+            "fedepell"
         ],
         "python-winacl": [
             "orphan"
@@ -120509,7 +120505,7 @@
             "orphan"
         ],
         "python-yapsy": [
-            "lyessaadi"
+            "fedepell"
         ],
         "python-yaql": [
             "@openstack-sig",
@@ -140805,6 +140801,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-rand_regex": [
+            "decathorpe"
+        ],
         "rust-rand_xorshift": [
             "@rust-sig",
             "jistone"
@@ -147795,7 +147794,7 @@
             "whot"
         ],
         "setzer": [
-            "lyessaadi"
+            "orphan"
         ],
         "sevmgr": [
             "denisarnaud"
@@ -149600,6 +149599,7 @@
             "mizdebsk"
         ],
         "spice-protocol": [
+            "dcavalca",
             "elmarco",
             "jforbes",
             "jwrdegoede",

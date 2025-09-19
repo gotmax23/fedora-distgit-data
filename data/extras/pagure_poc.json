@@ -13202,9 +13202,9 @@
             "fedora": "orphan"
         },
         "badwolf": {
-            "admin": "lyessaadi",
-            "epel": "lyessaadi",
-            "fedora": "lyessaadi"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "baekmuk-bdf-fonts": {
             "admin": "pwu",
@@ -15747,9 +15747,9 @@
             "fedora": "orphan"
         },
         "cage": {
-            "admin": "lyessaadi",
-            "epel": "lyessaadi",
-            "fedora": "lyessaadi"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "cagibi": {
             "admin": "orphan",
@@ -22497,9 +22497,9 @@
             "fedora": "orphan"
         },
         "dialect": {
-            "admin": "lyessaadi",
-            "epel": "lyessaadi",
-            "fedora": "lyessaadi"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "dialog": {
             "admin": "mlichvar",
@@ -82587,9 +82587,9 @@
             "fedora": "orphan"
         },
         "mbpfan": {
-            "admin": "lyessaadi",
-            "epel": "lyessaadi",
-            "fedora": "lyessaadi"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "mbrowse": {
             "admin": "orphan",
@@ -83192,9 +83192,9 @@
             "fedora": "than"
         },
         "menulibre": {
-            "admin": "lyessaadi",
-            "epel": "lyessaadi",
-            "fedora": "lyessaadi"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "mepack": {
             "admin": "iucar",
@@ -88412,9 +88412,9 @@
             "fedora": "mschorm"
         },
         "multimarkdown": {
-            "admin": "lyessaadi",
-            "epel": "lyessaadi",
-            "fedora": "lyessaadi"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "multimedia-menus": {
             "admin": "oget",
@@ -98937,9 +98937,9 @@
             "fedora": "orphan"
         },
         "notekit": {
-            "admin": "lyessaadi",
-            "epel": "lyessaadi",
-            "fedora": "lyessaadi"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "notemeister": {
             "admin": "orphan",
@@ -147797,9 +147797,9 @@
             "fedora": "orphan"
         },
         "python-pyfiglet": {
-            "admin": "lyessaadi",
-            "epel": "lyessaadi",
-            "fedora": "lyessaadi"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pyfim": {
             "admin": "orphan",
@@ -154712,9 +154712,9 @@
             "fedora": "orphan"
         },
         "python-willow": {
-            "admin": "lyessaadi",
-            "epel": "lyessaadi",
-            "fedora": "lyessaadi"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-winacl": {
             "admin": "orphan",
@@ -155152,9 +155152,9 @@
             "fedora": "orphan"
         },
         "python-yapsy": {
-            "admin": "lyessaadi",
-            "epel": "lyessaadi",
-            "fedora": "lyessaadi"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-yaql": {
             "admin": "amoralej",
@@ -181541,6 +181541,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-rand_regex": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-rand_xorshift": {
             "admin": "jistone",
             "epel": "@rust-sig",
@@ -190527,9 +190532,9 @@
             "fedora": "whot"
         },
         "setzer": {
-            "admin": "lyessaadi",
-            "epel": "lyessaadi",
-            "fedora": "lyessaadi"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "sevmgr": {
             "admin": "denisarnaud",
