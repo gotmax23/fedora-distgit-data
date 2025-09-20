@@ -2297,6 +2297,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "llvm21": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "lokalize": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -165952,9 +165957,9 @@
             "fedora": "orphan"
         },
         "ruff": {
-            "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "ruff-lsp": {
             "admin": "orphan",
@@ -174525,6 +174530,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-hashbrown0.15": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-hashbrown0.5": {
             "admin": "orphan",
@@ -209754,6 +209764,11 @@
             "fedora": "omejzlik"
         },
         "xxhash": {
+            "admin": "vkadlcik",
+            "epel": "vkadlcik",
+            "fedora": "vkadlcik"
+        },
+        "yasm": {
             "admin": "vkadlcik",
             "epel": "vkadlcik",
             "fedora": "vkadlcik"

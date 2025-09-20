@@ -1872,6 +1872,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "llvm21": [
+            "yselkowitz"
+        ],
         "lokalize": [
             "@flatpak-sig",
             "yselkowitz"
@@ -32384,6 +32387,7 @@
             "orphan"
         ],
         "gnome-video-effects": [
+            "@gnome-sig",
             "jwrdegoede",
             "yaneti"
         ],
@@ -128529,6 +128533,7 @@
             "@python-packagers-sig",
             "@rust-sig",
             "decathorpe",
+            "music",
             "nixuser"
         ],
         "ruff-lsp": [
@@ -135288,6 +135293,9 @@
         "rust-hashbrown0.14": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-hashbrown0.15": [
+            "music"
         ],
         "rust-hashbrown0.5": [
             "orphan"
@@ -162426,6 +162434,9 @@
         ],
         "xxhash": [
             "happz",
+            "vkadlcik"
+        ],
+        "yasm": [
             "vkadlcik"
         ],
         "zip": [
