@@ -200027,9 +200027,9 @@
             "fedora": "atim"
         },
         "ulogd": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "warthog9",
+            "epel": "warthog9",
+            "fedora": "warthog9"
         },
         "ultimaker-marlin-firmware": {
             "admin": "orphan",
