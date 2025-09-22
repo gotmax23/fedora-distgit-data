@@ -15752,9 +15752,9 @@
             "fedora": "orphan"
         },
         "cage": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "cagibi": {
             "admin": "orphan",
@@ -31951,6 +31951,11 @@
             "epel": "xavierb",
             "fedora": "xavierb"
         },
+        "foundry": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "four-in-a-row": {
             "admin": "yaneti",
             "epel": "yaneti",
@@ -43142,9 +43147,9 @@
             "fedora": "mikelo2"
         },
         "golang-github-alecthomas-assert": {
-            "admin": "qulogic",
-            "epel": "qulogic",
-            "fedora": "qulogic"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-alecthomas-assert-2": {
             "admin": "mikep",
@@ -44127,9 +44132,9 @@
             "fedora": "orphan"
         },
         "golang-github-bradenhilton-cityhash": {
-            "admin": "qulogic",
-            "epel": "qulogic",
-            "fedora": "qulogic"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-bradenhilton-mozillainstallhash": {
             "admin": "orphan",
@@ -45052,9 +45057,9 @@
             "fedora": "orphan"
         },
         "golang-github-cosiner-argv": {
-            "admin": "qulogic",
-            "epel": "qulogic",
-            "fedora": "qulogic"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-cosmos72-gomacro": {
             "admin": "orphan",
@@ -45757,9 +45762,9 @@
             "fedora": "orphan"
         },
         "golang-github-dpotapov-spnego": {
-            "admin": "qulogic",
-            "epel": "qulogic",
-            "fedora": "qulogic"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-dravenk-webthing": {
             "admin": "orphan",
@@ -46582,9 +46587,9 @@
             "fedora": "qulogic"
         },
         "golang-github-git-lfs-netrc": {
-            "admin": "qulogic",
-            "epel": "qulogic",
-            "fedora": "qulogic"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-git-lfs-ntlm": {
             "admin": "orphan",
@@ -46592,9 +46597,9 @@
             "fedora": "orphan"
         },
         "golang-github-git-lfs-pktline": {
-            "admin": "qulogic",
-            "epel": "qulogic",
-            "fedora": "qulogic"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-git-lfs-wildmatch": {
             "admin": "orphan",
@@ -50332,9 +50337,9 @@
             "fedora": "copperi"
         },
         "golang-github-moby-patternmatcher": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-moby-spdystream": {
             "admin": "mikelo2",
@@ -52397,9 +52402,9 @@
             "fedora": "orphan"
         },
         "golang-github-saracen-walker": {
-            "admin": "qulogic",
-            "epel": "qulogic",
-            "fedora": "qulogic"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-sasha-s-deadlock": {
             "admin": "orphan",
@@ -53047,9 +53052,9 @@
             "fedora": "orphan"
         },
         "golang-github-spf13-jwalterweatherman": {
-            "admin": "qulogic",
-            "epel": "qulogic",
-            "fedora": "qulogic"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-spf13-nitro": {
             "admin": "orphan",
@@ -53107,9 +53112,9 @@
             "fedora": "orphan"
         },
         "golang-github-ssgelm-cookiejarparser": {
-            "admin": "qulogic",
-            "epel": "qulogic",
-            "fedora": "qulogic"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-ssor-bom": {
             "admin": "eclipseo",
@@ -54832,9 +54837,9 @@
             "fedora": "qulogic"
         },
         "golang-gopkg-jcmturner-goidentity-2": {
-            "admin": "qulogic",
-            "epel": "qulogic",
-            "fedora": "qulogic"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-gopkg-jcmturner-goidentity-3": {
             "admin": "mikelo2",
@@ -54852,9 +54857,9 @@
             "fedora": "alexsaezm"
         },
         "golang-gopkg-jcmturner-rpc-0": {
-            "admin": "qulogic",
-            "epel": "qulogic",
-            "fedora": "qulogic"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-gopkg-jcmturner-rpc-1": {
             "admin": "alexsaezm",
@@ -147802,9 +147807,9 @@
             "fedora": "orphan"
         },
         "python-pyfiglet": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-pyfim": {
             "admin": "orphan",
@@ -170251,6 +170256,11 @@
             "epel": "orion",
             "fedora": "orion"
         },
+        "rust-delicious-adwaita": {
+            "admin": "jsteffan",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-delta_e": {
             "admin": "orphan",
             "epel": "@rust-sig",
@@ -183086,6 +183096,11 @@
             "epel": "pbrobinson",
             "fedora": "pbrobinson"
         },
+        "rust-secrecy0.8": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-secret-service": {
             "admin": "music",
             "epel": "music",
@@ -190542,9 +190557,9 @@
             "fedora": "whot"
         },
         "setzer": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "carlosrodrifernandez",
+            "epel": "carlosrodrifernandez",
+            "fedora": "carlosrodrifernandez"
         },
         "sevmgr": {
             "admin": "denisarnaud",

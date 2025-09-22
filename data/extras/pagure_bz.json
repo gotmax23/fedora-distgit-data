@@ -12363,7 +12363,7 @@
             "orphan"
         ],
         "cage": [
-            "orphan"
+            "fedepell"
         ],
         "cagibi": [
             "jreznik",
@@ -24709,6 +24709,10 @@
         "foundation-icons-fonts": [
             "xavierb"
         ],
+        "foundry": [
+            "@gnome-sig",
+            "decathorpe"
+        ],
         "four-in-a-row": [
             "@gnome-sig",
             "catanzaro",
@@ -33310,7 +33314,7 @@
             "@deepinde-sig",
             "@go-sig",
             "felixonmars",
-            "qulogic",
+            "orphan",
             "zsun"
         ],
         "golang-github-alecthomas-assert-2": [
@@ -34071,7 +34075,7 @@
         ],
         "golang-github-bradenhilton-cityhash": [
             "@go-sig",
-            "qulogic"
+            "orphan"
         ],
         "golang-github-bradenhilton-mozillainstallhash": [
             "orphan"
@@ -34773,7 +34777,7 @@
         ],
         "golang-github-cosiner-argv": [
             "@go-sig",
-            "qulogic"
+            "orphan"
         ],
         "golang-github-cosmos72-gomacro": [
             "orphan"
@@ -35306,7 +35310,7 @@
         ],
         "golang-github-dpotapov-spnego": [
             "@go-sig",
-            "qulogic"
+            "orphan"
         ],
         "golang-github-dravenk-webthing": [
             "orphan"
@@ -35944,14 +35948,14 @@
         ],
         "golang-github-git-lfs-netrc": [
             "@go-sig",
-            "qulogic"
+            "orphan"
         ],
         "golang-github-git-lfs-ntlm": [
             "orphan"
         ],
         "golang-github-git-lfs-pktline": [
             "@go-sig",
-            "qulogic"
+            "orphan"
         ],
         "golang-github-git-lfs-wildmatch": [
             "orphan"
@@ -38795,7 +38799,7 @@
         ],
         "golang-github-moby-patternmatcher": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-moby-spdystream": [
             "@go-sig",
@@ -40406,7 +40410,7 @@
         ],
         "golang-github-saracen-walker": [
             "@go-sig",
-            "qulogic"
+            "orphan"
         ],
         "golang-github-sasha-s-deadlock": [
             "orphan"
@@ -40898,7 +40902,7 @@
         ],
         "golang-github-spf13-jwalterweatherman": [
             "@go-sig",
-            "qulogic"
+            "orphan"
         ],
         "golang-github-spf13-nitro": [
             "orphan"
@@ -40946,7 +40950,7 @@
         ],
         "golang-github-ssgelm-cookiejarparser": [
             "@go-sig",
-            "qulogic"
+            "orphan"
         ],
         "golang-github-ssor-bom": [
             "@go-sig",
@@ -42246,7 +42250,7 @@
         ],
         "golang-gopkg-jcmturner-goidentity-2": [
             "@go-sig",
-            "qulogic"
+            "orphan"
         ],
         "golang-gopkg-jcmturner-goidentity-3": [
             "@go-sig",
@@ -42261,7 +42265,7 @@
         ],
         "golang-gopkg-jcmturner-rpc-0": [
             "@go-sig",
-            "qulogic"
+            "orphan"
         ],
         "golang-gopkg-jcmturner-rpc-1": [
             "@go-sig",
@@ -114749,7 +114753,7 @@
             "orphan"
         ],
         "python-pyfiglet": [
-            "orphan"
+            "fedepell"
         ],
         "python-pyfim": [
             "orphan"
@@ -131918,6 +131922,10 @@
             "limb",
             "orion"
         ],
+        "rust-delicious-adwaita": [
+            "@rust-sig",
+            "jsteffan"
+        ],
         "rust-delta_e": [
             "orphan"
         ],
@@ -141995,6 +142003,9 @@
             "@rust-sig",
             "pbrobinson"
         ],
+        "rust-secrecy0.8": [
+            "music"
+        ],
         "rust-secret-service": [
             "@rust-sig",
             "music"
@@ -147802,7 +147813,7 @@
             "whot"
         ],
         "setzer": [
-            "orphan"
+            "carlosrodrifernandez"
         ],
         "sevmgr": [
             "denisarnaud"
