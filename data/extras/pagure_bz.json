@@ -1873,6 +1873,7 @@
             "yselkowitz"
         ],
         "llvm21": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "lokalize": [
@@ -55445,7 +55446,7 @@
             "orphan"
         ],
         "lens-magic": [
-            "anezbeda"
+            "orphan"
         ],
         "lensfun": [
             "germano",
@@ -64726,6 +64727,7 @@
             "ignatenkobrain",
             "jexposit",
             "lyude",
+            "mpenttil",
             "rstrode",
             "tibbs",
             "tstellar"
@@ -77912,6 +77914,7 @@
             "sagitter"
         ],
         "openbao": [
+            "@go-sig",
             "dwd"
         ],
         "openbgpd": [
@@ -79517,7 +79520,7 @@
             "rcallicotte"
         ],
         "paintown": [
-            "msuchy"
+            "orphan"
         ],
         "pairs": [
             "@kde-sig",
@@ -108564,7 +108567,7 @@
             "smani"
         ],
         "python-flask-session": [
-            "orphan"
+            "fedepell"
         ],
         "python-flask-silk": [
             "orphan",
@@ -110770,7 +110773,7 @@
             "fed500"
         ],
         "python-junit_xml": [
-            "orphan"
+            "stevetraylen"
         ],
         "python-junitxml": [
             "limb"
@@ -112151,7 +112154,7 @@
             "smani"
         ],
         "python-mongomock": [
-            "orphan"
+            "smani"
         ],
         "python-mongoquery": [
             "orphan"
@@ -117129,7 +117132,7 @@
             "orphan"
         ],
         "python-sentinels": [
-            "orphan"
+            "smani"
         ],
         "python-sentry-sdk": [
             "italomga",
@@ -130360,6 +130363,7 @@
             "decathorpe"
         ],
         "rust-canon-json": [
+            "@rust-sig",
             "uril"
         ],
         "rust-cap": [
@@ -130478,6 +130482,7 @@
             "atim"
         ],
         "rust-cargo-rpmstatus": [
+            "@rust-sig",
             "pemensik"
         ],
         "rust-cargo-util": [
@@ -132966,6 +132971,10 @@
             "@rust-sig",
             "dcavalca"
         ],
+        "rust-fax_derive": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-fb_procfs": [
             "@rust-sig",
             "dcavalca"
@@ -135303,6 +135312,7 @@
             "decathorpe"
         ],
         "rust-hashbrown0.15": [
+            "@rust-sig",
             "music"
         ],
         "rust-hashbrown0.5": [
@@ -135412,6 +135422,7 @@
             "decathorpe"
         ],
         "rust-hickory-proto0.24": [
+            "@rust-sig",
             "music"
         ],
         "rust-hickory-resolver": [
@@ -135419,6 +135430,7 @@
             "decathorpe"
         ],
         "rust-hickory-resolver0.24": [
+            "@rust-sig",
             "music"
         ],
         "rust-hidapi": [
@@ -137891,6 +137903,7 @@
             "orphan"
         ],
         "rust-moxcms": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-mp4parse": [
@@ -140257,6 +140270,7 @@
             "salimma"
         ],
         "rust-pxfm": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-pyo3": [
@@ -140818,6 +140832,7 @@
             "decathorpe"
         ],
         "rust-rand_regex": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-rand_xorshift": [
@@ -142004,6 +142019,7 @@
             "pbrobinson"
         ],
         "rust-secrecy0.8": [
+            "@rust-sig",
             "music"
         ],
         "rust-secret-service": [
@@ -142213,6 +142229,7 @@
             "decathorpe"
         ],
         "rust-serde_core": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-serde_default": [
@@ -145691,6 +145708,7 @@
             "orphan"
         ],
         "rust-vsock": [
+            "@rust-sig",
             "dorinda"
         ],
         "rust-vsort": [

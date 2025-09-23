@@ -71612,9 +71612,9 @@
             "fedora": "orphan"
         },
         "lens-magic": {
-            "admin": "anezbeda",
-            "epel": "anezbeda",
-            "fedora": "anezbeda"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "lensfun": {
             "admin": "nphilipp",
@@ -103992,9 +103992,9 @@
             "fedora": "cn137"
         },
         "paintown": {
-            "admin": "msuchy",
-            "epel": "msuchy",
-            "fedora": "msuchy"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "pairs": {
             "admin": "orphan",
@@ -140002,9 +140002,9 @@
             "fedora": "smani"
         },
         "python-flask-session": {
-            "admin": "orphan",
+            "admin": "fedepell",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "fedepell"
         },
         "python-flask-silk": {
             "admin": "orphan",
@@ -142697,9 +142697,9 @@
             "fedora": "fed500"
         },
         "python-junit_xml": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "stevetraylen",
+            "epel": "stevetraylen",
+            "fedora": "stevetraylen"
         },
         "python-junitxml": {
             "admin": "limb",
@@ -144467,9 +144467,9 @@
             "fedora": "smani"
         },
         "python-mongomock": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "smani",
+            "epel": "smani",
+            "fedora": "smani"
         },
         "python-mongoquery": {
             "admin": "orphan",
@@ -150807,9 +150807,9 @@
             "fedora": "orphan"
         },
         "python-sentinels": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "smani",
+            "epel": "smani",
+            "fedora": "smani"
         },
         "python-sentry-sdk": {
             "admin": "rominf",
@@ -171560,6 +171560,11 @@
             "admin": "dcavalca",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-fax_derive": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-fb_procfs": {
             "admin": "dcavalca",
