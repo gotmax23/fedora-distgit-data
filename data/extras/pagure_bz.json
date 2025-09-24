@@ -13169,7 +13169,7 @@
             "loveshack"
         ],
         "chatterino2": [
-            "orphan"
+            "solomoncyj"
         ],
         "chatty": [
             "lihis",
@@ -55519,7 +55519,6 @@
             "susmit"
         ],
         "levmar": [
-            "aalvarez",
             "brouhaha",
             "churchyard"
         ],
@@ -79113,8 +79112,8 @@
         ],
         "oscillatord": [
             "abulimov",
-            "dcavalca",
             "leoleovich",
+            "orphan",
             "pcullen",
             "pmazzini",
             "salimma",
@@ -114408,7 +114407,7 @@
         "python-pwntools": [
             "@epel-packagers-sig",
             "mikep",
-            "ppfeister",
+            "orphan",
             "rebus"
         ],
         "python-py": [
@@ -122026,7 +122025,8 @@
         ],
         "qat-zstd-plugin": [
             "aekoroglu",
-            "vladis"
+            "vladis",
+            "yogaraj"
         ],
         "qatengine": [
             "aekoroglu",
@@ -140321,6 +140321,12 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-pyo3-build-config0.25": [
+            "@rust-sig",
+            "cheimes",
+            "decathorpe",
+            "gordonmessmer"
+        ],
         "rust-pyo3-ffi": [
             "@rust-sig",
             "decathorpe"
@@ -140359,6 +140365,11 @@
         "rust-pyo3-ffi0.24": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-pyo3-ffi0.25": [
+            "@rust-sig",
+            "decathorpe",
+            "gordonmessmer"
         ],
         "rust-pyo3-log": [
             "@rust-sig",
@@ -140412,6 +140423,11 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-pyo3-macros-backend0.25": [
+            "@rust-sig",
+            "decathorpe",
+            "gordonmessmer"
+        ],
         "rust-pyo3-macros0.15": [
             "@rust-sig",
             "decathorpe"
@@ -140451,6 +140467,11 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-pyo3-macros0.25": [
+            "@rust-sig",
+            "decathorpe",
+            "gordonmessmer"
+        ],
         "rust-pyo3_0.15": [
             "@rust-sig",
             "decathorpe"
@@ -140489,6 +140510,11 @@
         "rust-pyo3_0.24": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-pyo3_0.25": [
+            "@rust-sig",
+            "decathorpe",
+            "gordonmessmer"
         ],
         "rust-pyproject-toml": [
             "@rust-sig",
@@ -150559,7 +150585,7 @@
         ],
         "subfinder": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "sublib": [
             "belegdol",

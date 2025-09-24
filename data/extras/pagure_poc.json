@@ -16822,9 +16822,9 @@
             "fedora": "jogas"
         },
         "chatterino2": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "solomoncyj",
+            "epel": "solomoncyj",
+            "fedora": "solomoncyj"
         },
         "chatty": {
             "admin": "torbuntu",
@@ -103457,9 +103457,9 @@
             "fedora": "evgenyz"
         },
         "oscillatord": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "osgal": {
             "admin": "orphan",
@@ -147337,9 +147337,9 @@
             "fedora": "orphan"
         },
         "python-pwntools": {
-            "admin": "ppfeister",
-            "epel": "ppfeister",
-            "fedora": "ppfeister"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-py": {
             "admin": "thm",
@@ -169113,8 +169113,8 @@
         },
         "rust-config0.13": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-configparser": {
             "admin": "decathorpe",
@@ -180911,6 +180911,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-pyo3-build-config0.25": {
+            "admin": "gordonmessmer",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-pyo3-ffi": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -180958,6 +180963,11 @@
         },
         "rust-pyo3-ffi0.24": {
             "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-pyo3-ffi0.25": {
+            "admin": "gordonmessmer",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -181026,6 +181036,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-pyo3-macros-backend0.25": {
+            "admin": "gordonmessmer",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-pyo3-macros0.15": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -181076,6 +181091,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-pyo3-macros0.25": {
+            "admin": "gordonmessmer",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-pyo3_0.15": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -181123,6 +181143,11 @@
         },
         "rust-pyo3_0.24": {
             "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-pyo3_0.25": {
+            "admin": "gordonmessmer",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -194112,9 +194137,9 @@
             "fedora": "orphan"
         },
         "subfinder": {
-            "admin": "mikelo2",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "mikelo2"
+            "fedora": "orphan"
         },
         "sublib": {
             "admin": "orphan",
