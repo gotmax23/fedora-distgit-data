@@ -9892,7 +9892,8 @@
             "ankursinha"
         ],
         "auter": [
-            "ctria"
+            "ctria",
+            "mavit"
         ],
         "authbind": [
             "dcavalca"
@@ -14836,6 +14837,10 @@
         "complyctl": [
             "@go-sig",
             "marcusburghardt"
+        ],
+        "composable_kernel": [
+            "@rocm-packagers-sig",
+            "trix"
         ],
         "compose-utils": [
             "carlwgeorge",
@@ -58192,6 +58197,7 @@
             "ppisar"
         ],
         "liblockfile": [
+            "eseyman",
             "mschwendt",
             "pzacik",
             "zdohnal"
@@ -63386,6 +63392,9 @@
         ],
         "mash": [
             "orphan"
+        ],
+        "mass-prebuild": [
+            "fberat"
         ],
         "mass3": [
             "@go-sig",
@@ -77697,6 +77706,9 @@
         ],
         "onboard": [
             "orphan"
+        ],
+        "ondselsolver": [
+            "fed500"
         ],
         "oneVPL": [
             "aekoroglu",
@@ -97488,6 +97500,7 @@
             "timj"
         ],
         "php-marcusschwarz-lesserphp": [
+            "orphan",
             "suve"
         ],
         "php-markdown": [
@@ -103570,6 +103583,7 @@
             "music"
         ],
         "python-accelerate": [
+            "@ai-packagers-sig",
             "@python-packagers-sig",
             "xanderlent"
         ],
@@ -106718,6 +106732,7 @@
             "zlopez"
         ],
         "python-datasets": [
+            "@ai-packagers-sig",
             "@python-packagers-sig",
             "xanderlent"
         ],
@@ -116940,6 +116955,7 @@
             "limb"
         ],
         "python-safetensors": [
+            "@ai-packagers-sig",
             "@python-packagers-sig",
             "@rust-sig",
             "xanderlent"
@@ -150585,7 +150601,7 @@
         ],
         "subfinder": [
             "@go-sig",
-            "orphan"
+            "mikelo2"
         ],
         "sublib": [
             "belegdol",
@@ -157062,7 +157078,6 @@
             "orphan"
         ],
         "webkit2gtk4.0": [
-            "catanzaro",
             "orphan"
         ],
         "webkitgtk": [

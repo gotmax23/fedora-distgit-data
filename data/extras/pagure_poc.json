@@ -19036,6 +19036,11 @@
             "epel": "marcusburghardt",
             "fedora": "marcusburghardt"
         },
+        "composable_kernel": {
+            "admin": "trix",
+            "epel": "trix",
+            "fedora": "trix"
+        },
         "compose-utils": {
             "admin": "lsedlar",
             "epel": "carlwgeorge",
@@ -81521,6 +81526,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "mass-prebuild": {
+            "admin": "fberat",
+            "epel": "fberat",
+            "fedora": "fberat"
+        },
         "mass3": {
             "admin": "orphan",
             "epel": "orphan",
@@ -101650,6 +101660,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "ondselsolver": {
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
         },
         "oneVPL": {
             "admin": "slaanesh",
@@ -124817,9 +124832,9 @@
             "fedora": "stephen144"
         },
         "php-marcusschwarz-lesserphp": {
-            "admin": "suve",
-            "epel": "suve",
-            "fedora": "suve"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "php-markdown": {
             "admin": "limb",
@@ -194137,9 +194152,9 @@
             "fedora": "orphan"
         },
         "subfinder": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "mikelo2",
+            "epel": "mikelo2",
+            "fedora": "mikelo2"
         },
         "sublib": {
             "admin": "orphan",
