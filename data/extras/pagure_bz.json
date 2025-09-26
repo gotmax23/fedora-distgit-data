@@ -13170,7 +13170,7 @@
             "loveshack"
         ],
         "chatterino2": [
-            "solomoncyj"
+            "orphan"
         ],
         "chatty": [
             "lihis",
@@ -15363,6 +15363,9 @@
         "cosmic-idle": [
             "@cosmic-sig",
             "@rust-sig",
+            "ryanabx"
+        ],
+        "cosmic-initial-setup": [
             "ryanabx"
         ],
         "cosmic-launcher": [
@@ -23952,7 +23955,7 @@
         "firebird": [
             "cicku",
             "jonathanspw",
-            "orphan"
+            "limb"
         ],
         "firecontrol": [
             "orphan"
@@ -25825,6 +25828,9 @@
             "jjames"
         ],
         "gap-pkg-orb": [
+            "jjames"
+        ],
+        "gap-pkg-packagemanager": [
             "jjames"
         ],
         "gap-pkg-permut": [
@@ -32477,6 +32483,9 @@
         ],
         "gnu-smalltalk": [
             "orphan"
+        ],
+        "gnuastro": [
+            "sergiopr"
         ],
         "gnubg": [
             "limb"
@@ -47777,6 +47786,7 @@
         ],
         "incus": [
             "@go-sig",
+            "dherrera",
             "ganto",
             "jonathanspw",
             "maveonair",
@@ -61520,6 +61530,7 @@
             "nikic"
         ],
         "llvm20": [
+            "@fedora-llvm-team",
             "tstellar"
         ],
         "llvm3.7": [
@@ -79125,7 +79136,6 @@
         "oscillatord": [
             "abulimov",
             "leoleovich",
-            "orphan",
             "pcullen",
             "pmazzini",
             "salimma",
@@ -111510,6 +111520,9 @@
             "gui1ty",
             "jonathanspw"
         ],
+        "python-lsp-ruff": [
+            "gui1ty"
+        ],
         "python-lsp-server": [
             "@neuro-sig",
             "@python-packagers-sig",
@@ -113665,7 +113678,7 @@
         "python-pathtools": [
             "@python-packagers-sig",
             "besser82",
-            "orphan"
+            "js"
         ],
         "python-pathvalidate": [
             "gui1ty",
@@ -114422,7 +114435,6 @@
         "python-pwntools": [
             "@epel-packagers-sig",
             "mikep",
-            "orphan",
             "rebus"
         ],
         "python-py": [
@@ -132779,6 +132791,7 @@
             "solomoncyj"
         ],
         "rust-esaxx-rs": [
+            "@ai-packagers-sig",
             "@rust-sig",
             "xanderlent"
         ],
@@ -136358,6 +136371,9 @@
         "rust-jiter": [
             "@rust-sig",
             "gotmax23",
+            "music"
+        ],
+        "rust-jiter0.10": [
             "music"
         ],
         "rust-jiter0.7": [
@@ -141709,6 +141725,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-rustflags": [
+            "decathorpe"
+        ],
         "rust-rustfmt": [
             "orphan"
         ],
@@ -142940,6 +142959,7 @@
             "decathorpe"
         ],
         "rust-spm_precompiled": [
+            "@ai-packagers-sig",
             "@rust-sig",
             "xanderlent"
         ],
@@ -144135,6 +144155,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-tokio-tungstenite0.23": [
+            "decathorpe"
+        ],
         "rust-tokio-udp": [
             "@rust-sig",
             "jistone"
@@ -144710,6 +144733,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-tungstenite0.23": [
+            "decathorpe"
+        ],
         "rust-two-face": [
             "@rust-sig",
             "decathorpe"
@@ -144974,6 +145000,7 @@
             "decathorpe"
         ],
         "rust-unicode-normalization-alignments": [
+            "@ai-packagers-sig",
             "@rust-sig",
             "xanderlent"
         ],
@@ -150631,6 +150658,7 @@
             "orphan"
         ],
         "subtitleeditor": [
+            "@multimedia-sig",
             "ankursinha",
             "rathann"
         ],

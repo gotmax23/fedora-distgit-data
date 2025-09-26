@@ -16822,9 +16822,9 @@
             "fedora": "jogas"
         },
         "chatterino2": {
-            "admin": "solomoncyj",
-            "epel": "solomoncyj",
-            "fedora": "solomoncyj"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "chatty": {
             "admin": "torbuntu",
@@ -19667,6 +19667,11 @@
             "fedora": "ryanabx"
         },
         "cosmic-idle": {
+            "admin": "ryanabx",
+            "epel": "ryanabx",
+            "fedora": "ryanabx"
+        },
+        "cosmic-initial-setup": {
             "admin": "ryanabx",
             "epel": "ryanabx",
             "fedora": "ryanabx"
@@ -30982,7 +30987,7 @@
             "fedora": "suraia"
         },
         "firebird": {
-            "admin": "orphan",
+            "admin": "limb",
             "epel": "jonathanspw",
             "fedora": "makowski"
         },
@@ -33517,6 +33522,11 @@
             "fedora": "jjames"
         },
         "gap-pkg-orb": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
+        "gap-pkg-packagemanager": {
             "admin": "jjames",
             "epel": "jjames",
             "fedora": "jjames"
@@ -42030,6 +42040,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "gnuastro": {
+            "admin": "sergiopr",
+            "epel": "sergiopr",
+            "fedora": "sergiopr"
         },
         "gnubg": {
             "admin": "limb",
@@ -103472,9 +103487,9 @@
             "fedora": "evgenyz"
         },
         "oscillatord": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "vfedorenko",
+            "epel": "vfedorenko",
+            "fedora": "vfedorenko"
         },
         "osgal": {
             "admin": "orphan",
@@ -143636,6 +143651,11 @@
             "epel": "gui1ty",
             "fedora": "gui1ty"
         },
+        "python-lsp-ruff": {
+            "admin": "gui1ty",
+            "epel": "gui1ty",
+            "fedora": "gui1ty"
+        },
         "python-lsp-server": {
             "admin": "gui1ty",
             "epel": "gui1ty",
@@ -146397,9 +146417,9 @@
             "fedora": "adrienverge"
         },
         "python-pathtools": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "js",
+            "epel": "js",
+            "fedora": "js"
         },
         "python-pathvalidate": {
             "admin": "gui1ty",
@@ -147352,9 +147372,9 @@
             "fedora": "orphan"
         },
         "python-pwntools": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "mikep",
+            "epel": "mikep",
+            "fedora": "mikep"
         },
         "python-py": {
             "admin": "thm",
@@ -175871,6 +175891,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-jiter0.10": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-jiter0.7": {
             "admin": "music",
             "epel": "music",
@@ -182696,6 +182721,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-rustflags": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-rustfmt": {
             "admin": "orphan",
             "epel": "orphan",
@@ -185791,6 +185821,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-tokio-tungstenite0.23": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-tokio-udp": {
             "admin": "jistone",
             "epel": "@rust-sig",
@@ -186525,6 +186560,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-tungstenite0.23": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-two-face": {
             "admin": "decathorpe",
