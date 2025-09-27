@@ -5711,6 +5711,11 @@
             "epel": "ngompa",
             "fedora": "ngompa"
         },
+        "PackageKit-Qt5": {
+            "admin": "farchord",
+            "epel": "farchord",
+            "fedora": "farchord"
+        },
         "Pagila": {
             "admin": "orphan",
             "epel": "orphan",
@@ -41111,6 +41116,11 @@
             "epel": "mclasen",
             "fedora": "mclasen"
         },
+        "gnome-manuals": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "gnome-maps": {
             "admin": "kalev",
             "epel": "kalev",
@@ -69842,6 +69852,11 @@
             "fedora": "orphan"
         },
         "knights": {
+            "admin": "farchord",
+            "epel": "farchord",
+            "fedora": "farchord"
+        },
+        "knighttime": {
             "admin": "farchord",
             "epel": "farchord",
             "fedora": "farchord"
@@ -103342,9 +103357,9 @@
             "fedora": "orphan"
         },
         "orangefs": {
-            "admin": "davidsch",
-            "epel": "davidsch",
-            "fedora": "davidsch"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "orbited": {
             "admin": "orphan",
@@ -166351,6 +166366,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "rust-ambient-id": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-ammonia": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -167226,13 +167246,28 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-axum-core0.4": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-axum-macros": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-axum-macros0.4": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-axum-server": {
             "admin": "lecris",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-axum0.7": {
+            "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -185823,8 +185858,8 @@
         },
         "rust-tokio-tungstenite0.23": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-tokio-udp": {
             "admin": "jistone",
@@ -186563,8 +186598,8 @@
         },
         "rust-tungstenite0.23": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-two-face": {
             "admin": "decathorpe",

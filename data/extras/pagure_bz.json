@@ -4496,6 +4496,9 @@
             "ngompa",
             "rhughes"
         ],
+        "PackageKit-Qt5": [
+            "farchord"
+        ],
         "Pagila": [
             "orphan"
         ],
@@ -12588,6 +12591,7 @@
             "orphan"
         ],
         "capnproto": [
+            "jjelen",
             "ngompa"
         ],
         "capstats": [
@@ -31794,6 +31798,10 @@
         "gnome-mahjongg": [
             "@gnome-sig",
             "mclasen"
+        ],
+        "gnome-manuals": [
+            "@gnome-sig",
+            "decathorpe"
         ],
         "gnome-maps": [
             "@gnome-sig",
@@ -54035,6 +54043,9 @@
         ],
         "knights": [
             "@kde-sig",
+            "farchord"
+        ],
+        "knighttime": [
             "farchord"
         ],
         "knm-new-fixed-fonts": [
@@ -79015,7 +79026,7 @@
             "orphan"
         ],
         "orangefs": [
-            "davidsch"
+            "orphan"
         ],
         "orbited": [
             "orphan"
@@ -111521,6 +111532,7 @@
             "jonathanspw"
         ],
         "python-lsp-ruff": [
+            "@neuro-sig",
             "gui1ty"
         ],
         "python-lsp-server": [
@@ -128861,6 +128873,10 @@
         "rust-ambient-authority": [
             "orphan"
         ],
+        "rust-ambient-id": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-ammonia": [
             "@rust-sig",
             "decathorpe"
@@ -129560,13 +129576,22 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-axum-core0.4": [
+            "decathorpe"
+        ],
         "rust-axum-macros": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-axum-macros0.4": [
             "decathorpe"
         ],
         "rust-axum-server": [
             "@rust-sig",
             "lecris"
+        ],
+        "rust-axum0.7": [
+            "decathorpe"
         ],
         "rust-az": [
             "@rust-sig",
@@ -136374,6 +136399,7 @@
             "music"
         ],
         "rust-jiter0.10": [
+            "@rust-sig",
             "music"
         ],
         "rust-jiter0.7": [
@@ -152946,8 +152972,7 @@
         "thrift": [
             "@epel-packagers-sig",
             "ctubbsii",
-            "kkeithle",
-            "orion"
+            "kkeithle"
         ],
         "throttle": [
             "orphan"
