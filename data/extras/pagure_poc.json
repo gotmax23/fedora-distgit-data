@@ -20847,9 +20847,9 @@
             "fedora": "orphan"
         },
         "cutecom": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "c72578",
+            "epel": "c72578",
+            "fedora": "c72578"
         },
         "cutecw": {
             "admin": "orphan",
@@ -108680,6 +108680,11 @@
             "admin": "pghmcfc",
             "epel": "pghmcfc",
             "fedora": "pghmcfc"
+        },
+        "perl-Data-Censor": {
+            "admin": "eseyman",
+            "epel": "eseyman",
+            "fedora": "eseyman"
         },
         "perl-Data-Clone": {
             "admin": "eseyman",

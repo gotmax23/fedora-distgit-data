@@ -16290,7 +16290,7 @@
             "orphan"
         ],
         "cutecom": [
-            "orphan"
+            "c72578"
         ],
         "cutecw": [
             "hardaker",
@@ -83583,6 +83583,9 @@
         "perl-Data-Buffer": [
             "perl-sig",
             "pghmcfc"
+        ],
+        "perl-Data-Censor": [
+            "eseyman"
         ],
         "perl-Data-Clone": [
             "eseyman",
