@@ -30142,7 +30142,7 @@
             "yanqiyu"
         ],
         "golang-github-dropbox-sdk-unofficial": [
-            "mikelo2",
+            "orphan",
             "jchaloup"
         ],
         "golang-github-droundy-goopt": [
@@ -35073,7 +35073,7 @@
             "nathans"
         ],
         "golang-github-unknwon-goconfig": [
-            "mikelo2",
+            "orphan",
             "jchaloup"
         ],
         "golang-github-urfave-cli": [
@@ -89133,7 +89133,7 @@
             "clumens"
         ],
         "pyplane": [
-            "orphan"
+            "crisdel"
         ],
         "pypoker-eval": [
             "orphan"
@@ -92226,6 +92226,9 @@
         ],
         "python-cu2qu": [
             "orphan"
+        ],
+        "python-cucumber-tag-expressions": [
+            "music"
         ],
         "python-cups": [
             "zdohnal",
@@ -100573,7 +100576,6 @@
             "orphan"
         ],
         "python-rcssmin": [
-            "orphan",
             "ellert",
             "aekoroglu"
         ],
@@ -113349,6 +113351,9 @@
         "rust-constant_time_eq": [
             "dcavalca"
         ],
+        "rust-constcat": [
+            "alebastr"
+        ],
         "rust-content_inspector": [
             "decathorpe"
         ],
@@ -116665,6 +116670,9 @@
         "rust-hexyl": [
             "jistone"
         ],
+        "rust-hf-hub": [
+            "xanderlent"
+        ],
         "rust-hickory-client": [
             "decathorpe"
         ],
@@ -116757,6 +116765,9 @@
         ],
         "rust-http-range-header": [
             "decathorpe"
+        ],
+        "rust-http-serde": [
+            "alebastr"
         ],
         "rust-http0.1": [
             "orphan"
@@ -123185,6 +123196,10 @@
             "ttomecek",
             "ignatenkobrain"
         ],
+        "rust-threecpio": [
+            "music",
+            "ngompa"
+        ],
         "rust-tiff": [
             "decathorpe"
         ],
@@ -123300,6 +123315,9 @@
         ],
         "rust-tokei12": [
             "music"
+        ],
+        "rust-tokenizers": [
+            "xanderlent"
         ],
         "rust-tokio": [
             "decathorpe"

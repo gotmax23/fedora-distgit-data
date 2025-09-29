@@ -45807,9 +45807,9 @@
             "fedora": "yanqiyu"
         },
         "golang-github-dropbox-sdk-unofficial": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-droundy-goopt": {
             "admin": "bdperkin",
@@ -53772,9 +53772,9 @@
             "fedora": "nathans"
         },
         "golang-github-unknwon-goconfig": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-urfave-cli": {
             "admin": "alexsaezm",
@@ -132712,9 +132712,9 @@
             "fedora": "dcantrell"
         },
         "pyplane": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "crisdel",
+            "epel": "crisdel",
+            "fedora": "crisdel"
         },
         "pypoker-eval": {
             "admin": "orphan",
@@ -137420,6 +137420,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "python-cucumber-tag-expressions": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "python-cups": {
             "admin": "zdohnal",
@@ -149812,9 +149817,9 @@
             "fedora": "orphan"
         },
         "python-rcssmin": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "ellert",
+            "epel": "ellert",
+            "fedora": "ellert"
         },
         "python-rdfextras": {
             "admin": "orphan",
@@ -169301,6 +169306,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-constcat": {
+            "admin": "alebastr",
+            "epel": "alebastr",
+            "fedora": "alebastr"
+        },
         "rust-content_inspector": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -174751,6 +174761,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-hf-hub": {
+            "admin": "xanderlent",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-hickory-client": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -174905,6 +174920,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-http-serde": {
+            "admin": "alebastr",
+            "epel": "alebastr",
+            "fedora": "alebastr"
         },
         "rust-http0.1": {
             "admin": "orphan",
@@ -185461,6 +185481,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-threecpio": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-tiff": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -185650,6 +185675,11 @@
             "admin": "music",
             "epel": "music",
             "fedora": "music"
+        },
+        "rust-tokenizers": {
+            "admin": "xanderlent",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-tokio": {
             "admin": "decathorpe",

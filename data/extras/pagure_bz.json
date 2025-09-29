@@ -35345,7 +35345,7 @@
         "golang-github-dropbox-sdk-unofficial": [
             "@go-sig",
             "jchaloup",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-droundy-goopt": [
             "@go-sig",
@@ -41450,7 +41450,7 @@
         "golang-github-unknwon-goconfig": [
             "@go-sig",
             "jchaloup",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-urfave-cli": [
             "@epel-packagers-sig",
@@ -103001,7 +103001,7 @@
             "dcantrell"
         ],
         "pyplane": [
-            "orphan"
+            "crisdel"
         ],
         "pypoker-eval": [
             "orphan"
@@ -106595,6 +106595,9 @@
         "python-cu2qu": [
             "athoscr",
             "orphan"
+        ],
+        "python-cucumber-tag-expressions": [
+            "music"
         ],
         "python-cups": [
             "twaugh",
@@ -116315,8 +116318,7 @@
         "python-rcssmin": [
             "@python-packagers-sig",
             "aekoroglu",
-            "ellert",
-            "orphan"
+            "ellert"
         ],
         "python-rdfextras": [
             "orphan"
@@ -131188,6 +131190,10 @@
             "@rust-sig",
             "dcavalca"
         ],
+        "rust-constcat": [
+            "@rust-sig",
+            "alebastr"
+        ],
         "rust-content_inspector": [
             "@rust-sig",
             "decathorpe"
@@ -135470,6 +135476,11 @@
             "@rust-sig",
             "jistone"
         ],
+        "rust-hf-hub": [
+            "@ai-packagers-sig",
+            "@rust-sig",
+            "xanderlent"
+        ],
         "rust-hickory-client": [
             "@rust-sig",
             "decathorpe"
@@ -135590,6 +135601,10 @@
         "rust-http-range-header": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-http-serde": [
+            "@rust-sig",
+            "alebastr"
         ],
         "rust-http0.1": [
             "orphan"
@@ -143876,6 +143891,11 @@
             "ignatenkobrain",
             "ttomecek"
         ],
+        "rust-threecpio": [
+            "@rust-sig",
+            "music",
+            "ngompa"
+        ],
         "rust-tiff": [
             "@rust-sig",
             "decathorpe"
@@ -144028,6 +144048,11 @@
             "@neuro-sig",
             "@rust-sig",
             "music"
+        ],
+        "rust-tokenizers": [
+            "@ai-packagers-sig",
+            "@rust-sig",
+            "xanderlent"
         ],
         "rust-tokio": [
             "@rust-sig",
