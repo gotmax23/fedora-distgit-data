@@ -13218,6 +13218,10 @@
             "orphan",
             "sundaram"
         ],
+        "checkmake": [
+            "@go-sig",
+            "mikep"
+        ],
         "checkpointctl": [
             "@go-sig",
             "adrian",
@@ -13924,7 +13928,7 @@
             "omos"
         ],
         "cloudcompare": [
-            "churchyard"
+            "orphan"
         ],
         "cloudfs": [
             "orphan"
@@ -32546,6 +32550,9 @@
             "salimma",
             "zbyszek"
         ],
+        "gnulib-l10n": [
+            "lzaoral"
+        ],
         "gnumed": [
             "ankursinha",
             "orphan"
@@ -33331,7 +33338,7 @@
         ],
         "golang-github-alecaivazis-survey-2": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-alecthomas-assert": [
             "@deepinde-sig",
@@ -34332,7 +34339,7 @@
         ],
         "golang-github-charmbracelet-glamour": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-charmbracelet-harmonica": [
             "@go-sig",
@@ -34465,7 +34472,7 @@
         ],
         "golang-github-cli-browser": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-cli-crypto": [
             "@go-sig",
@@ -38265,7 +38272,7 @@
         ],
         "golang-github-makenowjust-heredoc": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-makeworld-the-better-one-dither2": [
             "@go-sig",
@@ -40886,7 +40893,7 @@
         ],
         "golang-github-spacemonkeygo-monkit": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-spacemonkeygo-openssl": [
             "orphan"
@@ -41210,7 +41217,7 @@
         ],
         "golang-github-thlib-timezone-local": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-thoas-funk": [
             "@go-sig",
@@ -41951,7 +41958,7 @@
         ],
         "golang-github-zeebo-float16": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-zeebo-hmux": [
             "@go-sig",
@@ -41959,7 +41966,7 @@
         ],
         "golang-github-zeebo-incenc": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-zeebo-pcg": [
             "@go-sig",
@@ -57729,7 +57736,7 @@
             "mlichvar"
         ],
         "libidn1.34": [
-            "rathann"
+            "orphan"
         ],
         "libidn2": [
             "robert"
@@ -59506,7 +59513,6 @@
         "libreoffice": [
             "dtardon",
             "erack",
-            "gotmax23",
             "limb",
             "sbergmann"
         ],
@@ -80184,8 +80190,8 @@
             "mhlavink"
         ],
         "pcl": [
-            "churchyard",
             "cottsay",
+            "orphan",
             "rmattes"
         ],
         "pcllib": [
@@ -103434,8 +103440,8 @@
             "orphan"
         ],
         "python-XStatic-Angular-FileUpload": [
-            "jpena",
             "mrunge",
+            "orphan",
             "rdopiera"
         ],
         "python-XStatic-Angular-Gettext": [
@@ -103544,8 +103550,8 @@
         ],
         "python-XStatic-bootswatch": [
             "@openstack-sig",
-            "jpena",
-            "mrunge"
+            "mrunge",
+            "orphan"
         ],
         "python-XStatic-jQuery": [
             "orphan"
@@ -103555,8 +103561,8 @@
             "rdopiera"
         ],
         "python-XStatic-mdi": [
-            "jpena",
             "mrunge",
+            "orphan",
             "rdopiera"
         ],
         "python-XStatic-roboto-fontface": [
@@ -106595,6 +106601,9 @@
         "python-cu2qu": [
             "athoscr",
             "orphan"
+        ],
+        "python-cucumber-expressions": [
+            "music"
         ],
         "python-cucumber-tag-expressions": [
             "music"
@@ -113669,7 +113678,7 @@
             "radez"
         ],
         "python-path-and-address": [
-            "gui1ty"
+            "orphan"
         ],
         "python-pathable": [
             "@python-packagers-sig",
@@ -129582,6 +129591,7 @@
             "decathorpe"
         ],
         "rust-axum-core0.4": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-axum-macros": [
@@ -129589,6 +129599,7 @@
             "decathorpe"
         ],
         "rust-axum-macros0.4": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-axum-server": [
@@ -129596,6 +129607,7 @@
             "lecris"
         ],
         "rust-axum0.7": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-az": [
@@ -130208,7 +130220,7 @@
         ],
         "rust-bytecheck": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-bytecheck0.6": [
             "@rust-sig",
@@ -130216,7 +130228,7 @@
         ],
         "rust-bytecheck_derive": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-bytecheck_derive0.6": [
             "@rust-sig",
@@ -130971,6 +130983,10 @@
             "@rust-sig",
             "@virtmaint-sig",
             "berrange"
+        ],
+        "rust-collection_literals": [
+            "@rust-sig",
+            "music"
         ],
         "rust-color-backtrace": [
             "@rust-sig",
@@ -132948,7 +132964,6 @@
         ],
         "rust-eza": [
             "@rust-sig",
-            "allanfreitas",
             "orphan",
             "tautropfli"
         ],
@@ -133033,6 +133048,9 @@
         "rust-fatfs": [
             "@rust-sig",
             "dcavalca"
+        ],
+        "rust-fax": [
+            "music"
         ],
         "rust-fax_derive": [
             "@rust-sig",
@@ -140041,6 +140059,10 @@
         "rust-proc-macro-nested": [
             "orphan"
         ],
+        "rust-proc-macro-utils": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-proc-macro2": [
             "@rust-sig",
             "decathorpe"
@@ -140276,7 +140298,7 @@
         ],
         "rust-ptr_meta": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-ptr_meta0.1": [
             "@rust-sig",
@@ -140284,7 +140306,7 @@
         ],
         "rust-ptr_meta_derive": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-ptr_meta_derive0.1": [
             "@rust-sig",
@@ -141246,7 +141268,7 @@
         ],
         "rust-rend": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-rend0.4": [
             "@rust-sig",
@@ -141370,7 +141392,7 @@
         ],
         "rust-rkyv": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-rkyv0.7": [
             "@rust-sig",
@@ -141378,7 +141400,7 @@
         ],
         "rust-rkyv_derive": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-rkyv_derive0.7": [
             "@rust-sig",
@@ -141770,6 +141792,7 @@
             "decathorpe"
         ],
         "rust-rustflags": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-rustfmt": [
@@ -143477,11 +143500,11 @@
         ],
         "rust-syntect": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-syntect4": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-syntex_errors": [
             "orphan"
@@ -144210,6 +144233,7 @@
             "decathorpe"
         ],
         "rust-tokio-tungstenite0.23": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-tokio-udp": [
@@ -144788,11 +144812,12 @@
             "decathorpe"
         ],
         "rust-tungstenite0.23": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-two-face": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-twofish": [
             "@rust-sig",
@@ -150735,7 +150760,6 @@
             "orphan"
         ],
         "sudo": [
-            "alakatos",
             "allopez",
             "kzak",
             "mattdm",
