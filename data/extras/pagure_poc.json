@@ -11162,9 +11162,9 @@
             "fedora": "orphan"
         },
         "apvlv": {
-            "admin": "filiperosset",
-            "epel": "filiperosset",
-            "fedora": "filiperosset"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "apx": {
             "admin": "raphgro",
@@ -23880,6 +23880,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "dotnet10.0": {
+            "admin": "omajid",
+            "epel": "omajid",
+            "fedora": "omajid"
         },
         "dotnet3.1": {
             "admin": "orphan",
@@ -61097,9 +61102,9 @@
             "fedora": "orphan"
         },
         "hyprland": {
-            "admin": "bytehackr",
-            "epel": "bytehackr",
-            "fedora": "bytehackr"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "hyprland-protocols": {
             "admin": "nightishaman",
@@ -83432,9 +83437,9 @@
             "fedora": "orphan"
         },
         "meteo": {
-            "admin": "atim",
-            "epel": "atim",
-            "fedora": "atim"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "meterbridge": {
             "admin": "tartina",
@@ -134421,6 +134426,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-assertpy": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "python-assets": {
             "admin": "orphan",
             "epel": "orphan",
@@ -134692,9 +134702,9 @@
             "fedora": "neurowinter"
         },
         "python-avocado": {
-            "admin": "cleber",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "cleber"
+            "fedora": "orphan"
         },
         "python-avro": {
             "admin": "neurowinter",
@@ -170317,7 +170327,7 @@
             "fedora": "orion"
         },
         "rust-decimal": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -177521,6 +177531,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-mayheap": {
+            "admin": "asn",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-mbox": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -178982,7 +178997,7 @@
             "fedora": "elmarco"
         },
         "rust-ord_subset": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -180831,6 +180846,16 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-protobuf-parse": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-protobuf-support": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-protoc": {
             "admin": "orphan",
             "epel": "@rust-sig",
@@ -182136,6 +182161,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "rust-reqsign-core": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-reqwest": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -182277,9 +182307,9 @@
             "fedora": "decathorpe"
         },
         "rust-rkyv": {
-            "admin": "orphan",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-rkyv0.7": {
             "admin": "decathorpe",
@@ -182287,9 +182317,9 @@
             "fedora": "@rust-sig"
         },
         "rust-rkyv_derive": {
-            "admin": "orphan",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-rkyv_derive0.7": {
             "admin": "decathorpe",
@@ -183471,8 +183501,18 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-serde-json-core": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
         "rust-serde-pickle": {
             "admin": "orphan",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-serde-prefix-all": {
+            "admin": "asn",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },

@@ -8768,7 +8768,7 @@
             "orphan"
         ],
         "apvlv": [
-            "filiperosset"
+            "orphan"
         ],
         "apx": [],
         "aqbanking": [
@@ -18708,6 +18708,9 @@
         ],
         "dotnet-build-reference-packages": [
             "orphan"
+        ],
+        "dotnet10.0": [
+            "omajid"
         ],
         "dotnet3.1": [
             "hdost3",
@@ -46988,8 +46991,8 @@
             "orphan"
         ],
         "hyprland": [
-            "bytehackr",
-            "ghishadow"
+            "ghishadow",
+            "orphan"
         ],
         "hyprland-protocols": [
             "nightishaman"
@@ -63378,6 +63381,7 @@
             "orphan"
         ],
         "mariadb11.8": [
+            "@db-sig",
             "mschorm",
             "ndavidov",
             "psloboda"
@@ -64896,8 +64900,8 @@
             "orphan"
         ],
         "meteo": [
-            "atim",
-            "bitseater"
+            "bitseater",
+            "orphan"
         ],
         "meterbridge": [
             "oget",
@@ -104268,6 +104272,9 @@
         "python-assertEquals": [
             "orphan"
         ],
+        "python-assertpy": [
+            "music"
+        ],
         "python-assets": [
             "orphan"
         ],
@@ -104483,7 +104490,8 @@
             "neurowinter"
         ],
         "python-avocado": [
-            "cleber"
+            "cleber",
+            "orphan"
         ],
         "python-avro": [
             "neurowinter"
@@ -115828,6 +115836,7 @@
             "sergiopr"
         ],
         "python-pytest-ordering": [
+            "cn137",
             "rcallicotte"
         ],
         "python-pytest-param-files": [
@@ -131970,7 +131979,7 @@
         ],
         "rust-decimal": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-defer-drop": [
             "@rust-sig",
@@ -137672,6 +137681,10 @@
             "@rust-sig",
             "jistone"
         ],
+        "rust-mayheap": [
+            "@rust-sig",
+            "asn"
+        ],
         "rust-mbox": [
             "@rust-sig",
             "decathorpe",
@@ -138821,7 +138834,7 @@
         ],
         "rust-ord_subset": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-ordered-float": [
             "@rust-sig",
@@ -140256,6 +140269,12 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-protobuf-parse": [
+            "decathorpe"
+        ],
+        "rust-protobuf-support": [
+            "decathorpe"
+        ],
         "rust-protoc": [
             "orphan"
         ],
@@ -141280,6 +141299,10 @@
         "rust-rental-impl": [
             "orphan"
         ],
+        "rust-reqsign-core": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-reqwest": [
             "@rust-sig",
             "decathorpe"
@@ -141392,7 +141415,7 @@
         ],
         "rust-rkyv": [
             "@rust-sig",
-            "orphan"
+            "music"
         ],
         "rust-rkyv0.7": [
             "@rust-sig",
@@ -141400,7 +141423,7 @@
         ],
         "rust-rkyv_derive": [
             "@rust-sig",
-            "orphan"
+            "music"
         ],
         "rust-rkyv_derive0.7": [
             "@rust-sig",
@@ -142314,8 +142337,15 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-serde-json-core": [
+            "asn"
+        ],
         "rust-serde-pickle": [
             "orphan"
+        ],
+        "rust-serde-prefix-all": [
+            "@rust-sig",
+            "asn"
         ],
         "rust-serde-sarif": [
             "@rust-sig",
