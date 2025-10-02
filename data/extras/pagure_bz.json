@@ -4946,6 +4946,9 @@
             "@r-maint-sig",
             "spot"
         ],
+        "R-S7": [
+            "iucar"
+        ],
         "R-SummarizedExperiment": [
             "@r-maint-sig",
             "spot"
@@ -10829,8 +10832,7 @@
         ],
         "bettercap": [
             "@go-sig",
-            "eclipseo",
-            "orphan"
+            "eclipseo"
         ],
         "beust-jcommander": [
             "java-sig",
@@ -31434,6 +31436,7 @@
             "orphan"
         ],
         "gnome-app-list": [
+            "@gnome-sig",
             "mcrha",
             "nmontero"
         ],
@@ -33228,8 +33231,8 @@
         ],
         "golang-github-aclements-moremath": [
             "@go-sig",
-            "eclipseo",
-            "jchaloup"
+            "jchaloup",
+            "orphan"
         ],
         "golang-github-acme-lego": [
             "@go-sig",
@@ -33303,7 +33306,7 @@
         ],
         "golang-github-akamai-akamaiopen-edgegrid": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-akamensky-argparse": [
             "@go-sig",
@@ -34062,7 +34065,7 @@
         ],
         "golang-github-bmatcuk-doublestar-3": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-bmatcuk-doublestar-4": [
             "@go-sig",
@@ -34137,7 +34140,7 @@
         ],
         "golang-github-brunnre8-notmuch": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-brunoscheufler-aws-ecs-metadata": [
             "@go-sig",
@@ -34190,7 +34193,7 @@
         ],
         "golang-github-burntsushi-graphics": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-burntsushi-locker": [
             "@go-sig",
@@ -34231,7 +34234,7 @@
         ],
         "golang-github-c4milo-unpackit": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-cactus-statsd-client": [
             "@go-sig",
@@ -34463,7 +34466,7 @@
         ],
         "golang-github-civo-civogo": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-clbanning-mxj": [
             "@go-sig",
@@ -34890,7 +34893,7 @@
         ],
         "golang-github-cupcake-rdb": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-cyberdelia-metrics-graphite": [
             "@go-sig",
@@ -35030,7 +35033,7 @@
         ],
         "golang-github-daviddengcn-colortext": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-daviddengcn-go-colortext": [
             "orphan"
@@ -35044,8 +35047,8 @@
         ],
         "golang-github-dchest-safefile": [
             "@go-sig",
-            "eclipseo",
-            "jchaloup"
+            "jchaloup",
+            "orphan"
         ],
         "golang-github-dchest-siphash": [
             "@go-sig",
@@ -35206,7 +35209,7 @@
         ],
         "golang-github-djherbis-nio": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-djherbis-times": [
             "@go-sig",
@@ -35234,7 +35237,7 @@
         ],
         "golang-github-dnsimple": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-docker": [
             "@go-sig",
@@ -35307,11 +35310,11 @@
         ],
         "golang-github-docker-slim-uiprogress": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-docker-slim-update": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-docker-spdystream": [
             "orphan"
@@ -35496,11 +35499,11 @@
         ],
         "golang-github-emersion-imap-sortthread": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-emersion-maildir": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-emersion-mbox": [
             "@go-sig",
@@ -35520,7 +35523,7 @@
         ],
         "golang-github-emersion-pgpmail": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-emersion-sasl": [
             "@go-sig",
@@ -35596,7 +35599,7 @@
         ],
         "golang-github-ettle-strcase": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-euank-kmsg-parser": [
             "@go-sig",
@@ -35632,7 +35635,7 @@
         ],
         "golang-github-exponent-io-jsonpath": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-facebook-ent": [
             "orphan"
@@ -35716,7 +35719,7 @@
         ],
         "golang-github-fatih-camelcase": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-fatih-color": [
             "@go-sig",
@@ -35861,7 +35864,7 @@
         ],
         "golang-github-gatherstars-com-jwz": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-gdamore-encoding": [
             "@go-sig",
@@ -35901,7 +35904,7 @@
         ],
         "golang-github-genuinetools-pkg": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-geo": [
             "orphan"
@@ -36015,7 +36018,7 @@
         ],
         "golang-github-glendc-gopher-json": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-gliderlabs-ssh": [
             "@go-sig",
@@ -36496,7 +36499,7 @@
         ],
         "golang-github-gophercloud-utils": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-gophercloud2": [
             "@go-sig",
@@ -36879,8 +36882,8 @@
         ],
         "golang-github-hashicorp-raft-mdb": [
             "@go-sig",
-            "eclipseo",
-            "jchaloup"
+            "jchaloup",
+            "orphan"
         ],
         "golang-github-hashicorp-retryablehttp": [
             "@go-sig",
@@ -37076,7 +37079,7 @@
         ],
         "golang-github-iij-doapi": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-ijc-gotty": [
             "orphan"
@@ -37164,7 +37167,7 @@
         ],
         "golang-github-infobloxopen-infoblox-client": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-inhies-bytesize": [
             "@go-sig",
@@ -37461,36 +37464,36 @@
         ],
         "golang-github-jedisct1-clocksmith": [
             "@go-sig",
-            "eclipseo",
-            "jchaloup"
+            "jchaloup",
+            "orphan"
         ],
         "golang-github-jedisct1-dlog": [
             "@go-sig",
-            "eclipseo",
-            "jchaloup"
+            "jchaloup",
+            "orphan"
         ],
         "golang-github-jedisct1-dnsstamps": [
             "@go-sig",
-            "eclipseo",
-            "jchaloup"
+            "jchaloup",
+            "orphan"
         ],
         "golang-github-jedisct1-hpke-compact": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-jedisct1-minisign": [
             "@go-sig",
-            "eclipseo",
-            "jchaloup"
+            "jchaloup",
+            "orphan"
         ],
         "golang-github-jedisct1-xsecretbox": [
             "@go-sig",
-            "eclipseo",
-            "jchaloup"
+            "jchaloup",
+            "orphan"
         ],
         "golang-github-jeffail-gabs": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-jeffail-gabs-2": [
             "orphan"
@@ -37731,8 +37734,8 @@
         ],
         "golang-github-k-sone-critbitgo": [
             "@go-sig",
-            "eclipseo",
-            "jchaloup"
+            "jchaloup",
+            "orphan"
         ],
         "golang-github-k0kubun-ansi": [
             "@go-sig",
@@ -37893,7 +37896,7 @@
         ],
         "golang-github-koppacetic-gpsd": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-kovidgoyal-imaging": [
             "@go-sig",
@@ -37955,7 +37958,7 @@
         ],
         "golang-github-kyoh86-xdg": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-kyokomi-emoji": [
             "@go-sig",
@@ -37964,7 +37967,7 @@
         ],
         "golang-github-labbsr0x-bindman-dns-webhook": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-labbsr0x-goh": [
             "@go-sig",
@@ -38111,7 +38114,7 @@
         ],
         "golang-github-liggitt-tabwriter": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-lightstep-tracer": [
             "orphan"
@@ -38157,7 +38160,7 @@
         ],
         "golang-github-lithammer-dedent": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-lithammer-fuzzysearch": [
             "@go-sig",
@@ -38444,7 +38447,7 @@
         ],
         "golang-github-mattbaird-jsonpatch": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-mattermost-xml-roundtrip-validator": [
             "orphan"
@@ -38684,11 +38687,11 @@
         ],
         "golang-github-mimuret-iij-dpf": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-mindprince-gonvml": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-mingrammer-commonregex": [
             "orphan"
@@ -38710,7 +38713,7 @@
         ],
         "golang-github-minio-md5-simd": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-minio-selfupdate": [
             "@go-sig",
@@ -38718,11 +38721,11 @@
         ],
         "golang-github-minio-sha256-simd": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-miolini-datacounter": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-mistifyio-go-zfs": [
             "jchaloup",
@@ -38794,7 +38797,7 @@
         ],
         "golang-github-mitchellh-vnc": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-mitchellh-wordwrap": [
             "@go-sig",
@@ -38998,7 +39001,7 @@
         ],
         "golang-github-namedotcom": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-naoina-stringutil": [
             "@go-sig",
@@ -39006,7 +39009,7 @@
         ],
         "golang-github-naoina-toml": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-natefinch-pie": [
             "@go-sig",
@@ -39172,7 +39175,7 @@
         ],
         "golang-github-nrdcg-auroradns": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-nrdcg-bunny": [
             "@go-sig",
@@ -39180,19 +39183,19 @@
         ],
         "golang-github-nrdcg-desec": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-nrdcg-dnspod": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-nrdcg-freemyip": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-nrdcg-goinwx": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-nrdcg-mailinabox": [
             "@go-sig",
@@ -39200,11 +39203,11 @@
         ],
         "golang-github-nrdcg-namesilo": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-nrdcg-nodion": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-nrdcg-porkbun": [
             "@go-sig",
@@ -39224,7 +39227,7 @@
         ],
         "golang-github-nu7hatch-gouuid": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-nuveo-log": [
             "orphan"
@@ -39300,8 +39303,8 @@
         ],
         "golang-github-olekukonko-ts": [
             "@go-sig",
-            "eclipseo",
-            "jchaloup"
+            "jchaloup",
+            "orphan"
         ],
         "golang-github-olivere-elastic": [
             "jchaloup",
@@ -39409,7 +39412,7 @@
         ],
         "golang-github-opendns-vegadns2client": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-openprinting-goipp": [
             "@go-sig",
@@ -39464,7 +39467,7 @@
         ],
         "golang-github-oracle-oci-sdk-24": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-oracle-oci-sdk65": [
             "@go-sig",
@@ -39479,7 +39482,7 @@
         ],
         "golang-github-oschwald-geoip2": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-oschwald-geoip2-golang": [
             "orphan"
@@ -39501,7 +39504,7 @@
         ],
         "golang-github-ovh": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-owenrumney-sarif": [
             "@go-sig",
@@ -39509,7 +39512,7 @@
         ],
         "golang-github-oxtoacart-bpool": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-package-url": [
             "orphan"
@@ -39652,7 +39655,7 @@
         ],
         "golang-github-peterhellberg-link": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-petermattis-goid": [
             "@go-sig",
@@ -40042,7 +40045,7 @@
         ],
         "golang-github-quay-clair-3": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-quay-clair-4": [
             "orphan"
@@ -40059,7 +40062,7 @@
         ],
         "golang-github-quic": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-quic-qpack": [
             "@go-sig",
@@ -40102,7 +40105,7 @@
         ],
         "golang-github-rainycape-memcache": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-rainycape-unidecode": [
             "@go-sig",
@@ -40248,7 +40251,7 @@
         ],
         "golang-github-rican7-retry": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-richardlehane-mscfb": [
             "orphan"
@@ -40276,7 +40279,7 @@
         ],
         "golang-github-riywo-loginshell": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-rjeczalik-notify": [
             "@go-sig",
@@ -40363,7 +40366,7 @@
         ],
         "golang-github-ryanuber-glob": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-ryanuber-go-glob": [
             "orphan"
@@ -40386,7 +40389,7 @@
         ],
         "golang-github-sacloud-iaas-api": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-sacloud-libsacloud": [
             "@go-sig",
@@ -40432,7 +40435,7 @@
         ],
         "golang-github-samuel-zookeeper": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-sanity-io-litter": [
             "@go-sig",
@@ -40511,7 +40514,7 @@
         ],
         "golang-github-seandolphin-bqschema": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-sebdah-goldie-1": [
             "@go-sig",
@@ -40581,8 +40584,8 @@
         ],
         "golang-github-sevlyar-daemon": [
             "@go-sig",
-            "eclipseo",
-            "jchaloup"
+            "jchaloup",
+            "orphan"
         ],
         "golang-github-sgreben-flagvar": [
             "@go-sig",
@@ -40740,7 +40743,7 @@
         ],
         "golang-github-siddontang": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-siddontang-goredis": [
             "@go-sig",
@@ -40752,7 +40755,7 @@
         ],
         "golang-github-siddontang-snappy": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-sigma-inotify": [
             "orphan"
@@ -40770,7 +40773,7 @@
         ],
         "golang-github-simplesurance-bunny": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-sirupsen-logrus": [
             "@go-sig",
@@ -40843,7 +40846,7 @@
         ],
         "golang-github-softlayer": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-softlayer-xmlrpc": [
             "@go-sig",
@@ -41166,7 +41169,7 @@
         ],
         "golang-github-tencentcloud-sdk": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-tenox7-wrp": [
             "@go-sig",
@@ -41228,7 +41231,7 @@
         ],
         "golang-github-thoj-ircevent": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-thomsonreuterseikon-ntlm": [
             "orphan"
@@ -41351,7 +41354,7 @@
         ],
         "golang-github-transip-gotransip": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-transparency-dev-merkle": [
             "@go-sig",
@@ -41451,7 +41454,7 @@
         ],
         "golang-github-ultradns-sdk": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-unknwon-com": [
             "@go-sig",
@@ -41523,7 +41526,7 @@
         ],
         "golang-github-viant-assertly": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-viant-toolbox": [
             "@go-sig",
@@ -41535,7 +41538,7 @@
         ],
         "golang-github-vinyldns": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-vinyldns-vinyldns": [
             "orphan"
@@ -41613,7 +41616,7 @@
         ],
         "golang-github-vmware-vmw-guestinfo": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-vtolstov-ioctl": [
             "@go-sig",
@@ -41831,7 +41834,7 @@
         ],
         "golang-github-yandex-cloud-sdk": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-yashtewari-glob-intersection": [
             "@go-sig",
@@ -42096,7 +42099,7 @@
         ],
         "golang-gitlab-yawning-utls": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-go4": [
             "@go-sig",
@@ -42211,7 +42214,7 @@
         ],
         "golang-gopkg-asn1-ber-1": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-gopkg-bufio-1": [
             "orphan"
@@ -42349,11 +42352,11 @@
         ],
         "golang-gopkg-ns1-2": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-gopkg-olivere-elastic-2": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-gopkg-olivere-elastic-5": [
             "@go-sig",
@@ -42629,7 +42632,7 @@
         ],
         "golang-k8s-component-helpers": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-k8s-controller-manager": [
             "orphan"
@@ -43075,7 +43078,7 @@
         ],
         "golang-sr-sircmpwn-getopt": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-sr-spc-log": [
             "@go-sig",
@@ -43270,7 +43273,7 @@
         ],
         "golang-xorm-builder": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-xorm-core": [
             "orphan"
@@ -99902,8 +99905,8 @@
             "remi"
         ],
         "php-zipstream": [
-            "bogomil",
-            "llaumgui"
+            "llaumgui",
+            "orphan"
         ],
         "php-zmq": [
             "@infra-sig",
@@ -105145,8 +105148,7 @@
         ],
         "python-behave": [
             "@python-packagers-sig",
-            "aekoroglu",
-            "besser82"
+            "aekoroglu"
         ],
         "python-beniget": [
             "@python-packagers-sig",
@@ -106268,6 +106270,9 @@
         ],
         "python-conda-package-streaming": [
             "orion"
+        ],
+        "python-condense-json": [
+            "terjeros"
         ],
         "python-configargparse": [
             "@certbot-sig",
@@ -110833,6 +110838,9 @@
         "python-junit_xml": [
             "stevetraylen"
         ],
+        "python-junitparser": [
+            "fed500"
+        ],
         "python-junitxml": [
             "limb"
         ],
@@ -114663,6 +114671,9 @@
             "churchyard",
             "lbalhar"
         ],
+        "python-pycparserext": [
+            "fed500"
+        ],
         "python-pycryptodome": [
             "orphan"
         ],
@@ -116048,6 +116059,7 @@
         "python-pyudev": [
             "apevec",
             "bgurney",
+            "ctwo0002",
             "dshea",
             "jskarvad",
             "mulhern"
@@ -118026,6 +118038,9 @@
             "orphan",
             "zuul"
         ],
+        "python-sphinxcontrib-chapeldomain": [
+            "fed500"
+        ],
         "python-sphinxcontrib-cheeseshop": [
             "orphan"
         ],
@@ -118993,6 +119008,7 @@
             "trix"
         ],
         "python-torchaudio": [
+            "@rocm-packagers-sig",
             "trix"
         ],
         "python-torchdata": [
@@ -119008,6 +119024,7 @@
             "trix"
         ],
         "python-torchvision": [
+            "@rocm-packagers-sig",
             "trix"
         ],
         "python-tornado": [
@@ -129722,7 +129739,6 @@
         "rust-bat": [
             "@rust-sig",
             "blinxen",
-            "decathorpe",
             "kanru"
         ],
         "rust-battery": [
@@ -140395,6 +140411,14 @@
             "decathorpe",
             "jwass3"
         ],
+        "rust-pyo3-async-runtimes": [
+            "@rust-sig",
+            "gordonmessmer"
+        ],
+        "rust-pyo3-async-runtimes-macros": [
+            "@rust-sig",
+            "gordonmessmer"
+        ],
         "rust-pyo3-build-config": [
             "@rust-sig",
             "cheimes"
@@ -143530,7 +143554,7 @@
         ],
         "rust-syntect": [
             "@rust-sig",
-            "orphan"
+            "blinxen"
         ],
         "rust-syntect4": [
             "@rust-sig",
@@ -147179,6 +147203,7 @@
             "orphan"
         ],
         "scalapack": [
+            "orion",
             "spot"
         ],
         "scalasca": [
