@@ -21622,9 +21622,9 @@
             "fedora": "jskarvad"
         },
         "ddclient": {
-            "admin": "gotmax23",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "gotmax23"
+            "fedora": "orphan"
         },
         "ddcutil": {
             "admin": "yanqiyu",
@@ -33960,6 +33960,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "gcg": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
         },
         "gchempaint": {
             "admin": "orphan",
@@ -47602,9 +47607,9 @@
             "fedora": "harrymichal"
         },
         "golang-github-hashicorp-checkpoint": {
-            "admin": "eclipseo",
-            "epel": "eclipseo",
-            "fedora": "eclipseo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-hashicorp-cleanhttp": {
             "admin": "mikelo2",
@@ -48487,9 +48492,9 @@
             "fedora": "eclipseo"
         },
         "golang-github-jacobsa-reqtrace": {
-            "admin": "eclipseo",
-            "epel": "eclipseo",
-            "fedora": "eclipseo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-jaguilar-vt100": {
             "admin": "orphan",
@@ -49072,9 +49077,9 @@
             "fedora": "mikelo2"
         },
         "golang-github-kisom-goutils": {
-            "admin": "eclipseo",
-            "epel": "eclipseo",
-            "fedora": "eclipseo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-kit": {
             "admin": "alexsaezm",
@@ -100446,6 +100451,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "ocaml-monolith": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
         "ocaml-mtime": {
             "admin": "jjames",
             "epel": "jjames",
@@ -151441,6 +151451,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "python-snakemake-logger-plugin-rich": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "python-snakemake-storage-plugin-azure": {
             "admin": "music",
             "epel": "music",
@@ -151750,6 +151765,11 @@
             "admin": "opohorel",
             "epel": "salimma",
             "fedora": "opohorel"
+        },
+        "python-sphinx-favicon": {
+            "admin": "orion",
+            "epel": "orion",
+            "fedora": "orion"
         },
         "python-sphinx-gallery": {
             "admin": "orion",
@@ -175621,6 +175641,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-interpolator": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-interprocess": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -177460,6 +177485,11 @@
             "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-manyhow-macros": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-maplit": {
             "admin": "decathorpe",
@@ -181571,6 +181601,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-quote-use-macros": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-quote0.3": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -182196,7 +182231,17 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "rust-reqsign-command-execute-tokio": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-reqsign-core": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "rust-reqsign-http-send-reqwest": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"
@@ -188856,6 +188901,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-zbus-lockstep-macros": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-zbus1": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -189015,6 +189065,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-zlink-macros": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
         },
         "rust-zmq": {
             "admin": "ueno",

@@ -7858,6 +7858,7 @@
         ],
         "anaconda": [
             "anaconda-maint",
+            "bookwar",
             "kkoukiou",
             "toshio",
             "wwoods"
@@ -7875,7 +7876,7 @@
             "m4rtink"
         ],
         "anaconda-webui": [
-            "jkonecny",
+            "bookwar",
             "kkoukiou",
             "m4rtink",
             "rvykydal",
@@ -16879,7 +16880,7 @@
         ],
         "ddclient": [
             "cicku",
-            "gotmax23",
+            "orphan",
             "sagitter"
         ],
         "ddcutil": [
@@ -26126,6 +26127,9 @@
         ],
         "gcfilms": [
             "orphan"
+        ],
+        "gcg": [
+            "jjames"
         ],
         "gchempaint": [
             "belegdol",
@@ -36720,7 +36724,7 @@
         ],
         "golang-github-hashicorp-checkpoint": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-hashicorp-cleanhttp": [
             "@go-sig",
@@ -37368,7 +37372,7 @@
         ],
         "golang-github-jacobsa-reqtrace": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-jaguilar-vt100": [
             "orphan"
@@ -37824,7 +37828,7 @@
         ],
         "golang-github-kisom-goutils": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-kit": [
             "@go-sig",
@@ -76799,6 +76803,9 @@
         "ocaml-mmap": [
             "orphan"
         ],
+        "ocaml-monolith": [
+            "jjames"
+        ],
         "ocaml-mtime": [
             "jjames"
         ],
@@ -92407,6 +92414,7 @@
             "perl-sig"
         ],
         "perl-Sys-MemInfo": [
+            "kni",
             "mspacek",
             "orion",
             "perl-sig"
@@ -117626,6 +117634,10 @@
             "@neuro-sig",
             "music"
         ],
+        "python-snakemake-logger-plugin-rich": [
+            "@neuro-sig",
+            "music"
+        ],
         "python-snakemake-storage-plugin-azure": [
             "@neuro-sig",
             "music"
@@ -117871,6 +117883,9 @@
             "jcapitao",
             "opohorel",
             "salimma"
+        ],
+        "python-sphinx-favicon": [
+            "orion"
         ],
         "python-sphinx-gallery": [
             "@epel-packagers-sig",
@@ -136153,6 +136168,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-interpolator": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-interprocess": [
             "@rust-sig",
             "decathorpe"
@@ -137621,6 +137640,10 @@
         "rust-man": [
             "@rust-sig",
             "orphan"
+        ],
+        "rust-manyhow-macros": [
+            "@rust-sig",
+            "music"
         ],
         "rust-maplit": [
             "@rust-sig",
@@ -140835,6 +140858,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-quote-use-macros": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-quote0.3": [
             "@rust-sig",
             "decathorpe"
@@ -141323,7 +141350,15 @@
         "rust-rental-impl": [
             "orphan"
         ],
+        "rust-reqsign-command-execute-tokio": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-reqsign-core": [
+            "@rust-sig",
+            "music"
+        ],
+        "rust-reqsign-http-send-reqwest": [
             "@rust-sig",
             "music"
         ],
@@ -146513,6 +146548,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-zbus-lockstep-macros": [
+            "decathorpe"
+        ],
         "rust-zbus1": [
             "@rust-sig",
             "decathorpe"
@@ -146644,6 +146682,9 @@
         "rust-zlib-rs": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-zlink-macros": [
+            "asn"
         ],
         "rust-zmq": [
             "@rust-sig",
