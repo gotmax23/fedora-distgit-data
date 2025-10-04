@@ -26466,7 +26466,6 @@
             "orphan"
         ],
         "gedit": [
-            "@gnome-sig",
             "mclasen",
             "rstrode",
             "yselkowitz"
@@ -63352,10 +63351,9 @@
             "mschorm"
         ],
         "mariadb-connector-c": [
-            "ljavorsk",
+            "@db-sig",
             "mmuzila",
-            "mschorm",
-            "psloboda"
+            "mschorm"
         ],
         "mariadb-connector-odbc": [
             "@db-sig",
