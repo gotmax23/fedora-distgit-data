@@ -16821,6 +16821,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "chapel": {
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
+        },
         "charis-fonts": {
             "admin": "orphan",
             "epel": "orphan",
@@ -37407,6 +37412,11 @@
             "fedora": "petersen"
         },
         "ghc-pagure": {
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
+        },
+        "ghc-pandoc": {
             "admin": "petersen",
             "epel": "petersen",
             "fedora": "petersen"
@@ -136671,6 +136681,11 @@
             "epel": "dcavalca",
             "fedora": "dcavalca"
         },
+        "python-coherent-licensed": {
+            "admin": "omos",
+            "epel": "omos",
+            "fedora": "omos"
+        },
         "python-coincidence": {
             "admin": "gotmax23",
             "epel": "kkeithle",
@@ -136767,9 +136782,9 @@
             "fedora": "cottsay"
         },
         "python-colcon-meson": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-metadata": {
             "admin": "cottsay",
@@ -168112,7 +168127,7 @@
             "fedora": "@rust-sig"
         },
         "rust-bytecheck": {
-            "admin": "orphan",
+            "admin": "music",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -168122,9 +168137,9 @@
             "fedora": "@rust-sig"
         },
         "rust-bytecheck_derive": {
-            "admin": "orphan",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-bytecheck_derive0.6": {
             "admin": "decathorpe",
@@ -177306,6 +177321,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-lru-slab": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-lru0.12": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -177485,6 +177505,11 @@
             "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-manyhow": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-manyhow-macros": {
             "admin": "music",
@@ -180967,9 +180992,9 @@
             "fedora": "orphan"
         },
         "rust-ptr_meta": {
-            "admin": "orphan",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-ptr_meta0.1": {
             "admin": "decathorpe",
@@ -180977,9 +181002,9 @@
             "fedora": "@rust-sig"
         },
         "rust-ptr_meta_derive": {
-            "admin": "orphan",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-ptr_meta_derive0.1": {
             "admin": "decathorpe",
@@ -181601,6 +181626,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-quote-use": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-quote-use-macros": {
             "admin": "music",
             "epel": "music",
@@ -182212,9 +182242,9 @@
             "fedora": "@rust-sig"
         },
         "rust-rend": {
-            "admin": "orphan",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-rend0.4": {
             "admin": "decathorpe",
@@ -196557,9 +196587,9 @@
             "fedora": "orphan"
         },
         "tclap": {
-            "admin": "bpostle",
-            "epel": "bpostle",
-            "fedora": "bpostle"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "tclchecker": {
             "admin": "orphan",

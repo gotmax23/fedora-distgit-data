@@ -13167,6 +13167,9 @@
             "@go-sig",
             "orphan"
         ],
+        "chapel": [
+            "fed500"
+        ],
         "charis-fonts": [
             "fonts-sig",
             "kevin",
@@ -28885,6 +28888,9 @@
         ],
         "ghc-pagure": [
             "@haskell-lang-sig",
+            "petersen"
+        ],
+        "ghc-pandoc": [
             "petersen"
         ],
         "ghc-pandoc-types": [
@@ -106035,6 +106041,9 @@
         "python-cogapp": [
             "dcavalca"
         ],
+        "python-coherent-licensed": [
+            "omos"
+        ],
         "python-coincidence": [
             "@python-packagers-sig",
             "gotmax23",
@@ -106097,7 +106106,7 @@
             "cottsay"
         ],
         "python-colcon-meson": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-metadata": [
             "cottsay"
@@ -130258,7 +130267,7 @@
         ],
         "rust-bytecheck": [
             "@rust-sig",
-            "orphan"
+            "music"
         ],
         "rust-bytecheck0.6": [
             "@rust-sig",
@@ -130266,7 +130275,7 @@
         ],
         "rust-bytecheck_derive": [
             "@rust-sig",
-            "orphan"
+            "music"
         ],
         "rust-bytecheck_derive0.6": [
             "@rust-sig",
@@ -137497,6 +137506,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-lru-slab": [
+            "decathorpe"
+        ],
         "rust-lru0.12": [
             "@rust-sig",
             "decathorpe"
@@ -137638,6 +137650,9 @@
         "rust-man": [
             "@rust-sig",
             "orphan"
+        ],
+        "rust-manyhow": [
+            "music"
         ],
         "rust-manyhow-macros": [
             "@rust-sig",
@@ -140354,7 +140369,7 @@
         ],
         "rust-ptr_meta": [
             "@rust-sig",
-            "orphan"
+            "music"
         ],
         "rust-ptr_meta0.1": [
             "@rust-sig",
@@ -140362,7 +140377,7 @@
         ],
         "rust-ptr_meta_derive": [
             "@rust-sig",
-            "orphan"
+            "music"
         ],
         "rust-ptr_meta_derive0.1": [
             "@rust-sig",
@@ -140856,6 +140871,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-quote-use": [
+            "music"
+        ],
         "rust-quote-use-macros": [
             "@rust-sig",
             "music"
@@ -141336,7 +141354,7 @@
         ],
         "rust-rend": [
             "@rust-sig",
-            "orphan"
+            "music"
         ],
         "rust-rend0.4": [
             "@rust-sig",
@@ -152371,7 +152389,7 @@
             "orphan"
         ],
         "tclap": [
-            "bpostle"
+            "orphan"
         ],
         "tclchecker": [
             "orphan",
