@@ -43797,9 +43797,9 @@
             "fedora": "orphan"
         },
         "golang-github-azure-pipeline": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-azure-sdk": {
             "admin": "jcline",
@@ -50417,9 +50417,9 @@
             "fedora": "orphan"
         },
         "golang-github-moby-sys": {
-            "admin": "dreua",
-            "epel": "dreua",
-            "fedora": "dreua"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-moby-term": {
             "admin": "copperi",
@@ -100131,6 +100131,11 @@
             "epel": "jjames",
             "fedora": "jjames"
         },
+        "ocaml-camlpdf": {
+            "admin": "johnwhitington",
+            "epel": "johnwhitington",
+            "fedora": "johnwhitington"
+        },
         "ocaml-camomile": {
             "admin": "rjones",
             "epel": "rjones",
@@ -104934,7 +104939,7 @@
         "pcl": {
             "admin": "orphan",
             "epel": "orphan",
-            "fedora": "churchyard"
+            "fedora": "orphan"
         },
         "pcllib": {
             "admin": "orphan",
@@ -177252,9 +177257,9 @@
             "fedora": "orphan"
         },
         "rust-lockfree-object-pool": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-log": {
             "admin": "decathorpe",

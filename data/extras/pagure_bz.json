@@ -4947,6 +4947,7 @@
             "spot"
         ],
         "R-S7": [
+            "@r-maint-sig",
             "iucar"
         ],
         "R-SummarizedExperiment": [
@@ -13168,7 +13169,8 @@
             "orphan"
         ],
         "chapel": [
-            "fed500"
+            "fed500",
+            "jabraham"
         ],
         "charis-fonts": [
             "fonts-sig",
@@ -24705,6 +24707,7 @@
         "forgejo": [
             "@go-sig",
             "@infra-sig",
+            "amessina",
             "nphilipp"
         ],
         "fortune-firefly": [
@@ -28891,6 +28894,7 @@
             "petersen"
         ],
         "ghc-pandoc": [
+            "@haskell-lang-sig",
             "petersen"
         ],
         "ghc-pandoc-types": [
@@ -33812,7 +33816,7 @@
         ],
         "golang-github-azure-pipeline": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-azure-sdk": [
             "@go-sig",
@@ -38856,7 +38860,7 @@
         ],
         "golang-github-moby-sys": [
             "@go-sig",
-            "dreua"
+            "orphan"
         ],
         "golang-github-moby-term": [
             "@go-sig",
@@ -76570,6 +76574,9 @@
         ],
         "ocaml-camlp5-buildscripts": [
             "jjames"
+        ],
+        "ocaml-camlpdf": [
+            "johnwhitington"
         ],
         "ocaml-camomile": [
             "avsej",
@@ -128863,6 +128870,7 @@
             "@rust-sig",
             "dustymabe",
             "jlebon",
+            "marmijo",
             "siosm"
         ],
         "rust-ahash": [
@@ -129572,6 +129580,7 @@
             "orphan"
         ],
         "rust-atspi-common": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-attohttpc": [
@@ -133109,6 +133118,7 @@
             "dcavalca"
         ],
         "rust-fax": [
+            "@rust-sig",
             "music"
         ],
         "rust-fax_derive": [
@@ -137446,7 +137456,7 @@
         ],
         "rust-lockfree-object-pool": [
             "@rust-sig",
-            "music"
+            "orphan"
         ],
         "rust-log": [
             "@rust-sig",
@@ -137519,6 +137529,7 @@
             "decathorpe"
         ],
         "rust-lru-slab": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-lru0.12": [
@@ -137664,6 +137675,7 @@
             "orphan"
         ],
         "rust-manyhow": [
+            "@rust-sig",
             "music"
         ],
         "rust-manyhow-macros": [
@@ -140334,9 +140346,11 @@
             "decathorpe"
         ],
         "rust-protobuf-parse": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-protobuf-support": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-protoc": [
@@ -140884,6 +140898,7 @@
             "decathorpe"
         ],
         "rust-quote-use": [
+            "@rust-sig",
             "music"
         ],
         "rust-quote-use-macros": [
@@ -142425,6 +142440,7 @@
             "decathorpe"
         ],
         "rust-serde-json-core": [
+            "@rust-sig",
             "asn"
         ],
         "rust-serde-pickle": [
@@ -144185,7 +144201,6 @@
             "music"
         ],
         "rust-tokei12": [
-            "@neuro-sig",
             "@rust-sig",
             "music"
         ],
@@ -146577,6 +146592,7 @@
             "decathorpe"
         ],
         "rust-zbus-lockstep-macros": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-zbus1": [
@@ -146712,6 +146728,7 @@
             "decathorpe"
         ],
         "rust-zlink-macros": [
+            "@rust-sig",
             "asn"
         ],
         "rust-zmq": [
