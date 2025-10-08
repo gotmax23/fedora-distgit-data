@@ -22878,7 +22878,7 @@
             "odintsov"
         ],
         "fasttext": [
-            "orphan"
+            "dchen"
         ],
         "fasttrack": [
             "orphan"
@@ -31336,8 +31336,8 @@
             "orphan"
         ],
         "gmm": [
-            "orphan",
-            "rdieter"
+            "rdieter",
+            "sagitter"
         ],
         "gmobile": [
             "davidsch",
@@ -33828,7 +33828,7 @@
         ],
         "golang-github-azure-sdk-azidentity": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-azure-sdk-internal": [
             "@go-sig",
@@ -34354,7 +34354,7 @@
         ],
         "golang-github-charmbracelet-bubbletea": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-charmbracelet-glamour": [
             "@go-sig",
@@ -34362,11 +34362,11 @@
         ],
         "golang-github-charmbracelet-harmonica": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-charmbracelet-lipgloss": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-chaseadamsio-goorgeous": [
             "orphan"
@@ -40143,7 +40143,7 @@
         ],
         "golang-github-rasky-xdr": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-ravenox-jsoncommentstrip": [
             "@go-sig",
@@ -40426,7 +40426,7 @@
         ],
         "golang-github-sahilm-fuzzy": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-saintfish-chardet": [
             "@go-sig",
@@ -57235,6 +57235,7 @@
             "yselkowitz"
         ],
         "libgee": [
+            "@gnome-sig",
             "salimma"
         ],
         "libgee06": [
@@ -62504,7 +62505,7 @@
             "jskarvad"
         ],
         "lure": [
-            "msuchy"
+            "orphan"
         ],
         "lush": [
             "orphan"
@@ -68010,6 +68011,9 @@
         ],
         "morse2txt": [
             "orphan"
+        ],
+        "morserunner": [
+            "jskarvad"
         ],
         "moserial": [
             "terjeros"
@@ -103479,7 +103483,7 @@
         "python-XStatic-Angular-Mock": [
             "@epel-packagers-sig",
             "@openstack-sig",
-            "mrunge",
+            "orphan",
             "rdopiera"
         ],
         "python-XStatic-Angular-UUID": [
@@ -103495,19 +103499,19 @@
             "rdopiera"
         ],
         "python-XStatic-Bootstrap-Datepicker": [
-            "mrunge",
+            "orphan",
             "rdopiera"
         ],
         "python-XStatic-Bootstrap-SCSS": [
             "@epel-packagers-sig",
             "@openstack-sig",
-            "mrunge",
+            "orphan",
             "rdopiera"
         ],
         "python-XStatic-D3": [
             "@epel-packagers-sig",
             "@openstack-sig",
-            "mrunge",
+            "orphan",
             "rdopiera"
         ],
         "python-XStatic-DataTables": [
@@ -103519,7 +103523,7 @@
         "python-XStatic-Font-Awesome": [
             "@epel-packagers-sig",
             "@openstack-sig",
-            "mrunge",
+            "orphan",
             "rdopiera"
         ],
         "python-XStatic-Hogan": [
@@ -116353,7 +116357,6 @@
         ],
         "python-ratelimitingfilter": [
             "@abrt-sig",
-            "msuchy",
             "orphan"
         ],
         "python-ratinabox": [
@@ -150648,6 +150651,9 @@
         ],
         "stevetraylen": [
             "orphan"
+        ],
+        "stevia": [
+            "lihis"
         ],
         "stfl": [
             "mathstuf"

@@ -29627,9 +29627,9 @@
             "fedora": "odintsov"
         },
         "fasttext": {
-            "admin": "orphan",
+            "admin": "dchen",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "dchen"
         },
         "fasttrack": {
             "admin": "orphan",
@@ -40527,9 +40527,9 @@
             "fedora": "orphan"
         },
         "gmm": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "sagitter",
+            "epel": "sagitter",
+            "fedora": "sagitter"
         },
         "gmobile": {
             "admin": "lihis",
@@ -43812,9 +43812,9 @@
             "fedora": "mikelo2"
         },
         "golang-github-azure-sdk-azidentity": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-azure-sdk-internal": {
             "admin": "mikelo2",
@@ -44502,9 +44502,9 @@
             "fedora": "orphan"
         },
         "golang-github-charmbracelet-bubbletea": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-charmbracelet-glamour": {
             "admin": "orphan",
@@ -44512,14 +44512,14 @@
             "fedora": "orphan"
         },
         "golang-github-charmbracelet-harmonica": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-charmbracelet-lipgloss": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-chaseadamsio-goorgeous": {
             "admin": "orphan",
@@ -52057,9 +52057,9 @@
             "fedora": "orphan"
         },
         "golang-github-rasky-xdr": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-ravenox-jsoncommentstrip": {
             "admin": "eclipseo",
@@ -52422,9 +52422,9 @@
             "fedora": "mikelo2"
         },
         "golang-github-sahilm-fuzzy": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-saintfish-chardet": {
             "admin": "orphan",
@@ -80362,9 +80362,9 @@
             "fedora": "jskarvad"
         },
         "lure": {
-            "admin": "msuchy",
-            "epel": "msuchy",
-            "fedora": "msuchy"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "lush": {
             "admin": "orphan",
@@ -87705,6 +87705,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "morserunner": {
+            "admin": "jskarvad",
+            "epel": "jskarvad",
+            "fedora": "jskarvad"
         },
         "moserial": {
             "admin": "terjeros",
@@ -133357,9 +133362,9 @@
             "fedora": "orphan"
         },
         "python-XStatic-Angular-Mock": {
-            "admin": "mrunge",
-            "epel": "mrunge",
-            "fedora": "mrunge"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-XStatic-Angular-UUID": {
             "admin": "rdopiera",
@@ -133377,19 +133382,19 @@
             "fedora": "orphan"
         },
         "python-XStatic-Bootstrap-Datepicker": {
-            "admin": "mrunge",
-            "epel": "mrunge",
-            "fedora": "mrunge"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-XStatic-Bootstrap-SCSS": {
-            "admin": "mrunge",
-            "epel": "mrunge",
-            "fedora": "mrunge"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-XStatic-D3": {
-            "admin": "mrunge",
-            "epel": "mrunge",
-            "fedora": "mrunge"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-XStatic-DataTables": {
             "admin": "dmsimard",
@@ -133402,9 +133407,9 @@
             "fedora": "rdopiera"
         },
         "python-XStatic-Font-Awesome": {
-            "admin": "mrunge",
-            "epel": "mrunge",
-            "fedora": "mrunge"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-XStatic-Hogan": {
             "admin": "orphan",
@@ -194225,6 +194230,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "stevia": {
+            "admin": "lihis",
+            "epel": "lihis",
+            "fedora": "lihis"
         },
         "stfl": {
             "admin": "mathstuf",
