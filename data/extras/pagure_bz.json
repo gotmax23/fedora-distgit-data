@@ -70103,6 +70103,7 @@
             "mtasaka"
         ],
         "ngtcp2": [
+            "@crypto-team",
             "@dns-sig",
             "asn",
             "pemensik"
@@ -114375,6 +114376,7 @@
             "orphan"
         ],
         "python-propcache": [
+            "@python-packagers-sig",
             "trix"
         ],
         "python-protego": [
@@ -141404,6 +141406,10 @@
             "@rust-sig",
             "music"
         ],
+        "rust-reqsign-file-read-tokio": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-reqsign-http-send-reqwest": [
             "@rust-sig",
             "music"
@@ -144952,7 +144958,7 @@
         ],
         "rust-two-face": [
             "@rust-sig",
-            "orphan"
+            "blinxen"
         ],
         "rust-twofish": [
             "@rust-sig",
@@ -146730,8 +146736,17 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-zlink": [
+            "asn"
+        ],
+        "rust-zlink-core": [
+            "asn"
+        ],
         "rust-zlink-macros": [
             "@rust-sig",
+            "asn"
+        ],
+        "rust-zlink-tokio": [
             "asn"
         ],
         "rust-zmq": [
@@ -157772,7 +157787,6 @@
             "orphan"
         ],
         "wireplumber": [
-            "whot",
             "wtaymans"
         ],
         "wireshark": [

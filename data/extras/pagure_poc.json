@@ -182301,6 +182301,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "rust-reqsign-file-read-tokio": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-reqsign-http-send-reqwest": {
             "admin": "music",
             "epel": "music",
@@ -186847,7 +186852,7 @@
             "fedora": "@rust-sig"
         },
         "rust-two-face": {
-            "admin": "orphan",
+            "admin": "blinxen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -189126,7 +189131,22 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-zlink": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
+        "rust-zlink-core": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
         "rust-zlink-macros": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
+        "rust-zlink-tokio": {
             "admin": "asn",
             "epel": "asn",
             "fedora": "asn"
