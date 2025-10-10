@@ -23618,7 +23618,7 @@
         },
         "docker-compose": {
             "admin": "gotmax23",
-            "epel": "daveisfera",
+            "epel": "gotmax23",
             "fedora": "gotmax23"
         },
         "docker-compose-switch": {
@@ -67642,9 +67642,9 @@
             "fedora": "orphan"
         },
         "kdelibs3": {
-            "admin": "than",
-            "epel": "than",
-            "fedora": "than"
+            "admin": "kkofler",
+            "epel": "orphan",
+            "fedora": "kkofler"
         },
         "kdelibs4": {
             "admin": "orphan",
@@ -134737,9 +134737,9 @@
             "fedora": "neurowinter"
         },
         "python-avocado": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cleber",
+            "epel": "cleber",
+            "fedora": "cleber"
         },
         "python-avro": {
             "admin": "neurowinter",
@@ -137370,6 +137370,11 @@
             "admin": "abompard",
             "epel": "abompard",
             "fedora": "abompard"
+        },
+        "python-cron-converter": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "python-croniter": {
             "admin": "jcapitao",
@@ -152306,6 +152311,11 @@
             "epel": "terjeros",
             "fedora": "terjeros"
         },
+        "python-sqlite-utils": {
+            "admin": "terjeros",
+            "epel": "terjeros",
+            "fedora": "terjeros"
+        },
         "python-sqlite2": {
             "admin": "orphan",
             "epel": "laxathom",
@@ -155367,9 +155377,9 @@
             "fedora": "orphan"
         },
         "python-yattag": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "jskarvad",
+            "epel": "jskarvad",
+            "fedora": "jskarvad"
         },
         "python-yenc": {
             "admin": "orphan",
@@ -189133,23 +189143,23 @@
         },
         "rust-zlink": {
             "admin": "asn",
-            "epel": "asn",
-            "fedora": "asn"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-zlink-core": {
             "admin": "asn",
-            "epel": "asn",
-            "fedora": "asn"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-zlink-macros": {
             "admin": "asn",
-            "epel": "asn",
-            "fedora": "asn"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-zlink-tokio": {
             "admin": "asn",
-            "epel": "asn",
-            "fedora": "asn"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-zmq": {
             "admin": "ueno",

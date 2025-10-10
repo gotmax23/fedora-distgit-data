@@ -52138,8 +52138,7 @@
             "orphan"
         ],
         "kdelibs3": [
-            "kkofler",
-            "than"
+            "kkofler"
         ],
         "kdelibs4": [
             "orphan"
@@ -104517,8 +104516,7 @@
             "neurowinter"
         ],
         "python-avocado": [
-            "cleber",
-            "orphan"
+            "cleber"
         ],
         "python-avro": [
             "neurowinter"
@@ -106545,6 +106543,9 @@
             "abompard",
             "carlwgeorge",
             "jonathanspw"
+        ],
+        "python-cron-converter": [
+            "music"
         ],
         "python-croniter": [
             "@openstack-sig",
@@ -112639,6 +112640,7 @@
         ],
         "python-neovim": [
             "asn",
+            "mhjacks",
             "salimma"
         ],
         "python-nessus-file-reader": [
@@ -118292,6 +118294,9 @@
         "python-sqlite-fts4": [
             "terjeros"
         ],
+        "python-sqlite-utils": [
+            "terjeros"
+        ],
         "python-sqlite2": [
             "orphan"
         ],
@@ -120665,7 +120670,7 @@
             "orphan"
         ],
         "python-yattag": [
-            "orphan"
+            "jskarvad"
         ],
         "python-yenc": [
             "orphan"
@@ -146737,9 +146742,11 @@
             "decathorpe"
         ],
         "rust-zlink": [
+            "@rust-sig",
             "asn"
         ],
         "rust-zlink-core": [
+            "@rust-sig",
             "asn"
         ],
         "rust-zlink-macros": [
@@ -146747,6 +146754,7 @@
             "asn"
         ],
         "rust-zlink-tokio": [
+            "@rust-sig",
             "asn"
         ],
         "rust-zmq": [
