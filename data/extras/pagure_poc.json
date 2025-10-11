@@ -2407,6 +2407,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "mesa-libOpenCL": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "meteo": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -18171,6 +18176,11 @@
             "epel": "orion",
             "fedora": "orion"
         },
+        "cobbler3.3": {
+            "admin": "orion",
+            "epel": "orion",
+            "fedora": "orion"
+        },
         "cobertura": {
             "admin": "orphan",
             "epel": "orphan",
@@ -33451,6 +33461,11 @@
             "epel": "jjames",
             "fedora": "jjames"
         },
+        "gap-pkg-inducereduce": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
         "gap-pkg-io": {
             "admin": "jjames",
             "epel": "jjames",
@@ -33642,6 +33657,11 @@
             "fedora": "jjames"
         },
         "gap-pkg-smallantimagmas": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
+        "gap-pkg-smallclassnr": {
             "admin": "jjames",
             "epel": "jjames",
             "fedora": "jjames"
@@ -70831,6 +70851,11 @@
             "epel": "buckaroogeek",
             "fedora": "buckaroogeek"
         },
+        "kubernetes1.35": {
+            "admin": "buckaroogeek",
+            "epel": "buckaroogeek",
+            "fedora": "buckaroogeek"
+        },
         "kubrick": {
             "admin": "than",
             "epel": "than",
@@ -101990,6 +102015,11 @@
             "admin": "limb",
             "epel": "limb",
             "fedora": "limb"
+        },
+        "openarm_can": {
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
         },
         "openas2": {
             "admin": "orphan",
@@ -137378,7 +137408,7 @@
         },
         "python-croniter": {
             "admin": "jcapitao",
-            "epel": "jcapitao",
+            "epel": "rcallicotte",
             "fedora": "jcapitao"
         },
         "python-crossword": {
@@ -155212,9 +155242,9 @@
             "fedora": "churchyard"
         },
         "python-xmlsec": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "salimma",
+            "epel": "salimma",
+            "fedora": "salimma"
         },
         "python-xmltodict": {
             "admin": "fab",
@@ -158745,6 +158775,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "qthreads": {
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
         },
         "qtile": {
             "admin": "frostyx",
@@ -181141,6 +181176,16 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-pyo3-async-runtimes-macros0.25": {
+            "admin": "gordonmessmer",
+            "epel": "gordonmessmer",
+            "fedora": "gordonmessmer"
+        },
+        "rust-pyo3-async-runtimes0.25": {
+            "admin": "gordonmessmer",
+            "epel": "gordonmessmer",
+            "fedora": "gordonmessmer"
+        },
         "rust-pyo3-build-config": {
             "admin": "cheimes",
             "epel": "@rust-sig",
@@ -192690,6 +192735,11 @@
             "admin": "yanqiyu",
             "epel": "yanqiyu",
             "fedora": "yanqiyu"
+        },
+        "softwedge": {
+            "admin": "jskarvad",
+            "epel": "jskarvad",
+            "fedora": "jskarvad"
         },
         "solaar": {
             "admin": "rathann",

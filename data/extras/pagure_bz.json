@@ -1961,6 +1961,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "mesa-libOpenCL": [
+            "yselkowitz"
+        ],
         "meteo": [
             "@flatpak-sig",
             "yselkowitz"
@@ -14210,6 +14213,9 @@
         "cobbler3.2": [
             "orion"
         ],
+        "cobbler3.3": [
+            "orion"
+        ],
         "cobertura": [
             "orphan"
         ],
@@ -25790,6 +25796,9 @@
         "gap-pkg-images": [
             "jjames"
         ],
+        "gap-pkg-inducereduce": [
+            "jjames"
+        ],
         "gap-pkg-io": [
             "jjames"
         ],
@@ -25905,6 +25914,9 @@
             "jjames"
         ],
         "gap-pkg-smallantimagmas": [
+            "jjames"
+        ],
+        "gap-pkg-smallclassnr": [
             "jjames"
         ],
         "gap-pkg-smallgrp": [
@@ -43434,7 +43446,6 @@
             "salimma"
         ],
         "google-gson": [
-            "dchen",
             "java-sig",
             "jerboaa",
             "jvanek",
@@ -46998,7 +47009,8 @@
         ],
         "hypre": [
             "fuller",
-            "loveshack"
+            "loveshack",
+            "orion"
         ],
         "hyprgraphics": [
             "bytehackr"
@@ -54846,6 +54858,9 @@
         ],
         "kubernetes1.34": [
             "@go-sig",
+            "buckaroogeek"
+        ],
+        "kubernetes1.35": [
             "buckaroogeek"
         ],
         "kubrick": [
@@ -77967,6 +77982,9 @@
             "limb",
             "sagitter",
             "suve"
+        ],
+        "openarm_can": [
+            "fed500"
         ],
         "openas2": [
             "orphan"
@@ -106550,7 +106568,8 @@
         "python-croniter": [
             "@openstack-sig",
             "apevec",
-            "jcapitao"
+            "jcapitao",
+            "rcallicotte"
         ],
         "python-crossword": [
             "dcavalca"
@@ -120546,7 +120565,9 @@
             "churchyard"
         ],
         "python-xmlsec": [
-            "orphan"
+            "@infra-sig",
+            "@python-packagers-sig",
+            "salimma"
         ],
         "python-xmltodict": [
             "@infra-sig",
@@ -123176,6 +123197,9 @@
         "qtgpsc": [
             "orphan"
         ],
+        "qthreads": [
+            "fed500"
+        ],
         "qtile": [
             "akdev",
             "dannycolin",
@@ -124380,7 +124404,6 @@
         ],
         "resteasy": [
             "cfu",
-            "dchen",
             "edewata",
             "gil",
             "java-sig",
@@ -140491,6 +140514,12 @@
             "@rust-sig",
             "gordonmessmer"
         ],
+        "rust-pyo3-async-runtimes-macros0.25": [
+            "gordonmessmer"
+        ],
+        "rust-pyo3-async-runtimes0.25": [
+            "gordonmessmer"
+        ],
         "rust-pyo3-build-config": [
             "@rust-sig",
             "cheimes"
@@ -149428,6 +149457,9 @@
         ],
         "softnet-stat": [
             "yanqiyu"
+        ],
+        "softwedge": [
+            "jskarvad"
         ],
         "solaar": [
             "rathann",
