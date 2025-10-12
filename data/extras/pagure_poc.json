@@ -30346,6 +30346,11 @@
             "epel": "mohanboddu",
             "fedora": "mohanboddu"
         },
+        "fedora-repro": {
+            "admin": "zbyszek",
+            "epel": "zbyszek",
+            "fedora": "zbyszek"
+        },
         "fedora-review": {
             "admin": "ngompa",
             "epel": "maxamillion",
@@ -76913,7 +76918,7 @@
         },
         "librtprocess": {
             "admin": "mattia",
-            "epel": "mattia",
+            "epel": "music",
             "fedora": "mattia"
         },
         "librttopo": {
@@ -132448,7 +132453,7 @@
         },
         "pyflakes": {
             "admin": "aekoroglu",
-            "epel": "mrunge",
+            "epel": "rcallicotte",
             "fedora": "aekoroglu"
         },
         "pyflowtools": {
@@ -167326,6 +167331,11 @@
             "epel": "@rust-sig",
             "fedora": "orphan"
         },
+        "rust-attribute-derive-macro": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-atty": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -167760,6 +167770,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-bindgen0.71": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-binfarce": {
             "admin": "orphan",
@@ -182345,6 +182360,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "rust-reqsign-aws-v4": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-reqsign-command-execute-tokio": {
             "admin": "music",

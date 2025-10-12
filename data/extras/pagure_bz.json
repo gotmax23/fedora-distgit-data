@@ -23420,6 +23420,9 @@
             "pbrobinson",
             "praiskup"
         ],
+        "fedora-repro": [
+            "zbyszek"
+        ],
         "fedora-review": [
             "frostyx",
             "leamas",
@@ -102806,7 +102809,8 @@
         "pyflakes": [
             "@python-packagers-sig",
             "aekoroglu",
-            "mrunge"
+            "mrunge",
+            "rcallicotte"
         ],
         "pyflowtools": [
             "orphan",
@@ -129619,6 +129623,10 @@
         "rust-attohttpc": [
             "orphan"
         ],
+        "rust-attribute-derive-macro": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-atty": [
             "@rust-sig",
             "decathorpe"
@@ -129972,6 +129980,9 @@
         ],
         "rust-bindgen0.69": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-bindgen0.71": [
             "decathorpe"
         ],
         "rust-binfarce": [
@@ -141431,6 +141442,9 @@
         ],
         "rust-rental-impl": [
             "orphan"
+        ],
+        "rust-reqsign-aws-v4": [
+            "music"
         ],
         "rust-reqsign-command-execute-tokio": [
             "@rust-sig",
