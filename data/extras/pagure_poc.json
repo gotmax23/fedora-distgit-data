@@ -152346,6 +152346,11 @@
             "epel": "terjeros",
             "fedora": "terjeros"
         },
+        "python-sqlite-migrate": {
+            "admin": "terjeros",
+            "epel": "terjeros",
+            "fedora": "terjeros"
+        },
         "python-sqlite-utils": {
             "admin": "terjeros",
             "epel": "terjeros",
