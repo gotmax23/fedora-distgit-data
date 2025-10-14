@@ -1962,6 +1962,7 @@
             "yselkowitz"
         ],
         "mesa-libOpenCL": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "meteo": [
@@ -13797,9 +13798,9 @@
             "orphan"
         ],
         "clementine": [
-            "eclipseo",
             "jgrulich",
-            "oget"
+            "oget",
+            "orphan"
         ],
         "clevis": [
             "javierm",
@@ -17227,6 +17228,7 @@
         "deepin-screenshot": [
             "@deepinde-sig",
             "cheeselee",
+            "orphan",
             "zsun"
         ],
         "deepin-session-shell": [
@@ -25955,10 +25957,16 @@
         "gap-pkg-typeset": [
             "jjames"
         ],
+        "gap-pkg-unipot": [
+            "jjames"
+        ],
         "gap-pkg-utils": [
             "jjames"
         ],
         "gap-pkg-uuid": [
+            "jjames"
+        ],
+        "gap-pkg-wpe": [
             "jjames"
         ],
         "gap-pkg-xmod": [
@@ -54975,6 +54983,9 @@
         "kwin-x11": [
             "kkofler"
         ],
+        "kwin-zones": [
+            "farchord"
+        ],
         "kwooty": [
             "@kde-sig",
             "marcdeop"
@@ -70085,6 +70096,9 @@
             "luhliarik",
             "mikelo2",
             "ngompa"
+        ],
+        "nginx-mod-js-challenge": [
+            "girst"
         ],
         "nginx-mod-modsecurity": [
             "heffer",
@@ -129986,6 +130000,7 @@
             "decathorpe"
         ],
         "rust-bindgen0.71": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-binfarce": [
@@ -140529,9 +140544,11 @@
             "gordonmessmer"
         ],
         "rust-pyo3-async-runtimes-macros0.25": [
+            "@rust-sig",
             "gordonmessmer"
         ],
         "rust-pyo3-async-runtimes0.25": [
+            "@rust-sig",
             "gordonmessmer"
         ],
         "rust-pyo3-build-config": [
@@ -141447,6 +141464,7 @@
             "orphan"
         ],
         "rust-reqsign-aws-v4": [
+            "@rust-sig",
             "music"
         ],
         "rust-reqsign-command-execute-tokio": [
@@ -161573,7 +161591,8 @@
             "@epel-packagers-sig",
             "dcavalca",
             "nb",
-            "neil"
+            "neil",
+            "turboben"
         ],
         "znc-clientbuffer": [
             "ignatenkobrain",

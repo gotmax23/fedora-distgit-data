@@ -17622,9 +17622,9 @@
             "fedora": "orphan"
         },
         "clementine": {
-            "admin": "eclipseo",
-            "epel": "eclipseo",
-            "fedora": "eclipseo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "clevis": {
             "admin": "scorreia",
@@ -21977,9 +21977,9 @@
             "fedora": "topazus"
         },
         "deepin-screenshot": {
-            "admin": "zsun",
-            "epel": "@deepinde-sig",
-            "fedora": "@deepinde-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "deepin-session-shell": {
             "admin": "zsun",
@@ -33726,12 +33726,22 @@
             "epel": "jjames",
             "fedora": "jjames"
         },
+        "gap-pkg-unipot": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
         "gap-pkg-utils": {
             "admin": "jjames",
             "epel": "jjames",
             "fedora": "jjames"
         },
         "gap-pkg-uuid": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
+        "gap-pkg-wpe": {
             "admin": "jjames",
             "epel": "jjames",
             "fedora": "jjames"
@@ -70996,6 +71006,11 @@
             "epel": "kkofler",
             "fedora": "kkofler"
         },
+        "kwin-zones": {
+            "admin": "farchord",
+            "epel": "farchord",
+            "fedora": "farchord"
+        },
         "kwooty": {
             "admin": "marcdeop",
             "epel": "marcdeop",
@@ -90465,6 +90480,11 @@
             "admin": "ngompa",
             "epel": "ngompa",
             "fedora": "ngompa"
+        },
+        "nginx-mod-js-challenge": {
+            "admin": "girst",
+            "epel": "girst",
+            "fedora": "girst"
         },
         "nginx-mod-modsecurity": {
             "admin": "mikelo2",
@@ -167778,8 +167798,8 @@
         },
         "rust-bindgen0.71": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-binfarce": {
             "admin": "orphan",
