@@ -30342,9 +30342,9 @@
             "fedora": "petersen"
         },
         "fedora-repos": {
-            "admin": "mohanboddu",
-            "epel": "mohanboddu",
-            "fedora": "mohanboddu"
+            "admin": "jnsamyak",
+            "epel": "jnsamyak",
+            "fedora": "jnsamyak"
         },
         "fedora-repro": {
             "admin": "zbyszek",
@@ -126466,6 +126466,11 @@
             "epel": "robert",
             "fedora": "robert"
         },
+        "php-php81_bc-strftime": {
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
+        },
         "php-phpSmug": {
             "admin": "orphan",
             "epel": "orphan",
@@ -148971,6 +148976,11 @@
             "epel": "ngompa",
             "fedora": "ngompa"
         },
+        "python-pystitch": {
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
+        },
         "python-pystray": {
             "admin": "ngompa",
             "epel": "ngompa",
@@ -151905,6 +151915,11 @@
             "admin": "topazus",
             "epel": "topazus",
             "fedora": "topazus"
+        },
+        "python-sphinx-markdown-builder": {
+            "admin": "terjeros",
+            "epel": "terjeros",
+            "fedora": "terjeros"
         },
         "python-sphinx-markdown-tables": {
             "admin": "smani",
@@ -175206,6 +175221,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-hybrid-array": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-hyper": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -196182,7 +196202,7 @@
             "fedora": "orphan"
         },
         "systemd": {
-            "admin": "systemd-maint",
+            "admin": "zbyszek",
             "epel": "systemd-maint",
             "fedora": "systemd-maint"
         },

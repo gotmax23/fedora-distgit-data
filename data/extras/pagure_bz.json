@@ -13573,7 +13573,6 @@
             "nevun",
             "ondrejj",
             "orion",
-            "pgfed",
             "steve",
             "tibbs"
         ],
@@ -23417,6 +23416,7 @@
         "fedora-repos": [
             "cyberpear",
             "humaton",
+            "jnsamyak",
             "kevin",
             "mohanboddu",
             "pbrobinson",
@@ -75894,7 +75894,6 @@
         "nsd": [
             "fale",
             "fenris02",
-            "pgfed",
             "pwouters"
         ],
         "nsdiff": [
@@ -98553,6 +98552,9 @@
         "php-php-gettext": [
             "robert"
         ],
+        "php-php81_bc-strftime": [
+            "suve"
+        ],
         "php-phpSmug": [
             "orphan"
         ],
@@ -101527,8 +101529,7 @@
             "stethewwolf"
         ],
         "postfix": [
-            "jskarvad",
-            "pgfed"
+            "jskarvad"
         ],
         "postfix-mta-sts-resolver": [
             "thebeanogamer"
@@ -115648,6 +115649,9 @@
             "ngompa",
             "salimma"
         ],
+        "python-pystitch": [
+            "fed500"
+        ],
         "python-pystray": [
             "@python-packagers-sig",
             "besser82",
@@ -117987,6 +117991,9 @@
         ],
         "python-sphinx-lint": [
             "topazus"
+        ],
+        "python-sphinx-markdown-builder": [
+            "terjeros"
         ],
         "python-sphinx-markdown-tables": [
             "smani"
@@ -135809,6 +135816,9 @@
         "rust-humantime1": [
             "@rust-sig",
             "jistone"
+        ],
+        "rust-hybrid-array": [
+            "decathorpe"
         ],
         "rust-hyper": [
             "@rust-sig",
