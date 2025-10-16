@@ -82857,9 +82857,9 @@
             "fedora": "dtardon"
         },
         "mdevctl": {
-            "admin": "alwillia",
-            "epel": "alwillia",
-            "fedora": "alwillia"
+            "admin": "rjones",
+            "epel": "rjones",
+            "fedora": "rjones"
         },
         "mdk": {
             "admin": "filiperosset",
@@ -115536,6 +115536,11 @@
             "epel": "eseyman",
             "fedora": "eseyman"
         },
+        "perl-Net-IDN-PP": {
+            "admin": "releng-bot",
+            "epel": "releng-bot",
+            "fedora": "releng-bot"
+        },
         "perl-Net-IMAP-Client": {
             "admin": "mspacek",
             "epel": "mspacek",
@@ -133007,9 +133012,9 @@
             "fedora": "mochaa"
         },
         "pysubnettree": {
-            "admin": "orphan",
+            "admin": "dogukancagatay",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "dogukancagatay"
         },
         "pysvn": {
             "admin": "barryascott",
@@ -156986,6 +156991,11 @@
             "epel": "python-maint",
             "fedora": "python-maint"
         },
+        "python3.15": {
+            "admin": "ksurma",
+            "epel": "ksurma",
+            "fedora": "ksurma"
+        },
         "python3.5": {
             "admin": "orphan",
             "epel": "orphan",
@@ -167370,6 +167380,11 @@
             "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "orphan"
+        },
+        "rust-attribute-derive": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-attribute-derive-macro": {
             "admin": "music",
@@ -200095,6 +200110,11 @@
             "admin": "suve",
             "epel": "suve",
             "fedora": "suve"
+        },
+        "twr-mint-mono-fonts": {
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "txmpp": {
             "admin": "orphan",

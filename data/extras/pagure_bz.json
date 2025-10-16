@@ -12678,7 +12678,8 @@
             "orphan"
         ],
         "cascadia-code-fonts": [
-            "spot"
+            "spot",
+            "t4rik"
         ],
         "cashe": [
             "orphan"
@@ -13697,6 +13698,7 @@
         ],
         "classloader-leak-test-framework": [
             "anezbeda",
+            "mizdebsk",
             "mkoncek",
             "praiskup",
             "zmiklank"
@@ -63405,6 +63407,7 @@
         ],
         "mariadb-java-client": [
             "anezbeda",
+            "mizdebsk",
             "mkoncek",
             "mschorm",
             "zmiklank"
@@ -64451,7 +64454,7 @@
             "dtardon"
         ],
         "mdevctl": [
-            "alwillia"
+            "rjones"
         ],
         "mdk": [
             "filiperosset",
@@ -77832,12 +77835,14 @@
             "acaringi",
             "anezbeda",
             "jorsol",
+            "mizdebsk",
             "mkoncek",
             "praiskup",
             "zmiklank"
         ],
         "ongres-stringprep": [
             "anezbeda",
+            "mizdebsk",
             "mkoncek",
             "zmiklank"
         ],
@@ -89800,6 +89805,9 @@
             "eseyman",
             "perl-sig"
         ],
+        "perl-Net-IDN-PP": [
+            "releng-bot"
+        ],
         "perl-Net-IMAP-Client": [
             "lkundrak",
             "mspacek"
@@ -101570,6 +101578,7 @@
         "postgresql-jdbc": [
             "anezbeda",
             "hhorak",
+            "mizdebsk",
             "mkoncek",
             "praiskup",
             "zmiklank"
@@ -103207,8 +103216,8 @@
             "trix"
         ],
         "pysubnettree": [
-            "fab",
-            "orphan"
+            "dogukancagatay",
+            "fab"
         ],
         "pysvn": [
             "barryascott",
@@ -121786,6 +121795,9 @@
             "churchyard",
             "ksurma"
         ],
+        "python3.15": [
+            "ksurma"
+        ],
         "python3.5": [
             "orphan"
         ],
@@ -124329,6 +124341,7 @@
             "anezbeda",
             "gil",
             "java-sig",
+            "mizdebsk",
             "mkoncek",
             "mschorm",
             "zmiklank"
@@ -125204,7 +125217,10 @@
             "dcantrell"
         ],
         "rpminspect-data-fedora": [
-            "dcantrell"
+            "dcantrell",
+            "kanru",
+            "lecris",
+            "omajid"
         ],
         "rpmlint": [
             "churchyard",
@@ -129646,6 +129662,10 @@
         ],
         "rust-attohttpc": [
             "orphan"
+        ],
+        "rust-attribute-derive": [
+            "@rust-sig",
+            "music"
         ],
         "rust-attribute-derive-macro": [
             "@rust-sig",
@@ -147186,6 +147206,7 @@
         ],
         "sanlock": [
             "cfeist",
+            "mcsontos",
             "nsoffer",
             "teigland"
         ],
@@ -154978,6 +154999,9 @@
         ],
         "tworld": [
             "suve"
+        ],
+        "twr-mint-mono-fonts": [
+            "tagoh"
         ],
         "txmpp": [
             "orphan"
