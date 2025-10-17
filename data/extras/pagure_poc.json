@@ -21807,9 +21807,9 @@
             "fedora": "orphan"
         },
         "deepin-daemon": {
-            "admin": "zsun",
-            "epel": "@deepinde-sig",
-            "fedora": "@deepinde-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "deepin-dbus-generator": {
             "admin": "orphan",
@@ -21982,9 +21982,9 @@
             "fedora": "orphan"
         },
         "deepin-session-shell": {
-            "admin": "zsun",
-            "epel": "zsun",
-            "fedora": "zsun"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "deepin-session-ui": {
             "admin": "orphan",
@@ -53167,9 +53167,9 @@
             "fedora": "mikelo2"
         },
         "golang-github-spf13-viper": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-spiffe-2": {
             "admin": "orphan",
@@ -104117,9 +104117,9 @@
             "fedora": "petersen"
         },
         "pagure-dist-git": {
-            "admin": "pingou",
-            "epel": "pingou",
-            "fedora": "pingou"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "pagure-exporter": {
             "admin": "t0xic0der",
@@ -157380,6 +157380,11 @@
             "admin": "churchyard",
             "epel": "churchyard",
             "fedora": "churchyard"
+        },
+        "pytorch-examples": {
+            "admin": "trix",
+            "epel": "trix",
+            "fedora": "trix"
         },
         "pytorctl": {
             "admin": "orphan",

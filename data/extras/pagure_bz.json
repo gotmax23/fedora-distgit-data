@@ -17043,6 +17043,7 @@
             "@deepinde-sig",
             "@go-sig",
             "cheeselee",
+            "orphan",
             "zsun"
         ],
         "deepin-dbus-generator": [
@@ -17235,7 +17236,7 @@
         "deepin-session-shell": [
             "@deepinde-sig",
             "cheeselee",
-            "zsun"
+            "orphan"
         ],
         "deepin-session-ui": [
             "@deepinde-sig",
@@ -40990,7 +40991,7 @@
         "golang-github-spf13-viper": [
             "@go-sig",
             "jchaloup",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-spiffe-2": [
             "orphan"
@@ -44009,6 +44010,7 @@
             "pwhalen"
         ],
         "greenboot-rs": [
+            "mmartinv",
             "pwhalen",
             "saypaul"
         ],
@@ -48307,6 +48309,7 @@
         "iprutils": [
             "dwmw2",
             "jcajka",
+            "sharkcz",
             "sinnykumari"
         ],
         "ipsec-tools": [
@@ -54447,7 +54450,6 @@
             "orphan"
         ],
         "krb5-auth-dialog": [
-            "@gnome-sig",
             "mclasen",
             "orphan",
             "rhughes",
@@ -79610,7 +79612,7 @@
         "pagure-dist-git": [
             "@infra-sig",
             "ngompa",
-            "pingou"
+            "orphan"
         ],
         "pagure-exporter": [
             "t0xic0der"
@@ -122081,6 +122083,9 @@
             "@python-packagers-sig",
             "churchyard"
         ],
+        "pytorch-examples": [
+            "trix"
+        ],
         "pytorctl": [
             "orphan"
         ],
@@ -132151,11 +132156,13 @@
         ],
         "rust-deku": [
             "@rust-sig",
-            "jcajka"
+            "jcajka",
+            "sharkcz"
         ],
         "rust-deku_derive": [
             "@rust-sig",
-            "jcajka"
+            "jcajka",
+            "sharkcz"
         ],
         "rust-delharc": [
             "@rust-sig",
