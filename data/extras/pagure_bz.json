@@ -13108,6 +13108,7 @@
         ],
         "cfitsio": [
             "@astro-sig",
+            "kathenas",
             "orion"
         ],
         "cflow": [
@@ -13801,7 +13802,7 @@
         "clementine": [
             "jgrulich",
             "oget",
-            "orphan"
+            "yselkowitz"
         ],
         "clevis": [
             "javierm",
@@ -50106,6 +50107,9 @@
         "jd": [
             "mtasaka"
         ],
+        "jd-core": [
+            "jvanek"
+        ],
         "jday": [
             "goeran",
             "huzaifas"
@@ -69859,7 +69863,6 @@
             "rrendec"
         ],
         "netresolve": [
-            "orphan",
             "pemensik"
         ],
         "netscanner": [
@@ -89808,7 +89811,8 @@
             "perl-sig"
         ],
         "perl-Net-IDN-PP": [
-            "releng-bot"
+            "@perl-maint-sig",
+            "ppisar"
         ],
         "perl-Net-IMAP-Client": [
             "lkundrak",
@@ -91511,6 +91515,9 @@
         "perl-Redis": [
             "jplesnik",
             "perl-sig"
+        ],
+        "perl-Redis-Fast": [
+            "xavierb"
         ],
         "perl-Ref-Util": [
             "perl-sig",
@@ -116660,6 +116667,7 @@
         ],
         "python-requests-gssapi": [
             "ftrivino",
+            "jrische",
             "simo"
         ],
         "python-requests-kerberos": [
@@ -125783,8 +125791,7 @@
         ],
         "rubygem-asciidoctor": [
             "@epel-packagers-sig",
-            "cottsay",
-            "mjg"
+            "cottsay"
         ],
         "rubygem-asciidoctor-pdf": [
             "evgeni",
@@ -129419,6 +129426,10 @@
         "rust-assert-str": [
             "@rust-sig",
             "pbrobinson"
+        ],
+        "rust-assert2": [
+            "@rust-sig",
+            "solomoncyj"
         ],
         "rust-assert2-macros": [
             "@rust-sig",
@@ -149764,6 +149775,10 @@
         "spacenavd": [
             "hobbes1069"
         ],
+        "spacer": [
+            "@rust-sig",
+            "carlwgeorge"
+        ],
         "spacewalk-admin": [
             "msuchy",
             "orphan"
@@ -157488,6 +157503,7 @@
             "yaneti"
         ],
         "webrtc-audio-processing": [
+            "@gnome-sig",
             "rishi",
             "uraeus",
             "wtaymans"

@@ -17622,9 +17622,9 @@
             "fedora": "orphan"
         },
         "clementine": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
         },
         "clevis": {
             "admin": "scorreia",
@@ -65051,6 +65051,11 @@
             "epel": "mtasaka",
             "fedora": "mtasaka"
         },
+        "jd-core": {
+            "admin": "jvanek",
+            "epel": "jvanek",
+            "fedora": "jvanek"
+        },
         "jday": {
             "admin": "goeran",
             "epel": "orphan",
@@ -90162,9 +90167,9 @@
             "fedora": "rrendec"
         },
         "netresolve": {
-            "admin": "orphan",
+            "admin": "pemensik",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "pemensik"
         },
         "netscanner": {
             "admin": "orphan",
@@ -115537,9 +115542,9 @@
             "fedora": "eseyman"
         },
         "perl-Net-IDN-PP": {
-            "admin": "releng-bot",
-            "epel": "releng-bot",
-            "fedora": "releng-bot"
+            "admin": "ppisar",
+            "epel": "ppisar",
+            "fedora": "ppisar"
         },
         "perl-Net-IMAP-Client": {
             "admin": "mspacek",
@@ -117465,6 +117470,11 @@
             "admin": "jplesnik",
             "epel": "jplesnik",
             "fedora": "jplesnik"
+        },
+        "perl-Redis-Fast": {
+            "admin": "xavierb",
+            "epel": "xavierb",
+            "fedora": "xavierb"
         },
         "perl-Ref-Util": {
             "admin": "pghmcfc",
@@ -150272,9 +150282,9 @@
             "fedora": "carlwgeorge"
         },
         "python-requests-gssapi": {
-            "admin": "simo",
-            "epel": "simo",
-            "fedora": "simo"
+            "admin": "jrische",
+            "epel": "jrische",
+            "fedora": "jrische"
         },
         "python-requests-kerberos": {
             "admin": "carlwgeorge",
@@ -167070,6 +167080,11 @@
             "admin": "pbrobinson",
             "epel": "pbrobinson",
             "fedora": "pbrobinson"
+        },
+        "rust-assert2": {
+            "admin": "solomoncyj",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-assert2-macros": {
             "admin": "solomoncyj",
@@ -193115,6 +193130,11 @@
             "admin": "hobbes1069",
             "epel": "hobbes1069",
             "fedora": "hobbes1069"
+        },
+        "spacer": {
+            "admin": "carlwgeorge",
+            "epel": "carlwgeorge",
+            "fedora": "carlwgeorge"
         },
         "spacewalk-admin": {
             "admin": "orphan",
