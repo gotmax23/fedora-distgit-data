@@ -4329,6 +4329,7 @@
         ],
         "NetworkManager-libreswan": [
             "bengal",
+            "ihuguet",
             "lkundrak",
             "thaller"
         ],
@@ -9254,6 +9255,7 @@
             "mhayden"
         ],
         "asciinema": [
+            "@rust-sig",
             "carlwgeorge",
             "xfgusta"
         ],
@@ -18347,6 +18349,11 @@
         ],
         "dnrd": [
             "orphan"
+        ],
+        "dns-root-data": [
+            "@dns-sig",
+            "pemensik",
+            "pspacek"
         ],
         "dnscap": [
             "orphan"
@@ -47625,6 +47632,9 @@
             "limb",
             "nbecker"
         ],
+        "igsc": [
+            "androniychuk"
+        ],
         "igt-gpu-tools": [
             "airlied",
             "ghishadow",
@@ -48096,6 +48106,12 @@
         ],
         "intel-metee": [
             "aekoroglu",
+            "androniychuk"
+        ],
+        "intel-metrics-discovery": [
+            "androniychuk"
+        ],
+        "intel-metrics-library": [
             "androniychuk"
         ],
         "intel-mpi-benchmarks": [
@@ -52457,7 +52473,6 @@
         ],
         "kernel-srpm-macros": [
             "esyr",
-            "tdawson",
             "vda"
         ],
         "kernel-tools": [
@@ -56787,6 +56802,7 @@
             "ghishadow",
             "ignatenkobrain",
             "jexposit",
+            "mpenttil",
             "rstrode"
         ],
         "libdrm-armada": [
@@ -65095,6 +65111,10 @@
         "miglayout": [
             "brouhaha",
             "hanecak"
+        ],
+        "migraphx": [
+            "@rocm-packagers-sig",
+            "trix"
         ],
         "migrate": [
             "@go-sig",
@@ -79105,7 +79125,7 @@
             "orphan"
         ],
         "orangefs": [
-            "orphan"
+            "terjeros"
         ],
         "orbited": [
             "orphan"
@@ -101529,6 +101549,9 @@
         "portreserve": [
             "twaugh"
         ],
+        "portsentry": [
+            "goeran"
+        ],
         "postal": [
             "orphan"
         ],
@@ -106452,7 +106475,8 @@
         ],
         "python-cooldict": [
             "@epel-packagers-sig",
-            "mikep"
+            "mikep",
+            "orphan"
         ],
         "python-copr": [
             "@copr-sig",
@@ -118064,6 +118088,9 @@
             "jjames",
             "salimma"
         ],
+        "python-sphinx-thebe": [
+            "jjames"
+        ],
         "python-sphinx-theme-alabaster": [
             "@python-packagers-sig",
             "churchyard",
@@ -121806,6 +121833,8 @@
             "ksurma"
         ],
         "python3.15": [
+            "@python-packagers-sig",
+            "churchyard",
             "ksurma"
         ],
         "python3.5": [
@@ -122810,7 +122839,7 @@
             "than"
         ],
         "qt4pas": [
-            "vascom"
+            "orphan"
         ],
         "qt5": [
             "@kde-sig",
@@ -123987,7 +124016,7 @@
         ],
         "rdopkg": [
             "@openstack-sig",
-            "jcapitao"
+            "orphan"
         ],
         "re2": [
             "ekohl",
@@ -134010,6 +134039,13 @@
         "rust-genmesh": [
             "orphan"
         ],
+        "rust-get-size-derive2": [
+            "music"
+        ],
+        "rust-get-size2": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-getch": [
             "@rust-sig",
             "decathorpe"
@@ -135856,6 +135892,7 @@
             "jistone"
         ],
         "rust-hybrid-array": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-hyper": [
@@ -139673,6 +139710,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-phf0.11": [
+            "decathorpe"
+        ],
         "rust-phf0.7": [
             "orphan"
         ],
@@ -139682,6 +139722,9 @@
         ],
         "rust-phf_codegen": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-phf_codegen0.11": [
             "decathorpe"
         ],
         "rust-phf_codegen0.7": [
@@ -139695,6 +139738,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-phf_generator0.11": [
+            "decathorpe"
+        ],
         "rust-phf_generator0.7": [
             "orphan"
         ],
@@ -139706,6 +139752,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-phf_macros0.11": [
+            "decathorpe"
+        ],
         "rust-phf_macros0.7": [
             "orphan"
         ],
@@ -139715,6 +139764,9 @@
         ],
         "rust-phf_shared": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-phf_shared0.11": [
             "decathorpe"
         ],
         "rust-phf_shared0.7": [
@@ -155379,6 +155431,10 @@
         "uispec4j": [
             "orphan"
         ],
+        "ukiboot": [
+            "alexl",
+            "javierm"
+        ],
         "ukij-tuz-fonts": [
             "i18n-team",
             "petersen",
@@ -158700,7 +158756,7 @@
         ],
         "xcat": [
             "fab",
-            "jonathanspw"
+            "orphan"
         ],
         "xcb-imdkit": [
             "yanqiyu"

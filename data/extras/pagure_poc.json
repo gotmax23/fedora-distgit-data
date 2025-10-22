@@ -23411,6 +23411,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "dns-root-data": {
+            "admin": "pemensik",
+            "epel": "pemensik",
+            "fedora": "pemensik"
+        },
         "dnscap": {
             "admin": "orphan",
             "epel": "orphan",
@@ -61886,6 +61891,11 @@
             "epel": "limb",
             "fedora": "limb"
         },
+        "igsc": {
+            "admin": "androniychuk",
+            "epel": "androniychuk",
+            "fedora": "androniychuk"
+        },
         "igt-gpu-tools": {
             "admin": "lyude",
             "epel": "lyude",
@@ -62520,6 +62530,16 @@
             "admin": "aekoroglu",
             "epel": "aekoroglu",
             "fedora": "aekoroglu"
+        },
+        "intel-metrics-discovery": {
+            "admin": "androniychuk",
+            "epel": "androniychuk",
+            "fedora": "androniychuk"
+        },
+        "intel-metrics-library": {
+            "admin": "androniychuk",
+            "epel": "androniychuk",
+            "fedora": "androniychuk"
         },
         "intel-mpi-benchmarks": {
             "admin": "michich",
@@ -83701,6 +83721,11 @@
             "epel": "hanecak",
             "fedora": "hanecak"
         },
+        "migraphx": {
+            "admin": "trix",
+            "epel": "trix",
+            "fedora": "trix"
+        },
         "migrate": {
             "admin": "linkdupont",
             "epel": "linkdupont",
@@ -103467,9 +103492,9 @@
             "fedora": "orphan"
         },
         "orangefs": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "terjeros",
+            "epel": "terjeros",
+            "fedora": "terjeros"
         },
         "orbited": {
             "admin": "orphan",
@@ -130751,6 +130776,11 @@
             "epel": "twaugh",
             "fedora": "twaugh"
         },
+        "portsentry": {
+            "admin": "goeran",
+            "epel": "goeran",
+            "fedora": "goeran"
+        },
         "postal": {
             "admin": "orphan",
             "epel": "orphan",
@@ -137267,9 +137297,9 @@
             "fedora": "orphan"
         },
         "python-cooldict": {
-            "admin": "mikep",
-            "epel": "mikep",
-            "fedora": "mikep"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-copr": {
             "admin": "msuchy",
@@ -152001,6 +152031,11 @@
             "epel": "salimma",
             "fedora": "churchyard"
         },
+        "python-sphinx-thebe": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
         "python-sphinx-theme-alabaster": {
             "admin": "jujens",
             "epel": "jujens",
@@ -158337,9 +158372,9 @@
             "fedora": "kkofler"
         },
         "qt4pas": {
-            "admin": "vascom",
-            "epel": "vascom",
-            "fedora": "vascom"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "qt5": {
             "admin": "jgrulich",
@@ -159832,9 +159867,9 @@
             "fedora": "kheib"
         },
         "rdopkg": {
-            "admin": "jcapitao",
-            "epel": "jcapitao",
-            "fedora": "jcapitao"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "re2": {
             "admin": "music",
@@ -172931,6 +172966,16 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "rust-get-size-derive2": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "rust-get-size2": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-getch": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -180091,6 +180136,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-phf0.11": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-phf0.7": {
             "admin": "orphan",
             "epel": "orphan",
@@ -180105,6 +180155,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-phf_codegen0.11": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-phf_codegen0.7": {
             "admin": "orphan",
@@ -180121,6 +180176,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-phf_generator0.11": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-phf_generator0.7": {
             "admin": "orphan",
             "epel": "orphan",
@@ -180136,6 +180196,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-phf_macros0.11": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-phf_macros0.7": {
             "admin": "orphan",
             "epel": "orphan",
@@ -180150,6 +180215,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-phf_shared0.11": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-phf_shared0.7": {
             "admin": "orphan",
@@ -181273,13 +181343,13 @@
         },
         "rust-pyo3-async-runtimes-macros0.25": {
             "admin": "gordonmessmer",
-            "epel": "gordonmessmer",
-            "fedora": "gordonmessmer"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-pyo3-async-runtimes0.25": {
             "admin": "gordonmessmer",
-            "epel": "gordonmessmer",
-            "fedora": "gordonmessmer"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-pyo3-build-config": {
             "admin": "cheimes",
@@ -200601,6 +200671,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "ukiboot": {
+            "admin": "javierm",
+            "epel": "javierm",
+            "fedora": "javierm"
+        },
         "ukij-tuz-fonts": {
             "admin": "pwu",
             "epel": "pwu",
@@ -205072,9 +205147,9 @@
             "fedora": "orphan"
         },
         "xcat": {
-            "admin": "jonathanspw",
-            "epel": "jonathanspw",
-            "fedora": "jonathanspw"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "xcb-imdkit": {
             "admin": "yanqiyu",
