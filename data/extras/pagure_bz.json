@@ -8680,7 +8680,7 @@
             "orphan"
         ],
         "appeditor": [
-            "music"
+            "orphan"
         ],
         "apper": [
             "orphan"
@@ -16235,6 +16235,7 @@
             "zdohnal"
         ],
         "cups-pdf": [
+            "marnold512",
             "robert",
             "robmv"
         ],
@@ -17675,7 +17676,7 @@
             "orphan"
         ],
         "dialect": [
-            "orphan"
+            "lihis"
         ],
         "dialog": [
             "mlichvar",
@@ -19949,6 +19950,9 @@
             "ngompa"
         ],
         "dymo-cups-drivers": [
+            "kni"
+        ],
+        "dymo-cups-drivers-lw5xx": [
             "kni"
         ],
         "dynaconf": [
@@ -32700,7 +32704,13 @@
         ],
         "go-fdo-client": [
             "@go-sig",
-            "kgiusti"
+            "kgiusti",
+            "mmartinv"
+        ],
+        "go-fdo-server": [
+            "@go-sig",
+            "kgiusti",
+            "mmartinv"
         ],
         "go-i18n": [
             "orphan"
@@ -34338,7 +34348,7 @@
         ],
         "golang-github-cenkalti-backoff5": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-census-instrumentation-opencensus-proto": [
             "@go-sig",
@@ -68661,7 +68671,7 @@
             "praiskup"
         ],
         "multimarkdown": [
-            "orphan"
+            "yselkowitz"
         ],
         "multimedia-menus": [
             "eeickmeyer",
@@ -76669,6 +76679,9 @@
         "ocaml-config-file": [
             "orphan"
         ],
+        "ocaml-cpdf": [
+            "johnwhitington"
+        ],
         "ocaml-cppo": [
             "dchen",
             "salimma"
@@ -78028,6 +78041,9 @@
             "limb",
             "sagitter",
             "suve"
+        ],
+        "openarm-can": [
+            "fed500"
         ],
         "openarm_can": [
             "fed500"
@@ -98141,7 +98157,7 @@
             "remi"
         ],
         "php-pear-Net-Sieve": [
-            "remi"
+            "orphan"
         ],
         "php-pear-Net-Socket": [
             "remi"
@@ -106475,8 +106491,7 @@
         ],
         "python-cooldict": [
             "@epel-packagers-sig",
-            "mikep",
-            "orphan"
+            "mikep"
         ],
         "python-copr": [
             "@copr-sig",
@@ -116369,6 +116384,9 @@
         "python-qudida": [
             "thunderbirdtr"
         ],
+        "python-questionary": [
+            "fed500"
+        ],
         "python-queuelib": [
             "echevemaster",
             "fab"
@@ -124776,6 +124794,7 @@
             "pbrobinson"
         ],
         "rkhunter": [
+            "@infra-sig",
             "flits",
             "kevin",
             "nonamedotc"
@@ -128392,6 +128411,7 @@
             "orphan"
         ],
         "rubygem-sqlite3": [
+            "@ruby-packagers-sig",
             "tdawson",
             "vondruch"
         ],
@@ -138567,7 +138587,6 @@
         ],
         "rust-normpath": [
             "@rust-sig",
-            "kevin",
             "zbyszek"
         ],
         "rust-normpath0.3": [
@@ -141562,6 +141581,10 @@
         ],
         "rust-rental-impl": [
             "orphan"
+        ],
+        "rust-reqsign": [
+            "@rust-sig",
+            "music"
         ],
         "rust-reqsign-aws-v4": [
             "@rust-sig",

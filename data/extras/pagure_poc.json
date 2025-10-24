@@ -11042,9 +11042,9 @@
             "fedora": "orphan"
         },
         "appeditor": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "apper": {
             "admin": "orphan",
@@ -22542,9 +22542,9 @@
             "fedora": "orphan"
         },
         "dialect": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "lihis",
+            "epel": "lihis",
+            "fedora": "lihis"
         },
         "dialog": {
             "admin": "mlichvar",
@@ -25642,6 +25642,11 @@
             "fedora": "ngompa"
         },
         "dymo-cups-drivers": {
+            "admin": "kni",
+            "epel": "kni",
+            "fedora": "kni"
+        },
+        "dymo-cups-drivers-lw5xx": {
             "admin": "kni",
             "epel": "kni",
             "fedora": "kni"
@@ -42336,6 +42341,11 @@
             "epel": "kgiusti",
             "fedora": "kgiusti"
         },
+        "go-fdo-server": {
+            "admin": "kgiusti",
+            "epel": "kgiusti",
+            "fedora": "kgiusti"
+        },
         "go-i18n": {
             "admin": "orphan",
             "epel": "orphan",
@@ -44477,9 +44487,9 @@
             "fedora": "mikelo2"
         },
         "golang-github-cenkalti-backoff5": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-census-instrumentation-opencensus-proto": {
             "admin": "alexsaezm",
@@ -88577,9 +88587,9 @@
             "fedora": "mschorm"
         },
         "multimarkdown": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
         },
         "multimedia-menus": {
             "admin": "oget",
@@ -100261,6 +100271,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "ocaml-cpdf": {
+            "admin": "johnwhitington",
+            "epel": "johnwhitington",
+            "fedora": "johnwhitington"
+        },
         "ocaml-cppo": {
             "admin": "dchen",
             "epel": "dchen",
@@ -102070,6 +102085,11 @@
             "admin": "limb",
             "epel": "limb",
             "fedora": "limb"
+        },
+        "openarm-can": {
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
         },
         "openarm_can": {
             "admin": "fed500",
@@ -125792,9 +125812,9 @@
             "fedora": "remi"
         },
         "php-pear-Net-Sieve": {
-            "admin": "remi",
-            "epel": "remi",
-            "fedora": "remi"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "php-pear-Net-Socket": {
             "admin": "remi",
@@ -137297,9 +137317,9 @@
             "fedora": "orphan"
         },
         "python-cooldict": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "mikep",
+            "epel": "mikep",
+            "fedora": "mikep"
         },
         "python-copr": {
             "admin": "msuchy",
@@ -149905,6 +149925,11 @@
             "admin": "thunderbirdtr",
             "epel": "thunderbirdtr",
             "fedora": "thunderbirdtr"
+        },
+        "python-questionary": {
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
         },
         "python-queuelib": {
             "admin": "echevemaster",
@@ -180138,8 +180163,8 @@
         },
         "rust-phf0.11": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-phf0.7": {
             "admin": "orphan",
@@ -180158,8 +180183,8 @@
         },
         "rust-phf_codegen0.11": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-phf_codegen0.7": {
             "admin": "orphan",
@@ -180178,8 +180203,8 @@
         },
         "rust-phf_generator0.11": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-phf_generator0.7": {
             "admin": "orphan",
@@ -180198,8 +180223,8 @@
         },
         "rust-phf_macros0.11": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-phf_macros0.7": {
             "admin": "orphan",
@@ -180218,8 +180243,8 @@
         },
         "rust-phf_shared0.11": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-phf_shared0.7": {
             "admin": "orphan",
@@ -182510,6 +182535,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "rust-reqsign": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-reqsign-aws-v4": {
             "admin": "music",
