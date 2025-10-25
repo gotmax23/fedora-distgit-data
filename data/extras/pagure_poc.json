@@ -182627,12 +182627,12 @@
             "fedora": "orphan"
         },
         "rust-result-like": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-result-like-derive": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -185870,6 +185870,11 @@
             "admin": "ppfeister",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-textdistance": {
+            "admin": "solomoncyj",
+            "epel": "solomoncyj",
+            "fedora": "solomoncyj"
         },
         "rust-textwrap": {
             "admin": "decathorpe",

@@ -141654,11 +141654,11 @@
         ],
         "rust-result-like": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-result-like-derive": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-retry": [
             "@rust-sig",
@@ -144185,6 +144185,9 @@
         "rust-text_placeholder": [
             "@rust-sig",
             "ppfeister"
+        ],
+        "rust-textdistance": [
+            "solomoncyj"
         ],
         "rust-textwrap": [
             "@rust-sig",
