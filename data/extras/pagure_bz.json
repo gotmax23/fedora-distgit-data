@@ -128796,8 +128796,7 @@
             "@python-packagers-sig",
             "@rust-sig",
             "decathorpe",
-            "music",
-            "nixuser"
+            "music"
         ],
         "ruff-lsp": [
             "orphan"
@@ -154116,7 +154115,7 @@
             "kalev"
         ],
         "totpcgi": [
-            "kevin"
+            "orphan"
         ],
         "touchcal": [
             "sharkcz"

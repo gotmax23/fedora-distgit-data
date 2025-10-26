@@ -198862,9 +198862,9 @@
             "fedora": "@gnome-sig"
         },
         "totpcgi": {
-            "admin": "kevin",
-            "epel": "kevin",
-            "fedora": "kevin"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "touchcal": {
             "admin": "sharkcz",
