@@ -6806,7 +6806,7 @@
         "Zim": [
             "gui1ty",
             "nixuser",
-            "oturpe"
+            "orphan"
         ],
         "ZipArchive": [
             "jwrdegoede",
@@ -12654,7 +12654,7 @@
         ],
         "caribou": [
             "@epel-packagers-sig",
-            "leigh123linux",
+            "orphan",
             "ueno"
         ],
         "caribou0": [
@@ -70113,6 +70113,9 @@
             "msekleta",
             "svashisht"
         ],
+        "nghttp3": [
+            "alebastr"
+        ],
         "nginx": [
             "heffer",
             "jorton",
@@ -70293,6 +70296,9 @@
         ],
         "nitroshare": [
             "orphan"
+        ],
+        "nix": [
+            "petersen"
         ],
         "njam": [
             "jwrdegoede"
@@ -104145,6 +104151,9 @@
             "@neuro-sig",
             "ankursinha"
         ],
+        "python-annotated-doc": [
+            "music"
+        ],
         "python-annotated-types": [
             "@python-packagers-sig",
             "gotmax23",
@@ -105429,6 +105438,7 @@
             "@epel-packagers-sig",
             "jonathanspw",
             "kkeithle",
+            "orphan",
             "tnorth",
             "zbyszek"
         ],
@@ -107043,7 +107053,8 @@
             "ngompa"
         ],
         "python-defcon": [
-            "athoscr"
+            "athoscr",
+            "orphan"
         ],
         "python-defusedxml": [
             "@python-packagers-sig",
@@ -110248,7 +110259,7 @@
             "orphan"
         ],
         "python-hypothesmith": [
-            "dcavalca",
+            "orphan",
             "salimma"
         ],
         "python-i3ipc": [
@@ -111891,7 +111902,7 @@
             "thm"
         ],
         "python-markdown_2": [
-            "aekoroglu"
+            "orphan"
         ],
         "python-markups": [
             "orphan"
@@ -113496,8 +113507,8 @@
         "python-oslo-config": [
             "@openstack-sig",
             "apevec",
-            "jcapitao",
-            "markmc"
+            "markmc",
+            "orphan"
         ],
         "python-oslo-context": [
             "@epel-packagers-sig",
@@ -113671,9 +113682,9 @@
             "@epel-packagers-sig",
             "@neuro-sig",
             "@python-packagers-sig",
-            "jonathanspw",
             "kushal",
             "orion",
+            "orphan",
             "sergiopr"
         ],
         "python-pandas-datareader": [
@@ -114538,8 +114549,8 @@
             "zlopez"
         ],
         "python-psycopg3": [
-            "anezbeda",
             "ndavidov",
+            "orphan",
             "osloup"
         ],
         "python-pthreading": [
@@ -115812,8 +115823,8 @@
         "python-pytest-cov": [
             "@epel-packagers-sig",
             "@python-packagers-sig",
-            "dcavalca",
             "orion",
+            "orphan",
             "ttomecek"
         ],
         "python-pytest-cython": [
@@ -117048,7 +117059,7 @@
         ],
         "python-rq": [
             "@python-packagers-sig",
-            "aekoroglu"
+            "orphan"
         ],
         "python-rsa": [
             "fale",
@@ -117103,8 +117114,7 @@
             "@openstack-sig",
             "jmontleon",
             "music",
-            "omos",
-            "ssbarnea"
+            "omos"
         ],
         "python-ruamel-yaml-clib": [
             "@epel-packagers-sig",
@@ -119632,6 +119642,9 @@
         ],
         "python-types-mock": [
             "ppfeister"
+        ],
+        "python-types-psutil": [
+            "limb"
         ],
         "python-types-pygments": [
             "topazus"
@@ -126970,17 +126983,17 @@
             "@ruby-packagers-sig",
             "besser82",
             "frantisekz",
-            "oturpe"
+            "orphan"
         ],
         "rubygem-jekyll-asciidoc": [
-            "oturpe"
+            "orphan"
         ],
         "rubygem-jekyll-email-protect": [
             "@ruby-packagers-sig",
             "jackorp"
         ],
         "rubygem-jekyll-feed": [
-            "oturpe"
+            "orphan"
         ],
         "rubygem-jekyll-git-authors": [
             "@ruby-packagers-sig",
@@ -126990,20 +127003,20 @@
             "@ruby-packagers-sig",
             "besser82",
             "frantisekz",
-            "oturpe"
+            "orphan"
         ],
         "rubygem-jekyll-seo-tag": [
-            "oturpe"
+            "orphan"
         ],
         "rubygem-jekyll-toc": [
             "@ruby-packagers-sig",
-            "oturpe"
+            "orphan"
         ],
         "rubygem-jekyll-watch": [
             "@ruby-packagers-sig",
             "besser82",
             "frantisekz",
-            "oturpe"
+            "orphan"
         ],
         "rubygem-jgrep": [
             "orphan"
@@ -127107,7 +127120,7 @@
         ],
         "rubygem-liquid": [
             "ktdreyer",
-            "oturpe"
+            "orphan"
         ],
         "rubygem-listen": [
             "@ruby-packagers-sig",
@@ -127259,7 +127272,7 @@
             "mtasaka"
         ],
         "rubygem-minima": [
-            "oturpe"
+            "orphan"
         ],
         "rubygem-minitest": [
             "humaton",
@@ -127270,7 +127283,7 @@
             "ilgrad"
         ],
         "rubygem-minitest-profile": [
-            "oturpe"
+            "orphan"
         ],
         "rubygem-minitest-reporters": [
             "orphan"
@@ -128250,7 +128263,7 @@
             "orphan"
         ],
         "rubygem-sassc": [
-            "oturpe"
+            "orphan"
         ],
         "rubygem-sassc-rails": [
             "pvalena",
@@ -128443,7 +128456,7 @@
             "mtasaka"
         ],
         "rubygem-sync": [
-            "oturpe"
+            "orphan"
         ],
         "rubygem-syntax": [
             "lkundrak",
@@ -128473,7 +128486,7 @@
             "vondruch"
         ],
         "rubygem-term-ansicolor": [
-            "oturpe",
+            "orphan",
             "tdawson",
             "vondruch"
         ],
@@ -128552,7 +128565,6 @@
             "humaton"
         ],
         "rubygem-tins": [
-            "oturpe",
             "tdawson"
         ],
         "rubygem-tk": [
@@ -128562,7 +128574,7 @@
             "orphan"
         ],
         "rubygem-tomlrb": [
-            "oturpe"
+            "orphan"
         ],
         "rubygem-track_open_instances": [
             "stevetraylen"
@@ -129047,7 +129059,7 @@
         ],
         "rust-alga": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-alga_derive": [
             "@rust-sig",
@@ -129222,7 +129234,7 @@
         ],
         "rust-append-only-vec": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-appendlist": [
             "@rust-sig",
@@ -130872,7 +130884,7 @@
         ],
         "rust-cfb": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-cfb-mode": [
             "@rust-sig",
@@ -131118,11 +131130,11 @@
         ],
         "rust-cli-table": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-cli-table-derive": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-clicolors-control": [
             "@rust-sig",
@@ -131155,7 +131167,7 @@
         ],
         "rust-cluFlock": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-cmac": [
             "@rust-sig",
@@ -131306,7 +131318,7 @@
         ],
         "rust-concat-idents": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-concolor": [
             "@rust-sig",
@@ -131413,7 +131425,7 @@
         ],
         "rust-const_fn": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-const_format": [
             "@rust-sig",
@@ -133502,7 +133514,7 @@
         ],
         "rust-font-kit": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-fontconfig-parser": [
             "orphan"
@@ -134059,6 +134071,7 @@
             "orphan"
         ],
         "rust-get-size-derive2": [
+            "@rust-sig",
             "music"
         ],
         "rust-get-size2": [
@@ -135534,7 +135547,7 @@
         ],
         "rust-gzip-header": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gzp": [
             "@rust-sig",
@@ -135719,7 +135732,7 @@
         ],
         "rust-hexf-parse": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-hexyl": [
             "@rust-sig",
@@ -137493,7 +137506,7 @@
         ],
         "rust-line-wrap": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-line_drawing": [
             "orphan"
@@ -137866,7 +137879,7 @@
         ],
         "rust-match_cfg": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-match_token": [
             "@rust-sig",
@@ -139729,6 +139742,7 @@
             "decathorpe"
         ],
         "rust-phf0.11": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-phf0.7": [
@@ -139743,6 +139757,7 @@
             "decathorpe"
         ],
         "rust-phf_codegen0.11": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-phf_codegen0.7": [
@@ -139757,6 +139772,7 @@
             "decathorpe"
         ],
         "rust-phf_generator0.11": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-phf_generator0.7": [
@@ -139771,6 +139787,7 @@
             "decathorpe"
         ],
         "rust-phf_macros0.11": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-phf_macros0.7": [
@@ -139785,6 +139802,7 @@
             "decathorpe"
         ],
         "rust-phf_shared0.11": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-phf_shared0.7": [
@@ -141642,7 +141660,7 @@
         ],
         "rust-resize": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-resolv-conf": [
             "@rust-sig",
@@ -142774,7 +142792,7 @@
         ],
         "rust-serde_url_params": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-serde_urlencoded": [
             "@rust-sig",
@@ -144186,6 +144204,7 @@
             "ppfeister"
         ],
         "rust-textdistance": [
+            "@rust-sig",
             "solomoncyj"
         ],
         "rust-textwrap": [
@@ -146672,7 +146691,7 @@
         ],
         "rust-xmlparser": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-xmltree": [
             "orphan"
@@ -149970,6 +149989,9 @@
         ],
         "spatialindex": [
             "cottsay"
+        ],
+        "spatialindex2.0": [
+            "smani"
         ],
         "spatialite-gui": [
             "smani"
@@ -153848,6 +153870,7 @@
         ],
         "tmt": [
             "bajertom",
+            "lecris",
             "lzachar",
             "mhlavink",
             "mhoyer",
@@ -155816,8 +155839,7 @@
             "limb"
         ],
         "uqm": [
-            "limb",
-            "oturpe"
+            "limb"
         ],
         "uqm-content": [
             "orphan"
@@ -156639,7 +156661,7 @@
             "bpostle"
         ],
         "viking": [
-            "oturpe"
+            "orphan"
         ],
         "vile": [
             "mmckinst",

@@ -8667,7 +8667,7 @@
             "fedora": "luya"
         },
         "Zim": {
-            "admin": "oturpe",
+            "admin": "orphan",
             "epel": "gui1ty",
             "fedora": "oturpe"
         },
@@ -16132,7 +16132,7 @@
             "fedora": "@rust-sig"
         },
         "caribou": {
-            "admin": "leigh123linux",
+            "admin": "orphan",
             "epel": "@epel-packagers-sig",
             "fedora": "leigh123linux"
         },
@@ -90501,6 +90501,11 @@
             "epel": "jamacku",
             "fedora": "jamacku"
         },
+        "nghttp3": {
+            "admin": "alebastr",
+            "epel": "alebastr",
+            "fedora": "alebastr"
+        },
         "nginx": {
             "admin": "heffer",
             "epel": "heffer",
@@ -90715,6 +90720,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "nix": {
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "njam": {
             "admin": "jwrdegoede",
@@ -134266,6 +134276,11 @@
             "epel": "ankursinha",
             "fedora": "ankursinha"
         },
+        "python-annotated-doc": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "python-annotated-types": {
             "admin": "gotmax23",
             "epel": "gotmax23",
@@ -135912,9 +135927,9 @@
             "fedora": "cottsay"
         },
         "python-blosc": {
-            "admin": "jonathanspw",
+            "admin": "orphan",
             "epel": "zbyszek",
-            "fedora": "jonathanspw"
+            "fedora": "orphan"
         },
         "python-blosc2": {
             "admin": "zbyszek",
@@ -138002,9 +138017,9 @@
             "fedora": "ngompa"
         },
         "python-defcon": {
-            "admin": "athoscr",
-            "epel": "athoscr",
-            "fedora": "athoscr"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-defusedxml": {
             "admin": "churchyard",
@@ -142042,9 +142057,9 @@
             "fedora": "orphan"
         },
         "python-hypothesmith": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-i3ipc": {
             "admin": "alebastr",
@@ -144142,9 +144157,9 @@
             "fedora": "thm"
         },
         "python-markdown_2": {
-            "admin": "aekoroglu",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "aekoroglu"
+            "fedora": "orphan"
         },
         "python-markups": {
             "admin": "orphan",
@@ -146232,9 +146247,9 @@
             "fedora": "jcapitao"
         },
         "python-oslo-config": {
-            "admin": "jcapitao",
-            "epel": "jcapitao",
-            "fedora": "jcapitao"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-oslo-context": {
             "admin": "limb",
@@ -146452,9 +146467,9 @@
             "fedora": "tieugene"
         },
         "python-pandas": {
-            "admin": "jonathanspw",
+            "admin": "orphan",
             "epel": "jonathanspw",
-            "fedora": "jonathanspw"
+            "fedora": "orphan"
         },
         "python-pandas-datareader": {
             "admin": "sergiopr",
@@ -147527,9 +147542,9 @@
             "fedora": "fjanus"
         },
         "python-psycopg3": {
-            "admin": "anezbeda",
-            "epel": "anezbeda",
-            "fedora": "anezbeda"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pthreading": {
             "admin": "orphan",
@@ -149182,9 +149197,9 @@
             "fedora": "lbalhar"
         },
         "python-pytest-cov": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pytest-cython": {
             "admin": "orphan",
@@ -150732,9 +150747,9 @@
             "fedora": "mikep"
         },
         "python-rq": {
-            "admin": "aekoroglu",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "aekoroglu"
+            "fedora": "orphan"
         },
         "python-rsa": {
             "admin": "jmontleon",
@@ -154050,6 +154065,11 @@
             "admin": "ppfeister",
             "epel": "ppfeister",
             "fedora": "ppfeister"
+        },
+        "python-types-psutil": {
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "python-types-pygments": {
             "admin": "topazus",
@@ -163837,14 +163857,14 @@
             "fedora": "vondruch"
         },
         "rubygem-jekyll": {
-            "admin": "oturpe",
-            "epel": "oturpe",
-            "fedora": "oturpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-jekyll-asciidoc": {
-            "admin": "oturpe",
-            "epel": "oturpe",
-            "fedora": "oturpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-jekyll-email-protect": {
             "admin": "jackorp",
@@ -163852,9 +163872,9 @@
             "fedora": "jackorp"
         },
         "rubygem-jekyll-feed": {
-            "admin": "oturpe",
-            "epel": "oturpe",
-            "fedora": "oturpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-jekyll-git-authors": {
             "admin": "jackorp",
@@ -163862,24 +163882,24 @@
             "fedora": "jackorp"
         },
         "rubygem-jekyll-sass-converter": {
-            "admin": "oturpe",
-            "epel": "oturpe",
-            "fedora": "oturpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-jekyll-seo-tag": {
-            "admin": "oturpe",
-            "epel": "oturpe",
-            "fedora": "oturpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-jekyll-toc": {
-            "admin": "oturpe",
-            "epel": "oturpe",
-            "fedora": "oturpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-jekyll-watch": {
-            "admin": "oturpe",
-            "epel": "oturpe",
-            "fedora": "oturpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-jgrep": {
             "admin": "orphan",
@@ -164022,9 +164042,9 @@
             "fedora": "orphan"
         },
         "rubygem-liquid": {
-            "admin": "oturpe",
-            "epel": "oturpe",
-            "fedora": "oturpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-listen": {
             "admin": "vondruch",
@@ -164222,9 +164242,9 @@
             "fedora": "mtasaka"
         },
         "rubygem-minima": {
-            "admin": "oturpe",
-            "epel": "oturpe",
-            "fedora": "oturpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-minitest": {
             "admin": "mtasaka",
@@ -164237,9 +164257,9 @@
             "fedora": "ilgrad"
         },
         "rubygem-minitest-profile": {
-            "admin": "oturpe",
-            "epel": "oturpe",
-            "fedora": "oturpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-minitest-reporters": {
             "admin": "orphan",
@@ -165567,9 +165587,9 @@
             "fedora": "orphan"
         },
         "rubygem-sassc": {
-            "admin": "oturpe",
-            "epel": "oturpe",
-            "fedora": "oturpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-sassc-rails": {
             "admin": "vondruch",
@@ -165842,9 +165862,9 @@
             "fedora": "mtasaka"
         },
         "rubygem-sync": {
-            "admin": "oturpe",
-            "epel": "oturpe",
-            "fedora": "oturpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-syntax": {
             "admin": "orphan",
@@ -165882,9 +165902,9 @@
             "fedora": "vondruch"
         },
         "rubygem-term-ansicolor": {
-            "admin": "oturpe",
-            "epel": "oturpe",
-            "fedora": "oturpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-terminal-table": {
             "admin": "orphan",
@@ -166002,9 +166022,9 @@
             "fedora": "orphan"
         },
         "rubygem-tomlrb": {
-            "admin": "oturpe",
-            "epel": "oturpe",
-            "fedora": "oturpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-track_open_instances": {
             "admin": "stevetraylen",
@@ -166607,7 +166627,7 @@
             "fedora": "@rust-sig"
         },
         "rust-alga": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -166832,7 +166852,7 @@
             "fedora": "@rust-sig"
         },
         "rust-append-only-vec": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -168907,7 +168927,7 @@
             "fedora": "@rust-sig"
         },
         "rust-cfb": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -169227,12 +169247,12 @@
             "fedora": "@rust-sig"
         },
         "rust-cli-table": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-cli-table-derive": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -169277,7 +169297,7 @@
             "fedora": "blinxen"
         },
         "rust-cluFlock": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -169467,7 +169487,7 @@
             "fedora": "decathorpe"
         },
         "rust-concat-idents": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -169602,7 +169622,7 @@
             "fedora": "sbrivio"
         },
         "rust-const_fn": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -172257,7 +172277,7 @@
             "fedora": "@rust-sig"
         },
         "rust-font-kit": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -174847,7 +174867,7 @@
             "fedora": "@rust-sig"
         },
         "rust-gzip-header": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -175082,7 +175102,7 @@
             "fedora": "@rust-sig"
         },
         "rust-hexf-parse": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -177302,7 +177322,7 @@
             "fedora": "salimma"
         },
         "rust-line-wrap": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -177777,7 +177797,7 @@
             "fedora": "@rust-sig"
         },
         "rust-match_cfg": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -182612,7 +182632,7 @@
             "fedora": "@rust-sig"
         },
         "rust-resize": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -184072,7 +184092,7 @@
             "fedora": "@rust-sig"
         },
         "rust-serde_url_params": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -189067,7 +189087,7 @@
             "fedora": "@rust-sig"
         },
         "rust-xmlparser": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -193395,6 +193415,11 @@
             "admin": "cottsay",
             "epel": "cottsay",
             "fedora": "cottsay"
+        },
+        "spatialindex2.0": {
+            "admin": "smani",
+            "epel": "smani",
+            "fedora": "smani"
         },
         "spatialite-gui": {
             "admin": "smani",
@@ -202287,9 +202312,9 @@
             "fedora": "bpostle"
         },
         "viking": {
-            "admin": "oturpe",
-            "epel": "oturpe",
-            "fedora": "oturpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "vile": {
             "admin": "mmckinst",
