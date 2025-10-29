@@ -8727,9 +8727,9 @@
             "fedora": "orphan"
         },
         "abattis-cantarell-fonts": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "abbayedesmorts-gpl": {
             "admin": "musuruan",
@@ -8867,9 +8867,9 @@
             "fedora": "neelc"
         },
         "accerciser": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "access-modifier-annotation": {
             "admin": "orphan",
@@ -9252,9 +9252,9 @@
             "fedora": "nmontero"
         },
         "adwaita-icon-theme": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "adwaita-icon-theme-legacy": {
             "admin": "ngompa",
@@ -12357,14 +12357,14 @@
             "fedora": "orphan"
         },
         "atkmm": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "atkmm2.36": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "atlantik": {
             "admin": "yselkowitz",
@@ -13347,9 +13347,9 @@
             "fedora": "orphan"
         },
         "baobab": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "barcode": {
             "admin": "ixs",
@@ -15777,9 +15777,9 @@
             "fedora": "orphan"
         },
         "cairo": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "cairo-clock": {
             "admin": "orphan",
@@ -17902,9 +17902,9 @@
             "fedora": "filiperosset"
         },
         "clutter": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "clutter-cairo": {
             "admin": "orphan",
@@ -17947,9 +17947,9 @@
             "fedora": "yselkowitz"
         },
         "clutter-gtk": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "clutter-gtk-epel": {
             "admin": "carlwgeorge",
@@ -18352,9 +18352,9 @@
             "fedora": "orphan"
         },
         "cogl": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "cogl-epel": {
             "admin": "carlwgeorge",
@@ -21092,14 +21092,14 @@
             "fedora": "ngompa"
         },
         "d-feet": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "mulhern",
-            "fedora": "kalev"
+            "fedora": "mclasen"
         },
         "d-spy": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "d0_blind_id": {
             "admin": "orphan",
@@ -21592,9 +21592,9 @@
             "fedora": "mclasen"
         },
         "dconf-editor": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "dcraw": {
             "admin": "nphilipp",
@@ -26652,9 +26652,9 @@
             "fedora": "petersen"
         },
         "editorconfig": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "editorconfig-emacs": {
             "admin": "mcb30",
@@ -27867,14 +27867,14 @@
             "fedora": "jwrdegoede"
         },
         "eog": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "eog-plugins": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "eom": {
             "admin": "raveit65",
@@ -31157,9 +31157,9 @@
             "fedora": "alexpl"
         },
         "five-or-more": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "fix-info-plist-maven-plugin": {
             "admin": "orphan",
@@ -34087,9 +34087,9 @@
             "fedora": "mclasen"
         },
         "gcr3": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gcstar": {
             "admin": "orphan",
@@ -34237,9 +34237,9 @@
             "fedora": "bgilbert"
         },
         "gdk-pixbuf2-xlib": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gdl": {
             "admin": "orion",
@@ -34247,9 +34247,9 @@
             "fedora": "orion"
         },
         "gdlmm": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gdm": {
             "admin": "rstrode",
@@ -34682,9 +34682,9 @@
             "fedora": "ngompa"
         },
         "geocode-glib": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "geoip-geolite": {
             "admin": "orphan",
@@ -39482,9 +39482,9 @@
             "fedora": "orphan"
         },
         "glade": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "glade2": {
             "admin": "orphan",
@@ -39742,14 +39742,14 @@
             "fedora": "ngompa"
         },
         "glibmm2.4": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "glibmm2.68": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "glibmm24": {
             "admin": "orphan",
@@ -40477,9 +40477,9 @@
             "fedora": "decathorpe"
         },
         "glycin-loaders": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "glyph-keeper": {
             "admin": "jwrdegoede",
@@ -40562,9 +40562,9 @@
             "fedora": "orphan"
         },
         "gmime30": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gmixer": {
             "admin": "orphan",
@@ -40807,14 +40807,14 @@
             "fedora": "orphan"
         },
         "gnome-autoar": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gnome-backgrounds": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gnome-battery-bench": {
             "admin": "otaylor",
@@ -40827,7 +40827,7 @@
             "fedora": "orphan"
         },
         "gnome-bluetooth": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@gnome-sig",
             "fedora": "@gnome-sig"
         },
@@ -40852,9 +40852,9 @@
             "fedora": "atim"
         },
         "gnome-browser-connector": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gnome-build": {
             "admin": "orphan",
@@ -40872,7 +40872,7 @@
             "fedora": "rstrode"
         },
         "gnome-calendar": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@gnome-sig",
             "fedora": "@gnome-sig"
         },
@@ -40887,9 +40887,9 @@
             "fedora": "alexpl"
         },
         "gnome-chess": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "mcepl",
-            "fedora": "kalev"
+            "fedora": "mclasen"
         },
         "gnome-clocks": {
             "admin": "dreua",
@@ -40932,12 +40932,12 @@
             "fedora": "@gnome-sig"
         },
         "gnome-console": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "orphan",
-            "fedora": "kalev"
+            "fedora": "mclasen"
         },
         "gnome-contacts": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@gnome-sig",
             "fedora": "@gnome-sig"
         },
@@ -41037,9 +41037,9 @@
             "fedora": "fmuellner"
         },
         "gnome-feeds": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gnome-firmware": {
             "admin": "atim",
@@ -41052,9 +41052,9 @@
             "fedora": "atim"
         },
         "gnome-font-viewer": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gnome-games": {
             "admin": "orphan",
@@ -41102,9 +41102,9 @@
             "fedora": "orphan"
         },
         "gnome-icon-theme": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gnome-icon-theme-extras": {
             "admin": "orphan",
@@ -41117,7 +41117,7 @@
             "fedora": "orphan"
         },
         "gnome-initial-setup": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@gnome-sig",
             "fedora": "@gnome-sig"
         },
@@ -41147,9 +41147,9 @@
             "fedora": "rstrode"
         },
         "gnome-klotski": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gnome-kra-ora-thumbnailer": {
             "admin": "yaneti",
@@ -41197,9 +41197,9 @@
             "fedora": "decathorpe"
         },
         "gnome-maps": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gnome-media": {
             "admin": "orphan",
@@ -41242,8 +41242,8 @@
             "fedora": "rhughes"
         },
         "gnome-music": {
-            "admin": "kalev",
-            "epel": "kalev",
+            "admin": "mclasen",
+            "epel": "mclasen",
             "fedora": "@gnome-sig"
         },
         "gnome-nds-thumbnailer": {
@@ -41257,9 +41257,9 @@
             "fedora": "orphan"
         },
         "gnome-nettool": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gnome-network-displays": {
             "admin": "benzea",
@@ -41317,8 +41317,8 @@
             "fedora": "limb"
         },
         "gnome-photos": {
-            "admin": "kalev",
-            "epel": "kalev",
+            "admin": "mclasen",
+            "epel": "mclasen",
             "fedora": "@gnome-sig"
         },
         "gnome-pie": {
@@ -41397,9 +41397,9 @@
             "fedora": "jadahl"
         },
         "gnome-robots": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gnome-scan": {
             "admin": "orphan",
@@ -41437,7 +41437,7 @@
             "fedora": "@gnome-sig"
         },
         "gnome-settings-daemon": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@gnome-sig",
             "fedora": "@gnome-sig"
         },
@@ -41867,9 +41867,9 @@
             "fedora": "mclasen"
         },
         "gnome-system-monitor": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gnome-taquin": {
             "admin": "yaneti",
@@ -41887,9 +41887,9 @@
             "fedora": "mclasen"
         },
         "gnome-tetravex": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gnome-text-editor": {
             "admin": "linkdupont",
@@ -41932,14 +41932,14 @@
             "fedora": "orphan"
         },
         "gnome-todo": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "orphan",
-            "fedora": "kalev"
+            "fedora": "mclasen"
         },
         "gnome-tour": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gnome-translate": {
             "admin": "orphan",
@@ -41972,7 +41972,7 @@
             "fedora": "rstrode"
         },
         "gnome-user-share": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@gnome-sig",
             "fedora": "@gnome-sig"
         },
@@ -42022,9 +42022,9 @@
             "fedora": "orphan"
         },
         "gnome-weather": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "orphan",
-            "fedora": "kalev"
+            "fedora": "mclasen"
         },
         "gnome-web-photo": {
             "admin": "orphan",
@@ -42077,9 +42077,9 @@
             "fedora": "orphan"
         },
         "gnote": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gnotime": {
             "admin": "orphan",
@@ -56272,9 +56272,9 @@
             "fedora": "orphan"
         },
         "gom": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gomtree": {
             "admin": "orphan",
@@ -56722,9 +56722,9 @@
             "fedora": "rombobeorn"
         },
         "gphoto2": {
-            "admin": "kalev",
+            "admin": "jridky",
             "epel": "orphan",
-            "fedora": "kalev"
+            "fedora": "jridky"
         },
         "gphotoframe": {
             "admin": "mtasaka",
@@ -57062,9 +57062,9 @@
             "fedora": "orphan"
         },
         "graphene": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "graphite-api": {
             "admin": "orphan",
@@ -57077,9 +57077,9 @@
             "fedora": "orphan"
         },
         "graphite2": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "graphlcd-base": {
             "admin": "martinkg",
@@ -57562,9 +57562,9 @@
             "fedora": "yaneti"
         },
         "gspell": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gspiceui": {
             "admin": "orphan",
@@ -57577,9 +57577,9 @@
             "fedora": "orphan"
         },
         "gssdp": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gssntlmssp": {
             "admin": "simo",
@@ -57807,9 +57807,9 @@
             "fedora": "orphan"
         },
         "gtef": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gtengine": {
             "admin": "sagitter",
@@ -58007,7 +58007,7 @@
             "fedora": "orphan"
         },
         "gtk4": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@gnome-sig",
             "fedora": "@gnome-sig"
         },
@@ -58097,9 +58097,9 @@
             "fedora": "orphan"
         },
         "gtkmm2.4": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gtkmm20": {
             "admin": "orphan",
@@ -58112,9 +58112,9 @@
             "fedora": "orphan"
         },
         "gtkmm3.0": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gtkmm30": {
             "admin": "orphan",
@@ -58122,9 +58122,9 @@
             "fedora": "orphan"
         },
         "gtkmm4.0": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gtkmozembedmm": {
             "admin": "orphan",
@@ -58187,9 +58187,9 @@
             "fedora": "orphan"
         },
         "gtksourceview5": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gtksourceviewmm": {
             "admin": "orphan",
@@ -58207,9 +58207,9 @@
             "fedora": "smani"
         },
         "gtkspell3": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gtkspellmm30": {
             "admin": "smani",
@@ -58492,19 +58492,19 @@
             "fedora": "orphan"
         },
         "gupnp": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gupnp-av": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gupnp-dlna": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gupnp-igd": {
             "admin": "dcavalca",
@@ -58512,9 +58512,9 @@
             "fedora": "dcavalca"
         },
         "gupnp-tools": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "gupnp-ui": {
             "admin": "orphan",
@@ -59407,9 +59407,9 @@
             "fedora": "orphan"
         },
         "hicolor-icon-theme": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "hid-replay": {
             "admin": "bentiss",
@@ -66492,9 +66492,9 @@
             "fedora": "orphan"
         },
         "jsonrpc-glib": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "jsoup": {
             "admin": "mkoncek",
@@ -72407,9 +72407,9 @@
             "fedora": "jkucera"
         },
         "libavif0.10": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "libavtp": {
             "admin": "pbrobinson",
@@ -72717,9 +72717,9 @@
             "fedora": "nforro"
         },
         "libchamplain": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libchardet": {
             "admin": "martinkg",
@@ -72777,7 +72777,7 @@
             "fedora": "limb"
         },
         "libcloudproviders": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@gnome-sig",
             "fedora": "@gnome-sig"
         },
@@ -72967,9 +72967,9 @@
             "fedora": "pwu"
         },
         "libdazzle": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libdazzle-epel": {
             "admin": "yselkowitz",
@@ -73842,9 +73842,9 @@
             "fedora": "smani"
         },
         "libgepub": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libgexiv2": {
             "admin": "rathann",
@@ -73957,9 +73957,9 @@
             "fedora": "orphan"
         },
         "libglib-testing": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libglibutil": {
             "admin": "aleasto",
@@ -73992,14 +73992,14 @@
             "fedora": "trawets"
         },
         "libgnome-games-support": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libgnome-games-support1": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libgnome-java": {
             "admin": "orphan",
@@ -74102,9 +74102,9 @@
             "fedora": "@crypto-team"
         },
         "libgphoto2": {
-            "admin": "kalev",
+            "admin": "jridky",
             "epel": "orphan",
-            "fedora": "kalev"
+            "fedora": "jridky"
         },
         "libgpiod": {
             "admin": "pbrobinson",
@@ -74132,9 +74132,9 @@
             "fedora": "mtasaka"
         },
         "libgrss": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "orphan",
-            "fedora": "kalev"
+            "fedora": "mclasen"
         },
         "libgsasl": {
             "admin": "peter",
@@ -74197,9 +74197,9 @@
             "fedora": "orphan"
         },
         "libgtop2": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libguac": {
             "admin": "orphan",
@@ -74242,9 +74242,9 @@
             "fedora": "rhughes"
         },
         "libgweather": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libgweather4": {
             "admin": "amigadave",
@@ -74262,9 +74262,9 @@
             "fedora": "tomh"
         },
         "libhandy": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libhandy-epel": {
             "admin": "yselkowitz",
@@ -75172,7 +75172,7 @@
             "fedora": "orion"
         },
         "libmanette": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "thebeanogamer",
             "fedora": "kalev"
         },
@@ -75822,9 +75822,9 @@
             "fedora": "orphan"
         },
         "libnotify": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libnotifymm": {
             "admin": "orphan",
@@ -76342,9 +76342,9 @@
             "fedora": "ajax"
         },
         "libpeas": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libpeas-loader-python3": {
             "admin": "besser82",
@@ -76352,9 +76352,9 @@
             "fedora": "besser82"
         },
         "libpeas1": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libpfm": {
             "admin": "wcohen",
@@ -76462,9 +76462,9 @@
             "fedora": "orphan"
         },
         "libportal": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libppd": {
             "admin": "zdohnal",
@@ -77077,9 +77077,9 @@
             "fedora": "jonny"
         },
         "libsecret": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libsedml": {
             "admin": "sagitter",
@@ -77152,9 +77152,9 @@
             "fedora": "ngompa"
         },
         "libshumate": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libsidplay": {
             "admin": "orphan",
@@ -77177,14 +77177,14 @@
             "fedora": "limb"
         },
         "libsigc++20": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libsigc++30": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libsignal-protocol-c": {
             "admin": "bowlofeggs",
@@ -78412,9 +78412,9 @@
             "fedora": "blinxen"
         },
         "libxml++30": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "libxml++50": {
             "admin": "spot",
@@ -78757,9 +78757,9 @@
             "fedora": "vascom"
         },
         "lightsoff": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "lightsquid": {
             "admin": "orphan",
@@ -79742,7 +79742,7 @@
             "fedora": "limb"
         },
         "loupe": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@gnome-sig",
             "fedora": "@gnome-sig"
         },
@@ -86772,9 +86772,9 @@
             "fedora": "ixs"
         },
         "mm-common": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "mm3d": {
             "admin": "sharkcz",
@@ -89532,9 +89532,9 @@
             "fedora": "orphan"
         },
         "nautilus-python": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "raphgro",
-            "fedora": "kalev"
+            "fedora": "mclasen"
         },
         "nautilus-search-tool": {
             "admin": "orphan",
@@ -103537,9 +103537,9 @@
             "fedora": "fabiand"
         },
         "orca": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "origin": {
             "admin": "orphan",
@@ -104467,9 +104467,9 @@
             "fedora": "nphilipp"
         },
         "pangomm2.48": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "pangox-compat": {
             "admin": "spot",
@@ -104552,9 +104552,9 @@
             "fedora": "jonathanspw"
         },
         "papers": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "paperwork": {
             "admin": "qulogic",
@@ -132412,9 +132412,9 @@
             "fedora": "praiskup"
         },
         "pycairo": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "pycairo-epel": {
             "admin": "orphan",
@@ -132587,7 +132587,7 @@
             "fedora": "limb"
         },
         "pygobject3": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@gnome-sig",
             "fedora": "@gnome-sig"
         },
@@ -134237,9 +134237,9 @@
             "fedora": "orphan"
         },
         "python-ana": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "mikep",
+            "epel": "mikep",
+            "fedora": "mikep"
         },
         "python-androguard": {
             "admin": "fed500",
@@ -138942,9 +138942,9 @@
             "fedora": "@certbot-sig"
         },
         "python-dnslib": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "supakeen",
+            "epel": "supakeen",
+            "fedora": "supakeen"
         },
         "python-dnspython": {
             "admin": "fed500",
@@ -146467,9 +146467,9 @@
             "fedora": "tieugene"
         },
         "python-pandas": {
-            "admin": "orphan",
+            "admin": "pbrobinson",
             "epel": "jonathanspw",
-            "fedora": "orphan"
+            "fedora": "pbrobinson"
         },
         "python-pandas-datareader": {
             "admin": "sergiopr",
@@ -155887,9 +155887,9 @@
             "fedora": "orphan"
         },
         "python2-cairo": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "python2-dateutil": {
             "admin": "tibbs",
@@ -159062,9 +159062,9 @@
             "fedora": "orphan"
         },
         "quadrapassel": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "quagga": {
             "admin": "orphan",
@@ -160497,9 +160497,9 @@
             "fedora": "teuf"
         },
         "rest0.7": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "restauth": {
             "admin": "orphan",
@@ -167057,7 +167057,7 @@
             "fedora": "jsteffan"
         },
         "rust-ashpd": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -168547,9 +168547,9 @@
             "fedora": "orphan"
         },
         "rust-cairo-rs0.17": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-cairo-rs0.18": {
             "admin": "decathorpe",
@@ -168582,9 +168582,9 @@
             "fedora": "orphan"
         },
         "rust-cairo-sys-rs0.17": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-cairo-sys-rs0.18": {
             "admin": "decathorpe",
@@ -169932,7 +169932,7 @@
             "fedora": "@rust-sig"
         },
         "rust-criterion-plot": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -170222,12 +170222,12 @@
             "fedora": "@rust-sig"
         },
         "rust-cssparser": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
-            "fedora": "kalev"
+            "fedora": "mclasen"
         },
         "rust-cssparser-macros": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -170237,9 +170237,9 @@
             "fedora": "@rust-sig"
         },
         "rust-cstr": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-cstr-argument": {
             "admin": "orphan",
@@ -171222,7 +171222,7 @@
             "fedora": "@rust-sig"
         },
         "rust-dtoa-short": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -171262,7 +171262,7 @@
             "fedora": "@rust-sig"
         },
         "rust-dutree": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -171567,7 +171567,7 @@
             "fedora": "@rust-sig"
         },
         "rust-enumn": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -172337,7 +172337,7 @@
             "fedora": "alebastr"
         },
         "rust-four-cc": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -172722,9 +172722,9 @@
             "fedora": "orphan"
         },
         "rust-gdk-pixbuf-sys0.17": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gdk-pixbuf-sys0.18": {
             "admin": "decathorpe",
@@ -172752,9 +172752,9 @@
             "fedora": "orphan"
         },
         "rust-gdk-pixbuf0.17": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gdk-pixbuf0.18": {
             "admin": "decathorpe",
@@ -172827,9 +172827,9 @@
             "fedora": "orphan"
         },
         "rust-gdk4-sys0.6": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gdk4-sys0.7": {
             "admin": "decathorpe",
@@ -172847,19 +172847,19 @@
             "fedora": "@rust-sig"
         },
         "rust-gdk4-wayland": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gdk4-wayland-sys": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-gdk4-wayland-sys0.6": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gdk4-wayland-sys0.7": {
             "admin": "decathorpe",
@@ -172877,9 +172877,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gdk4-wayland0.6": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gdk4-wayland0.7": {
             "admin": "decathorpe",
@@ -172897,19 +172897,19 @@
             "fedora": "@rust-sig"
         },
         "rust-gdk4-x11": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gdk4-x11-sys": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-gdk4-x11-sys0.6": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gdk4-x11-sys0.7": {
             "admin": "decathorpe",
@@ -172927,9 +172927,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gdk4-x11_0.6": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gdk4-x11_0.7": {
             "admin": "decathorpe",
@@ -172957,9 +172957,9 @@
             "fedora": "orphan"
         },
         "rust-gdk4_0.6": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gdk4_0.7": {
             "admin": "decathorpe",
@@ -173142,9 +173142,9 @@
             "fedora": "orphan"
         },
         "rust-gio-sys0.17": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gio-sys0.18": {
             "admin": "decathorpe",
@@ -173172,9 +173172,9 @@
             "fedora": "orphan"
         },
         "rust-gio0.17": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gio0.18": {
             "admin": "decathorpe",
@@ -173592,9 +173592,9 @@
             "fedora": "orphan"
         },
         "rust-glib-macros0.17": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-glib-macros0.18": {
             "admin": "decathorpe",
@@ -173627,9 +173627,9 @@
             "fedora": "orphan"
         },
         "rust-glib-sys0.17": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-glib-sys0.18": {
             "admin": "decathorpe",
@@ -173657,9 +173657,9 @@
             "fedora": "orphan"
         },
         "rust-glib0.17": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-glib0.18": {
             "admin": "decathorpe",
@@ -173712,9 +173712,9 @@
             "fedora": "@rust-sig"
         },
         "rust-glycin": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-glycin-common": {
             "admin": "decathorpe",
@@ -173722,9 +173722,9 @@
             "fedora": "@rust-sig"
         },
         "rust-glycin-utils": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-glycin-utils1": {
             "admin": "decathorpe",
@@ -173777,9 +173777,9 @@
             "fedora": "orphan"
         },
         "rust-gobject-sys0.17": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gobject-sys0.18": {
             "admin": "decathorpe",
@@ -173882,9 +173882,9 @@
             "fedora": "orphan"
         },
         "rust-graphene-rs0.17": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-graphene-rs0.18": {
             "admin": "decathorpe",
@@ -173917,9 +173917,9 @@
             "fedora": "orphan"
         },
         "rust-graphene-sys0.17": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-graphene-sys0.18": {
             "admin": "decathorpe",
@@ -174007,9 +174007,9 @@
             "fedora": "orphan"
         },
         "rust-gsk4-sys0.6": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gsk4-sys0.7": {
             "admin": "decathorpe",
@@ -174037,9 +174037,9 @@
             "fedora": "orphan"
         },
         "rust-gsk4_0.6": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gsk4_0.7": {
             "admin": "decathorpe",
@@ -174087,9 +174087,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gst-plugin-gtk4": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gst-plugin-hsv": {
             "admin": "yselkowitz",
@@ -174277,19 +174277,19 @@
             "fedora": "@rust-sig"
         },
         "rust-gstreamer-gl": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gstreamer-gl-egl": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gstreamer-gl-egl-sys": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gstreamer-gl-egl-sys0.21": {
             "admin": "decathorpe",
@@ -174312,7 +174312,7 @@
             "fedora": "@rust-sig"
         },
         "rust-gstreamer-gl-sys": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -174327,14 +174327,14 @@
             "fedora": "@rust-sig"
         },
         "rust-gstreamer-gl-wayland": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gstreamer-gl-wayland-sys": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gstreamer-gl-wayland-sys0.21": {
             "admin": "decathorpe",
@@ -174357,14 +174357,14 @@
             "fedora": "@rust-sig"
         },
         "rust-gstreamer-gl-x11": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gstreamer-gl-x11-sys": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gstreamer-gl-x11-sys0.21": {
             "admin": "decathorpe",
@@ -174672,9 +174672,9 @@
             "fedora": "orphan"
         },
         "rust-gtk4-macros0.6": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gtk4-macros0.7": {
             "admin": "decathorpe",
@@ -174707,9 +174707,9 @@
             "fedora": "orphan"
         },
         "rust-gtk4-sys0.6": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gtk4-sys0.7": {
             "admin": "decathorpe",
@@ -174737,9 +174737,9 @@
             "fedora": "orphan"
         },
         "rust-gtk4_0.6": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-gtk4_0.7": {
             "admin": "decathorpe",
@@ -174852,17 +174852,17 @@
             "fedora": "@rust-sig"
         },
         "rust-gvdb": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-gvdb-macros": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-gweather-sys": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -175052,7 +175052,7 @@
             "fedora": "@rust-sig"
         },
         "rust-heatseeker": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -176452,54 +176452,54 @@
             "fedora": "@rust-sig"
         },
         "rust-jxl-bitstream": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-jxl-coding": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-jxl-color": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-jxl-frame": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-jxl-grid": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-jxl-image": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-jxl-modular": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-jxl-oxide": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-jxl-render": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-jxl-vardct": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-k256": {
             "admin": "v02460",
@@ -176517,7 +176517,7 @@
             "fedora": "@rust-sig"
         },
         "rust-kamadak-exif": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -176692,7 +176692,7 @@
             "fedora": "@rust-sig"
         },
         "rust-lcms2": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -176772,12 +176772,12 @@
             "fedora": "orphan"
         },
         "rust-libadwaita": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-libadwaita-sys": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -176792,9 +176792,9 @@
             "fedora": "orphan"
         },
         "rust-libadwaita-sys0.3": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-libadwaita-sys0.4": {
             "admin": "orphan",
@@ -176827,9 +176827,9 @@
             "fedora": "orphan"
         },
         "rust-libadwaita0.3": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-libadwaita0.4": {
             "admin": "orphan",
@@ -177042,7 +177042,7 @@
             "fedora": "@rust-sig"
         },
         "rust-libgweather": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -177057,12 +177057,12 @@
             "fedora": "@rust-sig"
         },
         "rust-libheif-rs": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-libheif-sys": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -177432,7 +177432,7 @@
             "fedora": "music"
         },
         "rust-litrs": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -177567,7 +177567,7 @@
             "fedora": "ctwo0002"
         },
         "rust-lopdf": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -178372,7 +178372,7 @@
             "fedora": "@rust-sig"
         },
         "rust-mutate_once": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -179217,7 +179217,7 @@
             "fedora": "ueno"
         },
         "rust-oorandom": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -179667,9 +179667,9 @@
             "fedora": "orphan"
         },
         "rust-pango-sys0.17": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-pango-sys0.18": {
             "admin": "decathorpe",
@@ -179697,9 +179697,9 @@
             "fedora": "orphan"
         },
         "rust-pango0.17": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-pango0.18": {
             "admin": "decathorpe",
@@ -179737,9 +179737,9 @@
             "fedora": "orphan"
         },
         "rust-pangocairo-sys0.17": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-pangocairo-sys0.18": {
             "admin": "decathorpe",
@@ -179767,9 +179767,9 @@
             "fedora": "orphan"
         },
         "rust-pangocairo0.17": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-pangocairo0.18": {
             "admin": "decathorpe",
@@ -180212,7 +180212,7 @@
             "fedora": "orphan"
         },
         "rust-phf_codegen0.8": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -180527,7 +180527,7 @@
             "fedora": "@rust-sig"
         },
         "rust-plotters": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -181057,7 +181057,7 @@
             "fedora": "@rust-sig"
         },
         "rust-procs": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -181757,7 +181757,7 @@
             "fedora": "elmarco"
         },
         "rust-qoi": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -182302,7 +182302,7 @@
             "fedora": "@rust-sig"
         },
         "rust-rctree": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -183447,7 +183447,7 @@
             "fedora": "@rust-sig"
         },
         "rust-safe-transmute": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -183722,7 +183722,7 @@
             "fedora": "music"
         },
         "rust-selectors": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -184212,7 +184212,7 @@
             "fedora": "@rust-sig"
         },
         "rust-servo_arc": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -184342,9 +184342,9 @@
             "fedora": "@rust-sig"
         },
         "rust-shellexpand2": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rust-shellwords": {
             "admin": "jbtrystram",
@@ -185642,7 +185642,7 @@
             "fedora": "orphan"
         },
         "rust-tealdeer": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -185842,7 +185842,7 @@
             "fedora": "@rust-sig"
         },
         "rust-test-generator": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -186132,7 +186132,7 @@
             "fedora": "linkdupont"
         },
         "rust-tinytemplate": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -187042,7 +187042,7 @@
             "fedora": "@rust-sig"
         },
         "rust-trybuild2": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -188212,7 +188212,7 @@
             "fedora": "@rust-sig"
         },
         "rust-varlink-cli": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -189172,7 +189172,7 @@
             "fedora": "orphan"
         },
         "rust-yeslogic-fontconfig-sys": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -189632,9 +189632,9 @@
             "fedora": "dcantrell"
         },
         "rygel": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "rzip": {
             "admin": "stingray",
@@ -192782,7 +192782,7 @@
             "fedora": "jens"
         },
         "snapshot": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@gnome-sig",
             "fedora": "@gnome-sig"
         },
@@ -195492,9 +195492,9 @@
             "fedora": "ngompa"
         },
         "sushi": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "svg2svgt": {
             "admin": "smani",
@@ -196047,9 +196047,9 @@
             "fedora": "orphan"
         },
         "syndication-domination": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "synergy": {
             "admin": "astra",
@@ -196132,9 +196132,9 @@
             "fedora": "orphan"
         },
         "sysprof": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "sysprof-kmod": {
             "admin": "orphan",
@@ -196607,9 +196607,9 @@
             "fedora": "orphan"
         },
         "tali": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "talk": {
             "admin": "vcrhonek",
@@ -197142,9 +197142,9 @@
             "fedora": "ppisar"
         },
         "tecla": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "tecnoballz": {
             "admin": "musuruan",
@@ -197347,9 +197347,9 @@
             "fedora": "mtasaka"
         },
         "template-glib": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "templates_parser": {
             "admin": "rombobeorn",
@@ -198877,12 +198877,12 @@
             "fedora": "kiilerix"
         },
         "totem": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@gnome-sig",
             "fedora": "@gnome-sig"
         },
         "totem-pl-parser": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@gnome-sig",
             "fedora": "@gnome-sig"
         },
@@ -199217,7 +199217,7 @@
             "fedora": "rishi"
         },
         "tracker-miners": {
-            "admin": "kalev",
+            "admin": "mclasen",
             "epel": "@gnome-sig",
             "fedora": "@gnome-sig"
         },
@@ -205397,9 +205397,9 @@
             "fedora": "orphan"
         },
         "xdg-dbus-proxy": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "mclasen",
+            "epel": "mclasen",
+            "fedora": "mclasen"
         },
         "xdg-desktop-portal": {
             "admin": "amigadave",

@@ -6973,7 +6973,8 @@
         ],
         "accerciser": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "access-modifier-annotation": [
             "java-sig",
@@ -7246,7 +7247,8 @@
         ],
         "adwaita-icon-theme": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "adwaita-icon-theme-legacy": [
             "@gnome-sig",
@@ -9714,12 +9716,14 @@
         "atkmm": [
             "@gnome-sig",
             "kalev",
+            "mclasen",
             "rishi",
             "wojnilowicz"
         ],
         "atkmm2.36": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "atlantik": [
             "@kde-sig",
@@ -10489,6 +10493,7 @@
         "baobab": [
             "@gnome-sig",
             "kalev",
+            "mclasen",
             "oholy",
             "rtcm"
         ],
@@ -14020,6 +14025,7 @@
         "clutter": [
             "fmuellner",
             "kalev",
+            "mclasen",
             "otaylor",
             "walters"
         ],
@@ -14051,7 +14057,8 @@
             "yselkowitz"
         ],
         "clutter-gtk": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "clutter-gtk-epel": [
             "carlwgeorge"
@@ -14359,7 +14366,8 @@
         ],
         "cogl": [
             "fmuellner",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "cogl-epel": [
             "carlwgeorge"
@@ -16475,11 +16483,13 @@
         ],
         "d-feet": [
             "kalev",
+            "mclasen",
             "mulhern"
         ],
         "d-spy": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "d0_blind_id": [
             "orphan"
@@ -16862,7 +16872,8 @@
         ],
         "dconf-editor": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "dcraw": [
             "jridky",
@@ -20663,6 +20674,7 @@
         ],
         "editorconfig": [
             "kalev",
+            "mclasen",
             "music"
         ],
         "editorconfig-emacs": [
@@ -24092,7 +24104,8 @@
         "five-or-more": [
             "@gnome-sig",
             "doshitan",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "fix-info-plist-maven-plugin": [
             "orphan"
@@ -26227,7 +26240,8 @@
             "stefw"
         ],
         "gcr3": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gcstar": [
             "orphan",
@@ -26352,6 +26366,7 @@
         ],
         "gdk-pixbuf2-xlib": [
             "kalev",
+            "mclasen",
             "robert"
         ],
         "gdl": [
@@ -26359,7 +26374,8 @@
         ],
         "gdlmm": [
             "dodji",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gdm": [
             "@gnome-sig",
@@ -26690,6 +26706,7 @@
         "geocode-glib": [
             "@gnome-sig",
             "kalev",
+            "mclasen",
             "zeenix"
         ],
         "geoip-geolite": [
@@ -30550,7 +30567,8 @@
             "orphan"
         ],
         "glade": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "glade2": [
             "orphan"
@@ -30800,11 +30818,13 @@
         "glibmm2.4": [
             "@gnome-sig",
             "kalev",
+            "mclasen",
             "wojnilowicz"
         ],
         "glibmm2.68": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "glibmm24": [
             "orphan",
@@ -31303,7 +31323,8 @@
         ],
         "glycin-loaders": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "glyph-keeper": [
             "jwrdegoede"
@@ -31367,7 +31388,8 @@
         ],
         "gmime30": [
             "@epel-packagers-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gmixer": [
             "leigh123linux",
@@ -31554,6 +31576,7 @@
         "gnome-autoar": [
             "@gnome-sig",
             "kalev",
+            "mclasen",
             "oholy"
         ],
         "gnome-backgrounds": [
@@ -31570,7 +31593,8 @@
             "orphan"
         ],
         "gnome-bluetooth": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gnome-bluetooth3.34": [
             "limb"
@@ -31589,7 +31613,8 @@
             "atim"
         ],
         "gnome-browser-connector": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gnome-build": [
             "orphan",
@@ -31608,7 +31633,8 @@
             "@epel-packagers-sig",
             "@gnome-sig",
             "ignatenkobrain",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gnome-characters": [
             "@gnome-sig",
@@ -31621,7 +31647,8 @@
             "@gnome-sig",
             "catanzaro",
             "doshitan",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gnome-clocks": [
             "@gnome-sig",
@@ -31656,11 +31683,13 @@
         ],
         "gnome-console": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gnome-contacts": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gnome-control-center": [
             "@gnome-sig",
@@ -31737,7 +31766,8 @@
             "fmuellner"
         ],
         "gnome-feeds": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gnome-firmware": [
             "atim"
@@ -31750,6 +31780,7 @@
         "gnome-font-viewer": [
             "@gnome-sig",
             "kalev",
+            "mclasen",
             "rtcm"
         ],
         "gnome-games": [
@@ -31832,7 +31863,8 @@
             "@gnome-sig",
             "catanzaro",
             "doshitan",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gnome-kra-ora-thumbnailer": [
             "yaneti"
@@ -31866,7 +31898,8 @@
         ],
         "gnome-maps": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gnome-media": [
             "mclasen",
@@ -31902,7 +31935,8 @@
         ],
         "gnome-music": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gnome-nds-thumbnailer": [
             "orphan"
@@ -31959,6 +31993,7 @@
         ],
         "gnome-photos": [
             "kalev",
+            "mclasen",
             "pranvk",
             "rishi"
         ],
@@ -32021,7 +32056,8 @@
         "gnome-robots": [
             "@gnome-sig",
             "doshitan",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gnome-scan": [
             "orphan"
@@ -32054,6 +32090,7 @@
             "@gnome-sig",
             "fmuellner",
             "kalev",
+            "mclasen",
             "mkasik",
             "ofourdan",
             "rstrode",
@@ -32374,7 +32411,8 @@
             "@gnome-sig",
             "catanzaro",
             "doshitan",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gnome-text-editor": [
             "@gnome-sig",
@@ -32407,11 +32445,13 @@
             "@gnome-sig",
             "amigadave",
             "ignatenkobrain",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gnome-tour": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gnome-translate": [
             "orphan"
@@ -32519,6 +32559,7 @@
         "gnote": [
             "@gnome-sig",
             "kalev",
+            "mclasen",
             "sundaram"
         ],
         "gnotime": [
@@ -43370,7 +43411,8 @@
         ],
         "gom": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gomtree": [
             "orphan"
@@ -43978,7 +44020,8 @@
         "graphene": [
             "@gnome-sig",
             "ignatenkobrain",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "graphite-api": [
             "orphan"
@@ -43989,6 +44032,7 @@
         ],
         "graphite2": [
             "kalev",
+            "mclasen",
             "moceap"
         ],
         "graphlcd-base": [
@@ -44366,7 +44410,8 @@
         ],
         "gspell": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gspiceui": [
             "laxathom",
@@ -44380,7 +44425,8 @@
             "@gnome-sig",
             "dcavalca",
             "ellert",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gssntlmssp": [
             "simo"
@@ -44569,7 +44615,8 @@
             "orphan"
         ],
         "gtef": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gtengine": [
             "sagitter"
@@ -44788,7 +44835,8 @@
             "orphan"
         ],
         "gtkmm2.4": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gtkmm20": [
             "orphan"
@@ -44800,6 +44848,7 @@
         "gtkmm3.0": [
             "@gnome-sig",
             "kalev",
+            "mclasen",
             "wojnilowicz"
         ],
         "gtkmm30": [
@@ -44807,7 +44856,8 @@
         ],
         "gtkmm4.0": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gtkmozembedmm": [
             "orphan"
@@ -44862,6 +44912,7 @@
             "@gnome-sig",
             "kalev",
             "linkdupont",
+            "mclasen",
             "ngompa"
         ],
         "gtksourceviewmm": [
@@ -44881,6 +44932,7 @@
         ],
         "gtkspell3": [
             "kalev",
+            "mclasen",
             "smani"
         ],
         "gtkspellmm30": [
@@ -45093,14 +45145,17 @@
             "@gnome-sig",
             "dcavalca",
             "ellert",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gupnp-av": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gupnp-dlna": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gupnp-igd": [
             "@gnome-sig",
@@ -45109,7 +45164,8 @@
             "kalev"
         ],
         "gupnp-tools": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "gupnp-ui": [
             "orphan",
@@ -51252,6 +51308,7 @@
         "jsonrpc-glib": [
             "@gnome-sig",
             "kalev",
+            "mclasen",
             "yaneti"
         ],
         "jsoup": [
@@ -56165,7 +56222,7 @@
             "slaanesh"
         ],
         "libavif0.10": [
-            "kalev"
+            "orphan"
         ],
         "libavtp": [
             "@multimedia-sig",
@@ -56425,7 +56482,8 @@
             "nforro"
         ],
         "libchamplain": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "libchardet": [
             "martinkg"
@@ -56476,6 +56534,7 @@
         "libcloudproviders": [
             "@gnome-sig",
             "kalev",
+            "mclasen",
             "nonamedotc"
         ],
         "libcmis": [
@@ -56621,6 +56680,7 @@
         ],
         "libdazzle": [
             "kalev",
+            "mclasen",
             "yaneti"
         ],
         "libdazzle-epel": [
@@ -57319,6 +57379,7 @@
         ],
         "libgepub": [
             "kalev",
+            "mclasen",
             "rishi"
         ],
         "libgexiv2": [
@@ -57402,7 +57463,8 @@
             "orphan"
         ],
         "libglib-testing": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "libglibutil": [
             "aleasto",
@@ -57432,10 +57494,12 @@
         "libgnome-games-support": [
             "@gnome-sig",
             "kalev",
+            "mclasen",
             "yaneti"
         ],
         "libgnome-games-support1": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "libgnome-java": [
             "cagney",
@@ -57551,7 +57615,8 @@
         "libgrss": [
             "amigadave",
             "ignatenkobrain",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "libgsasl": [
             "maha",
@@ -57640,7 +57705,8 @@
         ],
         "libgweather": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "libgweather4": [
             "amigadave"
@@ -57655,6 +57721,7 @@
         "libhandy": [
             "@gnome-sig",
             "kalev",
+            "mclasen",
             "yaneti"
         ],
         "libhandy-epel": [
@@ -58380,6 +58447,7 @@
         "libmanette": [
             "@gnome-sig",
             "kalev",
+            "mclasen",
             "thebeanogamer"
         ],
         "libmash": [
@@ -59249,13 +59317,15 @@
         "libpeas": [
             "@gnome-sig",
             "amigadave",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "libpeas-loader-python3": [
             "besser82"
         ],
         "libpeas1": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "libpfm": [
             "amerey",
@@ -59825,6 +59895,7 @@
         "libsecret": [
             "@gnome-sig",
             "kalev",
+            "mclasen",
             "rishi",
             "stefw",
             "ueno"
@@ -59896,7 +59967,8 @@
         ],
         "libshumate": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "libsidplay": [
             "orphan"
@@ -59918,12 +59990,14 @@
         "libsigc++20": [
             "@gnome-sig",
             "kalev",
+            "mclasen",
             "rishi",
             "till",
             "wojnilowicz"
         ],
         "libsigc++30": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "libsignal-protocol-c": [
             "bowlofeggs"
@@ -60932,7 +61006,8 @@
             "robert"
         ],
         "libxml++30": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "libxml++50": [
             "spot"
@@ -61199,7 +61274,8 @@
         "lightsoff": [
             "@gnome-sig",
             "doshitan",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "lightsquid": [
             "aleksey2005",
@@ -62027,7 +62103,8 @@
         "loupe": [
             "@gnome-sig",
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "lout": [
             "mcepl",
@@ -67322,7 +67399,8 @@
         "mm-common": [
             "@gnome-sig",
             "kalev",
-            "krnowak"
+            "krnowak",
+            "mclasen"
         ],
         "mm3d": [
             "sharkcz"
@@ -69385,6 +69463,7 @@
             "dignan",
             "genodeftest",
             "kalev",
+            "mclasen",
             "raphgro",
             "salimma",
             "tdawson"
@@ -79882,7 +79961,8 @@
         ],
         "pangomm2.48": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "pangox-compat": [
             "pnemade",
@@ -79937,7 +80017,8 @@
         "papers": [
             "@gnome-sig",
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "paperwork": [
             "@python-packagers-sig",
@@ -102918,6 +102999,7 @@
             "@gnome-sig",
             "amigadave",
             "kalev",
+            "mclasen",
             "otaylor"
         ],
         "pygoocanvas": [
@@ -104122,7 +104204,7 @@
             "raphgro"
         ],
         "python-ana": [
-            "orphan"
+            "mikep"
         ],
         "python-androguard": [
             "fed500"
@@ -107765,7 +107847,7 @@
             "turboben"
         ],
         "python-dnslib": [
-            "orphan"
+            "supakeen"
         ],
         "python-dnspython": [
             "fed500"
@@ -113684,7 +113766,7 @@
             "@python-packagers-sig",
             "kushal",
             "orion",
-            "orphan",
+            "pbrobinson",
             "sergiopr"
         ],
         "python-pandas-datareader": [
@@ -121075,7 +121157,8 @@
             "orphan"
         ],
         "python2-cairo": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "python2-dateutil": [
             "tibbs"
@@ -123422,7 +123505,8 @@
         "quadrapassel": [
             "@gnome-sig",
             "doshitan",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "quagga": [
             "benniej",
@@ -124253,6 +124337,7 @@
         ],
         "rednotebook": [
             "fab",
+            "kathenas",
             "vtrefny"
         ],
         "redshift": [
@@ -124510,6 +124595,7 @@
         ],
         "rest0.7": [
             "kalev",
+            "mclasen",
             "teuf"
         ],
         "restauth": [
@@ -129401,7 +129487,8 @@
         ],
         "rust-ashpd": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-ashpd0.11": [
             "@rust-sig",
@@ -130593,7 +130680,8 @@
         ],
         "rust-cairo-rs0.17": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-cairo-rs0.18": [
             "@rust-sig",
@@ -130620,7 +130708,8 @@
         ],
         "rust-cairo-sys-rs0.17": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-cairo-sys-rs0.18": [
             "@rust-sig",
@@ -131661,7 +131750,8 @@
         ],
         "rust-criterion-plot": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-critical-section": [
             "@rust-sig",
@@ -131877,11 +131967,13 @@
         ],
         "rust-cssparser": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-cssparser-macros": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-cssparser0.29": [
             "@rust-sig",
@@ -131889,7 +131981,8 @@
         ],
         "rust-cstr": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-cstr-argument": [
             "orphan"
@@ -132682,7 +132775,8 @@
         ],
         "rust-dtoa-short": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-dtoa0.4": [
             "@rust-sig",
@@ -132714,7 +132808,8 @@
         ],
         "rust-dutree": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-dyn-clone": [
             "@rust-sig",
@@ -132957,7 +133052,8 @@
         ],
         "rust-enumn": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-enumset": [
             "@rust-sig",
@@ -133561,7 +133657,8 @@
         ],
         "rust-four-cc": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-fragile": [
             "@rust-sig",
@@ -133847,7 +133944,8 @@
         ],
         "rust-gdk-pixbuf-sys0.17": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gdk-pixbuf-sys0.18": [
             "@rust-sig",
@@ -133870,7 +133968,8 @@
         ],
         "rust-gdk-pixbuf0.17": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gdk-pixbuf0.18": [
             "@rust-sig",
@@ -133926,7 +134025,8 @@
         ],
         "rust-gdk4-sys0.6": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gdk4-sys0.7": [
             "@rust-sig",
@@ -133942,15 +134042,18 @@
         ],
         "rust-gdk4-wayland": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gdk4-wayland-sys": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gdk4-wayland-sys0.6": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gdk4-wayland-sys0.7": [
             "@rust-sig",
@@ -133966,7 +134069,8 @@
         ],
         "rust-gdk4-wayland0.6": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gdk4-wayland0.7": [
             "@rust-sig",
@@ -133982,15 +134086,18 @@
         ],
         "rust-gdk4-x11": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gdk4-x11-sys": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gdk4-x11-sys0.6": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gdk4-x11-sys0.7": [
             "@rust-sig",
@@ -134006,7 +134113,8 @@
         ],
         "rust-gdk4-x11_0.6": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gdk4-x11_0.7": [
             "@rust-sig",
@@ -134028,7 +134136,8 @@
         ],
         "rust-gdk4_0.6": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gdk4_0.7": [
             "@rust-sig",
@@ -134175,7 +134284,8 @@
         ],
         "rust-gio-sys0.17": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gio-sys0.18": [
             "@rust-sig",
@@ -134198,7 +134308,8 @@
         ],
         "rust-gio0.17": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gio0.18": [
             "@rust-sig",
@@ -134544,7 +134655,8 @@
         ],
         "rust-glib-macros0.17": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-glib-macros0.18": [
             "@rust-sig",
@@ -134571,7 +134683,8 @@
         ],
         "rust-glib-sys0.17": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-glib-sys0.18": [
             "@rust-sig",
@@ -134594,7 +134707,8 @@
         ],
         "rust-glib0.17": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-glib0.18": [
             "@rust-sig",
@@ -134636,7 +134750,8 @@
         "rust-glycin": [
             "@gnome-sig",
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-glycin-common": [
             "@rust-sig",
@@ -134645,7 +134760,8 @@
         "rust-glycin-utils": [
             "@gnome-sig",
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-glycin-utils1": [
             "@rust-sig",
@@ -134686,7 +134802,8 @@
         ],
         "rust-gobject-sys0.17": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gobject-sys0.18": [
             "@rust-sig",
@@ -134768,7 +134885,8 @@
         ],
         "rust-graphene-rs0.17": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-graphene-rs0.18": [
             "@rust-sig",
@@ -134794,7 +134912,8 @@
         ],
         "rust-graphene-sys0.17": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-graphene-sys0.18": [
             "@rust-sig",
@@ -134864,7 +134983,8 @@
         ],
         "rust-gsk4-sys0.6": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gsk4-sys0.7": [
             "@rust-sig",
@@ -134886,7 +135006,8 @@
         ],
         "rust-gsk4_0.6": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gsk4_0.7": [
             "@rust-sig",
@@ -134924,7 +135045,8 @@
         ],
         "rust-gst-plugin-gtk4": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gst-plugin-hsv": [
             "@rust-sig",
@@ -135080,15 +135202,18 @@
         ],
         "rust-gstreamer-gl": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gstreamer-gl-egl": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gstreamer-gl-egl-sys": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gstreamer-gl-egl-sys0.21": [
             "@rust-sig",
@@ -135108,7 +135233,8 @@
         ],
         "rust-gstreamer-gl-sys": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gstreamer-gl-sys0.21": [
             "@rust-sig",
@@ -135120,11 +135246,13 @@
         ],
         "rust-gstreamer-gl-wayland": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gstreamer-gl-wayland-sys": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gstreamer-gl-wayland-sys0.21": [
             "@rust-sig",
@@ -135144,11 +135272,13 @@
         ],
         "rust-gstreamer-gl-x11": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gstreamer-gl-x11-sys": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gstreamer-gl-x11-sys0.21": [
             "@rust-sig",
@@ -135395,7 +135525,8 @@
         ],
         "rust-gtk4-macros0.6": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gtk4-macros0.7": [
             "@rust-sig",
@@ -135421,7 +135552,8 @@
         ],
         "rust-gtk4-sys0.6": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gtk4-sys0.7": [
             "@rust-sig",
@@ -135443,7 +135575,8 @@
         ],
         "rust-gtk4_0.6": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gtk4_0.7": [
             "@rust-sig",
@@ -135535,15 +135668,18 @@
         ],
         "rust-gvdb": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gvdb-macros": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gweather-sys": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-gzip-header": [
             "@rust-sig",
@@ -135692,7 +135828,8 @@
         ],
         "rust-heatseeker": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-heck": [
             "@rust-sig",
@@ -136798,43 +136935,53 @@
         ],
         "rust-jxl-bitstream": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-jxl-coding": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-jxl-color": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-jxl-frame": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-jxl-grid": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-jxl-image": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-jxl-modular": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-jxl-oxide": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-jxl-render": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-jxl-vardct": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-k256": [
             "@rust-sig",
@@ -136850,7 +136997,8 @@
         ],
         "rust-kamadak-exif": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-kbs-types": [
             "@rust-sig",
@@ -136991,7 +137139,8 @@
         ],
         "rust-lcms2": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-lcms2-sys": [
             "@rust-sig",
@@ -137053,11 +137202,13 @@
         ],
         "rust-libadwaita": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-libadwaita-sys": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-libadwaita-sys0.1": [
             "orphan"
@@ -137067,7 +137218,8 @@
         ],
         "rust-libadwaita-sys0.3": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-libadwaita-sys0.4": [
             "orphan"
@@ -137092,7 +137244,8 @@
         ],
         "rust-libadwaita0.3": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-libadwaita0.4": [
             "orphan"
@@ -137285,7 +137438,8 @@
         ],
         "rust-libgweather": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-libhandy": [
             "@rust-sig",
@@ -137297,12 +137451,14 @@
         ],
         "rust-libheif-rs": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-libheif-sys": [
             "@rust-sig",
             "decathorpe",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-libloading": [
             "@rust-sig",
@@ -137588,7 +137744,8 @@
         ],
         "rust-litrs": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-llvm-bitcode": [
             "@rust-sig",
@@ -137697,7 +137854,8 @@
         ],
         "rust-lopdf": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-lru": [
             "@rust-sig",
@@ -138324,7 +138482,8 @@
         ],
         "rust-mutate_once": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-muvm": [
             "@asahi-sig",
@@ -138993,7 +139152,8 @@
         ],
         "rust-oorandom": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-opaque-debug": [
             "@rust-sig",
@@ -139339,7 +139499,8 @@
         ],
         "rust-pango-sys0.17": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-pango-sys0.18": [
             "@rust-sig",
@@ -139362,7 +139523,8 @@
         ],
         "rust-pango0.17": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-pango0.18": [
             "@rust-sig",
@@ -139392,7 +139554,8 @@
         ],
         "rust-pangocairo-sys0.17": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-pangocairo-sys0.18": [
             "@rust-sig",
@@ -139414,7 +139577,8 @@
         ],
         "rust-pangocairo0.17": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-pangocairo0.18": [
             "@rust-sig",
@@ -139765,7 +139929,8 @@
         ],
         "rust-phf_codegen0.8": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-phf_generator": [
             "@rust-sig",
@@ -140006,7 +140171,8 @@
         ],
         "rust-plotters": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-plotters-backend": [
             "@rust-sig",
@@ -140423,7 +140589,8 @@
         ],
         "rust-procs": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-proctitle": [
             "@rust-sig",
@@ -140981,7 +141148,8 @@
         ],
         "rust-qoi": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-qr2term": [
             "orphan"
@@ -141403,7 +141571,8 @@
         ],
         "rust-rctree": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-rctree0.5": [
             "@rust-sig",
@@ -142282,7 +142451,8 @@
         ],
         "rust-safe-transmute": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-safe_arch": [
             "@rust-sig",
@@ -142499,7 +142669,8 @@
         ],
         "rust-selectors": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-selectors0.24": [
             "@rust-sig",
@@ -142885,7 +143056,8 @@
         ],
         "rust-servo_arc": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-servo_arc0.2": [
             "@rust-sig",
@@ -142996,7 +143168,8 @@
         ],
         "rust-shellexpand2": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-shellwords": [
             "@rust-sig",
@@ -144006,7 +144179,8 @@
         ],
         "rust-tealdeer": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-teloxide": [
             "orphan"
@@ -144165,7 +144339,8 @@
         ],
         "rust-test-generator": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-test-log": [
             "@rust-sig",
@@ -144395,7 +144570,8 @@
         ],
         "rust-tinytemplate": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-tinyvec": [
             "@rust-sig",
@@ -145101,7 +145277,8 @@
         ],
         "rust-trybuild2": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-trycmd": [
             "@rust-sig",
@@ -146023,7 +146200,8 @@
         ],
         "rust-varlink-cli": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-varlink_generator": [
             "@rust-sig",
@@ -146757,7 +146935,8 @@
         ],
         "rust-yeslogic-fontconfig-sys": [
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rust-yeslogic-fontconfig-sys4": [
             "@rust-sig",
@@ -147123,7 +147302,8 @@
         ],
         "rygel": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "rzip": [
             "stingray"
@@ -149508,7 +149688,8 @@
         "snapshot": [
             "@gnome-sig",
             "@rust-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "sndfile-tools": [
             "tartina"
@@ -151596,7 +151777,8 @@
         ],
         "sushi": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "svg2svgt": [
             "smani"
@@ -152000,7 +152182,8 @@
             "orphan"
         ],
         "syndication-domination": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "synergy": [
             "astra",
@@ -152066,7 +152249,8 @@
             "@gnome-sig",
             "giallu",
             "kalev",
-            "lkundrak"
+            "lkundrak",
+            "mclasen"
         ],
         "sysprof-kmod": [
             "orphan"
@@ -152423,7 +152607,8 @@
         "tali": [
             "@gnome-sig",
             "doshitan",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "talk": [
             "vcrhonek"
@@ -152818,7 +153003,8 @@
         ],
         "tecla": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "tecnoballz": [
             "musuruan"
@@ -152969,6 +153155,7 @@
         "template-glib": [
             "@gnome-sig",
             "kalev",
+            "mclasen",
             "yaneti"
         ],
         "templates_parser": [
@@ -154135,7 +154322,8 @@
             "teuf"
         ],
         "totem-pl-parser": [
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "totpcgi": [
             "orphan"
@@ -154377,6 +154565,7 @@
         ],
         "tracker-miners": [
             "kalev",
+            "mclasen",
             "rishi"
         ],
         "tracker3": [
@@ -158945,7 +159134,8 @@
         ],
         "xdg-dbus-proxy": [
             "@gnome-sig",
-            "kalev"
+            "kalev",
+            "mclasen"
         ],
         "xdg-desktop-portal": [
             "@gnome-sig",
