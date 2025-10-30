@@ -71977,9 +71977,9 @@
             "fedora": "limb"
         },
         "libQGLViewer": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "jussilehtola",
+            "epel": "jussilehtola",
+            "fedora": "jussilehtola"
         },
         "libQtGTL": {
             "admin": "orphan",
@@ -139172,9 +139172,9 @@
             "fedora": "mattia"
         },
         "python-duecredit": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "ankursinha",
+            "epel": "ankursinha",
+            "fedora": "ankursinha"
         },
         "python-dukpy": {
             "admin": "zbyszek",
@@ -141975,6 +141975,11 @@
             "admin": "ankursinha",
             "epel": "ankursinha",
             "fedora": "ankursinha"
+        },
+        "python-huami-token": {
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
         },
         "python-hudman": {
             "admin": "orphan",
@@ -197400,6 +197405,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "termcolours": {
+            "admin": "mavit",
+            "epel": "mavit",
+            "fedora": "mavit"
         },
         "termic": {
             "admin": "orphan",

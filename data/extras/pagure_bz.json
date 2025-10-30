@@ -26617,6 +26617,7 @@
         ],
         "genders": [
             "dmlb2000",
+            "loveshack",
             "neil",
             "treydock"
         ],
@@ -55793,7 +55794,6 @@
         ],
         "libQGLViewer": [
             "jussilehtola",
-            "orphan",
             "rineau"
         ],
         "libQtGTL": [
@@ -70117,7 +70117,8 @@
             "nb",
             "nonamedotc",
             "salimma",
-            "uwearnold"
+            "uwearnold",
+            "xplosionmind"
         ],
         "nextpnr": [
             "lkundrak",
@@ -108020,7 +108021,7 @@
             "mattia"
         ],
         "python-duecredit": [
-            "orphan"
+            "ankursinha"
         ],
         "python-dukpy": [
             "@python-packagers-sig",
@@ -110264,6 +110265,9 @@
         ],
         "python-httpx-socks": [
             "ankursinha"
+        ],
+        "python-huami-token": [
+            "rathann"
         ],
         "python-hudman": [
             "orphan"
@@ -151942,7 +151946,8 @@
         ],
         "swig": [
             "besser82",
-            "jplesnik"
+            "jplesnik",
+            "mjg"
         ],
         "swig2": [
             "orphan"
@@ -153192,6 +153197,9 @@
         ],
         "termcolor": [
             "orphan"
+        ],
+        "termcolours": [
+            "mavit"
         ],
         "termic": [
             "orphan"
