@@ -8667,7 +8667,7 @@
             "fedora": "luya"
         },
         "Zim": {
-            "admin": "orphan",
+            "admin": "jdekloe",
             "epel": "gui1ty",
             "fedora": "oturpe"
         },
@@ -159888,7 +159888,7 @@
         },
         "rdfind": {
             "admin": "pbrobinson",
-            "epel": "pbrobinson",
+            "epel": "jonathanspw",
             "fedora": "pbrobinson"
         },
         "rdiff-backup": {
@@ -165592,9 +165592,9 @@
             "fedora": "orphan"
         },
         "rubygem-sassc": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "vondruch",
+            "epel": "vondruch",
+            "fedora": "vondruch"
         },
         "rubygem-sassc-rails": {
             "admin": "vondruch",
@@ -188357,7 +188357,7 @@
             "fedora": "dorinda"
         },
         "rust-vhost-device-vsock": {
-            "admin": "sbonazzo",
+            "admin": "dorinda",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -188377,7 +188377,7 @@
             "fedora": "slp"
         },
         "rust-virtio-vsock": {
-            "admin": "sbonazzo",
+            "admin": "slp",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },

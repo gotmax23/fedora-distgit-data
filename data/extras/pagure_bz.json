@@ -6805,8 +6805,8 @@
         ],
         "Zim": [
             "gui1ty",
-            "nixuser",
-            "orphan"
+            "jdekloe",
+            "nixuser"
         ],
         "ZipArchive": [
             "jwrdegoede",
@@ -54963,6 +54963,7 @@
             "buckaroogeek"
         ],
         "kubernetes1.35": [
+            "@go-sig",
             "buckaroogeek"
         ],
         "kubrick": [
@@ -101796,6 +101797,7 @@
             "fjanus"
         ],
         "postgresql18": [
+            "anezbeda",
             "fjanus",
             "ndavidov"
         ],
@@ -108021,6 +108023,7 @@
             "mattia"
         ],
         "python-duecredit": [
+            "@neuro-sig",
             "ankursinha"
         ],
         "python-dukpy": [
@@ -112472,6 +112475,7 @@
             "rominf"
         ],
         "python-moreorless": [
+            "@python-packagers-sig",
             "salimma"
         ],
         "python-morphys": [
@@ -128353,7 +128357,7 @@
             "orphan"
         ],
         "rubygem-sassc": [
-            "orphan"
+            "vondruch"
         ],
         "rubygem-sassc-rails": [
             "pvalena",
@@ -146320,7 +146324,6 @@
             "@rust-sig",
             "dm0",
             "dorinda",
-            "sbonazzo",
             "slp"
         ],
         "rust-vhost-user-backend": [
@@ -146338,7 +146341,6 @@
         "rust-virtio-vsock": [
             "@rust-sig",
             "dm0",
-            "sbonazzo",
             "slp"
         ],
         "rust-virtual-terminal": [
