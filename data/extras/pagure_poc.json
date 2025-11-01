@@ -17456,6 +17456,11 @@
             "epel": "rathann",
             "fedora": "rathann"
         },
+        "clapper-enhancers": {
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
+        },
         "clash": {
             "admin": "orphan",
             "epel": "orphan",
@@ -20375,6 +20380,11 @@
             "admin": "dcavalca",
             "epel": "dcavalca",
             "fedora": "dcavalca"
+        },
+        "crosswords-puzzle-sets-technopol": {
+            "admin": "releng-bot",
+            "epel": "releng-bot",
+            "fedora": "releng-bot"
         },
         "crosswords-puzzle-sets-xword-dl": {
             "admin": "dcavalca",
@@ -32012,9 +32022,9 @@
             "fedora": "xavierb"
         },
         "foundry": {
-            "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "four-in-a-row": {
             "admin": "yaneti",
@@ -40472,9 +40482,9 @@
             "fedora": "orphan"
         },
         "glycin": {
-            "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "glycin-loaders": {
             "admin": "mclasen",
@@ -41192,9 +41202,9 @@
             "fedora": "mclasen"
         },
         "gnome-manuals": {
-            "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "gnome-maps": {
             "admin": "mclasen",
@@ -101917,14 +101927,14 @@
             "fedora": "orphan"
         },
         "onnx": {
-            "admin": "aalvarez",
-            "epel": "aalvarez",
-            "fedora": "aalvarez"
+            "admin": "dherrera",
+            "epel": "dherrera",
+            "fedora": "dherrera"
         },
         "onnxruntime": {
-            "admin": "aalvarez",
-            "epel": "aalvarez",
-            "fedora": "aalvarez"
+            "admin": "dherrera",
+            "epel": "dherrera",
+            "fedora": "dherrera"
         },
         "oomd": {
             "admin": "dcavalca",
@@ -132517,9 +132527,9 @@
             "fedora": "spot"
         },
         "pyee": {
-            "admin": "pbrobinson",
-            "epel": "pbrobinson",
-            "fedora": "pbrobinson"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "pyelftools": {
             "admin": "rathann",
@@ -133467,9 +133477,9 @@
             "fedora": "ondrejj"
         },
         "python-XStatic": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "nikromen",
+            "epel": "nikromen",
+            "fedora": "nikromen"
         },
         "python-XStatic-Angular": {
             "admin": "orphan",
@@ -133522,9 +133532,9 @@
             "fedora": "orphan"
         },
         "python-XStatic-Bootstrap-SCSS": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "nikromen",
+            "epel": "nikromen",
+            "fedora": "nikromen"
         },
         "python-XStatic-D3": {
             "admin": "orphan",
@@ -135927,9 +135937,9 @@
             "fedora": "cottsay"
         },
         "python-blosc": {
-            "admin": "orphan",
+            "admin": "zbyszek",
             "epel": "zbyszek",
-            "fedora": "orphan"
+            "fedora": "zbyszek"
         },
         "python-blosc2": {
             "admin": "zbyszek",
@@ -138017,9 +138027,9 @@
             "fedora": "ngompa"
         },
         "python-defcon": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "python-defusedxml": {
             "admin": "churchyard",
@@ -138492,9 +138502,9 @@
             "fedora": "orphan"
         },
         "python-django-ipware": {
-            "admin": "pbrobinson",
-            "epel": "pbrobinson",
-            "fedora": "pbrobinson"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-django-js-asset": {
             "admin": "aekoroglu",
@@ -138742,9 +138752,9 @@
             "fedora": "aekoroglu"
         },
         "python-django-rules": {
-            "admin": "pbrobinson",
-            "epel": "pbrobinson",
-            "fedora": "pbrobinson"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-django-sahara": {
             "admin": "orphan",
@@ -144817,9 +144827,9 @@
             "fedora": "orphan"
         },
         "python-mozilla-django-oidc": {
-            "admin": "pbrobinson",
-            "epel": "pbrobinson",
-            "fedora": "pbrobinson"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-mpd": {
             "admin": "orphan",
@@ -167067,9 +167077,9 @@
             "fedora": "@rust-sig"
         },
         "rust-ashpd0.11": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-ashpd0.6": {
             "admin": "decathorpe",
@@ -168537,9 +168547,9 @@
             "fedora": "@rust-sig"
         },
         "rust-cairo-rs": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-cairo-rs0.15": {
             "admin": "decathorpe",
@@ -168567,14 +168577,14 @@
             "fedora": "@rust-sig"
         },
         "rust-cairo-rs0.20": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-cairo-sys-rs": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-cairo-sys-rs0.15": {
             "admin": "decathorpe",
@@ -168602,9 +168612,9 @@
             "fedora": "@rust-sig"
         },
         "rust-cairo-sys-rs0.20": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-calamine": {
             "admin": "salimma",
@@ -172707,14 +172717,14 @@
             "fedora": "@rust-sig"
         },
         "rust-gdk-pixbuf": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gdk-pixbuf-sys": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gdk-pixbuf-sys0.15": {
             "admin": "decathorpe",
@@ -172742,9 +172752,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gdk-pixbuf-sys0.20": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gdk-pixbuf0.15": {
             "admin": "decathorpe",
@@ -172772,9 +172782,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gdk-pixbuf0.20": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gdk-sys": {
             "admin": "decathorpe",
@@ -172812,14 +172822,14 @@
             "fedora": "@rust-sig"
         },
         "rust-gdk4": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gdk4-sys": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gdk4-sys0.4": {
             "admin": "orphan",
@@ -172847,9 +172857,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gdk4-sys0.9": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gdk4-wayland": {
             "admin": "mclasen",
@@ -172877,9 +172887,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gdk4-wayland-sys0.9": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gdk4-wayland0.6": {
             "admin": "mclasen",
@@ -172897,9 +172907,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gdk4-wayland0.9": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gdk4-x11": {
             "admin": "mclasen",
@@ -172927,9 +172937,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gdk4-x11-sys0.9": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gdk4-x11_0.6": {
             "admin": "mclasen",
@@ -172947,9 +172957,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gdk4-x11_0.9": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gdk4_0.4": {
             "admin": "orphan",
@@ -172977,9 +172987,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gdk4_0.9": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-generic-array": {
             "admin": "decathorpe",
@@ -173127,14 +173137,14 @@
             "fedora": "decathorpe"
         },
         "rust-gio": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gio-sys": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gio-sys0.15": {
             "admin": "decathorpe",
@@ -173162,9 +173172,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gio-sys0.20": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gio0.15": {
             "admin": "decathorpe",
@@ -173192,9 +173202,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gio0.20": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gir-format-check": {
             "admin": "decathorpe",
@@ -173567,14 +173577,14 @@
             "fedora": "@rust-sig"
         },
         "rust-glib": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-glib-build-tools": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-glib-build-tools0.17": {
             "admin": "dcavalca",
@@ -173612,14 +173622,14 @@
             "fedora": "@rust-sig"
         },
         "rust-glib-macros0.20": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-glib-sys": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-glib-sys0.15": {
             "admin": "decathorpe",
@@ -173647,9 +173657,9 @@
             "fedora": "@rust-sig"
         },
         "rust-glib-sys0.20": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-glib0.15": {
             "admin": "decathorpe",
@@ -173677,9 +173687,9 @@
             "fedora": "@rust-sig"
         },
         "rust-glib0.20": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-glob": {
             "admin": "decathorpe",
@@ -173722,9 +173732,9 @@
             "fedora": "mclasen"
         },
         "rust-glycin-common": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-glycin-utils": {
             "admin": "mclasen",
@@ -173767,9 +173777,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gobject-sys": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gobject-sys0.15": {
             "admin": "decathorpe",
@@ -173797,9 +173807,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gobject-sys0.20": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-goblin": {
             "admin": "decathorpe",
@@ -173872,9 +173882,9 @@
             "fedora": "jlebon"
         },
         "rust-graphene-rs": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-graphene-rs0.15": {
             "admin": "orphan",
@@ -173902,14 +173912,14 @@
             "fedora": "@rust-sig"
         },
         "rust-graphene-rs0.20": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-graphene-sys": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-graphene-sys0.15": {
             "admin": "orphan",
@@ -173937,9 +173947,9 @@
             "fedora": "@rust-sig"
         },
         "rust-graphene-sys0.20": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-greetd_ipc": {
             "admin": "alebastr",
@@ -173992,14 +174002,14 @@
             "fedora": "@rust-sig"
         },
         "rust-gsk4": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gsk4-sys": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gsk4-sys0.4": {
             "admin": "decathorpe",
@@ -174027,9 +174037,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gsk4-sys0.9": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gsk4_0.4": {
             "admin": "orphan",
@@ -174057,9 +174067,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gsk4_0.9": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gspell": {
             "admin": "orphan",
@@ -174072,9 +174082,9 @@
             "fedora": "orphan"
         },
         "rust-gst-plugin-dav1d": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gst-plugin-fallbackswitch": {
             "admin": "yselkowitz",
@@ -174087,9 +174097,9 @@
             "fedora": "yselkowitz"
         },
         "rust-gst-plugin-gif": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gst-plugin-gtk4": {
             "admin": "mclasen",
@@ -174117,29 +174127,29 @@
             "fedora": "yselkowitz"
         },
         "rust-gst-plugin-reqwest": {
-            "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gst-plugin-version-helper": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gstreamer": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gstreamer-allocators": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gstreamer-allocators-sys": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gstreamer-allocators-sys0.22": {
             "admin": "decathorpe",
@@ -174657,14 +174667,14 @@
             "fedora": "@rust-sig"
         },
         "rust-gtk4": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gtk4-macros": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gtk4-macros0.4": {
             "admin": "orphan",
@@ -174692,14 +174702,14 @@
             "fedora": "@rust-sig"
         },
         "rust-gtk4-macros0.9": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gtk4-sys": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gtk4-sys0.4": {
             "admin": "orphan",
@@ -174727,9 +174737,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gtk4-sys0.9": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gtk4_0.4": {
             "admin": "orphan",
@@ -174757,19 +174767,19 @@
             "fedora": "@rust-sig"
         },
         "rust-gtk4_0.9": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gufo": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gufo-common": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gufo-common0.1": {
             "admin": "decathorpe",
@@ -174782,9 +174792,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gufo-exif": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gufo-exif0.1": {
             "admin": "decathorpe",
@@ -174797,9 +174807,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gufo-jpeg": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gufo-jpeg0.1": {
             "admin": "decathorpe",
@@ -174812,9 +174822,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gufo-png": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gufo-png0.2": {
             "admin": "decathorpe",
@@ -174822,9 +174832,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gufo-tiff": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gufo-tiff0.2": {
             "admin": "decathorpe",
@@ -174832,9 +174842,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gufo-webp": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gufo-webp0.2": {
             "admin": "decathorpe",
@@ -174842,9 +174852,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gufo-xmp": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gufo-xmp0.2": {
             "admin": "decathorpe",
@@ -176817,9 +176827,9 @@
             "fedora": "@rust-sig"
         },
         "rust-libadwaita-sys0.7": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-libadwaita0.1": {
             "admin": "orphan",
@@ -176852,9 +176862,9 @@
             "fedora": "@rust-sig"
         },
         "rust-libadwaita0.7": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-libblkid-rs": {
             "admin": "jbaublitz",
@@ -177157,24 +177167,24 @@
             "fedora": "@rust-sig"
         },
         "rust-librsvg-rebind": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-librsvg-rebind-sys": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-librsvg-rebind-sys0.1": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-librsvg-rebind0.1": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-librsvg2.56": {
             "admin": "orphan",
@@ -179652,14 +179662,14 @@
             "fedora": "@rust-sig"
         },
         "rust-pango": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-pango-sys": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-pango-sys0.15": {
             "admin": "decathorpe",
@@ -179687,9 +179697,9 @@
             "fedora": "@rust-sig"
         },
         "rust-pango-sys0.20": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-pango0.15": {
             "admin": "decathorpe",
@@ -179717,19 +179727,19 @@
             "fedora": "@rust-sig"
         },
         "rust-pango0.20": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-pangocairo": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-pangocairo-sys": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-pangocairo-sys0.15": {
             "admin": "orphan",
@@ -179757,9 +179767,9 @@
             "fedora": "@rust-sig"
         },
         "rust-pangocairo-sys0.20": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-pangocairo0.15": {
             "admin": "orphan",
@@ -179787,9 +179797,9 @@
             "fedora": "@rust-sig"
         },
         "rust-pangocairo0.20": {
-            "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-papergrid": {
             "admin": "salimma",

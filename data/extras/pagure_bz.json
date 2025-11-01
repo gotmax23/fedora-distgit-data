@@ -12522,6 +12522,7 @@
         ],
         "calls": [
             "lihis",
+            "lorbus",
             "torbuntu"
         ],
         "callweaver": [
@@ -13682,6 +13683,10 @@
             "orphan"
         ],
         "clapper": [
+            "@multimedia-sig",
+            "rathann"
+        ],
+        "clapper-enhancers": [
             "@multimedia-sig",
             "rathann"
         ],
@@ -15945,6 +15950,9 @@
         "crosswords-puzzle-sets-pzzl": [
             "dcavalca",
             "salimma"
+        ],
+        "crosswords-puzzle-sets-technopol": [
+            "releng-bot"
         ],
         "crosswords-puzzle-sets-xword-dl": [
             "dcavalca",
@@ -20799,6 +20807,7 @@
         ],
         "egl-gbm": [
             "ework",
+            "mizdebsk",
             "ngompa",
             "slaanesh"
         ],
@@ -20807,6 +20816,7 @@
             "ghishadow",
             "jexposit",
             "kwizart",
+            "mizdebsk",
             "ngompa",
             "slaanesh"
         ],
@@ -20817,12 +20827,14 @@
             "slaanesh"
         ],
         "egl-x11": [
+            "mizdebsk",
             "slaanesh"
         ],
         "eglexternalplatform": [
             "ework",
             "jexposit",
             "kwizart",
+            "mizdebsk",
             "ngompa",
             "slaanesh"
         ],
@@ -23600,7 +23612,8 @@
             "sochotni"
         ],
         "feedbackd": [
-            "lihis"
+            "lihis",
+            "lorbus"
         ],
         "feedreader": [
             "orphan"
@@ -24779,7 +24792,7 @@
         ],
         "foundry": [
             "@gnome-sig",
-            "decathorpe"
+            "orphan"
         ],
         "four-in-a-row": [
             "@gnome-sig",
@@ -31320,7 +31333,7 @@
             "@multimedia-sig",
             "@rust-sig",
             "bgilbert",
-            "decathorpe"
+            "orphan"
         ],
         "glycin-loaders": [
             "@rust-sig",
@@ -31895,7 +31908,7 @@
         ],
         "gnome-manuals": [
             "@gnome-sig",
-            "decathorpe"
+            "orphan"
         ],
         "gnome-maps": [
             "@gnome-sig",
@@ -102942,7 +102955,7 @@
             "spot"
         ],
         "pyee": [
-            "pbrobinson"
+            "orphan"
         ],
         "pyelftools": [
             "@epel-packagers-sig",
@@ -103638,7 +103651,7 @@
         "python-XStatic": [
             "@epel-packagers-sig",
             "@openstack-sig",
-            "orphan",
+            "nikromen",
             "rdopiera"
         ],
         "python-XStatic-Angular": [
@@ -103690,7 +103703,7 @@
         "python-XStatic-Bootstrap-SCSS": [
             "@epel-packagers-sig",
             "@openstack-sig",
-            "orphan",
+            "nikromen",
             "rdopiera"
         ],
         "python-XStatic-D3": [
@@ -105523,7 +105536,6 @@
             "@epel-packagers-sig",
             "jonathanspw",
             "kkeithle",
-            "orphan",
             "tnorth",
             "zbyszek"
         ],
@@ -107139,7 +107151,7 @@
         ],
         "python-defcon": [
             "athoscr",
-            "orphan"
+            "music"
         ],
         "python-defusedxml": [
             "@python-packagers-sig",
@@ -107512,7 +107524,7 @@
             "orphan"
         ],
         "python-django-ipware": [
-            "pbrobinson"
+            "orphan"
         ],
         "python-django-js-asset": [
             "@python-packagers-sig",
@@ -107695,7 +107707,7 @@
             "aekoroglu"
         ],
         "python-django-rules": [
-            "pbrobinson"
+            "orphan"
         ],
         "python-django-sahara": [
             "orphan"
@@ -112496,7 +112508,7 @@
             "orphan"
         ],
         "python-mozilla-django-oidc": [
-            "pbrobinson"
+            "orphan"
         ],
         "python-mpd": [
             "hguemar",
@@ -129500,7 +129512,7 @@
         ],
         "rust-ashpd0.11": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-ashpd0.6": [
             "@rust-sig",
@@ -130677,7 +130689,7 @@
         ],
         "rust-cairo-rs": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-cairo-rs0.15": [
             "@rust-sig",
@@ -130701,11 +130713,11 @@
         ],
         "rust-cairo-rs0.20": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-cairo-sys-rs": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-cairo-sys-rs0.15": [
             "@rust-sig",
@@ -130729,7 +130741,7 @@
         ],
         "rust-cairo-sys-rs0.20": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-calamine": [
             "@rust-sig",
@@ -133937,11 +133949,11 @@
         ],
         "rust-gdk-pixbuf": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gdk-pixbuf-sys": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gdk-pixbuf-sys0.15": [
             "@rust-sig",
@@ -133965,7 +133977,7 @@
         ],
         "rust-gdk-pixbuf-sys0.20": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gdk-pixbuf0.15": [
             "@rust-sig",
@@ -133989,7 +134001,7 @@
         ],
         "rust-gdk-pixbuf0.20": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gdk-sys": [
             "@rust-sig",
@@ -134019,11 +134031,11 @@
         ],
         "rust-gdk4": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gdk4-sys": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gdk4-sys0.4": [
             "orphan"
@@ -134046,7 +134058,7 @@
         ],
         "rust-gdk4-sys0.9": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gdk4-wayland": [
             "@rust-sig",
@@ -134073,7 +134085,7 @@
         ],
         "rust-gdk4-wayland-sys0.9": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gdk4-wayland0.6": [
             "@rust-sig",
@@ -134090,7 +134102,7 @@
         ],
         "rust-gdk4-wayland0.9": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gdk4-x11": [
             "@rust-sig",
@@ -134117,7 +134129,7 @@
         ],
         "rust-gdk4-x11-sys0.9": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gdk4-x11_0.6": [
             "@rust-sig",
@@ -134134,7 +134146,7 @@
         ],
         "rust-gdk4-x11_0.9": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gdk4_0.4": [
             "orphan"
@@ -134157,7 +134169,7 @@
         ],
         "rust-gdk4_0.9": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-generic-array": [
             "@rust-sig",
@@ -134277,11 +134289,11 @@
         ],
         "rust-gio": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gio-sys": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gio-sys0.15": [
             "@rust-sig",
@@ -134305,7 +134317,7 @@
         ],
         "rust-gio-sys0.20": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gio0.15": [
             "@rust-sig",
@@ -134329,7 +134341,7 @@
         ],
         "rust-gio0.20": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gir-format-check": [
             "@rust-sig",
@@ -134640,11 +134652,11 @@
         ],
         "rust-glib": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-glib-build-tools": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-glib-build-tools0.17": [
             "@rust-sig",
@@ -134676,11 +134688,11 @@
         ],
         "rust-glib-macros0.20": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-glib-sys": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-glib-sys0.15": [
             "@rust-sig",
@@ -134704,7 +134716,7 @@
         ],
         "rust-glib-sys0.20": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-glib0.15": [
             "@rust-sig",
@@ -134728,7 +134740,7 @@
         ],
         "rust-glib0.20": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-glob": [
             "@rust-sig",
@@ -134763,7 +134775,7 @@
         ],
         "rust-glycin-common": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-glycin-utils": [
             "@gnome-sig",
@@ -134799,7 +134811,7 @@
         ],
         "rust-gobject-sys": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gobject-sys0.15": [
             "@rust-sig",
@@ -134823,7 +134835,7 @@
         ],
         "rust-gobject-sys0.20": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-goblin": [
             "@rust-sig",
@@ -134883,7 +134895,7 @@
         ],
         "rust-graphene-rs": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-graphene-rs0.15": [
             "orphan"
@@ -134906,11 +134918,11 @@
         ],
         "rust-graphene-rs0.20": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-graphene-sys": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-graphene-sys0.15": [
             "orphan"
@@ -134933,7 +134945,7 @@
         ],
         "rust-graphene-sys0.20": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-greetd_ipc": [
             "@rust-sig",
@@ -134976,11 +134988,11 @@
         ],
         "rust-gsk4": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gsk4-sys": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gsk4-sys0.4": [
             "@rust-sig",
@@ -135004,7 +135016,7 @@
         ],
         "rust-gsk4-sys0.9": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gsk4_0.4": [
             "orphan"
@@ -135027,7 +135039,7 @@
         ],
         "rust-gsk4_0.9": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gspell": [
             "orphan"
@@ -135037,7 +135049,7 @@
         ],
         "rust-gst-plugin-dav1d": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gst-plugin-fallbackswitch": [
             "@rust-sig",
@@ -135049,7 +135061,7 @@
         ],
         "rust-gst-plugin-gif": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gst-plugin-gtk4": [
             "@rust-sig",
@@ -135074,23 +135086,23 @@
         ],
         "rust-gst-plugin-reqwest": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gst-plugin-version-helper": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gstreamer": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gstreamer-allocators": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gstreamer-allocators-sys": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gstreamer-allocators-sys0.22": [
             "@rust-sig",
@@ -135519,11 +135531,11 @@
         ],
         "rust-gtk4": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gtk4-macros": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gtk4-macros0.4": [
             "orphan"
@@ -135546,11 +135558,11 @@
         ],
         "rust-gtk4-macros0.9": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gtk4-sys": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gtk4-sys0.4": [
             "orphan"
@@ -135573,7 +135585,7 @@
         ],
         "rust-gtk4-sys0.9": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gtk4_0.4": [
             "orphan"
@@ -135596,15 +135608,15 @@
         ],
         "rust-gtk4_0.9": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gufo": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gufo-common": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gufo-common0.1": [
             "@rust-sig",
@@ -135616,7 +135628,7 @@
         ],
         "rust-gufo-exif": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gufo-exif0.1": [
             "@rust-sig",
@@ -135628,7 +135640,7 @@
         ],
         "rust-gufo-jpeg": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gufo-jpeg0.1": [
             "@rust-sig",
@@ -135640,7 +135652,7 @@
         ],
         "rust-gufo-png": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gufo-png0.2": [
             "@rust-sig",
@@ -135648,7 +135660,7 @@
         ],
         "rust-gufo-tiff": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gufo-tiff0.2": [
             "@rust-sig",
@@ -135656,7 +135668,7 @@
         ],
         "rust-gufo-webp": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gufo-webp0.2": [
             "@rust-sig",
@@ -135664,7 +135676,7 @@
         ],
         "rust-gufo-xmp": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gufo-xmp0.2": [
             "@rust-sig",
@@ -137242,7 +137254,7 @@
         ],
         "rust-libadwaita-sys0.7": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-libadwaita0.1": [
             "orphan"
@@ -137268,7 +137280,7 @@
         ],
         "rust-libadwaita0.7": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-libblkid-rs": [
             "@rust-sig",
@@ -137538,19 +137550,19 @@
         ],
         "rust-librsvg-rebind": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-librsvg-rebind-sys": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-librsvg-rebind-sys0.1": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-librsvg-rebind0.1": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-librsvg2.56": [
             "orphan"
@@ -139492,11 +139504,11 @@
         ],
         "rust-pango": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-pango-sys": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-pango-sys0.15": [
             "@rust-sig",
@@ -139520,7 +139532,7 @@
         ],
         "rust-pango-sys0.20": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-pango0.15": [
             "@rust-sig",
@@ -139544,15 +139556,15 @@
         ],
         "rust-pango0.20": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-pangocairo": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-pangocairo-sys": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-pangocairo-sys0.15": [
             "orphan"
@@ -139575,7 +139587,7 @@
         ],
         "rust-pangocairo-sys0.20": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-pangocairo0.15": [
             "orphan"
@@ -139598,7 +139610,7 @@
         ],
         "rust-pangocairo0.20": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-papergrid": [
             "@rust-sig",
