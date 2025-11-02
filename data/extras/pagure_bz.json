@@ -540,6 +540,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "cantata": [
+            "yselkowitz"
+        ],
         "cantor": [
             "@flatpak-sig",
             "yselkowitz"
@@ -15952,7 +15955,7 @@
             "salimma"
         ],
         "crosswords-puzzle-sets-technopol": [
-            "releng-bot"
+            "dcavalca"
         ],
         "crosswords-puzzle-sets-xword-dl": [
             "dcavalca",

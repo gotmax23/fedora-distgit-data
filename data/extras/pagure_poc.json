@@ -657,6 +657,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "cantata": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "cantor": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -20382,9 +20387,9 @@
             "fedora": "dcavalca"
         },
         "crosswords-puzzle-sets-technopol": {
-            "admin": "releng-bot",
-            "epel": "releng-bot",
-            "fedora": "releng-bot"
+            "admin": "dcavalca",
+            "epel": "dcavalca",
+            "fedora": "dcavalca"
         },
         "crosswords-puzzle-sets-xword-dl": {
             "admin": "dcavalca",
