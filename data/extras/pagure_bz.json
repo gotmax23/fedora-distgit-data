@@ -11427,7 +11427,7 @@
             "orphan"
         ],
         "blurhash-cpp": [
-            "xvitaly"
+            "rathann"
         ],
         "bmake": [
             "kasal",
@@ -14178,8 +14178,8 @@
             "orphan"
         ],
         "cmrc": [
-            "swt2c",
-            "xvitaly"
+            "orphan",
+            "swt2c"
         ],
         "cmrt": [
             "@multimedia-sig",
@@ -14359,7 +14359,7 @@
             "rishi"
         ],
         "coeurl": [
-            "xvitaly",
+            "rathann",
             "yselkowitz"
         ],
         "coffee-script": [
@@ -20059,7 +20059,7 @@
         ],
         "earlyoom": [
             "@epel-packagers-sig",
-            "xvitaly"
+            "orphan"
         ],
         "earth-and-moon-backgrounds": [
             "orphan"
@@ -61784,7 +61784,7 @@
             "tdawson"
         ],
         "lmdbxx": [
-            "xvitaly"
+            "rathann"
         ],
         "lmfit": [
             "churchyard",
@@ -68365,7 +68365,7 @@
             "solopasha"
         ],
         "mpark-variant": [
-            "xvitaly"
+            "rathann"
         ],
         "mpc": [
             "adrian",
@@ -68690,7 +68690,7 @@
             "sharkcz"
         ],
         "mtxclient": [
-            "xvitaly",
+            "rathann",
             "yselkowitz"
         ],
         "mu": [
@@ -70278,7 +70278,7 @@
             "pemensik"
         ],
         "nheko": [
-            "xvitaly",
+            "rathann",
             "yselkowitz"
         ],
         "nhn-nanum-fonts": [
@@ -102437,8 +102437,8 @@
         "psi-plus": [
             "@kde-sig",
             "fed500",
-            "raphgro",
-            "xvitaly"
+            "orphan",
+            "raphgro"
         ],
         "psi4": [
             "jussilehtola"
@@ -122847,7 +122847,7 @@
         "qr-code-generator": [
             "@epel-packagers-sig",
             "ngompa",
-            "xvitaly"
+            "supakeen"
         ],
         "qr_mumps": [
             "orphan"
@@ -122935,7 +122935,7 @@
             "nucleo"
         ],
         "qt-jdenticon": [
-            "xvitaly",
+            "rathann",
             "yselkowitz"
         ],
         "qt-mobility": [
@@ -150217,8 +150217,8 @@
             "@epel-packagers-sig",
             "cottsay",
             "frantisekz",
-            "thunderbirdtr",
-            "xvitaly"
+            "orphan",
+            "thunderbirdtr"
         ],
         "spdrs60": [
             "dfateyev"
@@ -156219,7 +156219,7 @@
         "usrsctp": [
             "@epel-packagers-sig",
             "dcavalca",
-            "xvitaly"
+            "orphan"
         ],
         "ustl": [
             "cicku",
@@ -156565,8 +156565,8 @@
             "ppisar"
         ],
         "vcpkg": [
-            "swt2c",
-            "xvitaly"
+            "orphan",
+            "swt2c"
         ],
         "vcs-diff-lint": [
             "praiskup"

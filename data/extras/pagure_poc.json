@@ -14552,9 +14552,9 @@
             "fedora": "orphan"
         },
         "blurhash-cpp": {
-            "admin": "xvitaly",
-            "epel": "xvitaly",
-            "fedora": "xvitaly"
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
         },
         "bmake": {
             "admin": "pemensik",
@@ -18117,9 +18117,9 @@
             "fedora": "orphan"
         },
         "cmrc": {
-            "admin": "xvitaly",
-            "epel": "xvitaly",
-            "fedora": "xvitaly"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "cmrt": {
             "admin": "dcavalca",
@@ -18342,9 +18342,9 @@
             "fedora": "mikelo2"
         },
         "coeurl": {
-            "admin": "xvitaly",
-            "epel": "xvitaly",
-            "fedora": "xvitaly"
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
         },
         "coffee-script": {
             "admin": "orphan",
@@ -25777,9 +25777,9 @@
             "fedora": "music"
         },
         "earlyoom": {
-            "admin": "xvitaly",
-            "epel": "@epel-packagers-sig",
-            "fedora": "xvitaly"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "earth-and-moon-backgrounds": {
             "admin": "orphan",
@@ -79372,9 +79372,9 @@
             "fedora": "tdawson"
         },
         "lmdbxx": {
-            "admin": "xvitaly",
-            "epel": "xvitaly",
-            "fedora": "xvitaly"
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
         },
         "lmfit": {
             "admin": "junghans",
@@ -88082,9 +88082,9 @@
             "fedora": "solopasha"
         },
         "mpark-variant": {
-            "admin": "xvitaly",
-            "epel": "xvitaly",
-            "fedora": "xvitaly"
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
         },
         "mpc": {
             "admin": "adrian",
@@ -88502,9 +88502,9 @@
             "fedora": "sharkcz"
         },
         "mtxclient": {
-            "admin": "xvitaly",
-            "epel": "xvitaly",
-            "fedora": "xvitaly"
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
         },
         "mu": {
             "admin": "orphan",
@@ -90582,9 +90582,9 @@
             "fedora": "pemensik"
         },
         "nheko": {
-            "admin": "xvitaly",
-            "epel": "xvitaly",
-            "fedora": "xvitaly"
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
         },
         "nhn-nanum-fonts": {
             "admin": "orphan",
@@ -131807,9 +131807,9 @@
             "fedora": "salimma"
         },
         "psi-plus": {
-            "admin": "xvitaly",
-            "epel": "xvitaly",
-            "fedora": "xvitaly"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "psi4": {
             "admin": "jussilehtola",
@@ -158267,9 +158267,9 @@
             "fedora": "catanzaro"
         },
         "qr-code-generator": {
-            "admin": "xvitaly",
-            "epel": "ngompa",
-            "fedora": "xvitaly"
+            "admin": "supakeen",
+            "epel": "supakeen",
+            "fedora": "supakeen"
         },
         "qr_mumps": {
             "admin": "orphan",
@@ -158387,9 +158387,9 @@
             "fedora": "nucleo"
         },
         "qt-jdenticon": {
-            "admin": "xvitaly",
-            "epel": "xvitaly",
-            "fedora": "xvitaly"
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
         },
         "qt-mobility": {
             "admin": "orphan",
@@ -193467,9 +193467,9 @@
             "fedora": "orphan"
         },
         "spdlog": {
-            "admin": "xvitaly",
-            "epel": "thunderbirdtr",
-            "fedora": "xvitaly"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "spdrs60": {
             "admin": "dfateyev",
@@ -201447,9 +201447,9 @@
             "fedora": "honli"
         },
         "usrsctp": {
-            "admin": "xvitaly",
-            "epel": "dcavalca",
-            "fedora": "xvitaly"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "ustl": {
             "admin": "dfateyev",
@@ -201892,9 +201892,9 @@
             "fedora": "ppisar"
         },
         "vcpkg": {
-            "admin": "xvitaly",
-            "epel": "xvitaly",
-            "fedora": "xvitaly"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "vcs-diff-lint": {
             "admin": "praiskup",
