@@ -18117,9 +18117,9 @@
             "fedora": "orphan"
         },
         "cmrc": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "swt2c",
+            "epel": "swt2c",
+            "fedora": "swt2c"
         },
         "cmrt": {
             "admin": "dcavalca",
@@ -19132,9 +19132,9 @@
             "fedora": "ankursinha"
         },
         "conan": {
-            "admin": "xvitaly",
-            "epel": "xvitaly",
-            "fedora": "xvitaly"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "concordance": {
             "admin": "swt2c",
@@ -39087,9 +39087,9 @@
             "fedora": "orphan"
         },
         "gir-to-d": {
-            "admin": "ngompa",
-            "epel": "ngompa",
-            "fedora": "ngompa"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "girara": {
             "admin": "avigne",
@@ -39752,9 +39752,9 @@
             "fedora": "orphan"
         },
         "glibd": {
-            "admin": "ngompa",
-            "epel": "ngompa",
-            "fedora": "ngompa"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "glibmm2.4": {
             "admin": "mclasen",
@@ -62375,6 +62375,11 @@
             "admin": "lnykryn",
             "epel": "lnykryn",
             "fedora": "lnykryn"
+        },
+        "inja": {
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "inkboy-fonts": {
             "admin": "orphan",
@@ -135381,6 +135386,26 @@
             "epel": "jcline",
             "fedora": "jcline"
         },
+        "python-azure-mgmt-resource-deployments": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
+        },
+        "python-azure-mgmt-resource-deploymentscripts": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
+        },
+        "python-azure-mgmt-resource-deploymentstacks": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
+        },
+        "python-azure-mgmt-resource-templatespecs": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
+        },
         "python-azure-mgmt-search": {
             "admin": "jcline",
             "epel": "jcline",
@@ -142077,9 +142102,9 @@
             "fedora": "orphan"
         },
         "python-hypothesmith": {
-            "admin": "orphan",
+            "admin": "salimma",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "salimma"
         },
         "python-i3ipc": {
             "admin": "alebastr",
@@ -145547,9 +145572,9 @@
             "fedora": "orphan"
         },
         "python-node-semver": {
-            "admin": "xvitaly",
-            "epel": "xvitaly",
-            "fedora": "xvitaly"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-nodeenv": {
             "admin": "semeijn",
@@ -146647,9 +146672,9 @@
             "fedora": "dcavalca"
         },
         "python-patch-ng": {
-            "admin": "xvitaly",
-            "epel": "xvitaly",
-            "fedora": "xvitaly"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-path": {
             "admin": "laxathom",
@@ -153962,9 +153987,9 @@
             "fedora": "spot"
         },
         "python-twomemo": {
-            "admin": "fed500",
-            "epel": "fed500",
-            "fedora": "fed500"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-twyt": {
             "admin": "orphan",
@@ -158437,9 +158462,9 @@
             "fedora": "kkofler"
         },
         "qt4pas": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
         },
         "qt5": {
             "admin": "jgrulich",
@@ -161825,6 +161850,11 @@
             "admin": "peter",
             "epel": "peter",
             "fedora": "peter"
+        },
+        "rtrlib": {
+            "admin": "mruprich",
+            "epel": "mruprich",
+            "fedora": "mruprich"
         },
         "rttr": {
             "admin": "kwizart",
@@ -193467,9 +193497,9 @@
             "fedora": "orphan"
         },
         "spdlog": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "churchyard",
+            "epel": "churchyard",
+            "fedora": "churchyard"
         },
         "spdrs60": {
             "admin": "dfateyev",
@@ -193568,7 +193598,7 @@
         },
         "speedcrunch": {
             "admin": "xvitaly",
-            "epel": "jonathanspw",
+            "epel": "xvitaly",
             "fedora": "xvitaly"
         },
         "speedometer": {
@@ -201892,9 +201922,9 @@
             "fedora": "ppisar"
         },
         "vcpkg": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "swt2c",
+            "epel": "swt2c",
+            "fedora": "swt2c"
         },
         "vcs-diff-lint": {
             "admin": "praiskup",

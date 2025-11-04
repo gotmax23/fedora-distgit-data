@@ -541,6 +541,7 @@
             "yselkowitz"
         ],
         "cantata": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "cantor": [
@@ -3723,7 +3724,8 @@
             "rineau"
         ],
         "CGSI-gSOAP": [
-            "ellert"
+            "ellert",
+            "mipatras"
         ],
         "CImg": [
             "berrange",
@@ -14178,7 +14180,6 @@
             "orphan"
         ],
         "cmrc": [
-            "orphan",
             "swt2c"
         ],
         "cmrt": [
@@ -14924,8 +14925,7 @@
             "fonts-sig"
         ],
         "conan": [
-            "alexfails",
-            "xvitaly"
+            "orphan"
         ],
         "concordance": [
             "swt2c"
@@ -30269,7 +30269,7 @@
             "walters"
         ],
         "gir-to-d": [
-            "ngompa"
+            "orphan"
         ],
         "girara": [
             "ankursinha",
@@ -30830,7 +30830,7 @@
             "orphan"
         ],
         "glibd": [
-            "ngompa"
+            "orphan"
         ],
         "glibmm2.4": [
             "@gnome-sig",
@@ -45339,6 +45339,7 @@
             "petersen"
         ],
         "hadolint": [
+            "@haskell-lang-sig",
             "dridi",
             "melmorabity",
             "petersen"
@@ -48054,6 +48055,9 @@
             "kzak",
             "lnykryn",
             "zbyszek"
+        ],
+        "inja": [
+            "ngompa"
         ],
         "inkboy-fonts": [
             "orphan"
@@ -73961,10 +73965,12 @@
             "orphan"
         ],
         "nodejs-packaging": [
+            "aradchen",
             "humaton",
             "jstanek",
             "mrunge",
-            "sgallagh"
+            "sgallagh",
+            "tjuhasz"
         ],
         "nodejs-packet-reader": [
             "orphan"
@@ -105095,6 +105101,18 @@
             "@python-packagers-sig",
             "jcline"
         ],
+        "python-azure-mgmt-resource-deployments": [
+            "jcline"
+        ],
+        "python-azure-mgmt-resource-deploymentscripts": [
+            "jcline"
+        ],
+        "python-azure-mgmt-resource-deploymentstacks": [
+            "jcline"
+        ],
+        "python-azure-mgmt-resource-templatespecs": [
+            "jcline"
+        ],
         "python-azure-mgmt-search": [
             "@python-packagers-sig",
             "jcline"
@@ -110363,7 +110381,8 @@
             "orphan"
         ],
         "python-hypothesmith": [
-            "orphan",
+            "@python-packagers-sig",
+            "dcavalca",
             "salimma"
         ],
         "python-i3ipc": [
@@ -113039,7 +113058,7 @@
             "orphan"
         ],
         "python-node-semver": [
-            "xvitaly"
+            "orphan"
         ],
         "python-nodeenv": [
             "@python-packagers-sig",
@@ -113929,7 +113948,7 @@
             "dcavalca"
         ],
         "python-patch-ng": [
-            "xvitaly"
+            "orphan"
         ],
         "python-path": [
             "jcaratzas",
@@ -119640,7 +119659,7 @@
             "spot"
         ],
         "python-twomemo": [
-            "fed500"
+            "orphan"
         ],
         "python-twyt": [
             "maxamillion",
@@ -120028,6 +120047,7 @@
             "rcallicotte"
         ],
         "python-urwidtrees": [
+            "meeuw",
             "ttomecek"
         ],
         "python-usbsdmux": [
@@ -122976,7 +122996,7 @@
             "than"
         ],
         "qt4pas": [
-            "orphan"
+            "suve"
         ],
         "qt5": [
             "@kde-sig",
@@ -125592,6 +125612,9 @@
         ],
         "rtpproxy": [
             "peter"
+        ],
+        "rtrlib": [
+            "mruprich"
         ],
         "rttr": [
             "kwizart"
@@ -150215,9 +150238,9 @@
         ],
         "spdlog": [
             "@epel-packagers-sig",
+            "churchyard",
             "cottsay",
             "frantisekz",
-            "orphan",
             "thunderbirdtr"
         ],
         "spdrs60": [
@@ -156565,7 +156588,6 @@
             "ppisar"
         ],
         "vcpkg": [
-            "orphan",
             "swt2c"
         ],
         "vcs-diff-lint": [
