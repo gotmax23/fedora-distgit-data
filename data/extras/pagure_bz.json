@@ -24795,7 +24795,7 @@
         ],
         "foundry": [
             "@gnome-sig",
-            "orphan"
+            "tpopela"
         ],
         "four-in-a-row": [
             "@gnome-sig",
@@ -25338,7 +25338,8 @@
         "fuse-overlayfs": [
             "@container-sig",
             "gscrivano",
-            "lsm5"
+            "lsm5",
+            "mathstuf"
         ],
         "fuse-pingfs": [
             "mikelo2"
@@ -31336,7 +31337,7 @@
             "@multimedia-sig",
             "@rust-sig",
             "bgilbert",
-            "orphan"
+            "dchen"
         ],
         "glycin-loaders": [
             "@rust-sig",
@@ -31911,7 +31912,7 @@
         ],
         "gnome-manuals": [
             "@gnome-sig",
-            "orphan"
+            "tpopela"
         ],
         "gnome-maps": [
             "@gnome-sig",
@@ -60351,6 +60352,9 @@
         "libtextcat": [
             "orphan"
         ],
+        "libtfmxaudiodecoder": [
+            "mschwendt"
+        ],
         "libthai": [
             "mclasen",
             "pwu",
@@ -76381,7 +76385,8 @@
             "kwizart"
         ],
         "nvidia-texture-tools": [
-            "kalev"
+            "kalev",
+            "limb"
         ],
         "nvme-cli": [
             "farchord",
@@ -103658,6 +103663,7 @@
             "ondrejj"
         ],
         "python-XStatic": [
+            "@copr-sig",
             "@epel-packagers-sig",
             "@openstack-sig",
             "nikromen",
@@ -103710,6 +103716,7 @@
             "rdopiera"
         ],
         "python-XStatic-Bootstrap-SCSS": [
+            "@copr-sig",
             "@epel-packagers-sig",
             "@openstack-sig",
             "nikromen",
@@ -124100,6 +124107,10 @@
             "@rocm-packagers-sig",
             "trix"
         ],
+        "rccl-tests": [
+            "@rocm-packagers-sig",
+            "trix"
+        ],
         "rclone": [
             "@go-sig",
             "mikelo2"
@@ -128619,8 +128630,7 @@
         ],
         "rubygem-term-ansicolor": [
             "orphan",
-            "tdawson",
-            "vondruch"
+            "tdawson"
         ],
         "rubygem-terminal-table": [
             "orphan"
@@ -150735,7 +150745,7 @@
             "orphan"
         ],
         "srain": [
-            "orphan"
+            "besser82"
         ],
         "sratom": [
             "nphilipp",
@@ -156241,8 +156251,7 @@
         ],
         "usrsctp": [
             "@epel-packagers-sig",
-            "dcavalca",
-            "orphan"
+            "dcavalca"
         ],
         "ustl": [
             "cicku",

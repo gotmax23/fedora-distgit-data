@@ -32027,9 +32027,9 @@
             "fedora": "xavierb"
         },
         "foundry": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "tpopela",
+            "epel": "@gnome-sig",
+            "fedora": "@gnome-sig"
         },
         "four-in-a-row": {
             "admin": "yaneti",
@@ -40487,9 +40487,9 @@
             "fedora": "orphan"
         },
         "glycin": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "dchen",
+            "epel": "dchen",
+            "fedora": "dchen"
         },
         "glycin-loaders": {
             "admin": "mclasen",
@@ -41207,9 +41207,9 @@
             "fedora": "mclasen"
         },
         "gnome-manuals": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "tpopela",
+            "epel": "@gnome-sig",
+            "fedora": "@gnome-sig"
         },
         "gnome-maps": {
             "admin": "mclasen",
@@ -77616,6 +77616,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "libtfmxaudiodecoder": {
+            "admin": "mschwendt",
+            "epel": "mschwendt",
+            "fedora": "mschwendt"
+        },
         "libthai": {
             "admin": "pwu",
             "epel": "pwu",
@@ -99772,8 +99777,8 @@
             "fedora": "kwizart"
         },
         "nvidia-texture-tools": {
-            "admin": "kalev",
-            "epel": "kalev",
+            "admin": "limb",
+            "epel": "limb",
             "fedora": "kalev"
         },
         "nvme-cli": {
@@ -159866,6 +159871,11 @@
             "epel": "@rocm-packagers-sig",
             "fedora": "@rocm-packagers-sig"
         },
+        "rccl-tests": {
+            "admin": "trix",
+            "epel": "@rocm-packagers-sig",
+            "fedora": "@rocm-packagers-sig"
+        },
         "rclone": {
             "admin": "mikelo2",
             "epel": "mikelo2",
@@ -194092,9 +194102,9 @@
             "fedora": "orphan"
         },
         "srain": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "besser82",
+            "epel": "besser82",
+            "fedora": "besser82"
         },
         "sratom": {
             "admin": "tartina",
@@ -201477,9 +201487,9 @@
             "fedora": "honli"
         },
         "usrsctp": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "dcavalca",
+            "epel": "dcavalca",
+            "fedora": "dcavalca"
         },
         "ustl": {
             "admin": "dfateyev",
