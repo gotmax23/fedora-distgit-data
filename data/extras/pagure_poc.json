@@ -31988,8 +31988,8 @@
         },
         "forgejo": {
             "admin": "nphilipp",
-            "epel": "nphilipp",
-            "fedora": "nphilipp"
+            "epel": "@infra-sig",
+            "fedora": "@infra-sig"
         },
         "fortune-firefly": {
             "admin": "bruno",
@@ -146802,9 +146802,9 @@
             "fedora": "lbalhar"
         },
         "python-pdm-pep517": {
-            "admin": "supakeen",
-            "epel": "supakeen",
-            "fedora": "supakeen"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-peachpy": {
             "admin": "trix",

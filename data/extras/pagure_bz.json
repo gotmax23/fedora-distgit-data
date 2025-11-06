@@ -16923,6 +16923,7 @@
             "sagitter"
         ],
         "ddcutil": [
+            "kathenas",
             "tdawson",
             "yanqiyu"
         ],
@@ -23845,6 +23846,7 @@
         "ffmpeg": [
             "@multimedia-sig",
             "asn",
+            "kathenas",
             "ngompa",
             "rathann"
         ],
@@ -26398,6 +26400,7 @@
             "@gnome-sig",
             "ghishadow",
             "jadahl",
+            "kathenas",
             "mclasen",
             "rstrode"
         ],
@@ -32127,6 +32130,7 @@
             "adscvr",
             "fmuellner",
             "jadahl",
+            "kathenas",
             "otaylor"
         ],
         "gnome-shell-extension-activities-configurator": [
@@ -49431,6 +49435,7 @@
             "jandrlik",
             "jerboaa",
             "jvanek",
+            "kathenas",
             "pmikova",
             "zzambers"
         ],
@@ -49443,7 +49448,8 @@
             "zzambers"
         ],
         "java-25-openjdk": [
-            "jvanek"
+            "jvanek",
+            "kathenas"
         ],
         "java-25-openjdk-portable": [
             "jvanek"
@@ -51453,6 +51459,7 @@
         ],
         "junit": [
             "java-sig",
+            "kathenas",
             "mizdebsk"
         ],
         "junit-addons": [
@@ -57277,7 +57284,8 @@
             "till"
         ],
         "libfyaml": [
-            "fed500"
+            "fed500",
+            "ngompa"
         ],
         "libg15render": [
             "jwrdegoede"
@@ -64947,6 +64955,7 @@
             "ghishadow",
             "ignatenkobrain",
             "jexposit",
+            "kathenas",
             "lyude",
             "mpenttil",
             "rstrode",
@@ -67089,6 +67098,7 @@
             "@epel-packagers-sig",
             "@multimedia-sig",
             "jonathanspw",
+            "kathenas",
             "musuruan",
             "pemensik",
             "rathann"
@@ -68907,6 +68917,7 @@
             "fmuellner",
             "gasiyu",
             "jadahl",
+            "kathenas",
             "otaylor",
             "walters"
         ],
@@ -104563,6 +104574,7 @@
         "python-astropy": [
             "@astro-sig",
             "fedepell",
+            "kathenas",
             "orion",
             "sergiopr"
         ],
@@ -114056,7 +114068,7 @@
             "lbalhar"
         ],
         "python-pdm-pep517": [
-            "supakeen"
+            "orphan"
         ],
         "python-peachpy": [
             "trix"
@@ -114262,7 +114274,6 @@
         "python-pint": [
             "@python-packagers-sig",
             "fedepell",
-            "jcapitao",
             "lzachar",
             "mhoyer"
         ],
@@ -148874,7 +148885,8 @@
         ],
         "showtime": [
             "@gnome-sig",
-            "farchord"
+            "farchord",
+            "kathenas"
         ],
         "shrinkpdf": [
             "raphgro"
@@ -149286,6 +149298,7 @@
         ],
         "siril": [
             "@astro-sig",
+            "kathenas",
             "lkundrak",
             "mattia"
         ],
