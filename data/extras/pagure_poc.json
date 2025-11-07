@@ -13941,6 +13941,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "bidscoin": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "bifcl": {
             "admin": "orphan",
             "epel": "orphan",
@@ -39752,9 +39757,9 @@
             "fedora": "orphan"
         },
         "glibd": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "crisdel",
+            "epel": "crisdel",
+            "fedora": "crisdel"
         },
         "glibmm2.4": {
             "admin": "mclasen",
@@ -43862,9 +43867,9 @@
             "fedora": "orphan"
         },
         "golang-github-azure-pipeline": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "crisdel",
+            "epel": "crisdel",
+            "fedora": "crisdel"
         },
         "golang-github-azure-sdk": {
             "admin": "jcline",
@@ -132542,9 +132547,9 @@
             "fedora": "spot"
         },
         "pyee": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "crisdel",
+            "epel": "crisdel",
+            "fedora": "crisdel"
         },
         "pyelftools": {
             "admin": "rathann",
@@ -157133,8 +157138,8 @@
         },
         "python3.15": {
             "admin": "ksurma",
-            "epel": "ksurma",
-            "fedora": "ksurma"
+            "epel": "python-maint",
+            "fedora": "python-maint"
         },
         "python3.5": {
             "admin": "orphan",
@@ -193453,7 +193458,7 @@
         },
         "sparsehash": {
             "admin": "jgrulich",
-            "epel": "jgrulich",
+            "epel": "stevetraylen",
             "fedora": "jgrulich"
         },
         "spasm": {

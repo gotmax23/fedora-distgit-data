@@ -10937,6 +10937,10 @@
             "@neuro-sig",
             "music"
         ],
+        "bidscoin": [
+            "@neuro-sig",
+            "music"
+        ],
         "bifcl": [
             "orphan"
         ],
@@ -30834,7 +30838,7 @@
             "orphan"
         ],
         "glibd": [
-            "orphan"
+            "crisdel"
         ],
         "glibmm2.4": [
             "@gnome-sig",
@@ -33923,7 +33927,7 @@
         ],
         "golang-github-azure-pipeline": [
             "@go-sig",
-            "orphan"
+            "crisdel"
         ],
         "golang-github-azure-sdk": [
             "@go-sig",
@@ -102980,7 +102984,7 @@
             "spot"
         ],
         "pyee": [
-            "orphan"
+            "crisdel"
         ],
         "pyelftools": [
             "@epel-packagers-sig",
@@ -124733,6 +124737,7 @@
             "atim"
         ],
         "retsnoop": [
+            "@rust-sig",
             "dcavalca",
             "salimma"
         ],
@@ -150222,6 +150227,7 @@
             "dcavalca",
             "jgrulich",
             "kalev",
+            "stevetraylen",
             "than"
         ],
         "spasm": [
