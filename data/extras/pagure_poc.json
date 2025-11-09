@@ -422,6 +422,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "agenda": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "aisleriot": {
             "admin": "orphan",
             "epel": "orphan",
@@ -49112,9 +49117,9 @@
             "fedora": "neelc"
         },
         "golang-github-kelvins-sunrisesunset": {
-            "admin": "cheeselee",
-            "epel": "cheeselee",
-            "fedora": "cheeselee"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-kennygrant-sanitize": {
             "admin": "eclipseo",
@@ -49587,9 +49592,9 @@
             "fedora": "orphan"
         },
         "golang-github-lofanmi-pinyin": {
-            "admin": "cheeselee",
-            "epel": "cheeselee",
-            "fedora": "cheeselee"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-logfmt": {
             "admin": "alexsaezm",
@@ -50532,9 +50537,9 @@
             "fedora": "alexsaezm"
         },
         "golang-github-mozillazg-pinyin": {
-            "admin": "cheeselee",
-            "epel": "cheeselee",
-            "fedora": "cheeselee"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-mr-tron-base58": {
             "admin": "eclipseo",
@@ -53457,9 +53462,9 @@
             "fedora": "qulogic"
         },
         "golang-github-teambition-rrule": {
-            "admin": "cheeselee",
-            "epel": "cheeselee",
-            "fedora": "cheeselee"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-temoto-robotstxt": {
             "admin": "orphan",
@@ -54392,14 +54397,14 @@
             "fedora": "orphan"
         },
         "golang-github-youpy-riff": {
-            "admin": "cheeselee",
-            "epel": "cheeselee",
-            "fedora": "cheeselee"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-youpy-wav": {
-            "admin": "cheeselee",
-            "epel": "cheeselee",
-            "fedora": "cheeselee"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-yudai-gojsondiff": {
             "admin": "orphan",
@@ -54482,9 +54487,9 @@
             "fedora": "orphan"
         },
         "golang-github-zaf-g711": {
-            "admin": "cheeselee",
-            "epel": "cheeselee",
-            "fedora": "cheeselee"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-zalando-keyring": {
             "admin": "orphan",
@@ -189106,6 +189111,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-xdg2": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-xi-unicode": {
             "admin": "dcavalca",
             "epel": "@rust-sig",
@@ -193820,6 +193830,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "spoofdpi": {
+            "admin": "neelc",
+            "epel": "neelc",
+            "fedora": "neelc"
         },
         "spooky-c": {
             "admin": "orphan",

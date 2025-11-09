@@ -351,6 +351,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "agenda": [
+            "music"
+        ],
         "aisleriot": [
             "@flatpak-sig",
             "orphan"
@@ -37916,7 +37919,7 @@
         ],
         "golang-github-kelvins-sunrisesunset": [
             "@go-sig",
-            "cheeselee"
+            "orphan"
         ],
         "golang-github-kennygrant-sanitize": [
             "@go-sig",
@@ -38293,7 +38296,7 @@
         ],
         "golang-github-lofanmi-pinyin": [
             "@go-sig",
-            "cheeselee"
+            "orphan"
         ],
         "golang-github-logfmt": [
             "@go-sig",
@@ -39008,7 +39011,7 @@
         "golang-github-mozillazg-pinyin": [
             "@deepinde-sig",
             "@go-sig",
-            "cheeselee"
+            "orphan"
         ],
         "golang-github-mr-tron-base58": [
             "@go-sig",
@@ -41276,7 +41279,7 @@
         ],
         "golang-github-teambition-rrule": [
             "@go-sig",
-            "cheeselee"
+            "orphan"
         ],
         "golang-github-temoto-robotstxt": [
             "@go-sig",
@@ -41980,11 +41983,11 @@
         ],
         "golang-github-youpy-riff": [
             "@go-sig",
-            "cheeselee"
+            "orphan"
         ],
         "golang-github-youpy-wav": [
             "@go-sig",
-            "cheeselee"
+            "orphan"
         ],
         "golang-github-yudai-gojsondiff": [
             "orphan"
@@ -42052,7 +42055,7 @@
         ],
         "golang-github-zaf-g711": [
             "@go-sig",
-            "cheeselee"
+            "orphan"
         ],
         "golang-github-zalando-keyring": [
             "@go-sig",
@@ -68919,7 +68922,6 @@
         "mutter": [
             "@gnome-sig",
             "fmuellner",
-            "gasiyu",
             "jadahl",
             "kathenas",
             "otaylor",
@@ -146938,6 +146940,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-xdg2": [
+            "decathorpe"
+        ],
         "rust-xi-unicode": [
             "@rust-sig",
             "dcavalca"
@@ -150552,6 +150557,9 @@
             "java-sig",
             "mizdebsk",
             "orphan"
+        ],
+        "spoofdpi": [
+            "neelc"
         ],
         "spooky-c": [
             "orphan"
