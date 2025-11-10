@@ -407,6 +407,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "Pencil2D": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "abiword": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -30563,8 +30568,8 @@
         },
         "feedbackd": {
             "admin": "lihis",
-            "epel": "torbuntu",
-            "fedora": "torbuntu"
+            "epel": "lihis",
+            "fedora": "lihis"
         },
         "feedreader": {
             "admin": "orphan",
@@ -39195,6 +39200,11 @@
             "admin": "echevemaster",
             "epel": "echevemaster",
             "fedora": "echevemaster"
+        },
+        "git-imerge": {
+            "admin": "sicherha",
+            "epel": "sicherha",
+            "fedora": "sicherha"
         },
         "git-lab-porcelain": {
             "admin": "orphan",
@@ -61192,9 +61202,9 @@
             "fedora": "bytehackr"
         },
         "hypridle": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "nikromen",
+            "epel": "nikromen",
+            "fedora": "nikromen"
         },
         "hyprland": {
             "admin": "orphan",
@@ -61212,9 +61222,9 @@
             "fedora": "bytehackr"
         },
         "hyprlock": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "nikromen",
+            "epel": "nikromen",
+            "fedora": "nikromen"
         },
         "hyprpaper": {
             "admin": "orphan",
@@ -86606,6 +86616,11 @@
             "epel": "@rocm-packagers-sig",
             "fedora": "@rocm-packagers-sig"
         },
+        "mixxx": {
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
+        },
         "mj": {
             "admin": "orphan",
             "epel": "orphan",
@@ -106327,9 +106342,9 @@
             "fedora": "jplesnik"
         },
         "perl-B-Hooks-Parser": {
-            "admin": "wfp",
-            "epel": "wfp",
-            "fedora": "wfp"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "perl-B-Keywords": {
             "admin": "jplesnik",
@@ -147602,9 +147617,9 @@
             "fedora": "fjanus"
         },
         "python-psycopg3": {
-            "admin": "orphan",
+            "admin": "wfp",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "wfp"
         },
         "python-pthreading": {
             "admin": "orphan",
@@ -177896,6 +177911,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-matchit0.8": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-matrixcompare": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -182632,6 +182652,11 @@
             "fedora": "music"
         },
         "rust-reqsign-aws-v4": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "rust-reqsign-azure-storage": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"

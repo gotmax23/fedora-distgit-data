@@ -339,6 +339,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "Pencil2D": [
+            "yselkowitz"
+        ],
         "abiword": [
             "@flatpak-sig",
             "yselkowitz"
@@ -11675,7 +11678,6 @@
         ],
         "bottles": [
             "atim",
-            "gotmax23",
             "gui1ty",
             "masalafrancesco",
             "thunderbirdtr"
@@ -30365,6 +30367,9 @@
         "git-ftp": [
             "echevemaster"
         ],
+        "git-imerge": [
+            "sicherha"
+        ],
         "git-lab-porcelain": [
             "orphan"
         ],
@@ -47135,7 +47140,7 @@
             "bytehackr"
         ],
         "hypridle": [
-            "orphan"
+            "nikromen"
         ],
         "hyprland": [
             "ghishadow",
@@ -47148,7 +47153,7 @@
             "bytehackr"
         ],
         "hyprlock": [
-            "orphan"
+            "nikromen"
         ],
         "hyprpaper": [
             "orphan"
@@ -67281,6 +67286,9 @@
             "@rocm-packagers-sig",
             "trix"
         ],
+        "mixxx": [
+            "rathann"
+        ],
         "mj": [
             "orphan"
         ],
@@ -81488,7 +81496,7 @@
             "ppisar"
         ],
         "perl-B-Hooks-Parser": [
-            "wfp"
+            "orphan"
         ],
         "perl-B-Keywords": [
             "mspacek",
@@ -114700,8 +114708,8 @@
         ],
         "python-psycopg3": [
             "ndavidov",
-            "orphan",
-            "osloup"
+            "osloup",
+            "wfp"
         ],
         "python-pthreading": [
             "danken",
@@ -138150,6 +138158,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-matchit0.8": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-matrixcompare": [
             "@rust-sig",
             "decathorpe"
@@ -141872,6 +141884,10 @@
             "music"
         ],
         "rust-reqsign-aws-v4": [
+            "@rust-sig",
+            "music"
+        ],
+        "rust-reqsign-azure-storage": [
             "@rust-sig",
             "music"
         ],
@@ -149345,6 +149361,7 @@
         ],
         "siril": [
             "@astro-sig",
+            "fedepell",
             "kathenas",
             "lkundrak",
             "mattia"
