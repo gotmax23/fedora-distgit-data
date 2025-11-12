@@ -340,6 +340,7 @@
             "yselkowitz"
         ],
         "Pencil2D": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "abiword": [
@@ -355,6 +356,7 @@
             "yselkowitz"
         ],
         "agenda": [
+            "@flatpak-sig",
             "music"
         ],
         "aisleriot": [
@@ -898,7 +900,7 @@
         ],
         "fragments": [
             "@flatpak-sig",
-            "orphan"
+            "pwalter"
         ],
         "francis": [
             "@flatpak-sig",
@@ -9283,8 +9285,7 @@
         ],
         "aseman-qt-tools": [
             "ignatenkobrain",
-            "orphan",
-            "xvitaly"
+            "orphan"
         ],
         "aseqmm": [
             "kkofler",
@@ -10047,8 +10048,8 @@
             "orphan"
         ],
         "automoc": [
-            "orphan",
-            "rdieter"
+            "rdieter",
+            "than"
         ],
         "autorandr": [
             "vtrefny"
@@ -11673,6 +11674,9 @@
             "carlosrodrifernandez",
             "thm"
         ],
+        "botan3": [
+            "carlosrodrifernandez"
+        ],
         "bottlerocket": [
             "orphan"
         ],
@@ -13180,8 +13184,8 @@
             "souryogurt"
         ],
         "chafa": [
-            "churchyard",
-            "jonathanspw"
+            "jonathanspw",
+            "orphan"
         ],
         "chameleon": [
             "orphan"
@@ -14664,6 +14668,9 @@
         ],
         "compat-gnutls28": [
             "orphan"
+        ],
+        "compat-gpgme124": [
+            "mhlavink"
         ],
         "compat-gtkhtml314": [
             "orphan"
@@ -17886,7 +17893,6 @@
             "robmv"
         ],
         "disciplining-minipod": [
-            "abulimov",
             "dcavalca",
             "leoleovich",
             "pcullen",
@@ -19771,6 +19777,7 @@
             "xavierb"
         ],
         "du-dust": [
+            "@rust-sig",
             "jados",
             "lbalhar"
         ],
@@ -24890,7 +24897,7 @@
         "fragments": [
             "atim",
             "kalev",
-            "orphan"
+            "pwalter"
         ],
         "frama-c": [
             "amarcea",
@@ -31351,7 +31358,6 @@
             "@gnome-sig",
             "@multimedia-sig",
             "@rust-sig",
-            "bgilbert",
             "dchen"
         ],
         "glycin-loaders": [
@@ -35556,7 +35562,6 @@
         ],
         "golang-github-eclesh-welford": [
             "@go-sig",
-            "abulimov",
             "dcavalca"
         ],
         "golang-github-eclipse-paho-mqtt": [
@@ -35774,7 +35779,6 @@
         ],
         "golang-github-facebook-time": [
             "@go-sig",
-            "abulimov",
             "dcavalca",
             "leoleovich",
             "salimma",
@@ -56108,6 +56112,9 @@
         "libad9361": [
             "orphan"
         ],
+        "libad9361-iio": [
+            "jskarvad"
+        ],
         "libadwaita": [
             "@gnome-sig",
             "atim"
@@ -57280,7 +57287,7 @@
         "libfreenect": [
             "jkastner",
             "kwizart",
-            "orphan"
+            "rathann"
         ],
         "libftdi": [
             "hobbes1069",
@@ -63646,7 +63653,7 @@
             "smani"
         ],
         "mat2": [
-            "atim"
+            "orphan"
         ],
         "matahari": [
             "orphan",
@@ -68019,6 +68026,7 @@
             "salimma"
         ],
         "mono": [
+            "bubeck",
             "chkr",
             "rstrode"
         ],
@@ -79399,7 +79407,6 @@
             "vpolasek"
         ],
         "oscillatord": [
-            "abulimov",
             "leoleovich",
             "pcullen",
             "pmazzini",
@@ -82218,6 +82225,9 @@
         "perl-Carton": [
             "jplesnik",
             "perl-sig"
+        ],
+        "perl-Cassandra-Client": [
+            "xavierb"
         ],
         "perl-Catalyst-Action-REST": [
             "eseyman",
@@ -100866,6 +100876,7 @@
             "marcdeop"
         ],
         "plasma-keyboard": [
+            "@kde-sig",
             "farchord"
         ],
         "plasma-mediacenter": [
@@ -102218,10 +102229,10 @@
             "limb"
         ],
         "profile-cleaner": [
-            "orphan"
+            "tredaell"
         ],
         "profile-sync-daemon": [
-            "orphan"
+            "tredaell"
         ],
         "proftpd": [
             "pghmcfc"
@@ -111315,6 +111326,7 @@
             "rharwood"
         ],
         "python-keep": [
+            "@python-packagers-sig",
             "salimma"
         ],
         "python-keepassxc-browser": [
@@ -114406,7 +114418,7 @@
             "orphan"
         ],
         "python-plumbum": [
-            "orphan"
+            "mikep"
         ],
         "python-ply": [
             "sgallagh",
@@ -119051,6 +119063,10 @@
         "python-terminaltables": [
             "terjeros"
         ],
+        "python-terminaltables3": [
+            "@python-packagers-sig",
+            "salimma"
+        ],
         "python-teslajsonpy": [
             "orphan"
         ],
@@ -120175,6 +120191,9 @@
             "kevin",
             "limb",
             "mhayden"
+        ],
+        "python-vcs2l": [
+            "cottsay"
         ],
         "python-vcstool": [
             "@robotics-sig",
@@ -124404,6 +124423,9 @@
             "java-sig",
             "orphan"
         ],
+        "redisx": [
+            "attipaci"
+        ],
         "redland": [
             "@libreoffice-sig",
             "than",
@@ -125169,6 +125191,10 @@
             "ghishadow",
             "mystro256"
         ],
+        "rocm-origami": [
+            "@rocm-packagers-sig",
+            "trix"
+        ],
         "rocm-rpm-macros": [
             "@rocm-packagers-sig",
             "trix"
@@ -125324,7 +125350,6 @@
         "roxterm": [
             "cicku",
             "filiperosset",
-            "orphan",
             "salimma"
         ],
         "rp-pppoe": [
@@ -137876,7 +137901,7 @@
         ],
         "rust-locale": [
             "@rust-sig",
-            "decathorpe"
+            "terjeros"
         ],
         "rust-locale_config": [
             "@rust-sig",
@@ -138628,6 +138653,10 @@
         "rust-natord": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-natord-plus-plus": [
+            "@rust-sig",
+            "terjeros"
         ],
         "rust-navi": [
             "@rust-sig",
@@ -141883,6 +141912,10 @@
             "@rust-sig",
             "music"
         ],
+        "rust-reqsign-aliyun-oss": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-reqsign-aws-v4": [
             "@rust-sig",
             "music"
@@ -141903,8 +141936,15 @@
             "@rust-sig",
             "music"
         ],
+        "rust-reqsign-google": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-reqsign-http-send-reqwest": [
             "@rust-sig",
+            "music"
+        ],
+        "rust-reqsign-tencent-cos": [
             "music"
         ],
         "rust-reqwest": [
@@ -146957,6 +146997,7 @@
             "decathorpe"
         ],
         "rust-xdg2": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-xi-unicode": [
@@ -150576,6 +150617,7 @@
             "orphan"
         ],
         "spoofdpi": [
+            "@go-sig",
             "neelc"
         ],
         "spooky-c": [
@@ -155571,7 +155613,6 @@
             "dcavalca"
         ],
         "ubloxcfg": [
-            "abulimov",
             "dcavalca",
             "leoleovich",
             "pcullen",
@@ -155738,6 +155779,9 @@
         ],
         "ufraw": [
             "nphilipp"
+        ],
+        "ufs-utils": [
+            "pbrobinson"
         ],
         "ufsparse": [
             "orphan"
@@ -157223,6 +157267,7 @@
             "omos"
         ],
         "virtualbox-guest-additions": [
+            "alext",
             "jwrdegoede",
             "mjthayer",
             "nixuser",

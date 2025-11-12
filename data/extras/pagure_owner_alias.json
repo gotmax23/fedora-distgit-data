@@ -738,7 +738,7 @@
             "limb"
         ],
         "fragments": [
-            "orphan"
+            "pwalter"
         ],
         "francis": [
             "yselkowitz"
@@ -8394,7 +8394,7 @@
             "orphan"
         ],
         "automoc": [
-            "orphan"
+            "than"
         ],
         "autorandr": [
             "vtrefny"
@@ -9820,6 +9820,9 @@
             "carlosrodrifernandez",
             "thm"
         ],
+        "botan3": [
+            "carlosrodrifernandez"
+        ],
         "bottlerocket": [
             "orphan"
         ],
@@ -11140,7 +11143,7 @@
             "souryogurt"
         ],
         "chafa": [
-            "churchyard",
+            "orphan",
             "jonathanspw"
         ],
         "chameleon": [
@@ -12438,6 +12441,9 @@
         ],
         "compat-gnutls28": [
             "orphan"
+        ],
+        "compat-gpgme124": [
+            "mhlavink"
         ],
         "compat-gtkhtml314": [
             "orphan"
@@ -21463,7 +21469,7 @@
             "yselkowitz"
         ],
         "fragments": [
-            "orphan",
+            "pwalter",
             "kalev",
             "atim"
         ],
@@ -30498,10 +30504,10 @@
             "orphan"
         ],
         "golang-github-facebook-time": [
-            "abulimov",
             "vfedorenko",
             "yarek",
             "leoleovich",
+            "abulimov",
             "salimma",
             "dcavalca"
         ],
@@ -47467,6 +47473,9 @@
         "libad9361": [
             "orphan"
         ],
+        "libad9361-iio": [
+            "jskarvad"
+        ],
         "libadwaita": [
             "atim"
         ],
@@ -48519,7 +48528,7 @@
             "orphan"
         ],
         "libfreenect": [
-            "orphan",
+            "rathann",
             "jkastner"
         ],
         "libftdi": [
@@ -54225,7 +54234,7 @@
             "smani"
         ],
         "mat2": [
-            "atim"
+            "orphan"
         ],
         "matahari": [
             "orphan"
@@ -70810,6 +70819,9 @@
         "perl-Carton": [
             "jplesnik",
             "ppisar"
+        ],
+        "perl-Cassandra-Client": [
+            "xavierb"
         ],
         "perl-Catalyst-Action-REST": [
             "eseyman",
@@ -88425,10 +88437,10 @@
             "limb"
         ],
         "profile-cleaner": [
-            "orphan"
+            "tredaell"
         ],
         "profile-sync-daemon": [
-            "orphan"
+            "tredaell"
         ],
         "proftpd": [
             "pghmcfc"
@@ -98968,7 +98980,7 @@
             "orphan"
         ],
         "python-plumbum": [
-            "orphan"
+            "mikep"
         ],
         "python-ply": [
             "spot",
@@ -102940,6 +102952,9 @@
         "python-terminaltables": [
             "terjeros"
         ],
+        "python-terminaltables3": [
+            "salimma"
+        ],
         "python-teslajsonpy": [
             "orphan"
         ],
@@ -103907,6 +103922,9 @@
             "kevin",
             "mhayden",
             "limb"
+        ],
+        "python-vcs2l": [
+            "cottsay"
         ],
         "python-vcstool": [
             "cottsay"
@@ -107642,6 +107660,9 @@
         "redis-protocol": [
             "orphan"
         ],
+        "redisx": [
+            "attipaci"
+        ],
         "redland": [
             "topazus",
             "than"
@@ -108307,6 +108328,9 @@
         "rocm-opencl": [
             "mystro256"
         ],
+        "rocm-origami": [
+            "trix"
+        ],
         "rocm-rpm-macros": [
             "trix"
         ],
@@ -108436,7 +108460,6 @@
             "kkofler"
         ],
         "roxterm": [
-            "orphan",
             "filiperosset"
         ],
         "rp-pppoe": [
@@ -118590,7 +118613,7 @@
             "dcavalca"
         ],
         "rust-locale": [
-            "decathorpe"
+            "terjeros"
         ],
         "rust-locale_config": [
             "decathorpe"
@@ -119177,6 +119200,9 @@
         ],
         "rust-natord": [
             "decathorpe"
+        ],
+        "rust-natord-plus-plus": [
+            "terjeros"
         ],
         "rust-navi": [
             "jbtrystram"
@@ -121706,6 +121732,9 @@
         "rust-reqsign": [
             "music"
         ],
+        "rust-reqsign-aliyun-oss": [
+            "music"
+        ],
         "rust-reqsign-aws-v4": [
             "music"
         ],
@@ -121721,7 +121750,13 @@
         "rust-reqsign-file-read-tokio": [
             "music"
         ],
+        "rust-reqsign-google": [
+            "music"
+        ],
         "rust-reqsign-http-send-reqwest": [
+            "music"
+        ],
+        "rust-reqsign-tencent-cos": [
             "music"
         ],
         "rust-reqwest": [
@@ -133342,6 +133377,9 @@
         ],
         "ufraw": [
             "nphilipp"
+        ],
+        "ufs-utils": [
+            "pbrobinson"
         ],
         "ufsparse": [
             "orphan"
