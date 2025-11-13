@@ -22372,9 +22372,9 @@
             "fedora": "lvm-team"
         },
         "device-mapper-persistent-data": {
-            "admin": "lvm-team",
-            "epel": "lvm-team",
-            "fedora": "lvm-team"
+            "admin": "mcsontos",
+            "epel": "mcsontos",
+            "fedora": "mcsontos"
         },
         "devilspie": {
             "admin": "orphan",
@@ -22695,6 +22695,11 @@
             "admin": "fed500",
             "epel": "fed500",
             "fedora": "fed500"
+        },
+        "digger": {
+            "admin": "pemensik",
+            "epel": "pemensik",
+            "fedora": "pemensik"
         },
         "digikam": {
             "admin": "marcdeop",
@@ -23347,9 +23352,9 @@
             "fedora": "orphan"
         },
         "dmraid": {
-            "admin": "lvm-team",
-            "epel": "lvm-team",
-            "fedora": "lvm-team"
+            "admin": "mcsontos",
+            "epel": "mcsontos",
+            "fedora": "mcsontos"
         },
         "dmtcp": {
             "admin": "topazus",
@@ -80682,9 +80687,9 @@
             "fedora": "orphan"
         },
         "lvm2": {
-            "admin": "lvm-team",
-            "epel": "lvm-team",
-            "fedora": "lvm-team"
+            "admin": "mcsontos",
+            "epel": "mcsontos",
+            "fedora": "mcsontos"
         },
         "lw-cli": {
             "admin": "mikelo2",
@@ -83420,6 +83425,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "meow": {
+            "admin": "pixelsergey",
+            "epel": "pixelsergey",
+            "fedora": "pixelsergey"
         },
         "mepack": {
             "admin": "iucar",
@@ -152676,6 +152686,11 @@
             "epel": "meeuw",
             "fedora": "meeuw"
         },
+        "python-standard-nntplib": {
+            "admin": "salimma",
+            "epel": "salimma",
+            "fedora": "salimma"
+        },
         "python-starlette": {
             "admin": "music",
             "epel": "music",
@@ -171997,9 +172012,9 @@
             "fedora": "@rust-sig"
         },
         "rust-eza": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "germano",
+            "epel": "germano",
+            "fedora": "germano"
         },
         "rust-faccess": {
             "admin": "decathorpe",
@@ -182732,6 +182747,11 @@
             "fedora": "music"
         },
         "rust-reqsign-http-send-reqwest": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "rust-reqsign-huaweicloud-obs": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"
@@ -193608,7 +193628,7 @@
         },
         "spdlog": {
             "admin": "churchyard",
-            "epel": "churchyard",
+            "epel": "orphan",
             "fedora": "churchyard"
         },
         "spdrs60": {
@@ -194992,9 +195012,9 @@
             "fedora": "jhnidek"
         },
         "subscription-manager-cockpit": {
-            "admin": "jhnidek",
-            "epel": "jhnidek",
-            "fedora": "jhnidek"
+            "admin": "jelly",
+            "epel": "tmatus",
+            "fedora": "tmatus"
         },
         "subscription-manager-rhsm-certificates": {
             "admin": "jhnidek",

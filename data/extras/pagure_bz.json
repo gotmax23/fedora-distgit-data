@@ -17798,6 +17798,10 @@
         "digdoc": [
             "fed500"
         ],
+        "digger": [
+            "@dns-sig",
+            "pemensik"
+        ],
         "digikam": [
             "@kde-sig",
             "marcdeop",
@@ -64938,6 +64942,11 @@
         ],
         "menulibre": [
             "orphan"
+        ],
+        "meow": [
+            "@rust-sig",
+            "music",
+            "pixelsergey"
         ],
         "mepack": [
             "iucar"
@@ -118656,6 +118665,10 @@
         "python-standard-mailcap": [
             "meeuw"
         ],
+        "python-standard-nntplib": [
+            "@python-packagers-sig",
+            "salimma"
+        ],
         "python-starlette": [
             "music",
             "pwouters",
@@ -119239,7 +119252,8 @@
             "churchyard"
         ],
         "python-timelib": [
-            "limb"
+            "limb",
+            "rcallicotte"
         ],
         "python-timeout-decorator": [
             "@openstack-sig",
@@ -133411,7 +133425,7 @@
         ],
         "rust-eza": [
             "@rust-sig",
-            "orphan",
+            "germano",
             "tautropfli"
         ],
         "rust-faccess": [
@@ -141942,6 +141956,9 @@
         ],
         "rust-reqsign-http-send-reqwest": [
             "@rust-sig",
+            "music"
+        ],
+        "rust-reqsign-huaweicloud-obs": [
             "music"
         ],
         "rust-reqsign-tencent-cos": [
@@ -151172,8 +151189,7 @@
             "orphan"
         ],
         "statsd": [
-            "dcavalca",
-            "piotrp"
+            "dcavalca"
         ],
         "statserial": [
             "buc",
@@ -151473,8 +151489,9 @@
             "ptoscano"
         ],
         "subscription-manager-cockpit": [
+            "jelly",
             "jhnidek",
-            "ptoscano"
+            "tmatus"
         ],
         "subscription-manager-rhsm-certificates": [
             "jhnidek",
