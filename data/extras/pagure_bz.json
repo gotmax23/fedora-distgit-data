@@ -18432,6 +18432,10 @@
         "dnsjava": [
             "orphan"
         ],
+        "dnsjit": [
+            "@dns-sig",
+            "pemensik"
+        ],
         "dnsmap": [
             "lystor",
             "rebus"
@@ -20811,8 +20815,8 @@
         ],
         "efs-utils": [
             "fkolwa",
-            "mhayden",
-            "miyunari"
+            "miyunari",
+            "orphan"
         ],
         "efte": [
             "orphan"
@@ -24512,6 +24516,9 @@
         "fmf": [
             "lzachar",
             "psss"
+        ],
+        "fmf-jinja": [
+            "lecris"
         ],
         "fmidi": [
             "music"
@@ -45596,7 +45603,7 @@
         "hcloud": [
             "@go-sig",
             "fkolwa",
-            "mhayden"
+            "orphan"
         ],
         "hct": [
             "orphan"
@@ -54234,6 +54241,7 @@
             "farchord"
         ],
         "knighttime": [
+            "@kde-sig",
             "farchord"
         ],
         "knm-new-fixed-fonts": [
@@ -110995,7 +111003,6 @@
         ],
         "python-jiter": [
             "@python-packagers-sig",
-            "mhayden",
             "music"
         ],
         "python-jmespath": [
@@ -113720,7 +113727,7 @@
             "hiwkby"
         ],
         "python-oslo-middleware": [
-            "hiwkby"
+            "orphan"
         ],
         "python-oslo-policy": [
             "orphan"
@@ -116144,7 +116151,7 @@
             "topazus"
         ],
         "python-pytest-metadata": [
-            "orphan"
+            "pbrobinson"
         ],
         "python-pytest-mock": [
             "churchyard",
@@ -118678,8 +118685,8 @@
             "orphan"
         ],
         "python-statsd": [
-            "hiwkby",
             "misc",
+            "orphan",
             "tdecacqu"
         ],
         "python-statsmodels": [

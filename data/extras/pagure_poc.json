@@ -22367,9 +22367,9 @@
             "fedora": "orphan"
         },
         "device-mapper-multipath": {
-            "admin": "lvm-team",
-            "epel": "lvm-team",
-            "fedora": "lvm-team"
+            "admin": "bmarzins",
+            "epel": "bmarzins",
+            "fedora": "bmarzins"
         },
         "device-mapper-persistent-data": {
             "admin": "mcsontos",
@@ -23505,6 +23505,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "dnsjit": {
+            "admin": "pemensik",
+            "epel": "pemensik",
+            "fedora": "pemensik"
         },
         "dnsmap": {
             "admin": "rebus",
@@ -26832,9 +26837,9 @@
             "fedora": "orphan"
         },
         "efs-utils": {
-            "admin": "mhayden",
-            "epel": "mhayden",
-            "fedora": "mhayden"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "efte": {
             "admin": "orphan",
@@ -31675,6 +31680,11 @@
             "admin": "psss",
             "epel": "psss",
             "fedora": "psss"
+        },
+        "fmf-jinja": {
+            "admin": "lecris",
+            "epel": "lecris",
+            "fedora": "lecris"
         },
         "fmidi": {
             "admin": "music",
@@ -59092,9 +59102,9 @@
             "fedora": "orphan"
         },
         "hcloud": {
-            "admin": "mhayden",
-            "epel": "mhayden",
-            "fedora": "mhayden"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "hct": {
             "admin": "orphan",
@@ -142887,9 +142897,9 @@
             "fedora": "stevetraylen"
         },
         "python-jiter": {
-            "admin": "mhayden",
-            "epel": "mhayden",
-            "fedora": "mhayden"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "python-jmespath": {
             "admin": "kevin",
@@ -146387,9 +146397,9 @@
             "fedora": "hiwkby"
         },
         "python-oslo-middleware": {
-            "admin": "hiwkby",
-            "epel": "hiwkby",
-            "fedora": "hiwkby"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-oslo-policy": {
             "admin": "orphan",
@@ -149482,9 +149492,9 @@
             "fedora": "topazus"
         },
         "python-pytest-metadata": {
-            "admin": "orphan",
+            "admin": "pbrobinson",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "pbrobinson"
         },
         "python-pytest-mock": {
             "admin": "jujens",
@@ -152702,9 +152712,9 @@
             "fedora": "orphan"
         },
         "python-statsd": {
-            "admin": "hiwkby",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "hiwkby"
+            "fedora": "orphan"
         },
         "python-statsmodels": {
             "admin": "sergiopr",
