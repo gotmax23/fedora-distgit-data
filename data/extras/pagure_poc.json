@@ -10097,9 +10097,9 @@
             "fedora": "orphan"
         },
         "anaconda": {
-            "admin": "anaconda-maint",
-            "epel": "anaconda-maint",
-            "fedora": "anaconda-maint"
+            "admin": "m4rtink",
+            "epel": "m4rtink",
+            "fedora": "m4rtink"
         },
         "anaconda-liveinst": {
             "admin": "ngompa",
@@ -24107,9 +24107,9 @@
             "fedora": "luya"
         },
         "dracut": {
-            "admin": "dracut-maint",
-            "epel": "dracut-maint",
-            "fedora": "dracut-maint"
+            "admin": "pvalena",
+            "epel": "pvalena",
+            "fedora": "pvalena"
         },
         "dracut-modules-olpc": {
             "admin": "orphan",
@@ -30162,9 +30162,9 @@
             "fedora": "ngompa"
         },
         "fedora-bookmarks": {
-            "admin": "gecko-maint",
-            "epel": "gecko-maint",
-            "fedora": "gecko-maint"
+            "admin": "stransky",
+            "epel": "stransky",
+            "fedora": "stransky"
         },
         "fedora-business-cards": {
             "admin": "orphan",
@@ -31102,9 +31102,9 @@
             "fedora": "dm0"
         },
         "firefox": {
-            "admin": "gecko-maint",
-            "epel": "gecko-maint",
-            "fedora": "gecko-maint"
+            "admin": "stransky",
+            "epel": "stransky",
+            "fedora": "stransky"
         },
         "firefox-32": {
             "admin": "orphan",
@@ -68102,9 +68102,9 @@
             "fedora": "orphan"
         },
         "kernel": {
-            "admin": "kernel-maint",
-            "epel": "kernel-maint",
-            "fedora": "kernel-maint"
+            "admin": "jforbes",
+            "epel": "jforbes",
+            "fedora": "jforbes"
         },
         "kernel-headers": {
             "admin": "jforbes",
@@ -76882,9 +76882,9 @@
             "fedora": "@rpm-software-management-sig"
         },
         "libreport": {
-            "admin": "abrt-team",
-            "epel": "abrt-team",
-            "fedora": "abrt-team"
+            "admin": "msrb",
+            "epel": "msrb",
+            "fedora": "msrb"
         },
         "librepository": {
             "admin": "limb",
@@ -78117,9 +78117,9 @@
             "fedora": "spot"
         },
         "libvirt": {
-            "admin": "libvirt-maint",
-            "epel": "libvirt-maint",
-            "fedora": "libvirt-maint"
+            "admin": "berrange",
+            "epel": "berrange",
+            "fedora": "berrange"
         },
         "libvirt-cim": {
             "admin": "orphan",
@@ -87967,9 +87967,9 @@
             "fedora": "orphan"
         },
         "mozilla-filesystem": {
-            "admin": "gecko-maint",
-            "epel": "gecko-maint",
-            "fedora": "gecko-maint"
+            "admin": "stransky",
+            "epel": "stransky",
+            "fedora": "stransky"
         },
         "mozilla-fira-fonts": {
             "admin": "mateusrodcosta",
@@ -160712,9 +160712,9 @@
             "fedora": "orphan"
         },
         "retrace-server": {
-            "admin": "abrt-team",
-            "epel": "abrt-team",
-            "fedora": "abrt-team"
+            "admin": "msrb",
+            "epel": "msrb",
+            "fedora": "msrb"
         },
         "retro-gtk": {
             "admin": "orphan",
@@ -161582,9 +161582,9 @@
             "fedora": "peter"
         },
         "rpm": {
-            "admin": "packaging-team",
-            "epel": "packaging-team",
-            "fedora": "packaging-team"
+            "admin": "pmatilai",
+            "epel": "pmatilai",
+            "fedora": "pmatilai"
         },
         "rpm-compare-req": {
             "admin": "orphan",
@@ -167355,6 +167355,11 @@
             "admin": "gotmax23",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-astral-tl": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-astral-tokio-tar": {
             "admin": "music",
@@ -182331,6 +182336,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-rand_xoshiro0.6": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-random": {
             "admin": "dcavalca",
             "epel": "@rust-sig",
@@ -191047,9 +191057,9 @@
             "fedora": "orphan"
         },
         "seamonkey": {
-            "admin": "gecko-maint",
-            "epel": "gecko-maint",
-            "fedora": "gecko-maint"
+            "admin": "xhorak",
+            "epel": "xhorak",
+            "fedora": "xhorak"
         },
         "sear": {
             "admin": "orphan",
@@ -198192,9 +198202,9 @@
             "fedora": "orphan"
         },
         "thunderbird": {
-            "admin": "gecko-maint",
+            "admin": "xhorak",
             "epel": "orphan",
-            "fedora": "gecko-maint"
+            "fedora": "xhorak"
         },
         "thunderbird-enigmail": {
             "admin": "orphan",
