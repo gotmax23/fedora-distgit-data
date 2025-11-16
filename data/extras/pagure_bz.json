@@ -333,7 +333,8 @@
     "flatpaks": {
         "0ad": [
             "@flatpak-sig",
-            "kalev"
+            "kalev",
+            "limb"
         ],
         "LabPlot": [
             "@flatpak-sig",
@@ -111792,6 +111793,9 @@
             "dfateyev",
             "fschwarz"
         ],
+        "python-llm": [
+            "terjeros"
+        ],
         "python-llvmlite": [
             "@neuro-sig",
             "ankursinha"
@@ -129960,7 +129964,7 @@
         ],
         "rust-atspi-common": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-attohttpc": [
             "orphan"
@@ -133674,6 +133678,9 @@
         "rust-fixed": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-fixed_decimal": [
+            "music"
         ],
         "rust-fixedbitset": [
             "@rust-sig",
@@ -141925,7 +141932,7 @@
         ],
         "rust-rename-item": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-rend": [
             "@rust-sig",
@@ -145900,6 +145907,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-unsafe-libyaml-norway": [
+            "terjeros"
+        ],
         "rust-unscanny": [
             "@rust-sig",
             "decathorpe"
@@ -147195,11 +147205,11 @@
         ],
         "rust-zbus-lockstep": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-zbus-lockstep-macros": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-zbus1": [
             "@rust-sig",

@@ -398,9 +398,9 @@
     },
     "flatpaks": {
         "0ad": {
-            "admin": "kalev",
-            "epel": "kalev",
-            "fedora": "kalev"
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "LabPlot": {
             "admin": "yselkowitz",
@@ -143896,6 +143896,11 @@
             "epel": "fschwarz",
             "fedora": "fschwarz"
         },
+        "python-llm": {
+            "admin": "terjeros",
+            "epel": "terjeros",
+            "fedora": "terjeros"
+        },
         "python-llvmlite": {
             "admin": "ankursinha",
             "epel": "ankursinha",
@@ -167627,7 +167632,7 @@
             "fedora": "orphan"
         },
         "rust-atspi-common": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -172330,6 +172335,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-fixed_decimal": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-fixedbitset": {
             "admin": "decathorpe",
@@ -182702,7 +182712,7 @@
             "fedora": "@rust-sig"
         },
         "rust-rename-item": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -187771,6 +187781,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-unsafe-libyaml-norway": {
+            "admin": "terjeros",
+            "epel": "terjeros",
+            "fedora": "terjeros"
+        },
         "rust-unscanny": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -189442,12 +189457,12 @@
             "fedora": "@rust-sig"
         },
         "rust-zbus-lockstep": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-zbus-lockstep-macros": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
