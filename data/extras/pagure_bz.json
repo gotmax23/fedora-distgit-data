@@ -69169,7 +69169,6 @@
             "psloboda"
         ],
         "mysql8.4": [
-            "gui1ty",
             "mschorm",
             "psloboda"
         ],
@@ -96327,11 +96326,14 @@
             "alho",
             "davidsch",
             "lihis",
-            "lkundrak"
+            "lkundrak",
+            "samcday"
         ],
         "phosh-mobile-settings": [
+            "@phosh-sig",
             "davidsch",
-            "lihis"
+            "lihis",
+            "samcday"
         ],
         "phosh-tour": [
             "@phosh-sig",
@@ -117646,8 +117648,7 @@
             "mattia"
         ],
         "python-sgqlc": [
-            "@neuro-sig",
-            "gui1ty"
+            "@neuro-sig"
         ],
         "python-sgutils": [
             "orphan"
@@ -133680,6 +133681,7 @@
             "decathorpe"
         ],
         "rust-fixed_decimal": [
+            "@rust-sig",
             "music"
         ],
         "rust-fixedbitset": [
@@ -136312,6 +136314,10 @@
             "decathorpe"
         ],
         "rust-icu_collections": [
+            "@rust-sig",
+            "music"
+        ],
+        "rust-icu_decimal_data": [
             "@rust-sig",
             "music"
         ],
@@ -145908,6 +145914,7 @@
             "decathorpe"
         ],
         "rust-unsafe-libyaml-norway": [
+            "@rust-sig",
             "terjeros"
         ],
         "rust-unscanny": [
@@ -147934,7 +147941,6 @@
             "orphan"
         ],
         "scalpel": [
-            "orphan",
             "rebus"
         ],
         "scamp": [
@@ -149530,7 +149536,6 @@
             "orphan"
         ],
         "skipfish": [
-            "orphan",
             "rebus"
         ],
         "skkdic": [

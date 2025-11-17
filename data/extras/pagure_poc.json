@@ -175641,6 +175641,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "rust-icu_decimal_data": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-icu_locale": {
             "admin": "v02460",
             "epel": "v02460",
@@ -190407,9 +190412,9 @@
             "fedora": "orphan"
         },
         "scalpel": {
-            "admin": "orphan",
+            "admin": "rebus",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "rebus"
         },
         "scamp": {
             "admin": "sergiopr",
@@ -192507,9 +192512,9 @@
             "fedora": "orphan"
         },
         "skipfish": {
-            "admin": "orphan",
+            "admin": "rebus",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "rebus"
         },
         "skkdic": {
             "admin": "mtasaka",
