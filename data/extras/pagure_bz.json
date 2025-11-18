@@ -4173,6 +4173,10 @@
             "jwrdegoede",
             "limb"
         ],
+        "JKQtPlotter": [
+            "farchord",
+            "sagitter"
+        ],
         "JSCookMenu": [
             "orphan"
         ],
@@ -13185,8 +13189,8 @@
             "souryogurt"
         ],
         "chafa": [
-            "jonathanspw",
-            "orphan"
+            "filiperosset",
+            "jonathanspw"
         ],
         "chameleon": [
             "orphan"
@@ -14943,7 +14947,7 @@
             "fonts-sig"
         ],
         "conan": [
-            "orphan"
+            "fedepell"
         ],
         "concordance": [
             "swt2c"
@@ -32872,7 +32876,6 @@
         ],
         "gobuster": [
             "@go-sig",
-            "orphan",
             "rebus"
         ],
         "gocl": [
@@ -102508,7 +102511,6 @@
         "psi-plus": [
             "@kde-sig",
             "fed500",
-            "orphan",
             "raphgro"
         ],
         "psi4": [
@@ -112603,7 +112605,7 @@
             "orphan"
         ],
         "python-mozilla-django-oidc": [
-            "orphan"
+            "stevetraylen"
         ],
         "python-mpd": [
             "hguemar",
@@ -116019,8 +116021,8 @@
         "python-pytest-cov": [
             "@epel-packagers-sig",
             "@python-packagers-sig",
+            "limb",
             "orion",
-            "orphan",
             "ttomecek"
         ],
         "python-pytest-cython": [
@@ -125159,6 +125161,10 @@
             "@rocm-packagers-sig",
             "mystro256"
         ],
+        "rocdbgapi": [
+            "@rocm-packagers-sig",
+            "trix"
+        ],
         "rocdecode": [
             "@rocm-packagers-sig",
             "mystro256"
@@ -129751,6 +129757,7 @@
             "gotmax23"
         ],
         "rust-astral-tl": [
+            "@rust-sig",
             "music"
         ],
         "rust-astral-tokio-tar": [
@@ -141991,9 +141998,11 @@
             "music"
         ],
         "rust-reqsign-huaweicloud-obs": [
+            "@rust-sig",
             "music"
         ],
         "rust-reqsign-tencent-cos": [
+            "@rust-sig",
             "music"
         ],
         "rust-reqwest": [
@@ -156445,6 +156454,9 @@
         "ut": [
             "topazus"
         ],
+        "utest": [
+            "music"
+        ],
         "utf8cpp": [
             "orion",
             "rathann"
@@ -157082,7 +157094,7 @@
             "bpostle"
         ],
         "viking": [
-            "orphan"
+            "goeran"
         ],
         "vile": [
             "mmckinst",

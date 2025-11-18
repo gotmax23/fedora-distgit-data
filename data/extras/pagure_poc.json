@@ -5306,6 +5306,11 @@
             "epel": "limb",
             "fedora": "limb"
         },
+        "JKQtPlotter": {
+            "admin": "farchord",
+            "epel": "farchord",
+            "fedora": "farchord"
+        },
         "JSCookMenu": {
             "admin": "orphan",
             "epel": "orphan",
@@ -16832,9 +16837,9 @@
             "fedora": "souryogurt"
         },
         "chafa": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "jonathanspw",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "chameleon": {
             "admin": "orphan",
@@ -19157,9 +19162,9 @@
             "fedora": "ankursinha"
         },
         "conan": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "concordance": {
             "admin": "swt2c",
@@ -42477,9 +42482,9 @@
             "fedora": "walters"
         },
         "gobuster": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "rebus",
+            "epel": "rebus",
+            "fedora": "rebus"
         },
         "gocl": {
             "admin": "orphan",
@@ -78118,8 +78123,8 @@
         },
         "libvirt": {
             "admin": "berrange",
-            "epel": "berrange",
-            "fedora": "berrange"
+            "epel": "@virtmaint-sig",
+            "fedora": "@virtmaint-sig"
         },
         "libvirt-cim": {
             "admin": "orphan",
@@ -131882,9 +131887,9 @@
             "fedora": "salimma"
         },
         "psi-plus": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
         },
         "psi4": {
             "admin": "jussilehtola",
@@ -144932,9 +144937,9 @@
             "fedora": "orphan"
         },
         "python-mozilla-django-oidc": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "stevetraylen",
+            "epel": "stevetraylen",
+            "fedora": "stevetraylen"
         },
         "python-mpd": {
             "admin": "orphan",
@@ -149317,9 +149322,9 @@
             "fedora": "lbalhar"
         },
         "python-pytest-cov": {
-            "admin": "orphan",
+            "admin": "limb",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "limb"
         },
         "python-pytest-cython": {
             "admin": "orphan",
@@ -161225,6 +161230,11 @@
             "admin": "mystro256",
             "epel": "mystro256",
             "fedora": "mystro256"
+        },
+        "rocdbgapi": {
+            "admin": "trix",
+            "epel": "trix",
+            "fedora": "trix"
         },
         "rocdecode": {
             "admin": "mystro256",
@@ -201686,6 +201696,11 @@
             "epel": "topazus",
             "fedora": "topazus"
         },
+        "utest": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "utf8cpp": {
             "admin": "rathann",
             "epel": "rathann",
@@ -202547,9 +202562,9 @@
             "fedora": "bpostle"
         },
         "viking": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "goeran",
+            "epel": "goeran",
+            "fedora": "goeran"
         },
         "vile": {
             "admin": "mmckinst",
