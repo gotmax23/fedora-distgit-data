@@ -131,10 +131,9 @@
             "ngompa"
         ],
         "mariadb": [
+            "@db-sig",
             "hhorak",
             "mschorm",
-            "phracek",
-            "pkubat",
             "praiskup"
         ],
         "memcached": [
@@ -148,6 +147,7 @@
             "orphan"
         ],
         "mysql": [
+            "@db-sig",
             "hhorak",
             "mschorm",
             "phracek",
@@ -3075,7 +3075,7 @@
             "limb"
         ],
         "mariadb": [
-            "ljavorsk",
+            "@db-sig",
             "mschorm",
             "phracek"
         ],
@@ -3108,8 +3108,8 @@
             "phracek"
         ],
         "mysql": [
+            "@db-sig",
             "asamalik",
-            "ljavorsk",
             "mschorm"
         ],
         "nest": [
@@ -12683,8 +12683,8 @@
         ],
         "caribou": [
             "@epel-packagers-sig",
-            "orphan",
-            "ueno"
+            "ueno",
+            "yselkowitz"
         ],
         "caribou0": [
             "bonniek",
@@ -53873,6 +53873,9 @@
         "kimono": [
             "orphan"
         ],
+        "kind": [
+            "blinxen"
+        ],
         "kinfocenter": [
             "@kde-sig",
             "marcdeop"
@@ -60570,6 +60573,9 @@
         "libucl": [
             "fnux"
         ],
+        "libucontext": [
+            "ngompa"
+        ],
         "libudfread": [
             "xavierb"
         ],
@@ -63589,10 +63595,10 @@
             "anezbeda",
             "mizdebsk",
             "mkoncek",
-            "mschorm",
-            "zmiklank"
+            "mschorm"
         ],
         "mariadb10.11": [
+            "@db-sig",
             "fjanus",
             "ljavorsk",
             "mschorm",
@@ -68893,6 +68899,7 @@
             "linkdupont"
         ],
         "muon-meson": [
+            "daandemeyer",
             "fed500"
         ],
         "mup": [
@@ -69131,6 +69138,7 @@
             "tpokorra"
         ],
         "mysql-connector-odbc": [
+            "@db-sig",
             "hhorak",
             "ljavorsk",
             "mschorm",
@@ -69155,7 +69163,7 @@
             "orphan"
         ],
         "mysql-selinux": [
-            "ljavorsk",
+            "@db-sig",
             "mschorm"
         ],
         "mysql-utilities": [
@@ -69166,12 +69174,14 @@
             "orphan"
         ],
         "mysql8.0": [
+            "@db-sig",
             "fjanus",
             "ljavorsk",
             "mschorm",
             "psloboda"
         ],
         "mysql8.4": [
+            "@db-sig",
             "mschorm",
             "psloboda"
         ],
@@ -80522,15 +80532,15 @@
             "nathans"
         ],
         "pcre": [
+            "@db-sig",
             "kasal",
             "ljavorsk",
             "lkundrak",
-            "mschorm",
             "thoger"
         ],
         "pcre2": [
-            "ljavorsk",
-            "mschorm"
+            "@db-sig",
+            "ljavorsk"
         ],
         "pcs": [
             "andyp",
@@ -102413,13 +102423,11 @@
             "rishi"
         ],
         "proxysql": [
+            "@db-sig",
             "acaringi",
-            "fjanus",
             "hhorak",
             "ignatenkobrain",
-            "ljavorsk",
-            "mschorm",
-            "psloboda"
+            "mschorm"
         ],
         "proxytoys": [
             "gil",
@@ -108756,6 +108764,7 @@
         "python-flake8": [
             "@python-packagers-sig",
             "aekoroglu",
+            "cottsay",
             "fale",
             "mrunge",
             "sgallagh"
@@ -112810,6 +112819,7 @@
             "salimma"
         ],
         "python-mysql": [
+            "@db-sig",
             "hobbes1069",
             "mschorm"
         ],
@@ -124631,13 +124641,12 @@
             "kimheino"
         ],
         "replacer": [
+            "@db-sig",
             "anezbeda",
             "gil",
             "java-sig",
             "mizdebsk",
-            "mkoncek",
-            "mschorm",
-            "zmiklank"
+            "mkoncek"
         ],
         "repmgr": [
             "orphan"
@@ -128488,9 +128497,8 @@
             "vondruch"
         ],
         "rubygem-sass-rails": [
-            "@ruby-packagers-sig",
-            "tdawson",
-            "vondruch"
+            "orphan",
+            "tdawson"
         ],
         "rubygem-sass-twitter-bootstrap": [
             "orphan"
@@ -128499,8 +128507,7 @@
             "vondruch"
         ],
         "rubygem-sassc-rails": [
-            "pvalena",
-            "vondruch"
+            "orphan"
         ],
         "rubygem-scanf": [
             "brandfbb",
@@ -137037,7 +137044,7 @@
         ],
         "rust-jpeg-encoder": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-jpegxl-rs": [
             "@rust-sig",
@@ -139866,6 +139873,10 @@
         "rust-paste-impl": [
             "orphan"
         ],
+        "rust-pastel": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-path-absolutize": [
             "@rust-sig",
             "decathorpe"
@@ -140251,6 +140262,7 @@
         ],
         "rust-pipewire": [
             "@rust-sig",
+            "decathorpe",
             "salimma"
         ],
         "rust-pipewire-sys": [
@@ -148185,6 +148197,7 @@
             "vondruch"
         ],
         "scl-utils-build-helpers": [
+            "@db-sig",
             "mschorm",
             "praiskup"
         ],
@@ -150542,6 +150555,7 @@
             "orphan"
         ],
         "sphinx": [
+            "@db-sig",
             "mschorm"
         ],
         "sphinx-webtools": [
@@ -156155,6 +156169,7 @@
             "twaugh"
         ],
         "unixODBC": [
+            "@db-sig",
             "hhorak",
             "jstanek",
             "mschorm",
@@ -160462,7 +160477,7 @@
             "topazus"
         ],
         "xoo": [
-            "pwouters"
+            "orphan"
         ],
         "xoreos-tools": [
             "orphan"
@@ -160921,6 +160936,7 @@
             "airlied",
             "ajax",
             "jexposit",
+            "mdaenzer",
             "rstrode",
             "xgl-maint"
         ],
@@ -162936,10 +162952,7 @@
             "tkorbar"
         ],
         "mariadb": [
-            "hhorak",
-            "jheger",
-            "ljavorsk",
-            "lzachar",
+            "@db-sig",
             "mschorm"
         ],
         "mariadb-java-client": [

@@ -16162,7 +16162,7 @@
             "fedora": "@rust-sig"
         },
         "caribou": {
-            "admin": "orphan",
+            "admin": "yselkowitz",
             "epel": "@epel-packagers-sig",
             "fedora": "leigh123linux"
         },
@@ -69566,6 +69566,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "kind": {
+            "admin": "blinxen",
+            "epel": "blinxen",
+            "fedora": "blinxen"
+        },
         "kinfocenter": {
             "admin": "marcdeop",
             "epel": "marcdeop",
@@ -77890,6 +77895,11 @@
             "admin": "fnux",
             "epel": "fnux",
             "fedora": "fnux"
+        },
+        "libucontext": {
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "libudfread": {
             "admin": "xavierb",
@@ -140128,7 +140138,7 @@
         },
         "python-flake8": {
             "admin": "aekoroglu",
-            "epel": "aekoroglu",
+            "epel": "cottsay",
             "fedora": "aekoroglu"
         },
         "python-flake8-blind-except": {
@@ -147294,7 +147304,7 @@
         "python-plumbum": {
             "admin": "mikep",
             "epel": "mikep",
-            "fedora": "greghellings"
+            "fedora": "mikep"
         },
         "python-ply": {
             "admin": "spot",
@@ -165742,9 +165752,9 @@
             "fedora": "vondruch"
         },
         "rubygem-sass-rails": {
-            "admin": "vondruch",
-            "epel": "vondruch",
-            "fedora": "vondruch"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-sass-twitter-bootstrap": {
             "admin": "orphan",
@@ -165757,9 +165767,9 @@
             "fedora": "vondruch"
         },
         "rubygem-sassc-rails": {
-            "admin": "vondruch",
-            "epel": "vondruch",
-            "fedora": "vondruch"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-scanf": {
             "admin": "ekohl",
@@ -176542,7 +176552,7 @@
             "fedora": "@rust-sig"
         },
         "rust-jpeg-encoder": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -180096,6 +180106,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "rust-pastel": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-path-absolutize": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -180577,9 +180592,9 @@
             "fedora": "@rust-sig"
         },
         "rust-pipewire": {
-            "admin": "salimma",
-            "epel": "salimma",
-            "fedora": "salimma"
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-pipewire-sys": {
             "admin": "salimma",
@@ -207102,9 +207117,9 @@
             "fedora": "topazus"
         },
         "xoo": {
-            "admin": "pwouters",
-            "epel": "pwouters",
-            "fedora": "pwouters"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "xoreos-tools": {
             "admin": "orphan",
