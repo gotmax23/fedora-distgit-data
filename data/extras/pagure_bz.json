@@ -1994,6 +1994,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "mixxx": [
+            "yselkowitz"
+        ],
         "mkvtoolnix": [
             "@flatpak-sig",
             "yselkowitz"
@@ -12675,6 +12678,10 @@
         ],
         "cargo-resources": [
             "orphan"
+        ],
+        "cargo-rpm-macros": [
+            "@rust-sig",
+            "decathorpe"
         ],
         "cargo2rpm": [
             "@rust-sig",
@@ -80090,6 +80097,10 @@
         "pantheon-terminal": [
             "orphan"
         ],
+        "pantheon-wayland": [
+            "@pantheon-sig",
+            "decathorpe"
+        ],
         "papaki": [
             "orphan"
         ],
@@ -111057,7 +111068,8 @@
             "orphan"
         ],
         "python-jsmin": [
-            "aekoroglu"
+            "aekoroglu",
+            "salimma"
         ],
         "python-json": [
             "orphan"
@@ -131713,6 +131725,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-convert_case0.7": [
+            "decathorpe"
+        ],
         "rust-cookie": [
             "@rust-sig",
             "decathorpe"
@@ -137759,8 +137774,14 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-libspa-sys0.8": [
+            "decathorpe"
+        ],
         "rust-libspa0.7": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-libspa0.8": [
             "decathorpe"
         ],
         "rust-libsqlite3-sys": [
@@ -140273,8 +140294,14 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-pipewire-sys0.8": [
+            "decathorpe"
+        ],
         "rust-pipewire0.7": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-pipewire0.8": [
             "decathorpe"
         ],
         "rust-piston": [
@@ -158062,6 +158089,12 @@
         ],
         "webrtc-audio-processing0.3": [
             "limb"
+        ],
+        "webrtc-audio-processing1": [
+            "@gnome-sig",
+            "@multimedia-sig",
+            "ngompa",
+            "wtaymans"
         ],
         "websec": [
             "thl"

@@ -2447,6 +2447,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "mixxx": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "mkvtoolnix": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -16155,6 +16160,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "cargo-rpm-macros": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "cargo2rpm": {
             "admin": "decathorpe",
@@ -104621,6 +104631,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "pantheon-wayland": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "papaki": {
             "admin": "orphan",
             "epel": "orphan",
@@ -169851,6 +169866,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-convert_case0.7": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-cookie": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -177406,10 +177426,20 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-libspa-sys0.8": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-libspa0.7": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-libspa0.8": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-libsqlite3-sys": {
             "admin": "decathorpe",
@@ -180606,10 +180636,20 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-pipewire-sys0.8": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-pipewire0.7": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-pipewire0.8": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-piston": {
             "admin": "orphan",
@@ -203860,6 +203900,11 @@
             "admin": "limb",
             "epel": "limb",
             "fedora": "limb"
+        },
+        "webrtc-audio-processing1": {
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "websec": {
             "admin": "thl",
