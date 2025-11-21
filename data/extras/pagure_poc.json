@@ -139906,6 +139906,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "python-fastar": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "python-fastavro": {
             "admin": "ankursinha",
             "epel": "music",
@@ -151970,6 +151975,11 @@
             "admin": "qulogic",
             "epel": "dcavalca",
             "fedora": "qulogic"
+        },
+        "python-soundfile": {
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "python-soupsieve": {
             "admin": "zbyszek",
@@ -175676,7 +175686,17 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-icu_collator_data": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-icu_collections": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "rust-icu_decimal": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"
@@ -176522,6 +176542,11 @@
             "fedora": "@rust-sig"
         },
         "rust-jiter0.10": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "rust-jiter0.11": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"
@@ -181701,6 +181726,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-pyo3-build-config0.26": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-pyo3-ffi": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -181753,6 +181783,11 @@
         },
         "rust-pyo3-ffi0.25": {
             "admin": "gordonmessmer",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-pyo3-ffi0.26": {
+            "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -181826,6 +181861,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-pyo3-macros-backend0.26": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-pyo3-macros0.15": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -181881,6 +181921,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-pyo3-macros0.26": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-pyo3_0.15": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -181933,6 +181978,11 @@
         },
         "rust-pyo3_0.25": {
             "admin": "gordonmessmer",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-pyo3_0.26": {
+            "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -209837,6 +209887,11 @@
             "admin": "fhrdina",
             "epel": "fhrdina",
             "fedora": "fhrdina"
+        },
+        "exim": {
+            "admin": "jskarvad",
+            "epel": "jskarvad",
+            "fedora": "jskarvad"
         },
         "expat": {
             "admin": "fhrdina",

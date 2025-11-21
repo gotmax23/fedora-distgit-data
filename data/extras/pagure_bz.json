@@ -32146,6 +32146,7 @@
         ],
         "gnome-session": [
             "@gnome-sig",
+            "adrianvovk",
             "mclasen",
             "rhughes",
             "rstrode"
@@ -48192,6 +48193,7 @@
         ],
         "intel-compute-runtime": [
             "aekoroglu",
+            "androniychuk",
             "frantisekz",
             "rathann"
         ],
@@ -48204,6 +48206,7 @@
         ],
         "intel-igc": [
             "aekoroglu",
+            "androniychuk",
             "frantisekz"
         ],
         "intel-ipp-crypto-mb": [
@@ -62265,7 +62268,8 @@
             "tkorbar"
         ],
         "ls-qpack": [
-            "fed500"
+            "fed500",
+            "sagitter"
         ],
         "lsb_release": [
             "dminer",
@@ -105381,7 +105385,8 @@
         ],
         "python-backrefs": [
             "@python-packagers-sig",
-            "pnemade"
+            "pnemade",
+            "salimma"
         ],
         "python-baker": [
             "orphan"
@@ -108588,6 +108593,10 @@
             "music",
             "pwouters",
             "rominf"
+        ],
+        "python-fastar": [
+            "@rust-sig",
+            "music"
         ],
         "python-fastavro": [
             "@neuro-sig",
@@ -118121,6 +118130,9 @@
             "dcavalca",
             "kkeithle",
             "qulogic"
+        ],
+        "python-soundfile": [
+            "limb"
         ],
         "python-soupsieve": [
             "@epel-packagers-sig",
@@ -136342,7 +136354,15 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-icu_collator_data": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-icu_collections": [
+            "@rust-sig",
+            "music"
+        ],
+        "rust-icu_decimal": [
             "@rust-sig",
             "music"
         ],
@@ -137019,6 +137039,9 @@
         ],
         "rust-jiter0.10": [
             "@rust-sig",
+            "music"
+        ],
+        "rust-jiter0.11": [
             "music"
         ],
         "rust-jiter0.7": [
@@ -141128,6 +141151,9 @@
             "decathorpe",
             "gordonmessmer"
         ],
+        "rust-pyo3-build-config0.26": [
+            "decathorpe"
+        ],
         "rust-pyo3-ffi": [
             "@rust-sig",
             "decathorpe"
@@ -141171,6 +141197,9 @@
             "@rust-sig",
             "decathorpe",
             "gordonmessmer"
+        ],
+        "rust-pyo3-ffi0.26": [
+            "decathorpe"
         ],
         "rust-pyo3-log": [
             "@rust-sig",
@@ -141229,6 +141258,9 @@
             "decathorpe",
             "gordonmessmer"
         ],
+        "rust-pyo3-macros-backend0.26": [
+            "decathorpe"
+        ],
         "rust-pyo3-macros0.15": [
             "@rust-sig",
             "decathorpe"
@@ -141273,6 +141305,9 @@
             "decathorpe",
             "gordonmessmer"
         ],
+        "rust-pyo3-macros0.26": [
+            "decathorpe"
+        ],
         "rust-pyo3_0.15": [
             "@rust-sig",
             "decathorpe"
@@ -141316,6 +141351,9 @@
             "@rust-sig",
             "decathorpe",
             "gordonmessmer"
+        ],
+        "rust-pyo3_0.26": [
+            "decathorpe"
         ],
         "rust-pyproject-toml": [
             "@rust-sig",
@@ -162614,6 +162652,9 @@
             "bnater",
             "jskarvad",
             "psklenar"
+        ],
+        "exim": [
+            "jskarvad"
         ],
         "expat": [
             "bnater",
