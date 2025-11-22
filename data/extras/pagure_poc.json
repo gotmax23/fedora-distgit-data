@@ -2527,6 +2527,16 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "obs-studio-plugin-browser": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
+        "obs-studio-plugin-droidcam": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "obs-studio-plugin-vaapi": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -5892,9 +5902,9 @@
             "fedora": "orphan"
         },
         "PyQt4": {
-            "admin": "sagitter",
-            "epel": "sagitter",
-            "fedora": "sagitter"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "PyQt4-webkit": {
             "admin": "orphan",
@@ -9751,6 +9761,11 @@
             "epel": "mtasaka",
             "fedora": "mtasaka"
         },
+        "alexvsbus": {
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
+        },
         "alfont": {
             "admin": "jwrdegoede",
             "epel": "jwrdegoede",
@@ -10502,9 +10517,9 @@
             "fedora": "filiperosset"
         },
         "ant": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "ant-antlr3": {
             "admin": "orphan",
@@ -10567,9 +10582,9 @@
             "fedora": "adrian"
         },
         "antlr": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "antlr-maven-plugin": {
             "admin": "spot",
@@ -10657,9 +10672,9 @@
             "fedora": "olem"
         },
         "apache-commons-beanutils": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "apache-commons-chain": {
             "admin": "orphan",
@@ -10677,9 +10692,9 @@
             "fedora": "mbooth"
         },
         "apache-commons-collections": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "apache-commons-collections4": {
             "admin": "jjelen",
@@ -10687,9 +10702,9 @@
             "fedora": "@stewardship-sig"
         },
         "apache-commons-compress": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "apache-commons-configuration": {
             "admin": "orphan",
@@ -10752,9 +10767,9 @@
             "fedora": "orphan"
         },
         "apache-commons-io": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "apache-commons-javaflow": {
             "admin": "orphan",
@@ -10777,9 +10792,9 @@
             "fedora": "@stewardship-sig"
         },
         "apache-commons-jxpath": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "apache-commons-lang": {
             "admin": "orphan",
@@ -10822,9 +10837,9 @@
             "fedora": "orphan"
         },
         "apache-commons-parent": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "apache-commons-pool": {
             "admin": "spike",
@@ -10892,9 +10907,9 @@
             "fedora": "orphan"
         },
         "apache-parent": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "apache-poi": {
             "admin": "orphan",
@@ -10907,9 +10922,9 @@
             "fedora": "orphan"
         },
         "apache-resource-bundles": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "apache-scout": {
             "admin": "orphan",
@@ -11012,9 +11027,9 @@
             "fedora": "orphan"
         },
         "apiguardian": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "apitrace": {
             "admin": "smani",
@@ -11247,9 +11262,9 @@
             "fedora": "orphan"
         },
         "aqute-bnd": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "aqute-bnd-epel": {
             "admin": "salimma",
@@ -11307,9 +11322,9 @@
             "fedora": "principis"
         },
         "arc-theme": {
-            "admin": "nonamedotc",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "nonamedotc"
+            "fedora": "orphan"
         },
         "arch-install-scripts": {
             "admin": "zbyszek",
@@ -12147,9 +12162,9 @@
             "fedora": "aalam"
         },
         "assertj-core": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "assetfinder": {
             "admin": "orphan",
@@ -12362,9 +12377,9 @@
             "fedora": "orphan"
         },
         "atinject": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "atinout": {
             "admin": "orphan",
@@ -13547,9 +13562,9 @@
             "fedora": "kwizart"
         },
         "bcel": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "bcfg2": {
             "admin": "orphan",
@@ -13857,9 +13872,9 @@
             "fedora": "eclipseo"
         },
         "beust-jcommander": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "bfa-firmware": {
             "admin": "orphan",
@@ -15167,9 +15182,9 @@
             "fedora": "jnovy"
         },
         "bsf": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "bsfilter": {
             "admin": "mtasaka",
@@ -15542,9 +15557,9 @@
             "fedora": "submachine"
         },
         "byaccj": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "byebyebios": {
             "admin": "berrange",
@@ -15562,9 +15577,9 @@
             "fedora": "prgutier"
         },
         "byte-buddy": {
-            "admin": "mizdebsk",
+            "admin": "mkoncek",
             "epel": "orphan",
-            "fedora": "mizdebsk"
+            "fedora": "mkoncek"
         },
         "bytecode-compatibility-transformer": {
             "admin": "orphan",
@@ -16492,9 +16507,9 @@
             "fedora": "orphan"
         },
         "cdi-api": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "cdi-api1": {
             "admin": "orphan",
@@ -22912,7 +22927,7 @@
             "fedora": "orphan"
         },
         "disruptor": {
-            "admin": "mizdebsk",
+            "admin": "mkoncek",
             "epel": "sbluhm",
             "fedora": "sergiomb"
         },
@@ -23862,19 +23877,19 @@
             "fedora": "suve"
         },
         "dola": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "dola-gleaner": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "dola-transformer": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "dolfin": {
             "admin": "zbyszek",
@@ -24200,6 +24215,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "drawy": {
+            "admin": "carlwgeorge",
+            "epel": "carlwgeorge",
+            "fedora": "carlwgeorge"
         },
         "drbd": {
             "admin": "hanecak",
@@ -25862,9 +25882,9 @@
             "fedora": "music"
         },
         "easymock": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "easymock2": {
             "admin": "orphan",
@@ -30697,9 +30717,9 @@
             "fedora": "orphan"
         },
         "felix-parent": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "felix-scr": {
             "admin": "orphan",
@@ -30727,9 +30747,9 @@
             "fedora": "orphan"
         },
         "felix-utils": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "fence-agents": {
             "admin": "antorres",
@@ -32857,9 +32877,9 @@
             "fedora": "orphan"
         },
         "fusesource-pom": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "fusion-icon": {
             "admin": "jskarvad",
@@ -42492,9 +42512,9 @@
             "fedora": "walters"
         },
         "gobuster": {
-            "admin": "rebus",
-            "epel": "rebus",
-            "fedora": "rebus"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "gocl": {
             "admin": "orphan",
@@ -56497,19 +56517,19 @@
             "fedora": "ngompa"
         },
         "google-guice": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "google-guice5": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "google-guice6": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "google-http-java-client": {
             "admin": "orphan",
@@ -58397,9 +58417,9 @@
             "fedora": "pingou"
         },
         "guava": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "guava20": {
             "admin": "orphan",
@@ -58862,9 +58882,9 @@
             "fedora": "jskarvad"
         },
         "hamcrest": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "hamcrest12": {
             "admin": "orphan",
@@ -60092,9 +60112,9 @@
             "fedora": "sdgathman"
         },
         "httpcomponents-client4": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "httpcomponents-core": {
             "admin": "sdgathman",
@@ -60102,14 +60122,14 @@
             "fedora": "sdgathman"
         },
         "httpcomponents-core4": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "httpcomponents-project": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "httpd": {
             "admin": "luhliarik",
@@ -63717,9 +63737,9 @@
             "fedora": "orphan"
         },
         "jakarta-activation": {
-            "admin": "mizdebsk",
+            "admin": "mkoncek",
             "epel": "almac",
-            "fedora": "mizdebsk"
+            "fedora": "mkoncek"
         },
         "jakarta-activation1": {
             "admin": "mkoncek",
@@ -63727,19 +63747,19 @@
             "fedora": "mkoncek"
         },
         "jakarta-annotations": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "jakarta-cdi": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "jakarta-cdi2.0": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "jakarta-commons-beanutils": {
             "admin": "orphan",
@@ -63857,14 +63877,14 @@
             "fedora": "mbooth"
         },
         "jakarta-inject": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "jakarta-inject1.0": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "jakarta-interceptors": {
             "admin": "korkeala",
@@ -63892,9 +63912,9 @@
             "fedora": "orphan"
         },
         "jakarta-oro": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "jakarta-persistence": {
             "admin": "orphan",
@@ -63912,9 +63932,9 @@
             "fedora": "korkeala"
         },
         "jakarta-servlet": {
-            "admin": "mizdebsk",
+            "admin": "mkoncek",
             "epel": "sbluhm",
-            "fedora": "mizdebsk"
+            "fedora": "mkoncek"
         },
         "jakarta-taglibs-standard": {
             "admin": "orphan",
@@ -64047,9 +64067,9 @@
             "fedora": "orphan"
         },
         "jansi": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "jansi-native": {
             "admin": "didiksupriadi41",
@@ -64292,14 +64312,14 @@
             "fedora": "orphan"
         },
         "java-packaging-howto": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "java-rpm-macros": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "java-runtime-decompiler": {
             "admin": "pmikova",
@@ -64342,9 +64362,9 @@
             "fedora": "orphan"
         },
         "java_cup": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "javacc": {
             "admin": "jwrdegoede",
@@ -64392,9 +64412,9 @@
             "fedora": "mkoncek"
         },
         "javapackages-tools": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "javapackages-tools-epel": {
             "admin": "salimma",
@@ -65192,9 +65212,9 @@
             "fedora": "orphan"
         },
         "jdepend": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "jdependency": {
             "admin": "blinxen",
@@ -65232,9 +65252,9 @@
             "fedora": "mbooth"
         },
         "jdom2": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "jdupes": {
             "admin": "dcantrell",
@@ -65582,9 +65602,9 @@
             "fedora": "orphan"
         },
         "jflex": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "jfontchooser": {
             "admin": "orphan",
@@ -65802,9 +65822,9 @@
             "fedora": "orphan"
         },
         "jline": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "jline1": {
             "admin": "orphan",
@@ -66727,9 +66747,9 @@
             "fedora": "orphan"
         },
         "junit": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "junit-addons": {
             "admin": "orphan",
@@ -66747,9 +66767,9 @@
             "fedora": "orphan"
         },
         "junit5": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "junitperf": {
             "admin": "orphan",
@@ -67697,9 +67717,9 @@
             "fedora": "orphan"
         },
         "kdebase3": {
-            "admin": "than",
-            "epel": "than",
-            "fedora": "than"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kdebase4": {
             "admin": "orphan",
@@ -70127,14 +70147,14 @@
             "fedora": "orphan"
         },
         "kojan-parent": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "kojan-xml": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "koji": {
             "admin": "kevin",
@@ -80487,9 +80507,9 @@
             "fedora": "thomas-dickey"
         },
         "lujavrite": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "luks-tools": {
             "admin": "orphan",
@@ -82247,9 +82267,9 @@
             "fedora": "orphan"
         },
         "maven": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-anno-plugin": {
             "admin": "orphan",
@@ -82267,9 +82287,9 @@
             "fedora": "orphan"
         },
         "maven-antrun-plugin": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-archetype": {
             "admin": "mbooth",
@@ -82277,9 +82297,9 @@
             "fedora": "mbooth"
         },
         "maven-archiver": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-artifact-resolver": {
             "admin": "orphan",
@@ -82287,14 +82307,14 @@
             "fedora": "orphan"
         },
         "maven-artifact-transfer": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-assembly-plugin": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-bundle-plugin": {
             "admin": "mkoncek",
@@ -82322,29 +82342,29 @@
             "fedora": "korkeala"
         },
         "maven-common-artifact-filters": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-compiler-plugin": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-dependency-analyzer": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-dependency-plugin": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-dependency-tree": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-deploy-plugin": {
             "admin": "orphan",
@@ -82402,9 +82422,9 @@
             "fedora": "orphan"
         },
         "maven-enforcer": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-enforcer-rule-api": {
             "admin": "orphan",
@@ -82412,14 +82432,14 @@
             "fedora": "orphan"
         },
         "maven-file-management": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-filtering": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-gpg-plugin": {
             "admin": "orphan",
@@ -82467,9 +82487,9 @@
             "fedora": "korkeala"
         },
         "maven-jar-plugin": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-jarsigner-plugin": {
             "admin": "orphan",
@@ -82527,9 +82547,9 @@
             "fedora": "orphan"
         },
         "maven-parent": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-patch-plugin": {
             "admin": "ellert",
@@ -82562,14 +82582,14 @@
             "fedora": "orphan"
         },
         "maven-plugin-testing": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-plugin-tools": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-plugins-pom": {
             "admin": "orphan",
@@ -82602,9 +82622,9 @@
             "fedora": "orphan"
         },
         "maven-remote-resources-plugin": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-reporting-api": {
             "admin": "jjames",
@@ -82632,19 +82652,19 @@
             "fedora": "orphan"
         },
         "maven-resolver": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-resolver2": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-resources-plugin": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-scm": {
             "admin": "orphan",
@@ -82667,14 +82687,14 @@
             "fedora": "orphan"
         },
         "maven-shared-incremental": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-shared-io": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-shared-jar": {
             "admin": "orphan",
@@ -82692,9 +82712,9 @@
             "fedora": "orphan"
         },
         "maven-shared-utils": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-site-plugin": {
             "admin": "orphan",
@@ -82707,9 +82727,9 @@
             "fedora": "orphan"
         },
         "maven-source-plugin": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-stage-plugin": {
             "admin": "orphan",
@@ -82722,9 +82742,9 @@
             "fedora": "orphan"
         },
         "maven-surefire": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-timestamp-plugin": {
             "admin": "orphan",
@@ -82737,7 +82757,7 @@
             "fedora": "orphan"
         },
         "maven-verifier": {
-            "admin": "mizdebsk",
+            "admin": "mkoncek",
             "epel": "orphan",
             "fedora": "orphan"
         },
@@ -82747,9 +82767,9 @@
             "fedora": "jerboaa"
         },
         "maven-wagon": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-wagon-ahc": {
             "admin": "orphan",
@@ -82777,9 +82797,9 @@
             "fedora": "orphan"
         },
         "maven4": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "mavibot": {
             "admin": "orphan",
@@ -87382,9 +87402,9 @@
             "fedora": "orion"
         },
         "modello": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "modem-manager-gui": {
             "admin": "suve",
@@ -87492,9 +87512,9 @@
             "fedora": "orphan"
         },
         "mojo-parent": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "mojo-signatures": {
             "admin": "orphan",
@@ -88752,9 +88772,9 @@
             "fedora": "ankursinha"
         },
         "munge-maven-plugin": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "munin": {
             "admin": "kimheino",
@@ -100057,9 +100077,9 @@
             "fedora": "orphan"
         },
         "objectweb-asm": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "objectweb-asm3": {
             "admin": "orphan",
@@ -103347,9 +103367,9 @@
             "fedora": "orphan"
         },
         "opentest4j": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "opentofu": {
             "admin": "mikelo2",
@@ -103802,14 +103822,14 @@
             "fedora": "mbooth"
         },
         "osgi-compendium": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "osgi-core": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "osgi-resource-locator": {
             "admin": "orphan",
@@ -110437,7 +110457,7 @@
             "fedora": "jplesnik"
         },
         "perl-Event-Lib": {
-            "admin": "kwizart",
+            "admin": "eseyman",
             "epel": "perl-sig",
             "fedora": "perl-sig"
         },
@@ -129177,9 +129197,9 @@
             "fedora": "orphan"
         },
         "picocli": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "picocom": {
             "admin": "kevin",
@@ -130107,9 +130127,9 @@
             "fedora": "orphan"
         },
         "plexus-archiver": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-bsh-factory": {
             "admin": "orphan",
@@ -130117,14 +130137,14 @@
             "fedora": "@stewardship-sig"
         },
         "plexus-build-api": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-build-api0": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-cdc": {
             "admin": "orphan",
@@ -130132,14 +130152,14 @@
             "fedora": "orphan"
         },
         "plexus-cipher": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-classworlds": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-cli": {
             "admin": "orphan",
@@ -130147,9 +130167,9 @@
             "fedora": "orphan"
         },
         "plexus-compiler": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-component-api": {
             "admin": "orphan",
@@ -130162,9 +130182,9 @@
             "fedora": "orphan"
         },
         "plexus-components-pom": {
-            "admin": "mizdebsk",
+            "admin": "mkoncek",
             "epel": "salimma",
-            "fedora": "mizdebsk"
+            "fedora": "mkoncek"
         },
         "plexus-container-default": {
             "admin": "orphan",
@@ -130172,9 +130192,9 @@
             "fedora": "orphan"
         },
         "plexus-containers": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-digest": {
             "admin": "orphan",
@@ -130192,24 +130212,24 @@
             "fedora": "didiksupriadi41"
         },
         "plexus-interactivity": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-interpolation": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-io": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-languages": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-mail-sender": {
             "admin": "orphan",
@@ -130227,9 +130247,9 @@
             "fedora": "orphan"
         },
         "plexus-pom": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-registry": {
             "admin": "orphan",
@@ -130237,9 +130257,9 @@
             "fedora": "orphan"
         },
         "plexus-resources": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-root-pom": {
             "admin": "orphan",
@@ -130252,19 +130272,19 @@
             "fedora": "orphan"
         },
         "plexus-sec-dispatcher": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-sec-dispatcher4": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-testing": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-tools-pom": {
             "admin": "orphan",
@@ -130272,14 +130292,14 @@
             "fedora": "orphan"
         },
         "plexus-utils": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-utils4": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-velocity": {
             "admin": "korkeala",
@@ -130287,9 +130307,9 @@
             "fedora": "korkeala"
         },
         "plexus-xml": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "plexus-xmlrpc": {
             "admin": "orphan",
@@ -136172,9 +136192,9 @@
             "fedora": "salimma"
         },
         "python-box": {
-            "admin": "dmsimard",
-            "epel": "dmsimard",
-            "fedora": "dmsimard"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-boxsdk": {
             "admin": "limb",
@@ -145607,9 +145627,9 @@
             "fedora": "gui1ty"
         },
         "python-nikola": {
-            "admin": "jamatos",
-            "epel": "jamatos",
-            "fedora": "jamatos"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-nilearn": {
             "admin": "orphan",
@@ -150887,9 +150907,9 @@
             "fedora": "nphilipp"
         },
         "python-rpmautospec-koji": {
-            "admin": "nphilipp",
-            "epel": "nphilipp",
-            "fedora": "nphilipp"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-rpmfluff": {
             "admin": "jhutar",
@@ -153602,9 +153622,9 @@
             "fedora": "orphan"
         },
         "python-toml-adapt": {
-            "admin": "iztokf",
-            "epel": "iztokf",
-            "fedora": "iztokf"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-toml-cli": {
             "admin": "dcavalca",
@@ -154612,9 +154632,9 @@
             "fedora": "music"
         },
         "python-usort": {
-            "admin": "dcavalca",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "dcavalca"
+            "fedora": "orphan"
         },
         "python-uswid": {
             "admin": "rhughes",
@@ -158012,9 +158032,9 @@
             "fedora": "jskarvad"
         },
         "qdox": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "qedje": {
             "admin": "orphan",
@@ -158277,9 +158297,9 @@
             "fedora": "orphan"
         },
         "qoauth": {
-            "admin": "marcdeop",
-            "epel": "marcdeop",
-            "fedora": "marcdeop"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "qodem": {
             "admin": "orphan",
@@ -160397,9 +160417,9 @@
             "fedora": "@infra-sig"
         },
         "regexp": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "regextester": {
             "admin": "limb",
@@ -167416,6 +167436,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "rust-astral_async_zip": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-async-attributes": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -169878,8 +169903,8 @@
         },
         "rust-convert_case0.7": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-cookie": {
             "admin": "decathorpe",
@@ -177453,8 +177478,8 @@
         },
         "rust-libspa-sys0.8": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-libspa0.7": {
             "admin": "decathorpe",
@@ -177463,8 +177488,8 @@
         },
         "rust-libspa0.8": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-libsqlite3-sys": {
             "admin": "decathorpe",
@@ -180663,8 +180688,8 @@
         },
         "rust-pipewire-sys0.8": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-pipewire0.7": {
             "admin": "decathorpe",
@@ -180673,8 +180698,8 @@
         },
         "rust-pipewire0.8": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-piston": {
             "admin": "orphan",
@@ -192542,9 +192567,9 @@
             "fedora": "orphan"
         },
         "sisu": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "sisu-maven-plugin": {
             "admin": "orphan",
@@ -192552,9 +192577,9 @@
             "fedora": "orphan"
         },
         "sisu-mojos": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "sitecopy": {
             "admin": "orphan",
@@ -192717,9 +192742,9 @@
             "fedora": "kwizart"
         },
         "slf4j": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "slf4j-jboss-logmanager": {
             "admin": "orphan",
@@ -192727,9 +192752,9 @@
             "fedora": "orphan"
         },
         "slf4j2": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "slib": {
             "admin": "tkorbar",
@@ -194802,9 +194827,9 @@
             "fedora": "orphan"
         },
         "stax2-api": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "staxmapper": {
             "admin": "orphan",
@@ -197867,9 +197892,9 @@
             "fedora": "grenier"
         },
         "testng": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "testng-remote": {
             "admin": "orphan",
@@ -200847,9 +200872,9 @@
             "fedora": "spot"
         },
         "ucx": {
-            "admin": "fed500",
-            "epel": "fed500",
-            "fedora": "fed500"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "uddi4j": {
             "admin": "orphan",
@@ -201382,9 +201407,9 @@
             "fedora": "orphan"
         },
         "univocity-parsers": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "unix2dos": {
             "admin": "orphan",
@@ -202482,9 +202507,9 @@
             "fedora": "orphan"
         },
         "velocity": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "velocity-tools": {
             "admin": "orphan",
@@ -204892,9 +204917,9 @@
             "fedora": "spot"
         },
         "woodstox-core": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "wordgrinder": {
             "admin": "bcotton",
@@ -205252,9 +205277,9 @@
             "fedora": "rathann"
         },
         "wxmedit": {
-            "admin": "topazus",
-            "epel": "topazus",
-            "fedora": "topazus"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "wxpdfdoc": {
             "admin": "orphan",
@@ -205387,9 +205412,9 @@
             "fedora": "fed500"
         },
         "xalan-j2": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "xaos": {
             "admin": "gui1ty",
@@ -205482,9 +205507,9 @@
             "fedora": "spot"
         },
         "xbean": {
-            "admin": "mizdebsk",
+            "admin": "mkoncek",
             "epel": "salimma",
-            "fedora": "mizdebsk"
+            "fedora": "mkoncek"
         },
         "xbg": {
             "admin": "dcavalca",
@@ -205967,9 +205992,9 @@
             "fedora": "orphan"
         },
         "xerces-j2": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "xesam-glib": {
             "admin": "orphan",
@@ -206802,9 +206827,9 @@
             "fedora": "music"
         },
         "xml-commons-apis": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "xml-commons-apis12": {
             "admin": "orphan",
@@ -206812,9 +206837,9 @@
             "fedora": "orphan"
         },
         "xml-commons-resolver": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "xml-commons-which": {
             "admin": "orphan",
@@ -207137,24 +207162,24 @@
             "fedora": "fed500"
         },
         "xmvn": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "xmvn-connector-ivy": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "xmvn-generator": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "xmvn5": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "xnec2c": {
             "admin": "hobbes1069",
@@ -208437,9 +208462,9 @@
             "fedora": "jamartis"
         },
         "xz-java": {
-            "admin": "mizdebsk",
-            "epel": "mizdebsk",
-            "fedora": "mizdebsk"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "xzgv": {
             "admin": "terjeros",
