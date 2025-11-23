@@ -21707,9 +21707,9 @@
             "fedora": "jskarvad"
         },
         "ddclient": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "kathenas",
+            "epel": "kathenas",
+            "fedora": "kathenas"
         },
         "ddcutil": {
             "admin": "yanqiyu",
@@ -34200,6 +34200,11 @@
             "admin": "smani",
             "epel": "neteler",
             "fedora": "smani"
+        },
+        "gdal-epel": {
+            "admin": "pkhartsk",
+            "epel": "pkhartsk",
+            "fedora": "pkhartsk"
         },
         "gdalcpp": {
             "admin": "tomh",
@@ -167426,6 +167431,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-astral-reqwest-middleware": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-astral-tl": {
             "admin": "music",
             "epel": "music",
@@ -184670,6 +184680,11 @@
             "admin": "returntrip",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-shared_thread": {
+            "admin": "r0x0d",
+            "epel": "r0x0d",
+            "fedora": "r0x0d"
         },
         "rust-shell-escape": {
             "admin": "decathorpe",

@@ -16992,7 +16992,7 @@
         ],
         "ddclient": [
             "cicku",
-            "orphan",
+            "kathenas",
             "sagitter"
         ],
         "ddcutil": [
@@ -26381,6 +26381,9 @@
             "pali",
             "praiskup",
             "smani"
+        ],
+        "gdal-epel": [
+            "pkhartsk"
         ],
         "gdalcpp": [
             "tomh"
@@ -111264,6 +111267,8 @@
             "orphan"
         ],
         "python-jsmin": [
+            "@mkdocs-sig",
+            "@python-packagers-sig",
             "aekoroglu",
             "salimma"
         ],
@@ -129978,6 +129983,9 @@
             "@rust-sig",
             "gotmax23"
         ],
+        "rust-astral-reqwest-middleware": [
+            "music"
+        ],
         "rust-astral-tl": [
             "@rust-sig",
             "music"
@@ -143634,6 +143642,9 @@
         ],
         "rust-shared_library": [
             "@rust-sig"
+        ],
+        "rust-shared_thread": [
+            "r0x0d"
         ],
         "rust-shell-escape": [
             "@rust-sig",
@@ -162499,6 +162510,7 @@
             "dcavalca",
             "nb",
             "neil",
+            "pgreco",
             "turboben"
         ],
         "znc-clientbuffer": [
