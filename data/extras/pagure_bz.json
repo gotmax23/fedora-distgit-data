@@ -12073,7 +12073,15 @@
         "budgie-desktop-defaults": [
             "joshstrobl"
         ],
+        "budgie-desktop-services": [
+            "@budgie-sig",
+            "joshstrobl"
+        ],
         "budgie-desktop-view": [
+            "joshstrobl"
+        ],
+        "budgie-display-configurator": [
+            "@budgie-sig",
             "joshstrobl"
         ],
         "budgie-screensaver": [
@@ -18479,6 +18487,7 @@
             "orphan"
         ],
         "dnsdist": [
+            "@dns-sig",
             "tjikkun"
         ],
         "dnsenum": [
@@ -44828,6 +44837,10 @@
         "gtk-rezlooks-engine": [
             "orphan"
         ],
+        "gtk-session-lock": [
+            "@budgie-sig",
+            "joshstrobl"
+        ],
         "gtk-sharp": [
             "orphan"
         ],
@@ -44955,6 +44968,10 @@
         ],
         "gtkimageview": [
             "nphilipp"
+        ],
+        "gtklock": [
+            "@budgie-sig",
+            "joshstrobl"
         ],
         "gtklp": [
             "orphan"
@@ -125032,6 +125049,9 @@
         "retroarch": [
             "atim"
         ],
+        "retry": [
+            "minfrin"
+        ],
         "retsnoop": [
             "@rust-sig",
             "dcavalca",
@@ -129984,6 +130004,7 @@
             "gotmax23"
         ],
         "rust-astral-reqwest-middleware": [
+            "@rust-sig",
             "music"
         ],
         "rust-astral-tl": [

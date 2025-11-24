@@ -15346,7 +15346,17 @@
             "epel": "joshstrobl",
             "fedora": "joshstrobl"
         },
+        "budgie-desktop-services": {
+            "admin": "joshstrobl",
+            "epel": "joshstrobl",
+            "fedora": "joshstrobl"
+        },
         "budgie-desktop-view": {
+            "admin": "joshstrobl",
+            "epel": "joshstrobl",
+            "fedora": "joshstrobl"
+        },
+        "budgie-display-configurator": {
             "admin": "joshstrobl",
             "epel": "joshstrobl",
             "fedora": "joshstrobl"
@@ -58016,6 +58026,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "gtk-session-lock": {
+            "admin": "joshstrobl",
+            "epel": "joshstrobl",
+            "fedora": "joshstrobl"
+        },
         "gtk-sharp": {
             "admin": "orphan",
             "epel": "orphan",
@@ -58180,6 +58195,11 @@
             "admin": "nphilipp",
             "epel": "nphilipp",
             "fedora": "nphilipp"
+        },
+        "gtklock": {
+            "admin": "joshstrobl",
+            "epel": "joshstrobl",
+            "fedora": "joshstrobl"
         },
         "gtklp": {
             "admin": "orphan",
@@ -160795,6 +160815,11 @@
             "admin": "atim",
             "epel": "atim",
             "fedora": "atim"
+        },
+        "retry": {
+            "admin": "minfrin",
+            "epel": "minfrin",
+            "fedora": "minfrin"
         },
         "retsnoop": {
             "admin": "salimma",
