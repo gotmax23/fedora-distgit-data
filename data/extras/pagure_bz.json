@@ -1995,6 +1995,7 @@
             "yselkowitz"
         ],
         "mixxx": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "mkvtoolnix": [
@@ -2058,9 +2059,11 @@
             "yselkowitz"
         ],
         "obs-studio-plugin-browser": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "obs-studio-plugin-droidcam": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "obs-studio-plugin-vaapi": [
@@ -2759,7 +2762,8 @@
             "luya"
         ],
         "ant": [
-            "mizdebsk"
+            "mizdebsk",
+            "mkoncek"
         ],
         "apache-commons": [
             "orphan"
@@ -3027,13 +3031,15 @@
             "orphan"
         ],
         "javapackages-bootstrap": [
-            "mizdebsk"
+            "mizdebsk",
+            "mkoncek"
         ],
         "javapackages-runtime": [
             "mkoncek"
         ],
         "javapackages-tools": [
-            "mizdebsk"
+            "mizdebsk",
+            "mkoncek"
         ],
         "jdk-10": [
             "jerboaa"
@@ -3092,7 +3098,8 @@
             "orphan"
         ],
         "maven": [
-            "mizdebsk"
+            "mizdebsk",
+            "mkoncek"
         ],
         "mediawiki": [
             "orion"
@@ -3370,7 +3377,8 @@
             "james"
         ],
         "scala": [
-            "mizdebsk"
+            "mizdebsk",
+            "mkoncek"
         ],
         "sd": [
             "@rust-sig",
@@ -7270,7 +7278,8 @@
         ],
         "adwaita-fonts": [
             "@gnome-sig",
-            "nmontero"
+            "nmontero",
+            "salimma"
         ],
         "adwaita-icon-theme": [
             "@gnome-sig",
@@ -32884,12 +32893,16 @@
         "go-fdo-client": [
             "@go-sig",
             "kgiusti",
-            "mmartinv"
+            "mmartinv",
+            "pwhalen",
+            "runcom"
         ],
         "go-fdo-server": [
             "@go-sig",
             "kgiusti",
-            "mmartinv"
+            "mmartinv",
+            "pwhalen",
+            "runcom"
         ],
         "go-i18n": [
             "orphan"
@@ -52383,7 +52396,6 @@
         ],
         "kdebase3": [
             "kkofler",
-            "orphan",
             "than"
         ],
         "kdebase4": [
@@ -54013,6 +54025,7 @@
             "orphan"
         ],
         "kind": [
+            "@go-sig",
             "blinxen"
         ],
         "kinfocenter": [
@@ -70475,7 +70488,8 @@
             "svashisht"
         ],
         "nghttp3": [
-            "alebastr"
+            "alebastr",
+            "jamacku"
         ],
         "nginx": [
             "heffer",
@@ -101186,6 +101200,9 @@
             "@kde-sig",
             "farchord"
         ],
+        "plasma-setup": [
+            "ngompa"
+        ],
         "plasma-smart-video-wallpaper-reborn": [
             "farchord"
         ],
@@ -105591,6 +105608,7 @@
             "orphan"
         ],
         "python-backrefs": [
+            "@mkdocs-sig",
             "@python-packagers-sig",
             "pnemade",
             "salimma"
@@ -106063,6 +106081,9 @@
             "@astro-sig",
             "@python-packagers-sig",
             "mattia"
+        ],
+        "python-call-graph": [
+            "limb"
         ],
         "python-calligrabot": [
             "orphan"
@@ -113078,7 +113099,8 @@
         ],
         "python-nanobind": [
             "@fedora-llvm-team",
-            "kkleine"
+            "kkleine",
+            "trix"
         ],
         "python-nanoid": [
             "orphan"
@@ -114165,7 +114187,7 @@
             "gotmax23"
         ],
         "python-parameterized": [
-            "music"
+            "orphan"
         ],
         "python-paramiko": [
             "ignatenkobrain",
@@ -130007,6 +130029,10 @@
             "@rust-sig",
             "music"
         ],
+        "rust-astral-reqwest-retry": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-astral-tl": [
             "@rust-sig",
             "music"
@@ -130015,7 +130041,12 @@
             "@rust-sig",
             "music"
         ],
+        "rust-astral_async_http_range_reader": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-astral_async_zip": [
+            "@rust-sig",
             "music"
         ],
         "rust-async-attributes": [
@@ -131961,6 +131992,7 @@
             "decathorpe"
         ],
         "rust-convert_case0.7": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-cookie": [
@@ -136577,6 +136609,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-icu_collator": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-icu_collator_data": [
             "@rust-sig",
             "music"
@@ -137265,6 +137301,7 @@
             "music"
         ],
         "rust-jiter0.11": [
+            "@rust-sig",
             "music"
         ],
         "rust-jiter0.7": [
@@ -138021,6 +138058,7 @@
             "decathorpe"
         ],
         "rust-libspa-sys0.8": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-libspa0.7": [
@@ -138028,6 +138066,7 @@
             "decathorpe"
         ],
         "rust-libspa0.8": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-libsqlite3-sys": [
@@ -140541,6 +140580,7 @@
             "decathorpe"
         ],
         "rust-pipewire-sys0.8": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-pipewire0.7": [
@@ -140548,6 +140588,7 @@
             "decathorpe"
         ],
         "rust-pipewire0.8": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-piston": [
@@ -141375,6 +141416,7 @@
             "gordonmessmer"
         ],
         "rust-pyo3-build-config0.26": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-pyo3-ffi": [
@@ -141422,6 +141464,7 @@
             "gordonmessmer"
         ],
         "rust-pyo3-ffi0.26": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-pyo3-log": [
@@ -141482,6 +141525,7 @@
             "gordonmessmer"
         ],
         "rust-pyo3-macros-backend0.26": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-pyo3-macros0.15": [
@@ -141529,6 +141573,7 @@
             "gordonmessmer"
         ],
         "rust-pyo3-macros0.26": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-pyo3_0.15": [
@@ -141576,6 +141621,7 @@
             "gordonmessmer"
         ],
         "rust-pyo3_0.26": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-pyproject-toml": [
@@ -143665,6 +143711,7 @@
             "@rust-sig"
         ],
         "rust-shared_thread": [
+            "@rust-sig",
             "r0x0d"
         ],
         "rust-shell-escape": [
@@ -156059,8 +156106,8 @@
         "ucx": [
             "honli",
             "kheib",
-            "orphan",
             "slaanesh",
+            "trix",
             "yshestakov"
         ],
         "uddi4j": [
