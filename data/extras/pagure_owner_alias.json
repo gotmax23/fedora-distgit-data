@@ -78525,6 +78525,9 @@
         "perl-Parse-Gitignore": [
             "dfateyev"
         ],
+        "perl-Parse-LocalDistribution": [
+            "jplesnik"
+        ],
         "perl-Parse-MIME": [
             "ppisar"
         ],
@@ -104106,7 +104109,6 @@
             "lbalhar"
         ],
         "python-usort": [
-            "orphan",
             "salimma"
         ],
         "python-uswid": [
@@ -138834,7 +138836,7 @@
             "krege"
         ],
         "yajl": [
-            "berrange"
+            "orphan"
         ],
         "yaksa": [
             "zbyszek"

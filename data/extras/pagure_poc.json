@@ -116861,6 +116861,11 @@
             "epel": "dfateyev",
             "fedora": "dfateyev"
         },
+        "perl-Parse-LocalDistribution": {
+            "admin": "jplesnik",
+            "epel": "jplesnik",
+            "fedora": "jplesnik"
+        },
         "perl-Parse-MIME": {
             "admin": "ppisar",
             "epel": "ppisar",
@@ -154667,9 +154672,9 @@
             "fedora": "music"
         },
         "python-usort": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "salimma",
+            "epel": "salimma",
+            "fedora": "salimma"
         },
         "python-uswid": {
             "admin": "rhughes",
@@ -208582,9 +208587,9 @@
             "fedora": "krege"
         },
         "yajl": {
-            "admin": "berrange",
-            "epel": "berrange",
-            "fedora": "berrange"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "yaksa": {
             "admin": "zbyszek",

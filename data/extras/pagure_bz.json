@@ -91203,6 +91203,9 @@
             "dfateyev",
             "perl-sig"
         ],
+        "perl-Parse-LocalDistribution": [
+            "jplesnik"
+        ],
         "perl-Parse-MIME": [
             "@perl-maint-sig",
             "ppisar"
@@ -120414,7 +120417,6 @@
             "music"
         ],
         "python-usort": [
-            "orphan",
             "salimma"
         ],
         "python-uswid": [
@@ -156049,6 +156051,7 @@
             "ausil",
             "flacks",
             "jwillikers",
+            "mkorpershoek",
             "pbrobinson",
             "pwhalen",
             "revoman",
@@ -161841,8 +161844,8 @@
         ],
         "yajl": [
             "@epel-packagers-sig",
-            "berrange",
-            "jonathanspw"
+            "jonathanspw",
+            "orphan"
         ],
         "yaksa": [
             "@neuro-sig",
