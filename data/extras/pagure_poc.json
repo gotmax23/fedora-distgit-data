@@ -12948,8 +12948,8 @@
         },
         "aw-server-rust": {
             "admin": "wojnilowicz",
-            "epel": "wojnilowicz",
-            "fedora": "wojnilowicz"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "awake": {
             "admin": "orphan",
@@ -27187,9 +27187,9 @@
             "fedora": "orphan"
         },
         "elementary-settings-daemon": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "elementary-shortcut-overlay": {
             "admin": "orphan",
@@ -27575,6 +27575,11 @@
             "admin": "melmorabity",
             "epel": "melmorabity",
             "fedora": "melmorabity"
+        },
+        "emacs-jinx": {
+            "admin": "mavit",
+            "epel": "mavit",
+            "fedora": "mavit"
         },
         "emacs-json-mode": {
             "admin": "melmorabity",
@@ -43967,9 +43972,9 @@
             "fedora": "jcline"
         },
         "golang-github-azure-sdk-azcore": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-azure-sdk-azidentity": {
             "admin": "orphan",
@@ -50117,9 +50122,9 @@
             "fedora": "mikelo2"
         },
         "golang-github-mattn-localereader": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-mattn-pointer": {
             "admin": "v02460",
@@ -50672,14 +50677,14 @@
             "fedora": "orphan"
         },
         "golang-github-muesli-ansi": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-muesli-cancelreader": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-muesli-combinator": {
             "admin": "orphan",
@@ -52132,9 +52137,9 @@
             "fedora": "orphan"
         },
         "golang-github-quic-qpack": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-quic-qtls-go1-20": {
             "admin": "gotmax23",
@@ -54507,9 +54512,9 @@
             "fedora": "qulogic"
         },
         "golang-github-yuin-goldmark-emoji": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-yuin-goldmark-highlighting": {
             "admin": "orphan",
@@ -74985,6 +74990,11 @@
             "admin": "aleasto",
             "epel": "aleasto",
             "fedora": "aleasto"
+        },
+        "libkexiv2-qt5": {
+            "admin": "farchord",
+            "epel": "farchord",
+            "fedora": "farchord"
         },
         "libkface": {
             "admin": "orphan",
@@ -129941,6 +129951,11 @@
             "epel": "farchord",
             "fedora": "farchord"
         },
+        "plasma-login-manager": {
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
+        },
         "plasma-mediacenter": {
             "admin": "siddharths",
             "epel": "siddharths",
@@ -137402,6 +137417,11 @@
             "fedora": "orion"
         },
         "python-conda-package-streaming": {
+            "admin": "orion",
+            "epel": "orion",
+            "fedora": "orion"
+        },
+        "python-conda-sphinx-theme": {
             "admin": "orion",
             "epel": "orion",
             "fedora": "orion"
