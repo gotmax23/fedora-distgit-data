@@ -7068,7 +7068,6 @@
             "kdudka",
             "lzaoral",
             "steved",
-            "svashisht",
             "trafficbpk"
         ],
         "acme-tiny": [
@@ -9857,8 +9856,7 @@
         ],
         "attr": [
             "kdudka",
-            "lzaoral",
-            "svashisht"
+            "lzaoral"
         ],
         "attract-mode": [
             "@multimedia-sig",
@@ -15410,7 +15408,6 @@
             "nixuser",
             "ovasik",
             "pbrady",
-            "svashisht",
             "vmihalko"
         ],
         "coriander": [
@@ -21200,8 +21197,7 @@
             "kdudka",
             "lzaoral",
             "ovasik",
-            "robert",
-            "svashisht"
+            "robert"
         ],
         "elisa": [
             "abrarwali",
@@ -24052,7 +24048,6 @@
         ],
         "file": [
             "lzaoral",
-            "svashisht",
             "vmihalko"
         ],
         "file-browser-applet": [
@@ -24120,7 +24115,6 @@
         "findutils": [
             "kdudka",
             "lzaoral",
-            "svashisht",
             "vcrhonek"
         ],
         "finger": [
@@ -26812,7 +26806,6 @@
         ],
         "genromfs": [
             "kdudka",
-            "svashisht",
             "vmihalko"
         ],
         "gensio": [
@@ -47281,7 +47274,7 @@
         ],
         "hyprland": [
             "ghishadow",
-            "orphan"
+            "nikromen"
         ],
         "hyprland-protocols": [
             "nightishaman"
@@ -48225,6 +48218,9 @@
         ],
         "inkscape-psd": [
             "moceap"
+        ],
+        "inkscape-silhouette": [
+            "fed500"
         ],
         "inkscape-sozi": [
             "orphan"
@@ -52182,6 +52178,7 @@
             "than"
         ],
         "kddockwidgets": [
+            "farchord",
             "vascom"
         ],
         "kde-artwork-active": [
@@ -59114,7 +59111,6 @@
             "kdudka",
             "msekleta",
             "stefanb",
-            "svashisht",
             "uraeus"
         ],
         "libnids": [
@@ -60688,8 +60684,7 @@
         ],
         "libtrash": [
             "kdudka",
-            "lzaoral",
-            "svashisht"
+            "lzaoral"
         ],
         "libtree": [
             "fnux"
@@ -62126,7 +62121,6 @@
             "jamacku",
             "kdudka",
             "lzaoral",
-            "svashisht",
             "vmihalko"
         ],
         "logserial": [
@@ -63215,7 +63209,6 @@
             "jrybar",
             "kdudka",
             "lzaoral",
-            "svashisht",
             "thomas-dickey"
         ],
         "lyra": [
@@ -69657,8 +69650,7 @@
         ],
         "nano": [
             "dwmw2",
-            "lzaoral",
-            "svashisht"
+            "lzaoral"
         ],
         "nanoflann": [
             "topazus"
@@ -70490,8 +70482,7 @@
         "nghttp2": [
             "jamacku",
             "kdudka",
-            "msekleta",
-            "svashisht"
+            "msekleta"
         ],
         "nghttp3": [
             "alebastr",
@@ -76376,7 +76367,6 @@
         "nss-pem": [
             "kdudka",
             "lzaoral",
-            "svashisht",
             "ueno"
         ],
         "nss-softokn": [
@@ -115304,8 +115294,7 @@
             "jamacku",
             "jmigacz",
             "kdudka",
-            "msekleta",
-            "svashisht"
+            "msekleta"
         ],
         "python-pycxx": [
             "barryascott",
@@ -131593,6 +131582,10 @@
         "rust-clap": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-clap-cargo": [
+            "@rust-sig",
+            "music"
         ],
         "rust-clap-num": [
             "@rust-sig",
@@ -156504,8 +156497,7 @@
         ],
         "units": [
             "jamacku",
-            "kdudka",
-            "svashisht"
+            "kdudka"
         ],
         "units-llnl": [
             "@neuro-sig",
@@ -157911,8 +157903,7 @@
             "jnovy",
             "jwrdegoede",
             "kdudka",
-            "lzaoral",
-            "svashisht"
+            "lzaoral"
         ],
         "vorbisgain": [
             "cbm"
@@ -162673,7 +162664,6 @@
             "james",
             "kdudka",
             "lzaoral",
-            "svashisht",
             "tibbs",
             "vmihalko"
         ],
