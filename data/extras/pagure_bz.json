@@ -22597,6 +22597,9 @@
             "bentiss",
             "whot"
         ],
+        "evtgen": [
+            "yanqiyu"
+        ],
         "ewl": [
             "orphan"
         ],
@@ -24294,7 +24297,7 @@
             "tuliom"
         ],
         "flann": [
-            "orphan"
+            "saypaul"
         ],
         "flannel": [
             "jchaloup",
@@ -50871,7 +50874,7 @@
         ],
         "jinput": [
             "jjames",
-            "orphan"
+            "kathenas"
         ],
         "jipijapa": [
             "gil",
@@ -58409,6 +58412,7 @@
             "aleasto"
         ],
         "libkexiv2-qt5": [
+            "@kde-sig",
             "farchord"
         ],
         "libkface": [
@@ -88847,6 +88851,9 @@
             "mmaslano",
             "perl-sig"
         ],
+        "perl-Math-VectorReal": [
+            "rathann"
+        ],
         "perl-MaxMind-DB-Common": [
             "@perl-maint-sig",
             "ppisar"
@@ -114950,6 +114957,9 @@
         "python-prompt_toolkit": [
             "orphan"
         ],
+        "python-promptml": [
+            "msuchy"
+        ],
         "python-propcache": [
             "@python-packagers-sig",
             "trix"
@@ -132209,6 +132219,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-croner": [
+            "r0x0d"
+        ],
         "rust-crossbeam": [
             "@rust-sig",
             "decathorpe"
@@ -148718,7 +148731,7 @@
         ],
         "sdformat": [
             "@robotics-sig",
-            "cottsay"
+            "orphan"
         ],
         "sdl-crypto": [
             "dcavalca"
@@ -156333,6 +156346,11 @@
         "umlgraph": [
             "orphan"
         ],
+        "umoci": [
+            "cn137",
+            "ngompa",
+            "rcallicotte"
+        ],
         "umockdev": [
             "benzea",
             "martinpitt"
@@ -159507,6 +159525,9 @@
             "gil",
             "java-sig",
             "orphan"
+        ],
+        "xapp-symbolic-icons": [
+            "leigh123linux"
         ],
         "xapps": [
             "@epel-packagers-sig",

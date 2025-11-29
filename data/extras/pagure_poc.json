@@ -29181,6 +29181,11 @@
             "epel": "whot",
             "fedora": "whot"
         },
+        "evtgen": {
+            "admin": "yanqiyu",
+            "epel": "yanqiyu",
+            "fedora": "yanqiyu"
+        },
         "ewl": {
             "admin": "orphan",
             "epel": "orphan",
@@ -31337,9 +31342,9 @@
             "fedora": "sergesanspaille"
         },
         "flann": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "saypaul",
+            "epel": "saypaul",
+            "fedora": "saypaul"
         },
         "flannel": {
             "admin": "orphan",
@@ -65787,9 +65792,9 @@
             "fedora": "orphan"
         },
         "jinput": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "kathenas",
+            "epel": "kathenas",
+            "fedora": "kathenas"
         },
         "jipijapa": {
             "admin": "orphan",
@@ -114226,6 +114231,11 @@
             "epel": "jplesnik",
             "fedora": "jplesnik"
         },
+        "perl-Math-VectorReal": {
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
+        },
         "perl-MaxMind-DB-Common": {
             "admin": "ppisar",
             "epel": "ppisar",
@@ -147701,6 +147711,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-promptml": {
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
+        },
         "python-propcache": {
             "admin": "trix",
             "epel": "trix",
@@ -170266,6 +170281,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-croner": {
+            "admin": "r0x0d",
+            "epel": "r0x0d",
+            "fedora": "r0x0d"
+        },
         "rust-crossbeam": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -191162,9 +191182,9 @@
             "fedora": "ngompa"
         },
         "sdformat": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "sdl-crypto": {
             "admin": "dcavalca",
@@ -201276,6 +201296,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "umoci": {
+            "admin": "rcallicotte",
+            "epel": "rcallicotte",
+            "fedora": "rcallicotte"
+        },
         "umockdev": {
             "admin": "martinpitt",
             "epel": "martinpitt",
@@ -205535,6 +205560,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "xapp-symbolic-icons": {
+            "admin": "leigh123linux",
+            "epel": "leigh123linux",
+            "fedora": "leigh123linux"
         },
         "xapps": {
             "admin": "leigh123linux",
