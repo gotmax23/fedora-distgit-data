@@ -5351,6 +5351,11 @@
             "epel": "pghmcfc",
             "fedora": "pghmcfc"
         },
+        "KDBindings": {
+            "admin": "farchord",
+            "epel": "farchord",
+            "fedora": "farchord"
+        },
         "KPMcore": {
             "admin": "orphan",
             "epel": "orphan",
@@ -66842,9 +66847,9 @@
             "fedora": "orphan"
         },
         "jutils": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "kathenas",
+            "epel": "kathenas",
+            "fedora": "kathenas"
         },
         "jvnet-parent": {
             "admin": "orphan",
@@ -82542,9 +82547,9 @@
             "fedora": "@stewardship-sig"
         },
         "maven-javadoc-plugin": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "kathenas",
+            "epel": "kathenas",
+            "fedora": "kathenas"
         },
         "maven-jaxb2-plugin": {
             "admin": "orphan",
@@ -144027,6 +144032,11 @@
             "fedora": "fschwarz"
         },
         "python-llm": {
+            "admin": "terjeros",
+            "epel": "terjeros",
+            "fedora": "terjeros"
+        },
+        "python-llm-echo": {
             "admin": "terjeros",
             "epel": "terjeros",
             "fedora": "terjeros"

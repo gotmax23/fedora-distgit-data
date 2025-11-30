@@ -4213,6 +4213,9 @@
             "mschorm",
             "pghmcfc"
         ],
+        "KDBindings": [
+            "farchord"
+        ],
         "KPMcore": [
             "orphan"
         ],
@@ -21127,6 +21130,7 @@
             "orphan"
         ],
         "elementary-settings-daemon": [
+            "@pantheon-sig",
             "decathorpe"
         ],
         "elementary-shortcut-overlay": [
@@ -46130,6 +46134,7 @@
         ],
         "hiredis": [
             "@epel-packagers-sig",
+            "bugant",
             "ignatenkobrain",
             "kevin",
             "nathans",
@@ -51689,7 +51694,7 @@
             "orphan"
         ],
         "jutils": [
-            "orphan"
+            "kathenas"
         ],
         "jvnet-parent": [
             "java-sig",
@@ -52181,6 +52186,7 @@
             "than"
         ],
         "kddockwidgets": [
+            "@kde-sig",
             "farchord",
             "vascom"
         ],
@@ -64401,7 +64407,7 @@
         ],
         "maven-javadoc-plugin": [
             "java-sig",
-            "orphan"
+            "kathenas"
         ],
         "maven-jaxb2-plugin": [
             "dchen",
@@ -112070,6 +112076,9 @@
             "fschwarz"
         ],
         "python-llm": [
+            "terjeros"
+        ],
+        "python-llm-echo": [
             "terjeros"
         ],
         "python-llvmlite": [
