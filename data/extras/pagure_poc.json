@@ -141796,6 +141796,11 @@
             "epel": "farnz",
             "fedora": "farnz"
         },
+        "python-gsw": {
+            "admin": "qulogic",
+            "epel": "qulogic",
+            "fedora": "qulogic"
+        },
         "python-gtkextra": {
             "admin": "orphan",
             "epel": "orphan",
@@ -172306,6 +172311,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-fastbloom": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-faster-hex": {
             "admin": "blinxen",
             "epel": "blinxen",
@@ -182201,6 +182211,11 @@
             "epel": "elmarco",
             "fedora": "elmarco"
         },
+        "rust-qlog": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-qoi": {
             "admin": "mclasen",
             "epel": "@rust-sig",
@@ -183361,6 +183376,11 @@
             "epel": "decathorpe",
             "fedora": "decathorpe"
         },
+        "rust-rprompt": {
+            "admin": "r0x0d",
+            "epel": "r0x0d",
+            "fedora": "r0x0d"
+        },
         "rust-rqrr": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -183815,6 +183835,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-rustls-platform-verifier0.5": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-rustls-webpki": {
             "admin": "decathorpe",

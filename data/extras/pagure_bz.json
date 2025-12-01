@@ -110331,6 +110331,10 @@
             "limb",
             "wtaymans"
         ],
+        "python-gsw": [
+            "@python-packagers-sig",
+            "qulogic"
+        ],
         "python-gtkextra": [
             "orphan"
         ],
@@ -133831,6 +133835,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-fastbloom": [
+            "decathorpe"
+        ],
         "rust-faster-hex": [
             "@rust-sig",
             "blinxen"
@@ -141707,6 +141714,10 @@
             "@rust-sig",
             "elmarco"
         ],
+        "rust-qlog": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-qoi": [
             "@rust-sig",
             "kalev",
@@ -142618,6 +142629,9 @@
             "jjelen",
             "pmatilai"
         ],
+        "rust-rprompt": [
+            "r0x0d"
+        ],
         "rust-rqrr": [
             "@rust-sig",
             "decathorpe"
@@ -142953,6 +142967,10 @@
         "rust-rustls-platform-verifier": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-rustls-platform-verifier0.5": [
+            "@rust-sig",
+            "music"
         ],
         "rust-rustls-webpki": [
             "@rust-sig",
@@ -155397,7 +155415,6 @@
             "orphan"
         ],
         "treeland-protocols": [
-            "@deepinde-sig",
             "topazus"
         ],
         "treelayout": [
