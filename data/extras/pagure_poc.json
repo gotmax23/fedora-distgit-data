@@ -20291,6 +20291,11 @@
             "epel": "buckaroogeek",
             "fedora": "buckaroogeek"
         },
+        "cri-o1.35": {
+            "admin": "buckaroogeek",
+            "epel": "buckaroogeek",
+            "fedora": "buckaroogeek"
+        },
         "cri-tools": {
             "admin": "haircommander",
             "epel": "haircommander",
@@ -20322,6 +20327,11 @@
             "fedora": "buckaroogeek"
         },
         "cri-tools1.34": {
+            "admin": "buckaroogeek",
+            "epel": "buckaroogeek",
+            "fedora": "buckaroogeek"
+        },
+        "cri-tools1.35": {
             "admin": "buckaroogeek",
             "epel": "buckaroogeek",
             "fedora": "buckaroogeek"
@@ -21722,9 +21732,9 @@
             "fedora": "jskarvad"
         },
         "ddclient": {
-            "admin": "kathenas",
-            "epel": "kathenas",
-            "fedora": "kathenas"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "ddcutil": {
             "admin": "yanqiyu",
@@ -22495,6 +22505,11 @@
             "admin": "mmarhefk",
             "epel": "mmarhefk",
             "fedora": "mmarhefk"
+        },
+        "dfx-mgr": {
+            "admin": "pbrobinson",
+            "epel": "pbrobinson",
+            "fedora": "pbrobinson"
         },
         "dgae": {
             "admin": "limb",
@@ -62636,6 +62651,11 @@
             "epel": "kwizart",
             "fedora": "kwizart"
         },
+        "intel-gsc": {
+            "admin": "androniychuk",
+            "epel": "androniychuk",
+            "fedora": "androniychuk"
+        },
         "intel-igc": {
             "admin": "frantisekz",
             "epel": "frantisekz",
@@ -65797,9 +65817,9 @@
             "fedora": "orphan"
         },
         "jinput": {
-            "admin": "kathenas",
-            "epel": "kathenas",
-            "fedora": "kathenas"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "jipijapa": {
             "admin": "orphan",
@@ -66847,9 +66867,9 @@
             "fedora": "orphan"
         },
         "jutils": {
-            "admin": "kathenas",
-            "epel": "kathenas",
-            "fedora": "kathenas"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "jvnet-parent": {
             "admin": "orphan",
@@ -73205,6 +73225,11 @@
             "admin": "tuliom",
             "epel": "tuliom",
             "fedora": "tuliom"
+        },
+        "libdfx": {
+            "admin": "pbrobinson",
+            "epel": "pbrobinson",
+            "fedora": "pbrobinson"
         },
         "libdhash": {
             "admin": "orphan",
@@ -80585,6 +80610,11 @@
             "admin": "lkundrak",
             "epel": "lkundrak",
             "fedora": "lkundrak"
+        },
+        "lumin": {
+            "admin": "skitt",
+            "epel": "skitt",
+            "fedora": "skitt"
         },
         "lumina-desktop": {
             "admin": "tieugene",

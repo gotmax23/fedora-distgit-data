@@ -7909,7 +7909,6 @@
             "anaconda-maint",
             "bookwar",
             "kkoukiou",
-            "toshio",
             "wwoods"
         ],
         "anaconda-liveinst": [
@@ -7928,8 +7927,7 @@
             "bookwar",
             "kkoukiou",
             "m4rtink",
-            "rvykydal",
-            "toshio"
+            "rvykydal"
         ],
         "anaconda-yum-plugins": [
             "clumens",
@@ -11168,7 +11166,6 @@
         "bison": [
             "ghishadow",
             "pfrankli",
-            "pmachata",
             "submachine"
         ],
         "bit": [
@@ -14719,9 +14716,7 @@
         "compat-expat1": [
             "orphan"
         ],
-        "compat-flex": [
-            "pmachata"
-        ],
+        "compat-flex": [],
         "compat-freerdp12": [
             "orphan"
         ],
@@ -15901,6 +15896,9 @@
             "@go-sig",
             "buckaroogeek"
         ],
+        "cri-o1.35": [
+            "buckaroogeek"
+        ],
         "cri-tools": [
             "@go-sig",
             "buckaroogeek",
@@ -15931,6 +15929,9 @@
         ],
         "cri-tools1.34": [
             "@go-sig",
+            "buckaroogeek"
+        ],
+        "cri-tools1.35": [
             "buckaroogeek"
         ],
         "cricscore-applet": [
@@ -17009,7 +17010,7 @@
         ],
         "ddclient": [
             "cicku",
-            "kathenas",
+            "orphan",
             "sagitter"
         ],
         "ddcutil": [
@@ -17693,6 +17694,9 @@
         "dfuzzer": [
             "mmarhefk",
             "mrc0mmand"
+        ],
+        "dfx-mgr": [
+            "pbrobinson"
         ],
         "dgae": [
             "limb"
@@ -21185,8 +21189,7 @@
             "ghishadow",
             "jakub",
             "mcermak",
-            "mjw",
-            "pmachata"
+            "mjw"
         ],
         "elice": [
             "jwrdegoede",
@@ -48317,6 +48320,9 @@
             "kwizart",
             "vascom"
         ],
+        "intel-gsc": [
+            "androniychuk"
+        ],
         "intel-igc": [
             "aekoroglu",
             "androniychuk",
@@ -50879,7 +50885,7 @@
         ],
         "jinput": [
             "jjames",
-            "kathenas"
+            "orphan"
         ],
         "jipijapa": [
             "gil",
@@ -51694,7 +51700,7 @@
             "orphan"
         ],
         "jutils": [
-            "kathenas"
+            "orphan"
         ],
         "jvnet-parent": [
             "java-sig",
@@ -56989,6 +56995,9 @@
             "stliibm",
             "tuliom"
         ],
+        "libdfx": [
+            "pbrobinson"
+        ],
         "libdhash": [
             "orphan",
             "sgallagh"
@@ -58919,8 +58928,7 @@
         "libmpc": [
             "jamesturner246",
             "jjames",
-            "mpolacek",
-            "pmachata"
+            "mpolacek"
         ],
         "libmpcdec": [
             "tdawson",
@@ -62868,6 +62876,9 @@
         "lumail": [
             "lkundrak"
         ],
+        "lumin": [
+            "skitt"
+        ],
         "lumina-desktop": [
             "q5sys",
             "raphgro",
@@ -63472,8 +63483,7 @@
         ],
         "make": [
             "djdelorie",
-            "pfrankli",
-            "pmachata"
+            "pfrankli"
         ],
         "make-it-quick": [
             "ddd",
@@ -127897,6 +127907,7 @@
         "rubygem-multi_json": [
             "@ruby-packagers-sig",
             "ignatenkobrain",
+            "stevetraylen",
             "tdawson"
         ],
         "rubygem-multi_test": [
@@ -132233,6 +132244,7 @@
             "decathorpe"
         ],
         "rust-croner": [
+            "@rust-sig",
             "r0x0d"
         ],
         "rust-crossbeam": [
@@ -133836,6 +133848,7 @@
             "decathorpe"
         ],
         "rust-fastbloom": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-faster-hex": [
@@ -142630,6 +142643,7 @@
             "pmatilai"
         ],
         "rust-rprompt": [
+            "@rust-sig",
             "r0x0d"
         ],
         "rust-rqrr": [
@@ -153395,8 +153409,7 @@
         ],
         "tbb": [
             "jjames",
-            "jwakely",
-            "pmachata"
+            "jwakely"
         ],
         "tbb2020.3": [
             "codonell",
@@ -156373,6 +156386,7 @@
             "orphan"
         ],
         "umoci": [
+            "@go-sig",
             "cn137",
             "ngompa",
             "rcallicotte"
