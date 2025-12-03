@@ -31405,7 +31405,8 @@
             "airlied",
             "ajax",
             "asrivats",
-            "jexposit"
+            "jexposit",
+            "jfalempe"
         ],
         "glue-schema": [
             "ellert",
@@ -31539,6 +31540,7 @@
         ],
         "gmime30": [
             "@epel-packagers-sig",
+            "@gnome-sig",
             "kalev",
             "mclasen"
         ],
@@ -32899,6 +32901,7 @@
         "go-fdo-client": [
             "@go-sig",
             "kgiusti",
+            "miabbott",
             "mmartinv",
             "pwhalen",
             "runcom"
@@ -32906,6 +32909,7 @@
         "go-fdo-server": [
             "@go-sig",
             "kgiusti",
+            "miabbott",
             "mmartinv",
             "pwhalen",
             "runcom"
@@ -45322,6 +45326,7 @@
             "mclasen"
         ],
         "gupnp-dlna": [
+            "@gnome-sig",
             "kalev",
             "mclasen"
         ],
@@ -45332,6 +45337,7 @@
             "kalev"
         ],
         "gupnp-tools": [
+            "@gnome-sig",
             "kalev",
             "mclasen"
         ],
@@ -47875,9 +47881,7 @@
             "limb",
             "nbecker"
         ],
-        "igsc": [
-            "androniychuk"
-        ],
+        "igsc": [],
         "igt-gpu-tools": [
             "airlied",
             "ghishadow",
@@ -52119,7 +52123,7 @@
             "vascom"
         ],
         "kchmviewer": [
-            "cheeselee"
+            "orphan"
         ],
         "kcirbshooter": [
             "orphan"
@@ -57620,6 +57624,7 @@
             "smani"
         ],
         "libgepub": [
+            "@gnome-sig",
             "kalev",
             "mclasen",
             "rishi"
@@ -60241,6 +60246,7 @@
             "wojnilowicz"
         ],
         "libsigc++30": [
+            "@gnome-sig",
             "kalev",
             "mclasen"
         ],
@@ -82800,6 +82806,9 @@
             "jplesnik",
             "perl-sig"
         ],
+        "perl-Chemistry-Mol": [
+            "rathann"
+        ],
         "perl-Child": [
             "iarnell",
             "perl-sig",
@@ -100480,6 +100489,15 @@
             "orphan",
             "robert"
         ],
+        "php8.4-extras": [
+            "remi"
+        ],
+        "php8.4-pecl-rpminfo": [
+            "remi"
+        ],
+        "php8.4-pecl-xpass": [
+            "remi"
+        ],
         "phpFlickr": [
             "orphan"
         ],
@@ -111472,7 +111490,7 @@
         ],
         "python-jupyter-c-kernel": [
             "@python-packagers-sig",
-            "qulogic"
+            "orphan"
         ],
         "python-jupyter-cache": [
             "jjames"
@@ -112081,6 +112099,7 @@
             "orphan"
         ],
         "python-llama-cpp-python": [
+            "jmatufka",
             "trix",
             "ttomecek"
         ],
@@ -138736,6 +138755,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-mesa3d_util": [
+            "dorinda"
+        ],
         "rust-metadeps": [
             "orphan"
         ],
@@ -151051,7 +151073,8 @@
             "airlied",
             "ajax",
             "asrivats",
-            "jexposit"
+            "jexposit",
+            "jfalempe"
         ],
         "spirv-llvm-translator": [
             "airlied",
@@ -151076,7 +151099,8 @@
             "airlied",
             "ajax",
             "asrivats",
-            "jexposit"
+            "jexposit",
+            "jfalempe"
         ],
         "splat": [
             "hobbes1069"
@@ -154987,6 +155011,7 @@
             "teuf"
         ],
         "totem-pl-parser": [
+            "@gnome-sig",
             "kalev",
             "mclasen"
         ],
@@ -158067,36 +158092,42 @@
             "ajax",
             "asrivats",
             "ghishadow",
-            "jexposit"
+            "jexposit",
+            "jfalempe"
         ],
         "vulkan-loader": [
             "airlied",
             "ajax",
             "asrivats",
             "ghishadow",
-            "jexposit"
+            "jexposit",
+            "jfalempe"
         ],
         "vulkan-tools": [
             "airlied",
             "ajax",
             "asrivats",
             "ghishadow",
-            "jexposit"
+            "jexposit",
+            "jfalempe"
         ],
         "vulkan-utility-libraries": [
             "airlied",
             "asrivats",
-            "jexposit"
+            "jexposit",
+            "jfalempe"
         ],
         "vulkan-validation-layers": [
             "airlied",
             "ajax",
             "asrivats",
-            "jexposit"
+            "jexposit",
+            "jfalempe"
         ],
         "vulkan-volk": [
             "asrivats",
-            "jexposit"
+            "jexposit",
+            "jfalempe"
         ],
         "vultr": [
             "@go-sig",

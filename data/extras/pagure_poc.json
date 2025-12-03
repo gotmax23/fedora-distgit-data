@@ -67417,9 +67417,9 @@
             "fedora": "orphan"
         },
         "kchmviewer": {
-            "admin": "cheeselee",
-            "epel": "cheeselee",
-            "fedora": "cheeselee"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kcirbshooter": {
             "admin": "orphan",
@@ -107631,6 +107631,11 @@
             "epel": "jplesnik",
             "fedora": "jplesnik"
         },
+        "perl-Chemistry-Mol": {
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
+        },
         "perl-Child": {
             "admin": "pghmcfc",
             "epel": "pghmcfc",
@@ -129086,6 +129091,21 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "php8.4-extras": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
+        "php8.4-pecl-rpminfo": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
+        "php8.4-pecl-xpass": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
         "phpFlickr": {
             "admin": "orphan",
             "epel": "orphan",
@@ -143277,9 +143297,9 @@
             "fedora": "jjames"
         },
         "python-jupyter-c-kernel": {
-            "admin": "qulogic",
-            "epel": "qulogic",
-            "fedora": "qulogic"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-jupyter-cache": {
             "admin": "jjames",
@@ -178440,6 +178460,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-mesa3d_util": {
+            "admin": "dorinda",
+            "epel": "dorinda",
+            "fedora": "dorinda"
         },
         "rust-metadeps": {
             "admin": "orphan",
