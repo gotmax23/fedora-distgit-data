@@ -76716,7 +76716,7 @@
         ],
         "nwg-dock-hyprland": [
             "@go-sig",
-            "nightishaman"
+            "orphan"
         ],
         "nwg-drawer": [
             "@go-sig",
@@ -130097,6 +130097,10 @@
             "@rust-sig",
             "music"
         ],
+        "rust-astral-version-ranges": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-astral_async_http_range_reader": [
             "@rust-sig",
             "music"
@@ -138514,6 +138518,10 @@
             "music"
         ],
         "rust-lzma-rs": [
+            "@rust-sig",
+            "music"
+        ],
+        "rust-lzma-rust2": [
             "@rust-sig",
             "music"
         ],
@@ -151668,7 +151676,7 @@
             "rstrode"
         ],
         "stats-collect": [
-            "aekoroglu"
+            "orphan"
         ],
         "statscache": [
             "orphan"
@@ -161959,6 +161967,10 @@
             "hobbes1069",
             "tdawson",
             "thofmann"
+        ],
+        "yaml-cpp0.7": [
+            "hobbes1069",
+            "orion"
         ],
         "yaml-cpp03": [
             "orphan"

@@ -100007,9 +100007,9 @@
             "fedora": "ngompa"
         },
         "nwg-dock-hyprland": {
-            "admin": "nightishaman",
-            "epel": "nightishaman",
-            "fedora": "nightishaman"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "nwg-drawer": {
             "admin": "ngompa",
@@ -167596,6 +167596,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "rust-astral-version-ranges": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-astral_async_http_range_reader": {
             "admin": "music",
             "epel": "music",
@@ -178152,6 +178157,11 @@
             "fedora": "music"
         },
         "rust-lzma-rs": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "rust-lzma-rust2": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"
@@ -194997,9 +195007,9 @@
             "fedora": "rstrode"
         },
         "stats-collect": {
-            "admin": "aekoroglu",
-            "epel": "aekoroglu",
-            "fedora": "aekoroglu"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "statscache": {
             "admin": "orphan",
@@ -208760,6 +208770,11 @@
             "admin": "hobbes1069",
             "epel": "hobbes1069",
             "fedora": "hobbes1069"
+        },
+        "yaml-cpp0.7": {
+            "admin": "orion",
+            "epel": "orion",
+            "fedora": "orion"
         },
         "yaml-cpp03": {
             "admin": "orphan",
