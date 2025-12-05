@@ -11257,9 +11257,9 @@
             "fedora": "@multimedia-sig"
         },
         "aquamarine": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "nikromen",
+            "epel": "nikromen",
+            "fedora": "nikromen"
         },
         "aquatone": {
             "admin": "orphan",
@@ -22077,14 +22077,14 @@
             "fedora": "orphan"
         },
         "deepin-session-shell": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
         },
         "deepin-session-ui": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
         },
         "deepin-shortcut-viewer": {
             "admin": "zsun",
@@ -61347,9 +61347,9 @@
             "fedora": "orphan"
         },
         "hyprpicker": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "nikromen",
+            "epel": "nikromen",
+            "fedora": "nikromen"
         },
         "hyprutils": {
             "admin": "nightishaman",
@@ -107631,7 +107631,22 @@
             "epel": "jplesnik",
             "fedora": "jplesnik"
         },
+        "perl-Chemistry-Canonicalize": {
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
+        },
+        "perl-Chemistry-Isotope": {
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
+        },
         "perl-Chemistry-Mol": {
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
+        },
+        "perl-Chemistry-Pattern": {
             "admin": "rathann",
             "epel": "rathann",
             "fedora": "rathann"
@@ -135196,7 +135211,17 @@
             "epel": "principis",
             "fedora": "principis"
         },
+        "python-azure-ai-agents": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
+        },
         "python-azure-ai-formrecognizer": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
+        },
+        "python-azure-ai-projects": {
             "admin": "jcline",
             "epel": "jcline",
             "fedora": "jcline"
@@ -186727,9 +186752,9 @@
             "fedora": "@rust-sig"
         },
         "rust-tl": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-tokei": {
             "admin": "music",

@@ -8866,7 +8866,7 @@
             "dcavalca"
         ],
         "aquamarine": [
-            "orphan"
+            "nikromen"
         ],
         "aquatone": [
             "@go-sig",
@@ -17355,13 +17355,12 @@
         "deepin-session-shell": [
             "@deepinde-sig",
             "cheeselee",
-            "orphan"
+            "topazus"
         ],
         "deepin-session-ui": [
             "@deepinde-sig",
             "cheeselee",
             "felixonmars",
-            "orphan",
             "topazus",
             "zsun"
         ],
@@ -47306,7 +47305,7 @@
             "orphan"
         ],
         "hyprpicker": [
-            "orphan"
+            "nikromen"
         ],
         "hyprutils": [
             "nightishaman"
@@ -82806,7 +82805,16 @@
             "jplesnik",
             "perl-sig"
         ],
+        "perl-Chemistry-Canonicalize": [
+            "rathann"
+        ],
+        "perl-Chemistry-Isotope": [
+            "rathann"
+        ],
         "perl-Chemistry-Mol": [
+            "rathann"
+        ],
+        "perl-Chemistry-Pattern": [
             "rathann"
         ],
         "perl-Child": [
@@ -105123,8 +105131,14 @@
         "python-axolotl-curve25519": [
             "principis"
         ],
+        "python-azure-ai-agents": [
+            "jcline"
+        ],
         "python-azure-ai-formrecognizer": [
             "@python-packagers-sig",
+            "jcline"
+        ],
+        "python-azure-ai-projects": [
             "jcline"
         ],
         "python-azure-ai-textanalytics": [
@@ -145251,7 +145265,7 @@
         ],
         "rust-tl": [
             "@rust-sig",
-            "music"
+            "orphan"
         ],
         "rust-tokei": [
             "@rust-sig",
