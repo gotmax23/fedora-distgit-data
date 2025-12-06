@@ -22116,6 +22116,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "deepin-tray-loader": {
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
+        },
         "deepin-util-dfm": {
             "admin": "topazus",
             "epel": "topazus",
@@ -107631,6 +107636,11 @@
             "epel": "jplesnik",
             "fedora": "jplesnik"
         },
+        "perl-Chemistry-Bond-Find": {
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
+        },
         "perl-Chemistry-Canonicalize": {
             "admin": "rathann",
             "epel": "rathann",
@@ -108775,6 +108785,11 @@
             "admin": "pghmcfc",
             "epel": "pghmcfc",
             "fedora": "pghmcfc"
+        },
+        "perl-DBD-Cassandra": {
+            "admin": "xavierb",
+            "epel": "xavierb",
+            "fedora": "xavierb"
         },
         "perl-DBD-Firebird": {
             "admin": "robert",
@@ -113776,6 +113791,11 @@
             "epel": "ppisar",
             "fedora": "ppisar"
         },
+        "perl-Log-Report-Lexicon": {
+            "admin": "ppisar",
+            "epel": "ppisar",
+            "fedora": "ppisar"
+        },
         "perl-Log-Report-Optional": {
             "admin": "ppisar",
             "epel": "ppisar",
@@ -118480,6 +118500,11 @@
             "admin": "jplesnik",
             "epel": "jplesnik",
             "fedora": "jplesnik"
+        },
+        "perl-Statistics-Regression": {
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
         },
         "perl-Storable": {
             "admin": "jplesnik",
@@ -141082,9 +141107,9 @@
             "fedora": "orphan"
         },
         "python-gcsfs": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-gd": {
             "admin": "orphan",
@@ -167601,6 +167626,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-astral-pubgrub": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-astral-reqwest-middleware": {
             "admin": "music",
             "epel": "music",
@@ -176746,6 +176776,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-jaarg": {
+            "admin": "ngompa",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-javascriptcore-rs": {
             "admin": "orphan",
             "epel": "@rust-sig",
@@ -185397,6 +185432,11 @@
             "fedora": "@rust-sig"
         },
         "rust-spin0.5": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-spin0.9": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -210602,6 +210642,11 @@
             "admin": "omejzlik",
             "epel": "omejzlik",
             "fedora": "omejzlik"
+        },
+        "mesa": {
+            "admin": "psklenar",
+            "epel": "psklenar",
+            "fedora": "psklenar"
         },
         "minicom": {
             "admin": "omejzlik",

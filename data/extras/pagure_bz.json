@@ -8716,6 +8716,7 @@
             "orphan"
         ],
         "apk-tools": [
+            "jonathanspw",
             "ngompa"
         ],
         "aplus-fsf": [
@@ -17398,6 +17399,9 @@
         "deepin-topbar": [
             "orphan"
         ],
+        "deepin-tray-loader": [
+            "topazus"
+        ],
         "deepin-util-dfm": [
             "@deepinde-sig",
             "topazus"
@@ -18677,6 +18681,7 @@
             "@go-sig",
             "buckaroogeek",
             "cverna",
+            "gotmax23",
             "otaylor"
         ],
         "docker-io": [
@@ -24608,7 +24613,9 @@
             "jwrdegoede"
         ],
         "fmf": [
+            "bajertom",
             "lzachar",
+            "mvadkert",
             "psss"
         ],
         "fmf-jinja": [
@@ -59162,6 +59169,7 @@
         ],
         "libnma": [
             "bengal",
+            "ihuguet",
             "lkundrak",
             "thaller"
         ],
@@ -82805,6 +82813,9 @@
             "jplesnik",
             "perl-sig"
         ],
+        "perl-Chemistry-Bond-Find": [
+            "rathann"
+        ],
         "perl-Chemistry-Canonicalize": [
             "rathann"
         ],
@@ -83853,6 +83864,9 @@
             "perl-sig",
             "pghmcfc",
             "steve"
+        ],
+        "perl-DBD-Cassandra": [
+            "xavierb"
         ],
         "perl-DBD-Firebird": [
             "perl-sig",
@@ -88435,6 +88449,10 @@
             "perl-sig",
             "ppisar"
         ],
+        "perl-Log-Report-Lexicon": [
+            "@perl-maint-sig",
+            "ppisar"
+        ],
         "perl-Log-Report-Optional": [
             "perl-sig",
             "ppisar"
@@ -92621,6 +92639,9 @@
             "iarnell",
             "jplesnik",
             "perl-sig"
+        ],
+        "perl-Statistics-Regression": [
+            "rathann"
         ],
         "perl-Storable": [
             "mspacek",
@@ -109661,7 +109682,7 @@
         "python-gcsfs": [
             "@neuro-sig",
             "kkeithle",
-            "music"
+            "orphan"
         ],
         "python-gd": [
             "orphan"
@@ -130095,6 +130116,10 @@
             "@rust-sig",
             "gotmax23"
         ],
+        "rust-astral-pubgrub": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-astral-reqwest-middleware": [
             "@rust-sig",
             "music"
@@ -137356,6 +137381,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-jaarg": [
+            "@rust-sig",
+            "ngompa"
+        ],
         "rust-javascriptcore-rs": [
             "orphan"
         ],
@@ -144199,6 +144228,9 @@
         ],
         "rust-spin0.5": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-spin0.9": [
             "decathorpe"
         ],
         "rust-spin_on": [
@@ -154771,7 +154803,6 @@
             "lecris",
             "lzachar",
             "mhlavink",
-            "mhoyer",
             "mvadkert",
             "psss"
         ],
@@ -163474,6 +163505,9 @@
         "memtest86plus": [
             "omejzlik",
             "pdancak",
+            "psklenar"
+        ],
+        "mesa": [
             "psklenar"
         ],
         "minicom": [
