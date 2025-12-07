@@ -14343,7 +14343,7 @@
         },
         "blender": {
             "admin": "luya",
-            "epel": "slaanesh",
+            "epel": "luya",
             "fedora": "luya"
         },
         "bless": {
@@ -21932,9 +21932,9 @@
             "fedora": "@deepinde-sig"
         },
         "deepin-editor": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
         },
         "deepin-file-manager": {
             "admin": "orphan",
@@ -67075,6 +67075,11 @@
             "admin": "atim",
             "epel": "atim",
             "fedora": "atim"
+        },
+        "kalamine": {
+            "admin": "carlwgeorge",
+            "epel": "carlwgeorge",
+            "fedora": "carlwgeorge"
         },
         "kalapi-fonts": {
             "admin": "orphan",
@@ -175237,9 +175242,9 @@
             "fedora": "decathorpe"
         },
         "rust-gufo": {
-            "admin": "orphan",
+            "admin": "wojnilowicz",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "@rust-sig"
         },
         "rust-gufo-common": {
             "admin": "orphan",
@@ -176872,7 +176877,7 @@
             "fedora": "@rust-sig"
         },
         "rust-jpeg-encoder": {
-            "admin": "orphan",
+            "admin": "wojnilowicz",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -179973,6 +179978,11 @@
         },
         "rust-osmesa-sys": {
             "admin": "returntrip",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-ossl": {
+            "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },

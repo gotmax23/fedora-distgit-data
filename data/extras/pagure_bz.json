@@ -17200,7 +17200,6 @@
         "deepin-editor": [
             "@deepinde-sig",
             "cheeselee",
-            "orphan",
             "topazus",
             "zsun"
         ],
@@ -51865,6 +51864,9 @@
         "kakoune": [
             "atim",
             "jkonecny"
+        ],
+        "kalamine": [
+            "carlwgeorge"
         ],
         "kalapi-fonts": [
             "i18n-team",
@@ -136154,7 +136156,7 @@
         ],
         "rust-gufo": [
             "@rust-sig",
-            "orphan"
+            "wojnilowicz"
         ],
         "rust-gufo-common": [
             "@rust-sig",
@@ -137457,7 +137459,7 @@
         ],
         "rust-jpeg-encoder": [
             "@rust-sig",
-            "orphan"
+            "wojnilowicz"
         ],
         "rust-jpegxl-rs": [
             "@rust-sig",
@@ -139940,6 +139942,9 @@
         ],
         "rust-osmesa-sys": [
             "@rust-sig"
+        ],
+        "rust-ossl": [
+            "decathorpe"
         ],
         "rust-osstrtools": [
             "orphan"
