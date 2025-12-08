@@ -82807,9 +82807,9 @@
             "fedora": "mkoncek"
         },
         "maven-site-plugin": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "kathenas",
+            "epel": "kathenas",
+            "fedora": "kathenas"
         },
         "maven-skins": {
             "admin": "orphan",
@@ -172762,7 +172762,7 @@
             "fedora": "@rust-sig"
         },
         "rust-font-kit": {
-            "admin": "orphan",
+            "admin": "pbrobinson",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },

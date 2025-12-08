@@ -64643,7 +64643,7 @@
         ],
         "maven-site-plugin": [
             "java-sig",
-            "orphan"
+            "kathenas"
         ],
         "maven-skins": [
             "orphan"
@@ -93013,7 +93013,6 @@
         ],
         "perl-Sys-Virt": [
             "berrange",
-            "crobinso",
             "jplesnik",
             "perl-sig",
             "steve"
@@ -134173,7 +134172,7 @@
         ],
         "rust-font-kit": [
             "@rust-sig",
-            "orphan"
+            "pbrobinson"
         ],
         "rust-fontconfig-parser": [
             "orphan"
