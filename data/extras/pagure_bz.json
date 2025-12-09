@@ -16136,6 +16136,10 @@
         "cryptominisat4": [
             "orphan"
         ],
+        "cryptopant": [
+            "@dns-sig",
+            "pemensik"
+        ],
         "cryptopp": [
             "abompard",
             "ellert",
@@ -17011,7 +17015,7 @@
         ],
         "ddclient": [
             "cicku",
-            "orphan",
+            "filiperosset",
             "sagitter"
         ],
         "ddcutil": [
@@ -17200,6 +17204,7 @@
         "deepin-editor": [
             "@deepinde-sig",
             "cheeselee",
+            "orphan",
             "topazus",
             "zsun"
         ],
@@ -18481,7 +18486,9 @@
             "pspacek"
         ],
         "dnscap": [
-            "orphan"
+            "@dns-sig",
+            "fvorobev",
+            "pemensik"
         ],
         "dnsconfd": [
             "@dns-sig",
@@ -20175,7 +20182,7 @@
         ],
         "earlyoom": [
             "@epel-packagers-sig",
-            "orphan"
+            "vtrefny"
         ],
         "earth-and-moon-backgrounds": [
             "orphan"
@@ -22468,6 +22475,10 @@
         "ethos": [
             "jjames",
             "pbrobinson"
+        ],
+        "ethq": [
+            "@dns-sig",
+            "pemensik"
         ],
         "ethstatus": [
             "fab",
@@ -76952,7 +76963,7 @@
             "dcavalca"
         ],
         "obserware": [
-            "t0xic0der",
+            "orphan",
             "thunderbirdtr"
         ],
         "oc-inject": [
@@ -113470,6 +113481,7 @@
             "ankursinha"
         ],
         "python-nltk": [
+            "@python-packagers-sig",
             "jamatos",
             "romaingeissler1a"
         ],
@@ -113487,7 +113499,7 @@
             "orphan"
         ],
         "python-node-semver": [
-            "orphan"
+            "fedepell"
         ],
         "python-nodeenv": [
             "@python-packagers-sig",
@@ -113812,6 +113824,9 @@
             "@python-packagers-sig",
             "mattia",
             "music"
+        ],
+        "python-openapi-pydantic": [
+            "r0x0d"
         ],
         "python-openapi-schema-validator": [
             "mattia",
@@ -114377,7 +114392,7 @@
             "dcavalca"
         ],
         "python-patch-ng": [
-            "orphan"
+            "fedepell"
         ],
         "python-path": [
             "jcaratzas",
@@ -132688,6 +132703,10 @@
             "@rust-sig",
             "jstanek"
         ],
+        "rust-cyclonedx-bom-macros": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-daemonize": [
             "@rust-sig",
             "dcavalca"
@@ -138808,6 +138827,7 @@
             "decathorpe"
         ],
         "rust-mesa3d_util": [
+            "@rust-sig",
             "dorinda"
         ],
         "rust-metadeps": [
@@ -139943,6 +139963,7 @@
             "@rust-sig"
         ],
         "rust-ossl": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-osstrtools": [
@@ -141462,6 +141483,9 @@
         "rust-pure-rust-locales": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-purl": [
+            "music"
         ],
         "rust-pwd": [
             "@rust-sig",
@@ -144235,6 +144259,7 @@
             "decathorpe"
         ],
         "rust-spin0.9": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-spin_on": [

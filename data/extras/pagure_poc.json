@@ -20586,6 +20586,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "cryptopant": {
+            "admin": "pemensik",
+            "epel": "pemensik",
+            "fedora": "pemensik"
+        },
         "cryptopp": {
             "admin": "nucleo",
             "epel": "nucleo",
@@ -21732,9 +21737,9 @@
             "fedora": "jskarvad"
         },
         "ddclient": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "ddcutil": {
             "admin": "yanqiyu",
@@ -21932,9 +21937,9 @@
             "fedora": "@deepinde-sig"
         },
         "deepin-editor": {
-            "admin": "topazus",
-            "epel": "topazus",
-            "fedora": "topazus"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "deepin-file-manager": {
             "admin": "orphan",
@@ -23527,9 +23532,9 @@
             "fedora": "pemensik"
         },
         "dnscap": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fvorobev",
+            "epel": "fvorobev",
+            "fedora": "fvorobev"
         },
         "dnsconfd": {
             "admin": "tkorbar",
@@ -25882,9 +25887,9 @@
             "fedora": "music"
         },
         "earlyoom": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "vtrefny",
+            "epel": "vtrefny",
+            "fedora": "vtrefny"
         },
         "earth-and-moon-backgrounds": {
             "admin": "orphan",
@@ -29025,6 +29030,11 @@
             "admin": "jjames",
             "epel": "jjames",
             "fedora": "jjames"
+        },
+        "ethq": {
+            "admin": "pemensik",
+            "epel": "pemensik",
+            "fedora": "pemensik"
         },
         "ethstatus": {
             "admin": "orphan",
@@ -100297,9 +100307,9 @@
             "fedora": "dcavalca"
         },
         "obserware": {
-            "admin": "t0xic0der",
-            "epel": "t0xic0der",
-            "fedora": "t0xic0der"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "oc-inject": {
             "admin": "smakarov",
@@ -145897,9 +145907,9 @@
             "fedora": "orphan"
         },
         "python-node-semver": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-nodeenv": {
             "admin": "semeijn",
@@ -146310,6 +146320,11 @@
             "admin": "mattia",
             "epel": "mattia",
             "fedora": "mattia"
+        },
+        "python-openapi-pydantic": {
+            "admin": "r0x0d",
+            "epel": "r0x0d",
+            "fedora": "r0x0d"
         },
         "python-openapi-schema-validator": {
             "admin": "music",
@@ -146997,9 +147012,9 @@
             "fedora": "dcavalca"
         },
         "python-patch-ng": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-path": {
             "admin": "laxathom",
@@ -170906,6 +170921,11 @@
             "epel": "jstanek",
             "fedora": "jstanek"
         },
+        "rust-cyclonedx-bom-macros": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-daemonize": {
             "admin": "dcavalca",
             "epel": "@rust-sig",
@@ -181925,6 +181945,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-purl": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-pwd": {
             "admin": "salimma",
