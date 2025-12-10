@@ -4349,7 +4349,8 @@
             "lkundrak",
             "mclasen",
             "rstrode",
-            "till"
+            "till",
+            "vbenes"
         ],
         "NetworkManager-fortisslvpn": [
             "bengal",
@@ -4369,7 +4370,8 @@
             "bengal",
             "ihuguet",
             "lkundrak",
-            "thaller"
+            "thaller",
+            "vbenes"
         ],
         "NetworkManager-openconnect": [
             "dwmw2",
@@ -15260,7 +15262,7 @@
             "topazus"
         ],
         "contractor": [
-            "music"
+            "orphan"
         ],
         "control-center": [
             "mclasen",
@@ -24632,7 +24634,7 @@
             "lecris"
         ],
         "fmidi": [
-            "music"
+            "orphan"
         ],
         "fmio": [
             "orphan"
@@ -31000,7 +31002,7 @@
         ],
         "glide": [
             "@go-sig",
-            "jchaloup"
+            "orphan"
         ],
         "glimmer": [
             "c4chris"
@@ -33028,7 +33030,7 @@
         ],
         "godep": [
             "@go-sig",
-            "jchaloup",
+            "orphan",
             "runcom"
         ],
         "godoctor": [
@@ -43852,7 +43854,7 @@
         ],
         "gotags": [
             "@go-sig",
-            "jchaloup"
+            "orphan"
         ],
         "gotcha": [
             "fed500",
@@ -56346,7 +56348,7 @@
             "orphan"
         ],
         "libaiff": [
-            "music"
+            "orphan"
         ],
         "libaio": [
             "jmoyer"
@@ -56573,7 +56575,7 @@
             "vmalik"
         ],
         "libbraiding": [
-            "music"
+            "orphan"
         ],
         "libbs2b": [
             "@multimedia-sig",
@@ -100122,6 +100124,9 @@
         "php-theseer-tokenizer": [
             "remi"
         ],
+        "php-theseer-tokenizer2": [
+            "remi"
+        ],
         "php-tracy": [
             "orphan",
             "remi"
@@ -106090,7 +106095,7 @@
         ],
         "python-bsmschema": [
             "@neuro-sig",
-            "music"
+            "orphan"
         ],
         "python-btchip": [
             "jonny",
@@ -111090,6 +111095,9 @@
         "python-ipgetter2": [
             "orphan"
         ],
+        "python-iplotx": [
+            "jjames"
+        ],
         "python-ipmi": [
             "lbazan"
         ],
@@ -113268,7 +113276,7 @@
         ],
         "python-ncclient": [
             "ihrachyshka",
-            "music"
+            "orphan"
         ],
         "python-ndeflib": [
             "orphan"
@@ -116155,7 +116163,7 @@
         ],
         "python-pyrsistent": [
             "devrim",
-            "music"
+            "orphan"
         ],
         "python-pyrtlsdr": [
             "jskarvad"
@@ -117628,7 +117636,7 @@
         ],
         "python-rq": [
             "@python-packagers-sig",
-            "orphan"
+            "pwouters"
         ],
         "python-rsa": [
             "fale",
@@ -119161,7 +119169,7 @@
             "romaingeissler1a"
         ],
         "python-strictyaml": [
-            "music"
+            "orphan"
         ],
         "python-string_utils": [
             "jmontleon",
@@ -130949,6 +130957,10 @@
             "siosm",
             "walters"
         ],
+        "rust-borrow-or-share": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-box_drawing": [
             "@rust-sig",
             "decathorpe"
@@ -133537,6 +133549,9 @@
             "atim",
             "ignatenkobrain"
         ],
+        "rust-entropy": [
+            "pbrobinson"
+        ],
         "rust-enum-as-inner": [
             "@rust-sig",
             "decathorpe"
@@ -135337,7 +135352,7 @@
         ],
         "rust-glycin-common": [
             "@rust-sig",
-            "orphan"
+            "decathorpe"
         ],
         "rust-glycin-utils": [
             "@gnome-sig",
@@ -136178,7 +136193,7 @@
         ],
         "rust-gufo-common": [
             "@rust-sig",
-            "orphan"
+            "decathorpe"
         ],
         "rust-gufo-common0.1": [
             "@rust-sig",
@@ -136190,7 +136205,7 @@
         ],
         "rust-gufo-exif": [
             "@rust-sig",
-            "orphan"
+            "decathorpe"
         ],
         "rust-gufo-exif0.1": [
             "@rust-sig",
@@ -136202,7 +136217,7 @@
         ],
         "rust-gufo-jpeg": [
             "@rust-sig",
-            "orphan"
+            "decathorpe"
         ],
         "rust-gufo-jpeg0.1": [
             "@rust-sig",
@@ -136214,7 +136229,7 @@
         ],
         "rust-gufo-png": [
             "@rust-sig",
-            "orphan"
+            "decathorpe"
         ],
         "rust-gufo-png0.2": [
             "@rust-sig",
@@ -136222,7 +136237,7 @@
         ],
         "rust-gufo-tiff": [
             "@rust-sig",
-            "orphan"
+            "decathorpe"
         ],
         "rust-gufo-tiff0.2": [
             "@rust-sig",
@@ -136230,7 +136245,7 @@
         ],
         "rust-gufo-webp": [
             "@rust-sig",
-            "orphan"
+            "decathorpe"
         ],
         "rust-gufo-webp0.2": [
             "@rust-sig",
@@ -136238,7 +136253,7 @@
         ],
         "rust-gufo-xmp": [
             "@rust-sig",
-            "orphan"
+            "decathorpe"
         ],
         "rust-gufo-xmp0.2": [
             "@rust-sig",
@@ -147887,6 +147902,9 @@
             "@rust-sig",
             "asn"
         ],
+        "rust-zlink-smol": [
+            "asn"
+        ],
         "rust-zlink-tokio": [
             "@rust-sig",
             "asn"
@@ -149258,7 +149276,8 @@
             "mmalik",
             "plautrba",
             "rstrode",
-            "vmojzis"
+            "vmojzis",
+            "vsyncako"
         ],
         "setroubleshoot": [
             "dwalsh",
@@ -151327,6 +151346,9 @@
             "abompard",
             "atim",
             "gilboa"
+        ],
+        "sprout": [
+            "ngompa"
         ],
         "spu-binutils": [
             "adrian",
