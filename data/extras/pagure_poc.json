@@ -16617,9 +16617,9 @@
             "fedora": "orphan"
         },
         "cef": {
-            "admin": "asahilina",
-            "epel": "asahilina",
-            "fedora": "asahilina"
+            "admin": "hoshinolina",
+            "epel": "hoshinolina",
+            "fedora": "hoshinolina"
         },
         "cego": {
             "admin": "orphan",
@@ -21799,12 +21799,12 @@
         "debconf": {
             "admin": "ngompa",
             "epel": "ngompa",
-            "fedora": "orphan"
+            "fedora": "ngompa"
         },
         "debhelper": {
             "admin": "ngompa",
             "epel": "ngompa",
-            "fedora": "orphan"
+            "fedora": "ngompa"
         },
         "debian-keyring": {
             "admin": "smani",
@@ -21814,7 +21814,7 @@
         "debmirror": {
             "admin": "ngompa",
             "epel": "ngompa",
-            "fedora": "orphan"
+            "fedora": "ngompa"
         },
         "debootstrap": {
             "admin": "ngompa",
@@ -22544,7 +22544,7 @@
         "dh-make": {
             "admin": "ngompa",
             "epel": "ngompa",
-            "fedora": "orphan"
+            "fedora": "ngompa"
         },
         "dhall": {
             "admin": "petersen",
@@ -32294,7 +32294,7 @@
         "freealut": {
             "admin": "limb",
             "epel": "limb",
-            "fedora": "orphan"
+            "fedora": "limb"
         },
         "freecad": {
             "admin": "fed500",
@@ -35309,7 +35309,7 @@
         "ggz-base-libs": {
             "admin": "limb",
             "epel": "limb",
-            "fedora": "orphan"
+            "fedora": "limb"
         },
         "ggz-client-libs": {
             "admin": "orphan",
@@ -65569,7 +65569,7 @@
         "jetbrains-annotations": {
             "admin": "jjames",
             "epel": "jjames",
-            "fedora": "orphan"
+            "fedora": "jjames"
         },
         "jetbrains-mono-fonts": {
             "admin": "aekoroglu",
@@ -100222,9 +100222,9 @@
             "fedora": "ngompa"
         },
         "obs-cef": {
-            "admin": "asahilina",
-            "epel": "asahilina",
-            "fedora": "asahilina"
+            "admin": "hoshinolina",
+            "epel": "hoshinolina",
+            "fedora": "hoshinolina"
         },
         "obs-service-cargo_vendor": {
             "admin": "orphan",
@@ -130714,7 +130714,7 @@
         "po-debconf": {
             "admin": "ngompa",
             "epel": "ngompa",
-            "fedora": "orphan"
+            "fedora": "ngompa"
         },
         "po4a": {
             "admin": "stevenfalco",
@@ -146033,7 +146033,7 @@
         },
         "python-notify2": {
             "admin": "ngompa",
-            "epel": "ngompa",
+            "epel": "cottsay",
             "fedora": "ngompa"
         },
         "python-nova-adminclient": {
@@ -146642,9 +146642,9 @@
             "fedora": "jcapitao"
         },
         "python-oslo-config": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "python-oslo-context": {
             "admin": "limb",
@@ -148768,8 +148768,8 @@
         },
         "python-pylev": {
             "admin": "thrnciar",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "epel": "thrnciar",
+            "fedora": "thrnciar"
         },
         "python-pyliblo3": {
             "admin": "martinkg",
@@ -150643,8 +150643,8 @@
         },
         "python-repoze-lru": {
             "admin": "limb",
-            "epel": "kkeithle",
-            "fedora": "orphan"
+            "epel": "limb",
+            "fedora": "limb"
         },
         "python-repoze-sphinx-autointerface": {
             "admin": "lbalhar",
@@ -172776,6 +172776,11 @@
             "epel": "linkdupont",
             "fedora": "linkdupont"
         },
+        "rust-fluent-uri": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-flume": {
             "admin": "orion",
             "epel": "@rust-sig",
@@ -175282,8 +175287,8 @@
             "fedora": "decathorpe"
         },
         "rust-gufo": {
-            "admin": "wojnilowicz",
-            "epel": "orphan",
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-gufo-common": {
@@ -176917,7 +176922,7 @@
             "fedora": "@rust-sig"
         },
         "rust-jpeg-encoder": {
-            "admin": "wojnilowicz",
+            "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -204009,7 +204014,7 @@
         "warzone2100": {
             "admin": "limb",
             "epel": "limb",
-            "fedora": "orphan"
+            "fedora": "limb"
         },
         "wasi-libc": {
             "admin": "jstanek",

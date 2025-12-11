@@ -11928,6 +11928,7 @@
         "brotli": [
             "carlwgeorge",
             "jonathanspw",
+            "pnemade",
             "pouar",
             "tagoh"
         ],
@@ -13053,7 +13054,9 @@
             "orphan"
         ],
         "cef": [
-            "asahilina"
+            "@multimedia-sig",
+            "hoshinolina",
+            "ngompa"
         ],
         "cego": [
             "orphan"
@@ -56929,7 +56932,7 @@
         ],
         "libdatachannel": [
             "@multimedia-sig",
-            "asahilina",
+            "hoshinolina",
             "mroche",
             "ngompa"
         ],
@@ -76889,6 +76892,7 @@
         "obs-cef": [
             "@multimedia-sig",
             "dherrera",
+            "hoshinolina",
             "ngompa",
             "thunderbirdtr"
         ],
@@ -76935,8 +76939,8 @@
         ],
         "obs-studio": [
             "@multimedia-sig",
-            "asahilina",
             "dherrera",
+            "hoshinolina",
             "jgrulich",
             "marcdeop",
             "ngompa",
@@ -101218,6 +101222,7 @@
             "farchord"
         ],
         "plasma-login-manager": [
+            "@kde-sig",
             "ngompa"
         ],
         "plasma-mediacenter": [
@@ -101290,6 +101295,7 @@
             "farchord"
         ],
         "plasma-setup": [
+            "@kde-sig",
             "ngompa"
         ],
         "plasma-smart-video-wallpaper-reborn": [
@@ -113597,6 +113603,7 @@
             "romaingeissler1a"
         ],
         "python-notify2": [
+            "cottsay",
             "ngompa"
         ],
         "python-nova-adminclient": [
@@ -114083,8 +114090,8 @@
         "python-oslo-config": [
             "@openstack-sig",
             "apevec",
-            "markmc",
-            "orphan"
+            "limb",
+            "markmc"
         ],
         "python-oslo-context": [
             "@epel-packagers-sig",
@@ -134183,6 +134190,10 @@
             "@rust-sig",
             "linkdupont"
         ],
+        "rust-fluent-uri": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-flume": [
             "@rust-sig",
             "limb",
@@ -136189,7 +136200,7 @@
         ],
         "rust-gufo": [
             "@rust-sig",
-            "wojnilowicz"
+            "decathorpe"
         ],
         "rust-gufo-common": [
             "@rust-sig",
@@ -137492,7 +137503,7 @@
         ],
         "rust-jpeg-encoder": [
             "@rust-sig",
-            "wojnilowicz"
+            "decathorpe"
         ],
         "rust-jpegxl-rs": [
             "@rust-sig",
@@ -162265,7 +162276,6 @@
         ],
         "yq": [
             "@go-sig",
-            "adrian",
             "salimma"
         ],
         "yt-dlp": [
