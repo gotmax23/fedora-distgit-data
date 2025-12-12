@@ -44642,6 +44642,11 @@
             "adamwill",
             "orphan"
         ],
+        "gst-thumbnailers": [
+            "@multimedia-sig",
+            "@rust-sig",
+            "decathorpe"
+        ],
         "gst-transcoder": [
             "orphan"
         ],
@@ -61206,7 +61211,8 @@
             "besser82",
             "fweimer",
             "saprasad",
-            "simo"
+            "simo",
+            "szidek"
         ],
         "libxcrypt-epel": [
             "@epel-packagers-sig",
@@ -64576,7 +64582,7 @@
             "mkoncek"
         ],
         "maven-reporting-exec": [
-            "orphan"
+            "kathenas"
         ],
         "maven-reporting-impl": [
             "java-sig",
@@ -65249,6 +65255,7 @@
             "elmarco",
             "ghishadow",
             "ignatenkobrain",
+            "jannau",
             "jexposit",
             "kathenas",
             "lyude",
@@ -127621,8 +127628,7 @@
             "orphan"
         ],
         "rubygem-jekyll-git-authors": [
-            "@ruby-packagers-sig",
-            "jackorp"
+            "orphan"
         ],
         "rubygem-jekyll-sass-converter": [
             "@ruby-packagers-sig",
@@ -129686,7 +129692,7 @@
         ],
         "rust-alga_derive": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-aliasable": [
             "@rust-sig",
@@ -133915,7 +133921,7 @@
         ],
         "rust-fake": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-fake-simd": [
             "orphan"
@@ -138075,6 +138081,12 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-libglycin-rebind": [
+            "decathorpe"
+        ],
+        "rust-libglycin-rebind-sys": [
+            "decathorpe"
+        ],
         "rust-libgweather": [
             "@rust-sig",
             "kalev",
@@ -139246,7 +139258,7 @@
         ],
         "rust-netlink-packet-route0.19": [
             "@rust-sig",
-            "salimma"
+            "orphan"
         ],
         "rust-netlink-packet-utils": [
             "@rust-sig",
@@ -140877,7 +140889,7 @@
         ],
         "rust-pmutil": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-pnet_base": [
             "@rust-sig",
@@ -142158,7 +142170,7 @@
         ],
         "rust-rand_regex": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-rand_xorshift": [
             "@rust-sig",
@@ -145275,7 +145287,7 @@
         ],
         "rust-timeago": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-timebomb": [
             "@rust-sig",
@@ -145283,7 +145295,7 @@
         ],
         "rust-timer": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-timerfd": [
             "@rust-sig",
@@ -145725,7 +145737,7 @@
         ],
         "rust-tracing-indicatif": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-tracing-journald": [
             "@rust-sig",
@@ -147189,7 +147201,7 @@
         ],
         "rust-vte_generate_state_changes": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-vtparse": [
             "@rust-sig",
@@ -147371,7 +147383,7 @@
         ],
         "rust-web-ext-native-messaging": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-web-sys": [
             "orphan"
@@ -162809,7 +162821,7 @@
             "orphan"
         ],
         "znc-push": [
-            "dcavalca"
+            "orphan"
         ],
         "znerd-oss-parent": [
             "gil",

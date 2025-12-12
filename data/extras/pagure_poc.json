@@ -57776,6 +57776,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "gst-thumbnailers": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "gst-transcoder": {
             "admin": "orphan",
             "epel": "orphan",
@@ -62184,7 +62189,7 @@
         "imagefactory": {
             "admin": "kevin",
             "epel": "kevin",
-            "fedora": "orphan"
+            "fedora": "kevin"
         },
         "imagefactory-plugins": {
             "admin": "kevin",
@@ -82732,9 +82737,9 @@
             "fedora": "jjames"
         },
         "maven-reporting-exec": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "kathenas",
+            "epel": "kathenas",
+            "fedora": "kathenas"
         },
         "maven-reporting-impl": {
             "admin": "jjames",
@@ -164327,9 +164332,9 @@
             "fedora": "orphan"
         },
         "rubygem-jekyll-git-authors": {
-            "admin": "jackorp",
-            "epel": "jackorp",
-            "fedora": "jackorp"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-jekyll-sass-converter": {
             "admin": "orphan",
@@ -167082,7 +167087,7 @@
             "fedora": "@rust-sig"
         },
         "rust-alga_derive": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -172417,7 +172422,7 @@
             "fedora": "@rust-sig"
         },
         "rust-fake": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -177601,6 +177606,16 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-libglycin-rebind": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-libglycin-rebind-sys": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-libgweather": {
             "admin": "mclasen",
             "epel": "@rust-sig",
@@ -179082,9 +179097,9 @@
             "fedora": "cathay4t"
         },
         "rust-netlink-packet-route0.19": {
-            "admin": "salimma",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-netlink-packet-utils": {
             "admin": "cathay4t",
@@ -181167,7 +181182,7 @@
             "fedora": "@rust-sig"
         },
         "rust-pmutil": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -182787,7 +182802,7 @@
             "fedora": "@rust-sig"
         },
         "rust-rand_regex": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -186757,7 +186772,7 @@
             "fedora": "@rust-sig"
         },
         "rust-timeago": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -186767,7 +186782,7 @@
             "fedora": "@rust-sig"
         },
         "rust-timer": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -187327,7 +187342,7 @@
             "fedora": "@rust-sig"
         },
         "rust-tracing-indicatif": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -189177,7 +189192,7 @@
             "fedora": "@rust-sig"
         },
         "rust-vte_generate_state_changes": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -189437,7 +189452,7 @@
             "fedora": "@rust-sig"
         },
         "rust-web-ext-native-messaging": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -209857,9 +209872,9 @@
             "fedora": "orphan"
         },
         "znc-push": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "znerd-oss-parent": {
             "admin": "orphan",
