@@ -11327,9 +11327,9 @@
             "fedora": "principis"
         },
         "arc-theme": {
-            "admin": "orphan",
+            "admin": "tsmetana",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "tsmetana"
         },
         "arch-install-scripts": {
             "admin": "zbyszek",
@@ -42505,6 +42505,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "go-l2tp": {
+            "admin": "tomparkin",
+            "epel": "tomparkin",
+            "fedora": "tomparkin"
         },
         "go-rpm-macros": {
             "admin": "alexsaezm",
@@ -82477,9 +82482,9 @@
             "fedora": "orphan"
         },
         "maven-doap-plugin": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "kathenas",
+            "epel": "kathenas",
+            "fedora": "kathenas"
         },
         "maven-docck-plugin": {
             "admin": "orphan",
@@ -82863,8 +82868,8 @@
         },
         "maven-verifier": {
             "admin": "mkoncek",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "maven-verifier-plugin": {
             "admin": "jerboaa",
@@ -138192,9 +138197,9 @@
             "fedora": "dcavalca"
         },
         "python-dataclassy": {
-            "admin": "peter",
-            "epel": "peter",
-            "fedora": "peter"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-datadog": {
             "admin": "dminer",
@@ -139922,6 +139927,11 @@
             "fedora": "peter"
         },
         "python-eth-keys": {
+            "admin": "peter",
+            "epel": "peter",
+            "fedora": "peter"
+        },
+        "python-eth-pydantic-types": {
             "admin": "peter",
             "epel": "peter",
             "fedora": "peter"
@@ -152324,6 +152334,11 @@
         "python-sphinx-basic-ng": {
             "admin": "jjames",
             "epel": "kkeithle",
+            "fedora": "jjames"
+        },
+        "python-sphinx-book-theme": {
+            "admin": "jjames",
+            "epel": "jjames",
             "fedora": "jjames"
         },
         "python-sphinx-bootstrap-theme": {
@@ -170940,6 +170955,11 @@
             "admin": "jstanek",
             "epel": "jstanek",
             "fedora": "jstanek"
+        },
+        "rust-cyclonedx-bom": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-cyclonedx-bom-macros": {
             "admin": "music",
