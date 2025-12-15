@@ -11800,6 +11800,9 @@
         "boxes": [
             "atim"
         ],
+        "boxfort": [
+            "topazus"
+        ],
         "bpfilter": [
             "dcavalca",
             "naccyde",
@@ -60787,7 +60790,10 @@
             "fnux"
         ],
         "libucontext": [
-            "ngompa"
+            "daandemeyer",
+            "dcavalca",
+            "ngompa",
+            "salimma"
         ],
         "libudfread": [
             "xavierb"
@@ -116557,7 +116563,8 @@
             "orange-kao",
             "pwouters",
             "rominf",
-            "rommell"
+            "rommell",
+            "salimma"
         ],
         "python-pytest-lsp": [
             "@python-packagers-sig",
@@ -131499,6 +131506,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-cargo_metadata0.19": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-cargo_metadata0.6": [
             "orphan"
         ],
@@ -133936,7 +133947,7 @@
         ],
         "rust-fake": [
             "@rust-sig",
-            "orphan"
+            "decathorpe"
         ],
         "rust-fake-simd": [
             "orphan"

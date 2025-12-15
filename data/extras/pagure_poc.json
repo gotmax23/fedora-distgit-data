@@ -14991,6 +14991,11 @@
             "epel": "atim",
             "fedora": "atim"
         },
+        "boxfort": {
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
+        },
         "bpfilter": {
             "admin": "naccyde",
             "epel": "naccyde",
@@ -169356,6 +169361,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-cargo_metadata0.19": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-cargo_metadata0.6": {
             "admin": "orphan",
             "epel": "orphan",
@@ -172442,7 +172452,7 @@
             "fedora": "@rust-sig"
         },
         "rust-fake": {
-            "admin": "orphan",
+            "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
