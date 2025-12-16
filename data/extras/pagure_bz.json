@@ -15941,6 +15941,7 @@
             "buckaroogeek"
         ],
         "cri-tools1.35": [
+            "@go-sig",
             "buckaroogeek"
         ],
         "cricscore-applet": [
@@ -32942,6 +32943,7 @@
             "orphan"
         ],
         "go-l2tp": [
+            "@go-sig",
             "tomparkin"
         ],
         "go-rpm-macros": [
@@ -112364,6 +112366,7 @@
             "martinkg"
         ],
         "python-mackup": [
+            "@python-packagers-sig",
             "salimma"
         ],
         "python-magic": [
@@ -127070,8 +127073,7 @@
             "orphan"
         ],
         "rubygem-em-websocket": [
-            "@ruby-packagers-sig",
-            "jackorp"
+            "orphan"
         ],
         "rubygem-em-websocket-client": [
             "@ruby-packagers-sig",
@@ -133589,6 +133591,7 @@
             "ignatenkobrain"
         ],
         "rust-entropy": [
+            "@rust-sig",
             "pbrobinson"
         ],
         "rust-enum-as-inner": [
@@ -138108,9 +138111,11 @@
             "decathorpe"
         ],
         "rust-libglycin-rebind": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-libglycin-rebind-sys": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-libgweather": [
@@ -141549,6 +141554,7 @@
             "decathorpe"
         ],
         "rust-purl": [
+            "@rust-sig",
             "music"
         ],
         "rust-pwd": [
@@ -147952,6 +147958,7 @@
             "asn"
         ],
         "rust-zlink-smol": [
+            "@rust-sig",
             "asn"
         ],
         "rust-zlink-tokio": [

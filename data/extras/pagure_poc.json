@@ -163552,9 +163552,9 @@
             "fedora": "orphan"
         },
         "rubygem-em-websocket": {
-            "admin": "jackorp",
-            "epel": "jackorp",
-            "fedora": "jackorp"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-em-websocket-client": {
             "admin": "jackorp",
