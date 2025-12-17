@@ -15990,6 +15990,7 @@
             "tmraz"
         ],
         "cros-guest-tools": [
+            "buckaroogeek",
             "dcavalca",
             "kwizart",
             "ngompa"
@@ -104566,7 +104567,8 @@
             "jonathanspw"
         ],
         "python-aiostream": [
-            "astra"
+            "astra",
+            "salimma"
         ],
         "python-aiounifi": [
             "jonathanspw"
@@ -112180,7 +112182,7 @@
             "salimma"
         ],
         "python-livereload": [
-            "orphan"
+            "carlwgeorge"
         ],
         "python-llama-cpp-python": [
             "jmatufka",
@@ -120402,6 +120404,9 @@
         ],
         "python-umemcache": [
             "orphan"
+        ],
+        "python-unicode-segmentation-rs": [
+            "sshil"
         ],
         "python-unicodecsv": [
             "jpena",
@@ -129598,6 +129603,9 @@
             "decathorpe",
             "ueno"
         ],
+        "rust-actix-web-httpauth": [
+            "alakatos"
+        ],
         "rust-actix0.10": [
             "orphan"
         ],
@@ -131558,6 +131566,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-cbor-codec": [
+            "alakatos"
+        ],
         "rust-cc": [
             "@rust-sig",
             "decathorpe"
@@ -133249,6 +133260,10 @@
         "rust-diskonaut": [
             "@rust-sig",
             "atim"
+        ],
+        "rust-diskus": [
+            "@rust-sig",
+            "music"
         ],
         "rust-displaydoc": [
             "@rust-sig",
@@ -142571,6 +142586,10 @@
             "@rust-sig",
             "music"
         ],
+        "rust-reqsign-oracle": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-reqsign-tencent-cos": [
             "@rust-sig",
             "music"
@@ -143330,6 +143349,9 @@
         "rust-schemars_derive0.8": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-scientific-macro": [
+            "alakatos"
         ],
         "rust-scoped-tls": [
             "@rust-sig",

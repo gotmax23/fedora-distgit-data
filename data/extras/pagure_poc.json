@@ -134443,7 +134443,7 @@
         },
         "python-aiostream": {
             "admin": "astra",
-            "epel": "orphan",
+            "epel": "salimma",
             "fedora": "astra"
         },
         "python-aiounifi": {
@@ -144167,9 +144167,9 @@
             "fedora": "ankursinha"
         },
         "python-livereload": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "carlwgeorge",
+            "epel": "carlwgeorge",
+            "fedora": "carlwgeorge"
         },
         "python-llama-cpp-python": {
             "admin": "ttomecek",
@@ -154670,6 +154670,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "python-unicode-segmentation-rs": {
+            "admin": "sshil",
+            "epel": "sshil",
+            "fedora": "sshil"
         },
         "python-unicodecsv": {
             "admin": "orphan",
@@ -166966,6 +166971,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-actix-web-httpauth": {
+            "admin": "alakatos",
+            "epel": "alakatos",
+            "fedora": "alakatos"
+        },
         "rust-actix0.10": {
             "admin": "orphan",
             "epel": "orphan",
@@ -169426,6 +169436,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-cbor-codec": {
+            "admin": "alakatos",
+            "epel": "alakatos",
+            "fedora": "alakatos"
+        },
         "rust-cc": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -171580,6 +171595,11 @@
             "admin": "atim",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-diskus": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-displaydoc": {
             "admin": "dcavalca",
@@ -183301,6 +183321,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "rust-reqsign-oracle": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-reqsign-tencent-cos": {
             "admin": "music",
             "epel": "music",
@@ -184290,6 +184315,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-scientific-macro": {
+            "admin": "alakatos",
+            "epel": "alakatos",
+            "fedora": "alakatos"
         },
         "rust-scoped-tls": {
             "admin": "decathorpe",
