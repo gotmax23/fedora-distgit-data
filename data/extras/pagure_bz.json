@@ -9781,6 +9781,12 @@
         "atk": [
             "orphan"
         ],
+        "atkinson-hyperlegible-mono-fonts": [
+            "julicen"
+        ],
+        "atkinson-hyperlegible-next-fonts": [
+            "julicen"
+        ],
         "atkmm": [
             "@gnome-sig",
             "kalev",
@@ -30242,7 +30248,7 @@
             "music"
         ],
         "gi-loadouts": [
-            "t0xic0der"
+            "orphan"
         ],
         "giac": [
             "sagitter"
@@ -32539,6 +32545,7 @@
         ],
         "gnome-software": [
             "@gnome-sig",
+            "franute",
             "mcrha",
             "rhughes"
         ],
@@ -36400,7 +36407,7 @@
         ],
         "golang-github-gobwas-ws": [
             "@go-sig",
-            "orphan"
+            "qulogic"
         ],
         "golang-github-goccy-json": [
             "@go-sig",
@@ -52771,6 +52778,10 @@
             "nonamedotc",
             "ziegenberg"
         ],
+        "keepsecret": [
+            "@kde-sig",
+            "farchord"
+        ],
         "kefir": [
             "fed500"
         ],
@@ -63736,6 +63747,9 @@
             "@go-sig",
             "jwboyer"
         ],
+        "manifold": [
+            "luya"
+        ],
         "mankalaengine": [
             "fed500",
             "srisharanvs"
@@ -67537,7 +67551,8 @@
             "orphan"
         ],
         "mir": [
-            "ngompa"
+            "ngompa",
+            "sfaulken"
         ],
         "miracle-wm": [
             "@miracle-sig",
@@ -67557,7 +67572,8 @@
             "orphan"
         ],
         "miriway": [
-            "ngompa"
+            "ngompa",
+            "sfaulken"
         ],
         "mirmon": [
             "cicku",
@@ -79042,7 +79058,8 @@
         "openscap-report": [
             "evgenyz",
             "hony",
-            "jcerny"
+            "jcerny",
+            "mburket"
         ],
         "openser": [
             "orphan",
@@ -79712,6 +79729,7 @@
         "oscap-anaconda-addon": [
             "evgenyz",
             "jcerny",
+            "mburket",
             "mlysonek",
             "vpodzime",
             "vpolasek"
@@ -79858,7 +79876,8 @@
         "oval-graph": [
             "evgenyz",
             "hony",
-            "jcerny"
+            "jcerny",
+            "mburket"
         ],
         "ovaldi": [
             "lkundrak",
@@ -108606,6 +108625,9 @@
         "python-einops": [
             "trix"
         ],
+        "python-eip712": [
+            "peter"
+        ],
         "python-elastic-transport": [
             "aekoroglu"
         ],
@@ -114302,8 +114324,7 @@
             "sergiopr"
         ],
         "python-pandas-flavor": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "python-pandocfilters": [
             "@python-packagers-sig",
@@ -117522,7 +117543,7 @@
             "nathans"
         ],
         "python-rnc2rng": [
-            "iztokf"
+            "orphan"
         ],
         "python-robofab": [
             "orphan"
@@ -130335,7 +130356,7 @@
         ],
         "rust-async_http_range_reader": [
             "@rust-sig",
-            "music"
+            "orphan"
         ],
         "rust-async_zip": [
             "@rust-sig",
@@ -132262,6 +132283,9 @@
         "rust-coreutils": [
             "@rust-sig",
             "salimma"
+        ],
+        "rust-cose-rust": [
+            "alakatos"
         ],
         "rust-count-zeroes": [
             "@rust-sig",
@@ -142606,6 +142630,9 @@
             "@rust-sig",
             "music"
         ],
+        "rust-reqwest-retry0.7": [
+            "music"
+        ],
         "rust-reqwest0.10": [
             "orphan"
         ],
@@ -142654,6 +142681,9 @@
         ],
         "rust-retry-policies": [
             "@rust-sig",
+            "music"
+        ],
+        "rust-retry-policies0.4": [
             "music"
         ],
         "rust-retry1": [
@@ -143349,6 +143379,9 @@
         "rust-schemars_derive0.8": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-scientific": [
+            "alakatos"
         ],
         "rust-scientific-macro": [
             "alakatos"
@@ -147159,6 +147192,9 @@
             "@rust-sig",
             "slp"
         ],
+        "rust-virglrenderer-sys": [
+            "dorinda"
+        ],
         "rust-virtio-bindings": [
             "@rust-sig",
             "slp"
@@ -148609,6 +148645,7 @@
             "evgenyz",
             "jcerny",
             "mbarabas",
+            "mburket",
             "mlysonek",
             "mmarhefk"
         ],
@@ -157884,6 +157921,9 @@
         ],
         "vios-proxy": [
             "orphan"
+        ],
+        "vipr": [
+            "jjames"
         ],
         "vips": [
             "agoode",

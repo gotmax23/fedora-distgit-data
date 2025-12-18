@@ -12401,6 +12401,16 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "atkinson-hyperlegible-mono-fonts": {
+            "admin": "julicen",
+            "epel": "julicen",
+            "fedora": "julicen"
+        },
+        "atkinson-hyperlegible-next-fonts": {
+            "admin": "julicen",
+            "epel": "julicen",
+            "fedora": "julicen"
+        },
         "atkmm": {
             "admin": "mclasen",
             "epel": "mclasen",
@@ -38972,9 +38982,9 @@
             "fedora": "music"
         },
         "gi-loadouts": {
-            "admin": "t0xic0der",
-            "epel": "t0xic0der",
-            "fedora": "t0xic0der"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "giac": {
             "admin": "sagitter",
@@ -47047,9 +47057,9 @@
             "fedora": "orphan"
         },
         "golang-github-gobwas-ws": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "qulogic",
+            "epel": "qulogic",
+            "fedora": "qulogic"
         },
         "golang-github-goccy-json": {
             "admin": "eclipseo",
@@ -68216,6 +68226,11 @@
             "epel": "germano",
             "fedora": "germano"
         },
+        "keepsecret": {
+            "admin": "farchord",
+            "epel": "farchord",
+            "fedora": "farchord"
+        },
         "kefir": {
             "admin": "fed500",
             "epel": "fed500",
@@ -81720,6 +81735,11 @@
             "admin": "jwboyer",
             "epel": "jwboyer",
             "fedora": "jwboyer"
+        },
+        "manifold": {
+            "admin": "luya",
+            "epel": "luya",
+            "fedora": "luya"
         },
         "mankalaengine": {
             "admin": "srisharanvs",
@@ -103037,9 +103057,9 @@
             "fedora": "orphan"
         },
         "openscap-report": {
-            "admin": "evgenyz",
-            "epel": "evgenyz",
-            "fedora": "evgenyz"
+            "admin": "mburket",
+            "epel": "mburket",
+            "fedora": "mburket"
         },
         "openser": {
             "admin": "orphan",
@@ -103907,9 +103927,9 @@
             "fedora": "ngompa"
         },
         "oscap-anaconda-addon": {
-            "admin": "evgenyz",
-            "epel": "evgenyz",
-            "fedora": "evgenyz"
+            "admin": "mburket",
+            "epel": "mburket",
+            "fedora": "mburket"
         },
         "oscillatord": {
             "admin": "vfedorenko",
@@ -104092,9 +104112,9 @@
             "fedora": "mikelo2"
         },
         "oval-graph": {
-            "admin": "evgenyz",
-            "epel": "evgenyz",
-            "fedora": "evgenyz"
+            "admin": "mburket",
+            "epel": "mburket",
+            "fedora": "mburket"
         },
         "ovaldi": {
             "admin": "orphan",
@@ -139691,6 +139711,11 @@
             "epel": "trix",
             "fedora": "trix"
         },
+        "python-eip712": {
+            "admin": "peter",
+            "epel": "peter",
+            "fedora": "peter"
+        },
         "python-elastic-transport": {
             "admin": "aekoroglu",
             "epel": "aekoroglu",
@@ -146892,9 +146917,9 @@
             "fedora": "sergiopr"
         },
         "python-pandas-flavor": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pandocfilters": {
             "admin": "zbyszek",
@@ -151007,9 +151032,9 @@
             "fedora": "nathans"
         },
         "python-rnc2rng": {
-            "admin": "iztokf",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "iztokf"
+            "fedora": "orphan"
         },
         "python-robofab": {
             "admin": "orphan",
@@ -167882,9 +167907,9 @@
             "fedora": "@rust-sig"
         },
         "rust-async_http_range_reader": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-async_zip": {
             "admin": "decathorpe",
@@ -170325,6 +170350,11 @@
             "admin": "salimma",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-cose-rust": {
+            "admin": "alakatos",
+            "epel": "alakatos",
+            "fedora": "alakatos"
         },
         "rust-count-zeroes": {
             "admin": "dcavalca",
@@ -183346,6 +183376,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "rust-reqwest-retry0.7": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-reqwest0.10": {
             "admin": "orphan",
             "epel": "orphan",
@@ -183407,6 +183442,11 @@
             "fedora": "@rust-sig"
         },
         "rust-retry-policies": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "rust-retry-policies0.4": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"
@@ -184315,6 +184355,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-scientific": {
+            "admin": "alakatos",
+            "epel": "alakatos",
+            "fedora": "alakatos"
         },
         "rust-scientific-macro": {
             "admin": "alakatos",
@@ -189136,6 +189181,11 @@
             "epel": "slp",
             "fedora": "slp"
         },
+        "rust-virglrenderer-sys": {
+            "admin": "dorinda",
+            "epel": "dorinda",
+            "fedora": "dorinda"
+        },
         "rust-virtio-bindings": {
             "admin": "slp",
             "epel": "slp",
@@ -191032,9 +191082,9 @@
             "fedora": "vpolasek"
         },
         "scap-workbench": {
-            "admin": "evgenyz",
+            "admin": "mburket",
             "epel": "orphan",
-            "fedora": "evgenyz"
+            "fedora": "mburket"
         },
         "scapy": {
             "admin": "jonathanspw",
@@ -203345,6 +203395,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "vipr": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
         },
         "vips": {
             "admin": "agoode",
