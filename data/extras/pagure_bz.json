@@ -1481,6 +1481,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "keepsecret": [
+            "yselkowitz"
+        ],
         "kexi": [
             "@flatpak-sig",
             "yselkowitz"
@@ -33203,7 +33206,7 @@
         ],
         "golang-cloud-google-monitoring": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-cloud-google-osconfig": [
             "@go-sig",
@@ -33227,7 +33230,7 @@
         ],
         "golang-cloud-google-trace": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-code-cloudfoundry-bytefmt": [
             "@go-sig",
@@ -33964,7 +33967,7 @@
         ],
         "golang-github-armon-metrics": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-armon-proxyproto": [
             "orphan"
@@ -38561,7 +38564,7 @@
         "golang-github-magiconair-properties": [
             "@go-sig",
             "jchaloup",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-mail-v2": [
             "orphan"
@@ -39338,7 +39341,7 @@
         ],
         "golang-github-nats-io-nuid": [
             "@go-sig",
-            "fuller"
+            "orphan"
         ],
         "golang-github-nats-io-stan": [
             "@go-sig",
@@ -40703,7 +40706,7 @@
         ],
         "golang-github-sagikazarmark-slog-shim": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-sahilm-fuzzy": [
             "@go-sig",
@@ -50551,9 +50554,9 @@
         ],
         "jena": [
             "java-sig",
+            "kathenas",
             "mizdebsk",
-            "msrb",
-            "orphan"
+            "msrb"
         ],
         "jena-iri": [
             "java-sig",
@@ -64455,7 +64458,7 @@
         "maven-install-plugin": [
             "huwang",
             "java-sig",
-            "orphan"
+            "kathenas"
         ],
         "maven-invoker": [
             "@epel-packagers-sig",
@@ -64644,7 +64647,7 @@
         "maven-scm": [
             "guidograzioli",
             "java-sig",
-            "orphan"
+            "kathenas"
         ],
         "maven-script-interpreter": [
             "@epel-packagers-sig",
@@ -127170,7 +127173,7 @@
             "orphan"
         ],
         "rubygem-facon": [
-            "vondruch"
+            "orphan"
         ],
         "rubygem-factory_bot": [
             "orphan"
@@ -127568,15 +127571,15 @@
         ],
         "rubygem-http_connection": [
             "clalance",
-            "vondruch"
+            "orphan"
         ],
         "rubygem-http_parser.rb": [
             "ilgrad",
             "vondruch"
         ],
         "rubygem-httparty": [
-            "valtri",
-            "vondruch"
+            "orphan",
+            "valtri"
         ],
         "rubygem-httpclient": [
             "brandfbb",
@@ -127658,7 +127661,6 @@
             "vondruch"
         ],
         "rubygem-jekyll": [
-            "@ruby-packagers-sig",
             "besser82",
             "frantisekz",
             "orphan"
@@ -127677,7 +127679,6 @@
             "orphan"
         ],
         "rubygem-jekyll-sass-converter": [
-            "@ruby-packagers-sig",
             "besser82",
             "frantisekz",
             "orphan"
@@ -127686,7 +127687,6 @@
             "orphan"
         ],
         "rubygem-jekyll-toc": [
-            "@ruby-packagers-sig",
             "orphan"
         ],
         "rubygem-jekyll-watch": [
@@ -143262,6 +143262,12 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-rustyline-derive0.10": [
+            "decathorpe"
+        ],
+        "rust-rustyline14": [
+            "decathorpe"
+        ],
         "rust-rutabaga_gfx": [
             "@rust-sig",
             "dorinda"
@@ -143755,6 +143761,9 @@
         ],
         "rust-serde_json0.8": [
             "orphan"
+        ],
+        "rust-serde_norway": [
+            "terjeros"
         ],
         "rust-serde_path_to_error": [
             "@rust-sig",
@@ -150342,7 +150351,7 @@
         "slowhttptest": [
             "dfateyev",
             "fab",
-            "orphan"
+            "ffmancera"
         ],
         "slowloris": [
             "jonathanspw"

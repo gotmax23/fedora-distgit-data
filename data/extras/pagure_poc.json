@@ -1807,6 +1807,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "keepsecret": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "kexi": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -42827,9 +42832,9 @@
             "fedora": "mikelo2"
         },
         "golang-cloud-google-monitoring": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-cloud-google-osconfig": {
             "admin": "orphan",
@@ -42857,9 +42862,9 @@
             "fedora": "mikelo2"
         },
         "golang-cloud-google-trace": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-code-cloudfoundry-bytefmt": {
             "admin": "mikelo2",
@@ -43842,9 +43847,9 @@
             "fedora": "eclipseo"
         },
         "golang-github-armon-metrics": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-armon-proxyproto": {
             "admin": "orphan",
@@ -49877,9 +49882,9 @@
             "fedora": "orphan"
         },
         "golang-github-magiconair-properties": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-mail-v2": {
             "admin": "orphan",
@@ -50892,9 +50897,9 @@
             "fedora": "fuller"
         },
         "golang-github-nats-io-nuid": {
-            "admin": "fuller",
-            "epel": "fuller",
-            "fedora": "fuller"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-nats-io-stan": {
             "admin": "orphan",
@@ -52642,9 +52647,9 @@
             "fedora": "orphan"
         },
         "golang-github-sagikazarmark-slog-shim": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-sahilm-fuzzy": {
             "admin": "orphan",
@@ -65407,9 +65412,9 @@
             "fedora": "orphan"
         },
         "jena": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "kathenas",
+            "epel": "kathenas",
+            "fedora": "kathenas"
         },
         "jena-iri": {
             "admin": "orphan",
@@ -82607,9 +82612,9 @@
             "fedora": "orphan"
         },
         "maven-install-plugin": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "kathenas",
+            "epel": "kathenas",
+            "fedora": "kathenas"
         },
         "maven-invoker": {
             "admin": "korkeala",
@@ -82802,9 +82807,9 @@
             "fedora": "mkoncek"
         },
         "maven-scm": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "kathenas",
+            "epel": "kathenas",
+            "fedora": "kathenas"
         },
         "maven-script-interpreter": {
             "admin": "korkeala",
@@ -163672,9 +163677,9 @@
             "fedora": "orphan"
         },
         "rubygem-facon": {
-            "admin": "vondruch",
-            "epel": "vondruch",
-            "fedora": "vondruch"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-factory_bot": {
             "admin": "orphan",
@@ -164247,9 +164252,9 @@
             "fedora": "mtasaka"
         },
         "rubygem-http_connection": {
-            "admin": "vondruch",
-            "epel": "vondruch",
-            "fedora": "vondruch"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-http_parser.rb": {
             "admin": "vondruch",
@@ -164257,9 +164262,9 @@
             "fedora": "vondruch"
         },
         "rubygem-httparty": {
-            "admin": "vondruch",
+            "admin": "orphan",
             "epel": "valtri",
-            "fedora": "vondruch"
+            "fedora": "orphan"
         },
         "rubygem-httpclient": {
             "admin": "tdawson",
@@ -184206,6 +184211,16 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-rustyline-derive0.10": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-rustyline14": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-rutabaga_gfx": {
             "admin": "dorinda",
             "epel": "dorinda",
@@ -184830,6 +184845,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "rust-serde_norway": {
+            "admin": "terjeros",
+            "epel": "terjeros",
+            "fedora": "terjeros"
         },
         "rust-serde_path_to_error": {
             "admin": "decathorpe",
@@ -193302,9 +193322,9 @@
             "fedora": "netvor"
         },
         "slowhttptest": {
-            "admin": "orphan",
+            "admin": "ffmancera",
             "epel": "dfateyev",
-            "fedora": "orphan"
+            "fedora": "ffmancera"
         },
         "slowloris": {
             "admin": "jonathanspw",
