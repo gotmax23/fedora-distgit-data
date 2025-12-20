@@ -15535,6 +15535,8 @@
             "ryanabx"
         ],
         "cosmic-player": [
+            "@cosmic-sig",
+            "@rust-sig",
             "ryanabx"
         ],
         "cosmic-randr": [
@@ -33019,7 +33021,7 @@
         ],
         "gobuster": [
             "@go-sig",
-            "orphan",
+            "infraw",
             "rebus"
         ],
         "gocl": [
@@ -76994,10 +76996,12 @@
         ],
         "obs-studio-plugin-vkcapture": [
             "@multimedia-sig",
+            "hoshinolina",
             "ngompa"
         ],
         "obs-studio-plugin-webkitgtk": [
             "@multimedia-sig",
+            "hoshinolina",
             "ngompa"
         ],
         "obsctl": [
@@ -120235,7 +120239,7 @@
         "python-typeguard": [
             "@epel-packagers-sig",
             "dcavalca",
-            "music",
+            "orphan",
             "salimma"
         ],
         "python-typepad": [
@@ -122856,6 +122860,9 @@
         ],
         "pywebkitgtk": [
             "orphan"
+        ],
+        "pywhispercpp": [
+            "matiwari"
         ],
         "pyxapian": [
             "orphan"
@@ -133480,6 +133487,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-ear": [
+            "alakatos"
+        ],
         "rust-easy-cast": [
             "@rust-sig",
             "decathorpe"
@@ -142496,6 +142506,9 @@
         "rust-region": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-regorus": [
+            "alakatos"
         ],
         "rust-reis": [
             "@rust-sig",
@@ -162925,7 +162938,7 @@
             "orphan"
         ],
         "znc-push": [
-            "orphan"
+            "luk1337"
         ],
         "znerd-oss-parent": [
             "gil",

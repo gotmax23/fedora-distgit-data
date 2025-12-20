@@ -42597,9 +42597,9 @@
             "fedora": "walters"
         },
         "gobuster": {
-            "admin": "orphan",
+            "admin": "infraw",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "infraw"
         },
         "gocl": {
             "admin": "orphan",
@@ -154477,9 +154477,9 @@
             "fedora": "orphan"
         },
         "python-typeguard": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-typepad": {
             "admin": "orphan",
@@ -158030,6 +158030,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "pywhispercpp": {
+            "admin": "matiwari",
+            "epel": "matiwari",
+            "fedora": "matiwari"
         },
         "pyxapian": {
             "admin": "orphan",
@@ -171871,6 +171876,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-ear": {
+            "admin": "alakatos",
+            "epel": "alakatos",
+            "fedora": "alakatos"
+        },
         "rust-easy-cast": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -183210,6 +183220,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-regorus": {
+            "admin": "alakatos",
+            "epel": "alakatos",
+            "fedora": "alakatos"
         },
         "rust-reis": {
             "admin": "decathorpe",
@@ -210007,9 +210022,9 @@
             "fedora": "orphan"
         },
         "znc-push": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "luk1337",
+            "epel": "luk1337",
+            "fedora": "luk1337"
         },
         "znerd-oss-parent": {
             "admin": "orphan",
