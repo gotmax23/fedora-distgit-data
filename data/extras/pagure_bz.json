@@ -84,7 +84,6 @@
         "greenwave": [
             "dcallagh",
             "lholecek",
-            "mjia",
             "orphan"
         ],
         "haproxy": [
@@ -326,7 +325,6 @@
         ],
         "waiverdb": [
             "lholecek",
-            "mjia",
             "orphan"
         ]
     },
@@ -1850,7 +1848,7 @@
         ],
         "libreoffice": [
             "@flatpak-sig",
-            "sbergmann"
+            "orphan"
         ],
         "libreoffice-help": [
             "@flatpak-sig",
@@ -2792,7 +2790,6 @@
             "bgoncalv",
             "ignatenkobrain",
             "orphan",
-            "rdossant",
             "sgallagh",
             "tdawson"
         ],
@@ -2869,8 +2866,7 @@
             "@go-sig",
             "buckaroogeek",
             "dougsland",
-            "haircommander",
-            "umohnani"
+            "haircommander"
         ],
         "cri-tools": [
             "@go-sig",
@@ -2988,7 +2984,6 @@
         ],
         "hardware-support": [
             "orphan",
-            "rdossant",
             "sgallagh"
         ],
         "hdf5": [
@@ -3003,7 +2998,6 @@
         "host": [
             "bgoncalv",
             "orphan",
-            "rdossant",
             "sgallagh"
         ],
         "httpd": [
@@ -3280,7 +3274,6 @@
         "platform": [
             "ignatenkobrain",
             "orphan",
-            "rdossant",
             "sgallagh"
         ],
         "postfix": [
@@ -3645,7 +3638,6 @@
             "orphan"
         ],
         "99soft-oss-parent": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -3718,7 +3710,6 @@
             "hobbes1069"
         ],
         "BareBonesBrowserLaunch": [
-            "gil",
             "orion"
         ],
         "BibTool": [
@@ -3765,7 +3756,6 @@
             "sagitter"
         ],
         "CPUFreqUtility": [
-            "f1ash",
             "orphan"
         ],
         "CQRlib": [
@@ -4143,7 +4133,6 @@
             "jwrdegoede"
         ],
         "HikariCP": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -4276,8 +4265,7 @@
             "ankursinha"
         ],
         "Macaulay2": [
-            "jjames",
-            "rdieter"
+            "jjames"
         ],
         "Maelstrom": [
             "gui1ty"
@@ -6453,7 +6441,6 @@
             "ankursinha"
         ],
         "RasmusDSP": [
-            "oget",
             "orphan"
         ],
         "Ray": [
@@ -6589,7 +6576,6 @@
             "orphan"
         ],
         "SFCGAL": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rineau",
@@ -6641,7 +6627,6 @@
             "than"
         ],
         "SevenZip": [
-            "oget",
             "orphan"
         ],
         "ShellCheck": [
@@ -6859,7 +6844,6 @@
             "@asahi-sig",
             "brunovernay",
             "nphilipp",
-            "oget",
             "tartina"
         ],
         "a2ps": [
@@ -6886,7 +6870,6 @@
             "xavierb"
         ],
         "aalto-xml": [
-            "gil",
             "orphan"
         ],
         "aardvark-dns": [
@@ -7101,12 +7084,10 @@
             "churchyard"
         ],
         "activeio": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "activemq": [
-            "gil",
             "orphan",
             "tdawson"
         ],
@@ -7114,7 +7095,6 @@
             "jonathanspw"
         ],
         "activemq-protobuf": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -7478,7 +7458,6 @@
             "denisarnaud"
         ],
         "airline": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -7613,7 +7592,6 @@
             "hobbes1069"
         ],
         "aldrin": [
-            "oget",
             "orphan"
         ],
         "aldusleaf-crimson-text-fonts": [
@@ -7975,12 +7953,10 @@
             "mblaha"
         ],
         "android-json-org-java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "android-opengl-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -8056,7 +8032,6 @@
             "siddhesh"
         ],
         "annogen": [
-            "gil",
             "orphan"
         ],
         "annotation-indexer": [
@@ -8065,7 +8040,6 @@
             "orphan"
         ],
         "annox": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -8287,7 +8261,6 @@
             "adrian"
         ],
         "antlr": [
-            "gil",
             "mizdebsk",
             "mkoncek"
         ],
@@ -8374,7 +8347,6 @@
             "spike"
         ],
         "apache-commons-chain": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -8415,7 +8387,6 @@
             "spike"
         ],
         "apache-commons-configuration2": [
-            "gil",
             "orphan"
         ],
         "apache-commons-csv": [
@@ -8473,17 +8444,14 @@
             "spike"
         ],
         "apache-commons-javaflow": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "apache-commons-jci": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "apache-commons-jcs": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -8538,7 +8506,6 @@
             "spike"
         ],
         "apache-commons-ognl": [
-            "gil",
             "orphan"
         ],
         "apache-commons-parent": [
@@ -8552,12 +8519,10 @@
             "spike"
         ],
         "apache-commons-pool2": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "apache-commons-primitives": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -8570,7 +8535,6 @@
         ],
         "apache-commons-vfs": [
             "@epel-packagers-sig",
-            "gil",
             "java-sig",
             "limb",
             "salimma"
@@ -8590,7 +8554,6 @@
             "orphan"
         ],
         "apache-log4j-extras": [
-            "gil",
             "java-sig",
             "moceap",
             "orphan"
@@ -8630,22 +8593,18 @@
             "orphan"
         ],
         "apache-sshd": [
-            "gil",
             "java-sig",
             "mbooth",
             "msrb"
         ],
         "apacheds": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "apacheds-jdbm": [
-            "gil",
             "orphan"
         ],
         "apacheds-ldap-api": [
-            "gil",
             "orphan"
         ],
         "apacheds-ldap-client": [
@@ -8683,7 +8642,6 @@
             "tagoh"
         ],
         "apfloat-java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -8929,7 +8887,6 @@
         "arch-install-scripts": [
             "@epel-packagers-sig",
             "cicku",
-            "ecurtin",
             "zbyszek"
         ],
         "arch-test": [
@@ -8959,7 +8916,6 @@
             "tpokorra"
         ],
         "ardour": [
-            "green",
             "orphan"
         ],
         "ardour2": [
@@ -9020,7 +8976,6 @@
             "praiskup"
         ],
         "argparse4j": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -9064,27 +9019,22 @@
             "orphan"
         ],
         "aries-blueprint-annotation-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "aries-blueprint-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "aries-blueprint-cm": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "aries-blueprint-core": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "aries-blueprint-parser": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -9092,12 +9042,10 @@
             "orphan"
         ],
         "aries-proxy-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "aries-proxy-impl": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -9105,17 +9053,14 @@
             "orphan"
         ],
         "aries-quiesce-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "aries-quiesce-manager": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "aries-util": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -9192,7 +9137,6 @@
             "tdawson"
         ],
         "armstrong": [
-            "oget",
             "orphan"
         ],
         "aron": [
@@ -9234,7 +9178,6 @@
             "music"
         ],
         "arquillian-core": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -9245,12 +9188,10 @@
             "jwrdegoede"
         ],
         "artemis": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "artemis-wildfly-integration": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -9394,7 +9335,6 @@
             "mikelo2"
         ],
         "aspectjweaver": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -9705,7 +9645,6 @@
             "spot"
         ],
         "async": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -9715,11 +9654,9 @@
             "orphan"
         ],
         "async-http-client1": [
-            "gil",
             "orphan"
         ],
         "asynchbase": [
-            "gil",
             "orphan"
         ],
         "at": [
@@ -9881,7 +9818,6 @@
             "salimma"
         ],
         "aubio": [
-            "green",
             "nphilipp",
             "tartina"
         ],
@@ -10008,12 +9944,10 @@
             "thalman"
         ],
         "auto": [
-            "gil",
             "java-sig",
             "mbooth"
         ],
         "auto-buildrequires": [
-            "oget",
             "rjones"
         ],
         "auto-destdir": [
@@ -10072,7 +10006,6 @@
             "iankent"
         ],
         "autogen": [
-            "green",
             "tkorbar"
         ],
         "autojump": [
@@ -10112,7 +10045,6 @@
             "orphan"
         ],
         "automoc": [
-            "rdieter",
             "than"
         ],
         "autorandr": [
@@ -10309,7 +10241,6 @@
             "orphan"
         ],
         "aws-sdk-java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -10349,11 +10280,9 @@
             "ankursinha"
         ],
         "axiom": [
-            "gil",
             "orphan"
         ],
         "axion": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -10363,7 +10292,6 @@
             "orphan"
         ],
         "axis2": [
-            "gil",
             "orphan"
         ],
         "axis2c": [
@@ -10394,7 +10322,6 @@
             "jcline"
         ],
         "azureus": [
-            "green",
             "orphan"
         ],
         "b43-fwcutter": [
@@ -10512,8 +10439,7 @@
         ],
         "baloo": [
             "@kde-sig",
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "baloo-kcmadv": [
             "orphan"
@@ -10628,7 +10554,9 @@
         "bashdb": [
             "orphan"
         ],
-        "bashmount": [],
+        "bashmount": [
+            "orphan"
+        ],
         "bashtop": [
             "orphan"
         ],
@@ -10695,8 +10623,7 @@
         ],
         "bcc": [
             "acaringi",
-            "jmarchan",
-            "rdossant"
+            "jmarchan"
         ],
         "bcd": [
             "kwizart"
@@ -10780,12 +10707,10 @@
             "mvadkert"
         ],
         "bean-validation-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "bean-validation-api11": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -11126,8 +11051,7 @@
             "pbrobinson"
         ],
         "bio2jack": [
-            "dtimms",
-            "oget"
+            "dtimms"
         ],
         "bionetgen": [
             "@neuro-sig",
@@ -11583,7 +11507,6 @@
             "salimma"
         ],
         "boilerpipe": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -11629,7 +11552,6 @@
             "orphan"
         ],
         "bookkeeper": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -11761,11 +11683,9 @@
         ],
         "bouncycastle": [
             "ellert",
-            "gil",
             "mbooth"
         ],
         "bouncycastle-mail": [
-            "oget",
             "orphan"
         ],
         "bouncycastle-pg": [
@@ -11775,7 +11695,6 @@
             "orphan"
         ],
         "bouncycastle-tsp": [
-            "oget",
             "orphan"
         ],
         "bouncycastle1.58": [
@@ -11833,7 +11752,6 @@
         "bpftrace": [
             "acaringi",
             "jmarchan",
-            "rdossant",
             "vmalik"
         ],
         "bpg-fonts": [
@@ -12006,7 +11924,6 @@
             "orphan"
         ],
         "btm": [
-            "gil",
             "orphan"
         ],
         "btop": [
@@ -12044,7 +11961,6 @@
             "chrismurphy",
             "dcavalca",
             "ignatenkobrain",
-            "josef",
             "ngompa",
             "salimma",
             "sandeen"
@@ -12248,7 +12164,6 @@
             "salimma"
         ],
         "bval": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -12270,8 +12185,7 @@
             "wart"
         ],
         "bwm-ng": [
-            "cicku",
-            "ttorling"
+            "cicku"
         ],
         "bwping": [
             "alciregi"
@@ -12314,8 +12228,7 @@
             "orphan"
         ],
         "byteman": [
-            "jerboaa",
-            "jhuttana"
+            "jerboaa"
         ],
         "byzanz": [
             "company",
@@ -12586,8 +12499,7 @@
             "farchord"
         ],
         "calf": [
-            "limb",
-            "oget"
+            "limb"
         ],
         "calibre": [
             "adscvr",
@@ -12679,7 +12591,6 @@
             "ellert"
         ],
         "canorus": [
-            "oget",
             "orphan"
         ],
         "cantata": [
@@ -12743,8 +12654,7 @@
             "orphan"
         ],
         "cargo": [
-            "orphan",
-            "ttorling"
+            "orphan"
         ],
         "cargo-parent": [
             "orphan"
@@ -12780,7 +12690,6 @@
             "orphan"
         ],
         "cas-client": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -12908,8 +12817,8 @@
         ],
         "ccache": [
             "ghishadow",
-            "mich181189",
-            "orion"
+            "orion",
+            "orphan"
         ],
         "ccd2iso": [
             "msk61"
@@ -12992,7 +12901,6 @@
             "orphan"
         ],
         "cdi-api": [
-            "gil",
             "java-sig",
             "mizdebsk",
             "mkoncek"
@@ -13002,7 +12910,6 @@
             "orphan"
         ],
         "cdi-api11": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -13145,7 +13052,6 @@
         ],
         "ceph": [
             "branto",
-            "josef",
             "kkeithle",
             "marcan",
             "steve",
@@ -13164,7 +13070,7 @@
             "junghans"
         ],
         "ceres-solver": [
-            "nocnokneo",
+            "orphan",
             "rmattes",
             "smani"
         ],
@@ -13239,7 +13145,6 @@
             "orphan"
         ],
         "cgdb": [
-            "ecurtin",
             "gilboa",
             "jstanek"
         ],
@@ -13343,8 +13248,7 @@
             "orphan"
         ],
         "checkgmail": [
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "checkmake": [
             "@go-sig",
@@ -13671,7 +13575,7 @@
             "rathann"
         ],
         "cl-asdf": [
-            "green"
+            "orphan"
         ],
         "clac": [
             "orphan"
@@ -13823,7 +13727,6 @@
             "zmiklank"
         ],
         "classmate": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -13846,7 +13749,6 @@
             "orphan"
         ],
         "classycle": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -13919,7 +13821,6 @@
         ],
         "clementine": [
             "jgrulich",
-            "oget",
             "yselkowitz"
         ],
         "clevis": [
@@ -13937,7 +13838,6 @@
             "orphan"
         ],
         "cli-parser": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -13993,7 +13893,6 @@
             "jjames"
         ],
         "clisp": [
-            "green",
             "jjames"
         ],
         "clitest": [
@@ -14083,12 +13982,10 @@
             "rathann"
         ],
         "clthreads": [
-            "oget",
             "tartina"
         ],
         "clucene": [
-            "limb",
-            "rdieter"
+            "limb"
         ],
         "clucene09": [
             "orphan"
@@ -14141,8 +14038,7 @@
             "walters"
         ],
         "clutter-cairo": [
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "clutter-cairomm": [
             "orphan"
@@ -14292,7 +14188,6 @@
             "orphan"
         ],
         "cmucl": [
-            "green",
             "orphan"
         ],
         "cmusphinx3": [
@@ -14364,8 +14259,8 @@
         ],
         "cockpit-composer": [
             "@osbuild-sig",
-            "jkozol",
-            "martinpitt"
+            "martinpitt",
+            "orphan"
         ],
         "cockpit-file-sharing": [
             "orphan"
@@ -14431,7 +14326,6 @@
             "robert"
         ],
         "codegen": [
-            "gil",
             "java-sig",
             "orphan",
             "raphgro"
@@ -14448,13 +14342,11 @@
             "orphan"
         ],
         "codemodel": [
-            "gil",
             "java-sig",
             "mizdebsk",
             "orphan"
         ],
         "codenarc": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -14691,7 +14583,7 @@
             "orphan"
         ],
         "common-lisp-controller": [
-            "green"
+            "orphan"
         ],
         "commoncpp2": [
             "ixs",
@@ -14703,7 +14595,6 @@
         "community-mysql": [
             "hhorak",
             "ljavorsk",
-            "mmuzila",
             "mschorm"
         ],
         "comoonics-base-py": [
@@ -14875,8 +14766,7 @@
             "orphan"
         ],
         "compat-tidy": [
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "compat-tolua++": [
             "jwrdegoede"
@@ -15007,7 +14897,6 @@
             "remi"
         ],
         "compress-lzf": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -15041,7 +14930,6 @@
             "orphan"
         ],
         "concurrentlinkedhashmap-lru": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -15137,8 +15025,7 @@
             "haircommander",
             "jnovy",
             "lsm5",
-            "mohanboddu",
-            "umohnani"
+            "mohanboddu"
         ],
         "conmux": [
             "bpeck"
@@ -15878,7 +15765,6 @@
             "orphan"
         ],
         "creox": [
-            "oget",
             "orphan"
         ],
         "crest": [
@@ -15924,8 +15810,7 @@
             "buckaroogeek",
             "dwalsh",
             "gotmax23",
-            "haircommander",
-            "umohnani"
+            "haircommander"
         ],
         "cri-tools1.29": [
             "@go-sig",
@@ -15984,7 +15869,6 @@
         "cronie": [
             "jstanek",
             "mmaslano",
-            "mmuzila",
             "nixuser",
             "opohorel",
             "tmraz"
@@ -15996,7 +15880,6 @@
         "crontabs": [
             "jstanek",
             "mmaslano",
-            "mmuzila",
             "opohorel",
             "tmraz"
         ],
@@ -16119,7 +16002,6 @@
             "thunderbirdtr"
         ],
         "cryptacular": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -16268,7 +16150,6 @@
             "orphan"
         ],
         "csvjdbc": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -16294,7 +16175,6 @@
         ],
         "ctan-musixtex-fonts": [
             "fonts-sig",
-            "oget",
             "orphan"
         ],
         "ctapi-common": [
@@ -16437,12 +16317,10 @@
             "orphan"
         ],
         "curve25519-java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "curvesapi": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -16508,7 +16386,7 @@
         ],
         "cvsps": [
             "hhorak",
-            "mmuzila",
+            "orphan",
             "salimma"
         ],
         "cvsup": [
@@ -16543,7 +16421,6 @@
             "orphan"
         ],
         "cxf": [
-            "gil",
             "orphan"
         ],
         "cxf-build-utils": [
@@ -16657,7 +16534,6 @@
             "slankes"
         ],
         "dagger": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -16751,8 +16627,7 @@
             "aekoroglu",
             "asn",
             "germano",
-            "kalev",
-            "madko"
+            "kalev"
         ],
         "dash": [
             "dcantrell",
@@ -16818,8 +16693,7 @@
             "orphan"
         ],
         "dateutils": [
-            "mattdm",
-            "ttorling"
+            "mattdm"
         ],
         "datovka": [
             "jruzicka",
@@ -16878,7 +16752,6 @@
             "orphan"
         ],
         "dbunit": [
-            "gil",
             "orphan"
         ],
         "dbus": [
@@ -17131,10 +17004,10 @@
             "dcavalca"
         ],
         "deco": [
-            "oget"
+            "orphan"
         ],
         "deco-archive": [
-            "oget"
+            "orphan"
         ],
         "dee": [
             "adamwill",
@@ -17157,6 +17030,9 @@
             "felixonmars",
             "topazus",
             "zsun"
+        ],
+        "deepin-application-manager": [
+            "topazus"
         ],
         "deepin-artwork-themes": [
             "orphan"
@@ -17464,8 +17340,7 @@
         "dejagnu": [
             "fjanus",
             "hhorak",
-            "mcermak",
-            "mmuzila"
+            "mcermak"
         ],
         "dejavu-fonts": [
             "aekoroglu",
@@ -17489,7 +17364,6 @@
             "defolos"
         ],
         "deltaspike": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -17980,7 +17854,6 @@
             "orphan"
         ],
         "directory-project": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -18055,7 +17928,6 @@
             "orphan"
         ],
         "disruptor": [
-            "gil",
             "java-sig",
             "mizdebsk",
             "mkoncek",
@@ -18127,21 +17999,18 @@
         ],
         "django-authopenid": [
             "ankursinha",
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "django-authority": [
             "mrunge",
             "orphan"
         ],
         "django-avatar": [
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "django-celery": [
             "mrunge",
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "django-contact-form": [
             "mrunge",
@@ -18149,8 +18018,7 @@
         ],
         "django-countries": [
             "mrunge",
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "django-dpaste": [
             "dcr226",
@@ -18176,13 +18044,11 @@
         ],
         "django-keyedcache": [
             "mrunge",
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "django-kombu": [
             "mrunge",
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "django-lint": [
             "orphan"
@@ -18202,8 +18068,7 @@
         ],
         "django-picklefield": [
             "mrunge",
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "django-piston": [
             "orphan"
@@ -18226,16 +18091,14 @@
             "orphan"
         ],
         "django-registration": [
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "django-reversion": [
             "mrunge",
             "orphan"
         ],
         "django-robots": [
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "django-sct": [
             "mrunge",
@@ -18263,8 +18126,7 @@
             "orphan"
         ],
         "django-threaded-multihost": [
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "django-threadedcomments": [
             "orphan"
@@ -18590,7 +18452,6 @@
             "thozza"
         ],
         "dnssec4j": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -18958,7 +18819,6 @@
             "than"
         ],
         "dozer": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -19801,11 +19661,9 @@
             "orphan"
         ],
         "dssi": [
-            "green",
             "tartina"
         ],
         "dssi-vst": [
-            "oget",
             "orphan"
         ],
         "dssp": [
@@ -19834,7 +19692,6 @@
             "pbrobinson"
         ],
         "dtdparser": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -20128,7 +19985,6 @@
             "orphan"
         ],
         "dynalink": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -20177,7 +20033,6 @@
             "terjeros"
         ],
         "e2fsprogs": [
-            "josef",
             "kasal",
             "kzak",
             "preichl",
@@ -20307,7 +20162,6 @@
             "manpaz"
         ],
         "ecc-25519-java": [
-            "gil",
             "orphan"
         ],
         "eccodes": [
@@ -20339,15 +20193,13 @@
             "omajid"
         ],
         "ecl": [
-            "fed500",
-            "green"
+            "fed500"
         ],
         "eclib": [
             "orphan",
             "pcpa"
         ],
         "eclipse": [
-            "ebaron",
             "orphan"
         ],
         "eclipse-abrt": [
@@ -20367,8 +20219,7 @@
             "orphan"
         ],
         "eclipse-cdt": [
-            "orphan",
-            "ttorling"
+            "orphan"
         ],
         "eclipse-changelog": [
             "jerboaa",
@@ -20469,7 +20320,6 @@
             "orphan"
         ],
         "eclipse-linuxprofilingframework": [
-            "ebaron",
             "jerboaa",
             "orphan"
         ],
@@ -20620,7 +20470,6 @@
             "orphan"
         ],
         "eclipse-paho-mqtt-java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -20709,7 +20558,6 @@
             "orphan"
         ],
         "eclipse-valgrind": [
-            "ebaron",
             "jerboaa",
             "orphan"
         ],
@@ -20759,12 +20607,10 @@
             "orphan"
         ],
         "eclipselink": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "eclipselink-persistence-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -20788,7 +20634,6 @@
             "music"
         ],
         "ed25519-java": [
-            "gil",
             "java-sig",
             "mbooth"
         ],
@@ -20935,7 +20780,6 @@
         ],
         "efs-utils": [
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "efte": [
@@ -21000,7 +20844,6 @@
             "orphan"
         ],
         "ehcache-core": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -21009,12 +20852,10 @@
             "orphan"
         ],
         "ehcache-sizeof-agent": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "ehcache2": [
-            "gil",
             "orphan"
         ],
         "eiciel": [
@@ -21030,8 +20871,7 @@
             "smani"
         ],
         "eina": [
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "eio": [
             "orphan"
@@ -21761,8 +21601,7 @@
             "gotmax23",
             "kevin",
             "ngompa",
-            "tibbs",
-            "ttorling"
+            "tibbs"
         ],
         "ephemeral": [
             "orphan"
@@ -22462,7 +22301,7 @@
         "et": [
             "dcavalca",
             "jjg",
-            "jshort",
+            "orphan",
             "salimma"
         ],
         "etcd": [
@@ -22542,8 +22381,7 @@
         ],
         "evas_generic_loaders": [
             "orphan",
-            "spot",
-            "sundaram"
+            "spot"
         ],
         "evemu": [
             "bentiss",
@@ -22566,7 +22404,6 @@
             "rstrode"
         ],
         "evo-inflector": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -22672,7 +22509,6 @@
         ],
         "exempi": [
             "jchaloup",
-            "mmuzila",
             "nforro"
         ],
         "exercism": [
@@ -22755,7 +22591,6 @@
             "mkoncek"
         ],
         "extra166y": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -22775,7 +22610,6 @@
             "limb"
         ],
         "extundelete": [
-            "patches",
             "robert"
         ],
         "eyesight": [
@@ -23065,7 +22899,6 @@
             "@epel-packagers-sig",
             "ckelley",
             "edewata",
-            "gil",
             "java-sig",
             "mfargett",
             "salimma"
@@ -23087,7 +22920,6 @@
             "orphan"
         ],
         "fastutil": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -23116,8 +22948,7 @@
             "till"
         ],
         "faust": [
-            "limb",
-            "oget"
+            "limb"
         ],
         "fawkes": [
             "orphan"
@@ -23374,7 +23205,7 @@
             "orphan"
         ],
         "fctxpd": [
-            "muneendra"
+            "orphan"
         ],
         "fdk-aac-free": [
             "wtaymans"
@@ -23794,7 +23625,6 @@
             "orphan"
         ],
         "felix-fileinstall": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -23838,7 +23668,6 @@
             "orphan"
         ],
         "felix-parent": [
-            "huwang",
             "mizdebsk",
             "mkoncek"
         ],
@@ -23846,12 +23675,10 @@
             "orphan"
         ],
         "felix-scr-annotations": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "felix-scr-generator": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -23859,7 +23686,6 @@
             "orphan"
         ],
         "felix-shell": [
-            "huwang",
             "orphan"
         ],
         "felix-utils": [
@@ -24304,7 +24130,6 @@
         ],
         "flacon": [
             "ignatenkobrain",
-            "ilgrad",
             "vascom"
         ],
         "flagpoll": [
@@ -24379,7 +24204,6 @@
             "orphan"
         ],
         "flatpack": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -24559,7 +24383,6 @@
             "martinkg"
         ],
         "flowcanvas": [
-            "oget",
             "orphan",
             "verdurin"
         ],
@@ -24596,15 +24419,12 @@
         ],
         "fluid-soundfont": [
             "kvolny",
-            "limb",
-            "oget"
+            "limb"
         ],
         "fluidsynth": [
-            "green",
             "pampelmuse"
         ],
         "fluidsynth-dssi": [
-            "green",
             "orphan"
         ],
         "flumotion": [
@@ -24636,7 +24456,6 @@
             "hobbes1069"
         ],
         "flyingsaucer": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -24662,7 +24481,6 @@
             "dwrobel"
         ],
         "fmpp": [
-            "gil",
             "orphan"
         ],
         "fmt": [
@@ -24899,8 +24717,7 @@
             "mkoncek",
             "ndim",
             "peter",
-            "scfc",
-            "ttorling"
+            "scfc"
         ],
         "forbidden-apis": [
             "orphan",
@@ -24910,7 +24727,6 @@
             "filiperosset"
         ],
         "forge-parent": [
-            "huwang",
             "java-sig",
             "jjelen",
             "mizdebsk",
@@ -25170,7 +24986,6 @@
             "pcahyna"
         ],
         "freemarker": [
-            "gil",
             "orphan"
         ],
         "freemedforms": [
@@ -25293,8 +25108,7 @@
         ],
         "frescobaldi": [
             "fedelibre",
-            "limb",
-            "oget"
+            "limb"
         ],
         "freshmaker": [
             "orphan"
@@ -25306,7 +25120,6 @@
             "tagoh"
         ],
         "frinika": [
-            "oget",
             "orphan"
         ],
         "fritzing": [
@@ -25316,8 +25129,7 @@
             "orphan"
         ],
         "frobby": [
-            "jjames",
-            "rdieter"
+            "jjames"
         ],
         "frog-protocols": [
             "@kde-sig",
@@ -25546,7 +25358,6 @@
             "orphan"
         ],
         "fusesource-pom": [
-            "gil",
             "java-sig",
             "mizdebsk",
             "mkoncek"
@@ -25834,7 +25645,6 @@
         ],
         "ganglia": [],
         "gant": [
-            "gil",
             "lkundrak",
             "orphan"
         ],
@@ -26315,7 +26125,6 @@
             "pcpa",
             "petersen",
             "praiskup",
-            "rdieter",
             "robert"
         ],
         "gcab": [
@@ -26378,7 +26187,6 @@
             "orphan"
         ],
         "gcl": [
-            "green",
             "jjames"
         ],
         "gcolor2": [
@@ -26635,8 +26443,8 @@
         "geany": [
             "dmaphy",
             "evgeni",
-            "josef",
             "nixuser",
+            "orphan",
             "pingou"
         ],
         "geany-plugins": [
@@ -26681,7 +26489,7 @@
             "orphan"
         ],
         "gecode": [
-            "jdunn"
+            "orphan"
         ],
         "geda-docs": [
             "orphan"
@@ -26782,7 +26590,6 @@
             "jwrdegoede"
         ],
         "gemini-blueprint": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -26816,7 +26623,6 @@
             "orphan"
         ],
         "generic-jms-ra": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -26864,7 +26670,6 @@
             "orphan"
         ],
         "gentlyweb-utils": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -26875,9 +26680,7 @@
         "genus2reduction": [
             "orphan"
         ],
-        "genwqe-tools": [
-            "rdossant"
-        ],
+        "genwqe-tools": [],
         "geoclue": [
             "orphan"
         ],
@@ -26904,7 +26707,6 @@
             "philipp"
         ],
         "geolatte-geom": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -26925,8 +26727,7 @@
             "orphan"
         ],
         "geomview": [
-            "jjames",
-            "rdieter"
+            "jjames"
         ],
         "geopmd": [
             "aekoroglu"
@@ -26951,7 +26752,6 @@
             "spike"
         ],
         "geronimo-commonj": [
-            "gil",
             "orphan"
         ],
         "geronimo-ejb": [
@@ -26968,17 +26768,14 @@
             "orphan"
         ],
         "geronimo-jcache": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "geronimo-jcdi-1.0-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "geronimo-jcdi-1.1-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -27009,12 +26806,10 @@
             "orphan"
         ],
         "geronimo-txmanager": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "geronimo-validation": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -30214,7 +30009,6 @@
             "music"
         ],
         "gherkin2-java": [
-            "gil",
             "orphan"
         ],
         "ghex": [
@@ -30309,8 +30103,7 @@
             "dcavalca"
         ],
         "gimmage": [
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "gimmie": [
             "orphan"
@@ -30774,17 +30567,14 @@
             "jonathanspw"
         ],
         "glassfish-annotation-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-dtd-parser": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-ejb-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -30796,37 +30586,30 @@
             "orphan"
         ],
         "glassfish-enterprise-concurrent": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-enterprise-concurrent-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-fastinfoset": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-gmbal": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-ha-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-hk2": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-jax-rs-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -30834,17 +30617,14 @@
             "orphan"
         ],
         "glassfish-jaxb-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-jaxrpc-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-jaxws": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -30857,32 +30637,26 @@
             "orphan"
         ],
         "glassfish-legal": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-management-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-master-pom": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-pfl": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-policy": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-saaj": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -30891,17 +30665,14 @@
             "orphan"
         ],
         "glassfish-toplink-essentials": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-transaction-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "glassfish-websocket-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -31535,12 +31306,10 @@
             "fuller"
         ],
         "gmaven": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "gmavenplus-plugin": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -31551,12 +31320,10 @@
             "orphan"
         ],
         "gmetric4j": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "gmetrics": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -31586,7 +31353,6 @@
             "orphan"
         ],
         "gmm": [
-            "rdieter",
             "sagitter"
         ],
         "gmobile": [
@@ -31995,7 +31761,6 @@
         ],
         "gnome-guitar": [
             "narasim",
-            "oget",
             "orphan"
         ],
         "gnome-hearts": [
@@ -32752,8 +32517,7 @@
         "gnote": [
             "@gnome-sig",
             "kalev",
-            "mclasen",
-            "sundaram"
+            "mclasen"
         ],
         "gnotime": [
             "orphan"
@@ -33731,11 +33495,11 @@
         ],
         "golang-github-alibabacloud-debug": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-alibabacloud-tea": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-alicebob-gopher-json": [
             "orphan"
@@ -33745,25 +33509,23 @@
         ],
         "golang-github-aliyun-alibaba-cloud-sdk": [
             "@go-sig",
-            "bdperkin",
             "eclipseo"
         ],
         "golang-github-aliyun-cli": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-aliyun-credentials": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-aliyun-oss-sdk": [
             "@go-sig",
-            "bdperkin",
             "eclipseo"
         ],
         "golang-github-aliyun-ossutil": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-allan-simon-singleinstance": [
             "@go-sig",
@@ -33776,7 +33538,7 @@
         ],
         "golang-github-alyu-configparser": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-anacrolix-dms": [
             "@go-sig",
@@ -35663,7 +35425,7 @@
         ],
         "golang-github-droundy-goopt": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-dsnet-compress": [
             "@go-sig",
@@ -35692,7 +35454,7 @@
         ],
         "golang-github-dustinkirkland-petname": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-dustmop-soup": [
             "orphan"
@@ -36195,7 +35957,7 @@
         ],
         "golang-github-gehirninc-crypt": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-gengo-grpc-gateway": [
             "jchaloup",
@@ -36214,7 +35976,6 @@
         ],
         "golang-github-getkin-kin-openapi": [
             "@go-sig",
-            "bdperkin",
             "mikep"
         ],
         "golang-github-getsentry-raven": [
@@ -36994,23 +36755,21 @@
         ],
         "golang-github-haproxytech-client-native": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-haproxytech-config-parser": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-haproxytech-dataplaneapi": [
             "@go-sig",
-            "bdperkin",
             "orphan"
         ],
         "golang-github-haproxytech-logger": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-haproxytech-models": [
-            "bdperkin",
             "orphan"
         ],
         "golang-github-harrymichal-version": [
@@ -38329,7 +38088,7 @@
         ],
         "golang-github-lestrrat-apache-logformat": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-lestrrat-backoff-2": [
             "@go-sig",
@@ -38345,7 +38104,7 @@
         ],
         "golang-github-lestrrat-envload": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-lestrrat-httpcc": [
             "@go-sig",
@@ -38365,7 +38124,7 @@
         ],
         "golang-github-lestrrat-strftime": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-lestrrat-xstrings": [
             "@go-sig",
@@ -38373,7 +38132,6 @@
         ],
         "golang-github-letsencrypt-challtestsrv": [
             "@go-sig",
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -38381,7 +38139,6 @@
         ],
         "golang-github-letsencrypt-pebble": [
             "@go-sig",
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -39320,7 +39077,7 @@
         ],
         "golang-github-nathanaelle-syslog5424-2": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-nats-io": [
             "@go-sig",
@@ -39706,8 +39463,7 @@
             "alexsaezm"
         ],
         "golang-github-opencontainers-specs": [
-            "orphan",
-            "ttorling"
+            "orphan"
         ],
         "golang-github-opendns-vegadns2client": [
             "@go-sig",
@@ -40598,7 +40354,7 @@
         ],
         "golang-github-rodaine-hclencoder": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-rodaine-table": [
             "@go-sig",
@@ -40943,7 +40699,7 @@
         ],
         "golang-github-shulhan-bindata": [
             "@go-sig",
-            "bdperkin"
+            "orphan"
         ],
         "golang-github-shurcooL-sanitized_anchor_name": [
             "jcajka",
@@ -43748,7 +43504,6 @@
             "mkoncek"
         ],
         "google-http-java-client": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -43787,7 +43542,6 @@
             "pwu"
         ],
         "google-oauth-java-client": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -43919,7 +43673,6 @@
             "orphan"
         ],
         "gpars": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -44059,8 +43812,7 @@
         ],
         "gpsd": [
             "mlichvar",
-            "tdawson",
-            "ttorling"
+            "tdawson"
         ],
         "gpsd-epel": [
             "tdawson"
@@ -44107,8 +43859,7 @@
         ],
         "gqrx": [],
         "gquilt": [
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "gqview": [
             "orphan"
@@ -44198,7 +43949,6 @@
         ],
         "grantlee": [
             "orphan",
-            "rdieter",
             "than"
         ],
         "grantlee-editor": [
@@ -44285,7 +44035,6 @@
             "orphan"
         ],
         "greenmail": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -44401,12 +44150,10 @@
             "zsun"
         ],
         "grizzly": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "grizzly-npn": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -44449,7 +44196,6 @@
             "orphan"
         ],
         "groovy18": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -44503,12 +44249,10 @@
             "orphan"
         ],
         "gs-collections": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "gsbase": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -44543,7 +44287,6 @@
             "orphan"
         ],
         "gshell": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -45234,7 +44977,6 @@
             "pingou"
         ],
         "guava": [
-            "huwang",
             "mizdebsk",
             "mkoncek"
         ],
@@ -45309,7 +45051,6 @@
             "fed500"
         ],
         "guile22": [
-            "jdulaney",
             "tkorbar"
         ],
         "guile30": [
@@ -45328,7 +45069,6 @@
             "orphan"
         ],
         "guitarix": [
-            "oget",
             "tartina",
             "verdurin"
         ],
@@ -45477,7 +45217,6 @@
         ],
         "gxine": [
             "orphan",
-            "sundaram",
             "xavierb"
         ],
         "gxkb": [
@@ -45627,9 +45366,7 @@
         "happy": [
             "petersen"
         ],
-        "haproxy": [
-            "bdperkin"
-        ],
+        "haproxy": [],
         "haproxy18": [
             "orphan"
         ],
@@ -45738,23 +45475,19 @@
             "jwrdegoede"
         ],
         "hawtbuf": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "hawtdb": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "hawtdispatch": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "hawtjni": [
             "didiksupriadi41",
-            "gil",
             "java-sig",
             "mizdebsk",
             "mkoncek"
@@ -45764,7 +45497,6 @@
             "rjones"
         ],
         "hazelcast": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -45881,7 +45613,6 @@
         ],
         "heimdal": [
             "abo",
-            "jaltman",
             "ktdreyer"
         ],
         "heimdall": [
@@ -45954,7 +45685,6 @@
             "orphan"
         ],
         "hessian": [
-            "gil",
             "orphan"
         ],
         "hevea": [
@@ -45986,7 +45716,6 @@
             "mgieseki"
         ],
         "hexter-dssi": [
-            "green",
             "orphan"
         ],
         "hfg-gmuend-openmoji-fonts": [
@@ -46018,7 +45747,6 @@
             "kiilerix"
         ],
         "hibernate": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -46030,17 +45758,14 @@
             "orphan"
         ],
         "hibernate-jpa-2.0-api": [
-            "gil",
             "java-sig",
             "jjelen"
         ],
         "hibernate-jpa-2.1-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "hibernate-jpamodelgen": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -46052,11 +45777,9 @@
             "orphan"
         ],
         "hibernate3": [
-            "gil",
             "orphan"
         ],
         "hibernate4": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -46086,7 +45809,6 @@
             "stevetraylen"
         ],
         "high-scale-lib": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -46335,12 +46057,10 @@
             "orphan"
         ],
         "howl-logger": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "hpack": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -46365,7 +46085,6 @@
             "zdohnal"
         ],
         "hppc": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -46400,7 +46119,6 @@
             "orphan"
         ],
         "hsqldb1": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -46475,11 +46193,9 @@
             "orphan"
         ],
         "htmlunit": [
-            "gil",
             "orphan"
         ],
         "htmlunit-core-js": [
-            "gil",
             "orphan"
         ],
         "htmlview": [
@@ -46496,7 +46212,6 @@
             "jskarvad"
         ],
         "htrace": [
-            "gil",
             "orphan"
         ],
         "htslib": [
@@ -46504,7 +46219,6 @@
             "jmarshall"
         ],
         "http-builder": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -46524,7 +46238,6 @@
             "maxamillion"
         ],
         "httpcomponents-asyncclient": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -46722,7 +46435,6 @@
             "pnemade"
         ],
         "hunspell-de": [
-            "mstahl",
             "smani"
         ],
         "hunspell-dsb": [
@@ -47111,14 +46823,11 @@
             "dreua"
         ],
         "hydrogen": [
-            "green",
             "nphilipp",
             "tartina"
         ],
         "hydrogen-drumkits": [
-            "green",
             "lkundrak",
-            "oget",
             "orphan"
         ],
         "hyena": [
@@ -47147,7 +46856,6 @@
         ],
         "hyperv-daemons": [
             "jcline",
-            "mmuzila",
             "vittyvk"
         ],
         "hyphen": [
@@ -47178,7 +46886,6 @@
             "pnemade"
         ],
         "hyphen-de": [
-            "mstahl",
             "smani"
         ],
         "hyphen-el": [
@@ -47740,7 +47447,6 @@
         ],
         "icecream": [
             "grandinj",
-            "izabela",
             "michich",
             "sgiesecke",
             "snikulov"
@@ -47753,8 +47459,7 @@
             "orphan"
         ],
         "icemon": [
-            "jankratochvil",
-            "mich181189"
+            "jankratochvil"
         ],
         "ices": [
             "orphan"
@@ -47836,7 +47541,6 @@
             "stingray"
         ],
         "idlj-maven-plugin": [
-            "gil",
             "orphan"
         ],
         "idm-console-framework": [
@@ -47974,7 +47678,7 @@
             "thm"
         ],
         "ikona": [
-            "appadeia"
+            "orphan"
         ],
         "iksemel": [
             "orphan"
@@ -47988,7 +47692,6 @@
         ],
         "ilmbase": [
             "kwizart",
-            "rdieter",
             "yselkowitz"
         ],
         "ilua": [
@@ -48314,7 +48017,6 @@
         ],
         "inotify-tools": [
             "drago01",
-            "ecurtin",
             "jankratochvil",
             "mmckinst"
         ],
@@ -48684,7 +48386,6 @@
             "robert"
         ],
         "ipvsadm": [
-            "bdperkin",
             "rohara"
         ],
         "ipw2100-firmware": [
@@ -48729,7 +48430,6 @@
             "orphan"
         ],
         "irclib": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -48882,7 +48582,6 @@
             "wart"
         ],
         "itext": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -49018,7 +48717,6 @@
         ],
         "jFormatString": [],
         "jVorbisEnc": [
-            "oget",
             "orphan"
         ],
         "jaaa": [
@@ -49053,7 +48751,6 @@
         "jack-audio-connection-kit": [
             "kvolny",
             "nphilipp",
-            "oget",
             "rathann",
             "tartina"
         ],
@@ -49061,7 +48758,6 @@
             "nphilipp"
         ],
         "jack-keyboard": [
-            "oget",
             "tartina"
         ],
         "jack-mixer": [
@@ -49071,16 +48767,13 @@
             "orphan"
         ],
         "jack_capture": [
-            "oget",
             "orphan",
             "verdurin"
         ],
         "jackcess": [
-            "gil",
             "orphan"
         ],
         "jackcess-encrypt": [
-            "gil",
             "orphan"
         ],
         "jackctlmmc": [
@@ -49094,7 +48787,6 @@
             "orphan"
         ],
         "jackson": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -49102,7 +48794,6 @@
             "@epel-packagers-sig",
             "ckelley",
             "edewata",
-            "gil",
             "java-sig",
             "mfargett",
             "salimma"
@@ -49118,7 +48809,6 @@
             "@epel-packagers-sig",
             "ckelley",
             "edewata",
-            "gil",
             "java-sig",
             "mfargett",
             "salimma"
@@ -49127,32 +48817,26 @@
             "@epel-packagers-sig",
             "ckelley",
             "edewata",
-            "gil",
             "java-sig",
             "mfargett",
             "salimma"
         ],
         "jackson-dataformat-cbor": [
-            "gil",
             "orphan"
         ],
         "jackson-dataformat-csv": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jackson-dataformat-smile": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jackson-dataformat-xml": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jackson-dataformat-yaml": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -49166,29 +48850,24 @@
             "orphan"
         ],
         "jackson-datatype-jdk8": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jackson-datatype-joda": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jackson-datatype-jsr310": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jackson-datatypes-collections": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jackson-jaxrs-providers": [
             "ckelley",
             "edewata",
-            "gil",
             "java-sig",
             "mfargett"
         ],
@@ -49196,12 +48875,10 @@
             "orphan"
         ],
         "jackson-module-jaxb-annotations": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jackson-module-jsonSchema": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -49211,7 +48888,6 @@
         "jackson-modules-base": [
             "ckelley",
             "edewata",
-            "gil",
             "java-sig",
             "mfargett"
         ],
@@ -49219,7 +48895,6 @@
             "@epel-packagers-sig",
             "ckelley",
             "edewata",
-            "gil",
             "java-sig",
             "mfargett",
             "salimma"
@@ -49300,7 +48975,6 @@
             "orphan"
         ],
         "jakarta-commons-cli": [
-            "green",
             "orphan"
         ],
         "jakarta-commons-codec": [
@@ -49454,45 +49128,35 @@
             "talcite"
         ],
         "jamin": [
-            "oget",
             "orphan"
         ],
         "jamm": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jamon-api": [
-            "gil",
             "orphan"
         ],
         "jamon-java-parent": [
-            "gil",
             "orphan"
         ],
         "jamon-maven-plugin": [
-            "gil",
             "orphan"
         ],
         "jamon-nodegen-plugin": [
-            "gil",
             "orphan"
         ],
         "jamon-parent": [
-            "gil",
             "orphan"
         ],
         "jamon-processor": [
-            "gil",
             "orphan"
         ],
         "jamon-runtime": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jamonapi": [
-            "gil",
             "orphan"
         ],
         "jana": [
@@ -49500,12 +49164,10 @@
             "pbrobinson"
         ],
         "jandex": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jandex-maven-plugin": [
-            "gil",
             "orphan"
         ],
         "janet": [
@@ -49513,7 +49175,6 @@
         ],
         "janino": [
             "didiksupriadi41",
-            "gil",
             "java-sig"
         ],
         "janino-parent": [
@@ -49543,7 +49204,6 @@
             "tagoh"
         ],
         "jarbundler": [
-            "gil",
             "hannes",
             "orphan"
         ],
@@ -49565,21 +49225,17 @@
             "jridky"
         ],
         "jasperreports": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jastow": [
-            "gil",
             "orphan"
         ],
         "jasypt": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jatl": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -49607,7 +49263,6 @@
             "dbhole",
             "jandrlik",
             "jerboaa",
-            "jhuttana",
             "jvanek",
             "pmikova"
         ],
@@ -49619,7 +49274,6 @@
         "java-1.8.0-openjdk-portable": [
             "ahughes",
             "jandrlik",
-            "jhuttana",
             "jvanek",
             "pmikova"
         ],
@@ -49686,7 +49340,6 @@
             "orphan"
         ],
         "java-base64": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -49709,13 +49362,12 @@
             "orphan"
         ],
         "java-hll": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "java-jd-decompiler": [
-            "jhuttana",
-            "jvanek"
+            "jvanek",
+            "orphan"
         ],
         "java-latest-openjdk": [
             "ahughes",
@@ -49732,7 +49384,6 @@
             "zzambers"
         ],
         "java-libpst": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -49741,7 +49392,6 @@
             "orphan"
         ],
         "java-oauth": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -49783,12 +49433,10 @@
             "orphan"
         ],
         "java-xmlbuilder": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "java_cup": [
-            "gil",
             "java-sig",
             "lkundrak",
             "mizdebsk",
@@ -49818,7 +49466,6 @@
         ],
         "javaewah": [
             "@eclipse-sig",
-            "gil",
             "java-sig",
             "mbooth"
         ],
@@ -49847,7 +49494,6 @@
             "salimma"
         ],
         "javaparser": [
-            "gil",
             "java-sig",
             "korkeala"
         ],
@@ -49855,7 +49501,6 @@
             "mbooth"
         ],
         "javasqlite": [
-            "gil",
             "orphan"
         ],
         "javassist": [
@@ -49876,7 +49521,6 @@
             "orphan"
         ],
         "javawriter": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -49918,22 +49562,18 @@
             "mkoncek"
         ],
         "jaxb2-basics-annotate": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jaxb2-common-basics": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jaxb2-fluent-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jaxb2-maven-plugin": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -49958,7 +49598,6 @@
             "orphan"
         ],
         "jazzy": [
-            "gil",
             "java-sig",
             "lkundrak",
             "orphan"
@@ -50008,7 +49647,6 @@
             "orphan"
         ],
         "jbosh": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50016,7 +49654,6 @@
             "orphan"
         ],
         "jboss-annotations-1.2-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50024,7 +49661,6 @@
             "orphan"
         ],
         "jboss-batch-1.0-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50036,7 +49672,6 @@
             "orphan"
         ],
         "jboss-common-beans": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50044,7 +49679,6 @@
             "orphan"
         ],
         "jboss-concurrency-1.0-api": [
-            "gil",
             "orphan"
         ],
         "jboss-connector-1.6-api": [
@@ -50061,17 +49695,14 @@
             "orphan"
         ],
         "jboss-ejb-3.2-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jboss-ejb-client": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jboss-ejb3-ext-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50079,7 +49710,6 @@
             "orphan"
         ],
         "jboss-el-3.0-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50087,7 +49717,6 @@
             "orphan"
         ],
         "jboss-iiop-client": [
-            "gil",
             "orphan"
         ],
         "jboss-integration": [
@@ -50100,7 +49729,6 @@
             "orphan"
         ],
         "jboss-interceptors-1.2-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50108,7 +49736,6 @@
             "orphan"
         ],
         "jboss-j2eemgmt-1.1-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50119,7 +49746,6 @@
             "orphan"
         ],
         "jboss-jad-1.2-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50127,11 +49753,9 @@
             "orphan"
         ],
         "jboss-jaspi-1.1-api": [
-            "gil",
             "orphan"
         ],
         "jboss-jaxb-2.2-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50139,7 +49763,6 @@
             "orphan"
         ],
         "jboss-jaxr-1.0-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50148,46 +49771,37 @@
             "orphan"
         ],
         "jboss-jaxrs-1.1-api": [
-            "gil",
             "orphan"
         ],
         "jboss-jaxrs-2.0-api": [
             "ckelley",
             "edewata",
-            "gil",
             "java-sig",
             "mfargett"
         ],
         "jboss-jaxws-2.2-api": [
-            "gil",
             "orphan"
         ],
         "jboss-jms-1.1-api": [
             "orphan"
         ],
         "jboss-jms-2.0-api": [
-            "gil",
             "orphan"
         ],
         "jboss-jsf-2.1-api": [
-            "gil",
             "orphan"
         ],
         "jboss-jsf-2.2-api": [
-            "gil",
             "orphan"
         ],
         "jboss-jsp-2.2-api": [
-            "gil",
             "orphan"
         ],
         "jboss-jsp-2.3-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jboss-jstl-1.2-api": [
-            "gil",
             "orphan"
         ],
         "jboss-jts": [
@@ -50201,12 +49815,10 @@
         "jboss-logging-tools": [
             "ckelley",
             "edewata",
-            "gil",
             "java-sig",
             "mfargett"
         ],
         "jboss-logging-tools1": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50218,7 +49830,6 @@
             "orphan"
         ],
         "jboss-marshalling": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50226,7 +49837,6 @@
             "orphan"
         ],
         "jboss-modules": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50243,7 +49853,6 @@
         ],
         "jboss-parent": [
             "edewata",
-            "gil",
             "java-sig",
             "mfargett",
             "mizdebsk",
@@ -50280,12 +49889,10 @@
             "vakwetu"
         ],
         "jboss-servlet-3.0-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jboss-servlet-3.1-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50304,7 +49911,6 @@
             "orphan"
         ],
         "jboss-transaction-1.2-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50345,7 +49951,6 @@
             "orphan"
         ],
         "jbossws-cxf": [
-            "gil",
             "orphan"
         ],
         "jbossws-native": [
@@ -50368,7 +49973,6 @@
             "orphan"
         ],
         "jbzip2": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50390,7 +49994,6 @@
             "orion"
         ],
         "jcharset": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50402,13 +50005,11 @@
             "orphan"
         ],
         "jcifs": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jcip-annotations": [],
         "jclouds": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50423,20 +50024,16 @@
             "orphan"
         ],
         "jconv": [
-            "oget",
             "orphan"
         ],
         "jconvolver": [
-            "oget",
             "tartina"
         ],
         "jcsp": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jctools": [
-            "gil",
             "java-sig",
             "mizdebsk",
             "mkoncek",
@@ -50457,7 +50054,6 @@
             "huzaifas"
         ],
         "jdbi": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50467,12 +50063,10 @@
         "jdeparser": [
             "ckelley",
             "edewata",
-            "gil",
             "java-sig",
             "mfargett"
         ],
         "jdeparser1": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50491,7 +50085,6 @@
             "orphan"
         ],
         "jdiff": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50504,7 +50097,6 @@
             "orphan"
         ],
         "jdo2-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50515,7 +50107,6 @@
             "sbluhm"
         ],
         "jdom2": [
-            "gil",
             "java-sig",
             "mizdebsk",
             "mkoncek"
@@ -50526,7 +50117,6 @@
             "jonathanspw"
         ],
         "je": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50534,7 +50124,6 @@
             "moceap"
         ],
         "jedis": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50715,7 +50304,6 @@
             "orphan"
         ],
         "jericho-html": [
-            "gil",
             "terjeros"
         ],
         "jeromq": [
@@ -50723,12 +50311,10 @@
             "orphan"
         ],
         "jersey": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jersey1": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50737,7 +50323,6 @@
         ],
         "jetbrains-annotations": [
             "@java-maint-sig",
-            "gil",
             "java-sig",
             "jjames"
         ],
@@ -50750,7 +50335,6 @@
             "smani"
         ],
         "jets3t": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50819,7 +50403,6 @@
             "orphan"
         ],
         "jexcelapi": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50889,7 +50472,6 @@
             "orphan"
         ],
         "jgroups212": [
-            "gil",
             "orphan"
         ],
         "jhdf5": [
@@ -50899,7 +50481,6 @@
             "adrian"
         ],
         "jhighlight": [
-            "gil",
             "orphan"
         ],
         "jibx": [
@@ -50912,7 +50493,6 @@
             "eclipseo"
         ],
         "jide-oss": [
-            "gil",
             "orphan"
         ],
         "jigawatts": [
@@ -50939,7 +50519,6 @@
             "orphan"
         ],
         "jipijapa": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -50958,7 +50537,6 @@
             "orphan"
         ],
         "jjack": [
-            "oget",
             "orphan"
         ],
         "jkmeter": [
@@ -51013,7 +50591,6 @@
             "orphan"
         ],
         "jmatio": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -51032,17 +50609,14 @@
             "tartina"
         ],
         "jmh": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jmock": [
             "didiksupriadi41",
-            "gil",
             "java-sig"
         ],
         "jmod": [
-            "oget",
             "orphan"
         ],
         "jmol": [
@@ -51053,7 +50627,6 @@
             "robert"
         ],
         "jmxutils": [
-            "gil",
             "orphan"
         ],
         "jna": [
@@ -51126,7 +50699,6 @@
             "till"
         ],
         "johnzon": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -51174,7 +50746,6 @@
             "orphan"
         ],
         "josql": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -51282,7 +50853,6 @@
             "orphan"
         ],
         "jredis": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -51330,7 +50900,6 @@
             "orphan"
         ],
         "js-gl-matrix": [
-            "jdulaney",
             "orphan"
         ],
         "js-html5shiv": [
@@ -51453,12 +51022,10 @@
             "orphan"
         ],
         "jsendnsca": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jsilver": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -51473,14 +51040,12 @@
             "suve"
         ],
         "jsmpp": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "json": [
             "carlwgeorge",
-            "dcavalca",
-            "ebaron"
+            "dcavalca"
         ],
         "json-c": [
             "besser82",
@@ -51499,7 +51064,6 @@
             "mclasen"
         ],
         "json-lib": [
-            "gil",
             "java-sig",
             "lkundrak",
             "orphan"
@@ -51510,12 +51074,10 @@
             "ignatenkobrain"
         ],
         "json-path": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "json-smart": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -51540,7 +51102,6 @@
             "mkoncek"
         ],
         "jsonassert": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -51555,16 +51116,13 @@
             "tdawson"
         ],
         "jsonic": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jsonld-java": [
-            "gil",
             "orphan"
         ],
         "jsonld-java-tools": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -51572,7 +51130,6 @@
             "jcpunk"
         ],
         "jsonp": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -51602,7 +51159,6 @@
             "mkoncek"
         ],
         "jsr-311": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -51617,7 +51173,6 @@
             "dwrobel"
         ],
         "jsslutils": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -51628,7 +51183,6 @@
             "defolos"
         ],
         "jtds": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -51645,17 +51199,14 @@
             "orphan"
         ],
         "jtoaster": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jts": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "jtype": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -51664,7 +51215,6 @@
             "qiq"
         ],
         "juel": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -51709,12 +51259,10 @@
             "mkoncek"
         ],
         "junit-addons": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "junit-benchmarks": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -51731,7 +51279,6 @@
         ],
         "juniversalchardet": [
             "didiksupriadi41",
-            "gil",
             "java-sig"
         ],
         "jupp": [
@@ -51772,11 +51319,9 @@
             "ignatenkobrain"
         ],
         "jwnl": [
-            "gil",
             "orphan"
         ],
         "jxmpp": [
-            "gil",
             "java-sig",
             "orphan",
             "raphgro"
@@ -52054,8 +51599,7 @@
         ],
         "kate4": [
             "@kde-sig",
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "katello-agent": [
             "msuchy",
@@ -52072,7 +51616,6 @@
             "krege"
         ],
         "kawa": [
-            "green",
             "korkeala",
             "moceap"
         ],
@@ -52194,7 +51737,6 @@
         ],
         "kcm-qt-graphicssystem": [
             "orphan",
-            "rdieter",
             "than"
         ],
         "kcm_systemd": [
@@ -52215,7 +51757,6 @@
         ],
         "kcoloredit": [
             "orphan",
-            "rdieter",
             "than"
         ],
         "kcolorpicker": [
@@ -52383,13 +51924,11 @@
             "spstarr"
         ],
         "kde-plasma-yawp": [
-            "oget",
             "orphan"
         ],
         "kde-print-manager": [
             "@kde-sig",
             "orphan",
-            "rdieter",
             "than"
         ],
         "kde-printer-applet": [
@@ -52575,8 +52114,7 @@
         ],
         "kdepim-apps-libs": [
             "@kde-sig",
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "kdepim-runtime": [
             "@kde-sig",
@@ -52587,7 +52125,6 @@
         "kdepim3": [
             "orphan",
             "ovasik",
-            "rdieter",
             "than"
         ],
         "kdepim4": [
@@ -52715,8 +52252,7 @@
             "than"
         ],
         "kdnssd-avahi": [
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "kdocker": [
             "orphan"
@@ -52756,7 +52292,6 @@
             "than"
         ],
         "keepalived": [
-            "bdperkin",
             "pqa"
         ],
         "keepass": [
@@ -52805,7 +52340,6 @@
             "adscvr",
             "airlied",
             "ghishadow",
-            "josef",
             "jwrdegoede",
             "kernel-maint",
             "linville",
@@ -53986,7 +53520,6 @@
             "orphan"
         ],
         "kguitar": [
-            "oget",
             "orphan"
         ],
         "khal": [
@@ -54719,8 +54252,7 @@
             "rhughes"
         ],
         "kpartsplugin": [
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "kpassgen": [
             "orphan"
@@ -54923,7 +54455,6 @@
             "thunderbirdtr"
         ],
         "kryo": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -55309,7 +54840,6 @@
         "kvm": [
             "berrange",
             "clalance",
-            "markmc",
             "orphan"
         ],
         "kwallet": [
@@ -55508,7 +55038,6 @@
             "jwrdegoede"
         ],
         "ladspa-swh-plugins": [
-            "green",
             "ktdreyer",
             "tartina"
         ],
@@ -55556,7 +55085,6 @@
             "orphan"
         ],
         "langdetect": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -55571,7 +55099,6 @@
             "mfabian"
         ],
         "language-detector": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -55582,7 +55109,6 @@
             "alexpl"
         ],
         "lash": [
-            "green",
             "limb"
         ],
         "lasi": [
@@ -55790,7 +55316,6 @@
             "mfargett"
         ],
         "ldaptive": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -55822,7 +55347,6 @@
         ],
         "ldns": [
             "@dns-sig",
-            "italomga",
             "pemensik",
             "rominf",
             "rommell"
@@ -55917,7 +55441,6 @@
             "germano",
             "grahamwhiteuk",
             "nphilipp",
-            "rdieter",
             "trix"
         ],
         "leonidas-backgrounds": [
@@ -55938,7 +55461,6 @@
             "hhorak",
             "kasal",
             "mhlavink",
-            "mmuzila",
             "praiskup"
         ],
         "lessjs": [
@@ -55955,7 +55477,6 @@
             "orphan"
         ],
         "lettuce": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -55967,12 +55488,10 @@
             "tchaikov"
         ],
         "leveldb-java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "leveldbjni": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -56424,7 +55943,6 @@
             "devos",
             "jamartis",
             "ljavorsk",
-            "mmuzila",
             "pkubat",
             "praiskup"
         ],
@@ -56498,7 +56016,6 @@
             "lkundrak",
             "pcpa",
             "praiskup",
-            "rdieter",
             "sharkcz"
         ],
         "libaudclient": [
@@ -56673,7 +56190,6 @@
             "teuf"
         ],
         "libcamera": [
-            "ecurtin",
             "javierm",
             "jwrdegoede",
             "mzamazal",
@@ -56989,7 +56505,6 @@
             "hhorak",
             "jnovy",
             "jstanek",
-            "mmuzila",
             "pkubat"
         ],
         "libdb4": [
@@ -57245,9 +56760,7 @@
             "ppisar"
         ],
         "libechonest": [
-            "oget",
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "libecoli": [
             "rjarry"
@@ -57419,10 +56932,10 @@
             "pbrobinson"
         ],
         "libfaketime": [
+            "orphan",
             "pgreco",
             "pwouters",
-            "slaanesh",
-            "wtogami"
+            "slaanesh"
         ],
         "libfap": [
             "elwell",
@@ -57442,14 +56955,12 @@
         ],
         "libffado": [
             "@epel-packagers-sig",
-            "nphilipp",
-            "oget"
+            "nphilipp"
         ],
         "libffi": [
             "codonell",
             "djdelorie",
             "fweimer",
-            "green",
             "lkundrak",
             "mcermak"
         ],
@@ -57526,8 +57037,6 @@
             "smallorange"
         ],
         "libfreebob": [
-            "green",
-            "oget",
             "orphan"
         ],
         "libfreehand": [
@@ -58103,7 +57612,6 @@
         ],
         "libibcommon": [
             "dcavalca",
-            "dledford",
             "honli",
             "michich",
             "neil",
@@ -58181,7 +57689,6 @@
             "dcavalca"
         ],
         "libidn": [
-            "gil",
             "jorton",
             "maha",
             "mlichvar"
@@ -58273,8 +57780,7 @@
             "qulogic"
         ],
         "libinstpatch": [
-            "music",
-            "oget"
+            "music"
         ],
         "libint": [
             "jussilehtola"
@@ -58296,8 +57802,7 @@
         ],
         "libiodbc": [
             "@epel-packagers-sig",
-            "limb",
-            "rdieter"
+            "limb"
         ],
         "libipathverbs": [
             "orphan"
@@ -58402,7 +57907,6 @@
         "libjpeg-turbo": [
             "@multimedia-sig",
             "mhlavink",
-            "mmuzila",
             "nforro",
             "phracek",
             "slaanesh"
@@ -58456,8 +57960,7 @@
             "than"
         ],
         "libkdegames4": [
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "libkdepim": [
             "@kde-sig",
@@ -58494,8 +57997,7 @@
             "orphan"
         ],
         "libkfbapi": [
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "libkgapi": [
             "@kde-sig",
@@ -58668,7 +58170,6 @@
             "orphan"
         ],
         "liblo": [
-            "green",
             "nphilipp",
             "salimma",
             "tartina"
@@ -58707,9 +58208,7 @@
             "slankes"
         ],
         "liblrdf": [
-            "green",
-            "nphilipp",
-            "oget"
+            "nphilipp"
         ],
         "liblsl": [
             "orphan"
@@ -59253,7 +58752,6 @@
         "libnsl2": [
             "anezbeda",
             "fjanus",
-            "mmuzila",
             "orion",
             "osloup"
         ],
@@ -59261,7 +58759,6 @@
             "ondrejj"
         ],
         "libnss-pgsql": [
-            "madko",
             "orphan"
         ],
         "libntirpc": [
@@ -59500,8 +58997,7 @@
         ],
         "liborcus": [
             "dtardon",
-            "limb",
-            "sbergmann"
+            "limb"
         ],
         "liborigin": [
             "@scitech_sig",
@@ -59642,7 +59138,6 @@
         "libpgf": [
             "nucleo",
             "orion",
-            "rdieter",
             "tdawson"
         ],
         "libphidget": [
@@ -59698,7 +59193,6 @@
         ],
         "libpng": [
             "mhlavink",
-            "mmuzila",
             "nforro",
             "phracek"
         ],
@@ -59708,13 +59202,11 @@
         "libpng12": [
             "jonathanspw",
             "mhlavink",
-            "mmuzila",
             "nforro",
             "phracek"
         ],
         "libpng15": [
             "mhlavink",
-            "mmuzila",
             "nforro",
             "phracek"
         ],
@@ -59886,7 +59378,6 @@
             "orphan"
         ],
         "libqxt": [
-            "oget",
             "orphan"
         ],
         "libqxt-qt5": [
@@ -59939,7 +59430,6 @@
             "robert"
         ],
         "libreadline-java": [
-            "gil",
             "orphan"
         ],
         "librealsense": [
@@ -59970,8 +59460,7 @@
         "libreoffice": [
             "dtardon",
             "erack",
-            "limb",
-            "sbergmann"
+            "limb"
         ],
         "libreoffice-TexMaths": [
             "@libreoffice-sig",
@@ -59985,7 +59474,6 @@
             "eclipseo"
         ],
         "libreoffice-voikko": [
-            "sbergmann",
             "vpv"
         ],
         "librep": [
@@ -60318,8 +59806,7 @@
         ],
         "libsigsegv": [
             "bonzini",
-            "limb",
-            "rdieter"
+            "limb"
         ],
         "libsilc": [
             "orphan"
@@ -60395,7 +59882,6 @@
             "jskarvad"
         ],
         "libsoup": [
-            "danw",
             "limb",
             "mclasen",
             "rhughes",
@@ -60486,7 +59972,7 @@
         "libstatgrab": [
             "cicku",
             "mosvald",
-            "ttorling"
+            "orphan"
         ],
         "libstemmer": [
             "orphan"
@@ -60667,7 +60153,6 @@
         ],
         "libtiff": [
             "mhlavink",
-            "mmuzila",
             "nforro",
             "phracek"
         ],
@@ -60942,7 +60427,6 @@
         ],
         "libuv": [
             "ignatenkobrain",
-            "patches",
             "sgallagh"
         ],
         "libuvc": [
@@ -61482,7 +60966,6 @@
             "jchaloup",
             "limb",
             "praiskup",
-            "rdieter",
             "remi"
         ],
         "libzip-epel": [
@@ -61513,7 +60996,6 @@
             "ngompa"
         ],
         "libzzub": [
-            "oget",
             "orphan"
         ],
         "license-validate": [
@@ -61545,7 +61027,6 @@
             "orphan"
         ],
         "lightcouch": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -61820,7 +61301,6 @@
             "rocha"
         ],
         "littleproxy": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -61832,8 +61312,7 @@
             "bcl",
             "bruno",
             "ngompa",
-            "slaanesh",
-            "sundaram"
+            "slaanesh"
         ],
         "livereload": [
             "orphan"
@@ -62147,7 +61626,6 @@
         ],
         "log4j": [
             "devrim",
-            "italomga",
             "java-sig",
             "mizdebsk",
             "mkoncek",
@@ -62161,7 +61639,6 @@
             "orphan"
         ],
         "log4j12": [
-            "gil",
             "orphan"
         ],
         "log4net": [
@@ -62173,7 +61650,6 @@
             "raphgro"
         ],
         "logback": [
-            "gil",
             "orion",
             "orphan"
         ],
@@ -62890,11 +62366,9 @@
             "mkoncek"
         ],
         "lucene++": [
-            "c72578",
-            "rdieter"
+            "c72578"
         ],
         "lucene3": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -63010,7 +62484,6 @@
             "orphan"
         ],
         "lv2-c++-tools": [
-            "oget",
             "tartina"
         ],
         "lv2-eq10q": [
@@ -63020,7 +62493,6 @@
             "tartina"
         ],
         "lv2-fil-plugins": [
-            "oget",
             "orphan"
         ],
         "lv2-fomp-plugins": [
@@ -63040,7 +62512,6 @@
             "orphan"
         ],
         "lv2-ll-plugins": [
-            "oget",
             "tartina"
         ],
         "lv2-mdaEPiano": [
@@ -63056,7 +62527,6 @@
             "tartina"
         ],
         "lv2-swh-plugins": [
-            "oget",
             "tartina"
         ],
         "lv2-triceratops": [
@@ -63066,7 +62536,6 @@
             "orphan"
         ],
         "lv2-vocoder-plugins": [
-            "oget",
             "tartina"
         ],
         "lv2-x42-plugins": [
@@ -63074,17 +62543,13 @@
             "tartina"
         ],
         "lv2-zynadd-plugins": [
-            "limb",
-            "oget"
+            "limb"
         ],
         "lv2core": [
-            "green",
-            "oget",
             "orphan"
         ],
         "lv2dynparam": [
-            "limb",
-            "oget"
+            "limb"
         ],
         "lvcool": [
             "orphan"
@@ -63218,8 +62683,7 @@
         ],
         "lxqt-panel": [
             "@lxqt-sig",
-            "sfaulken",
-            "ttorling"
+            "sfaulken"
         ],
         "lxqt-policykit": [
             "@lxqt-sig",
@@ -63278,7 +62742,9 @@
         "lxshortcut": [
             "mtasaka"
         ],
-        "lxsplit": [],
+        "lxsplit": [
+            "orphan"
+        ],
         "lxtask": [
             "mtasaka"
         ],
@@ -63311,7 +62777,6 @@
             "siosm"
         ],
         "lz4-java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -63330,7 +62795,6 @@
             "orphan"
         ],
         "lzma-java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -63693,8 +63157,7 @@
         "man2html": [
             "@epel-packagers-sig",
             "ngompa",
-            "orion",
-            "patches"
+            "orion"
         ],
         "mana": [
             "ablu",
@@ -63775,7 +63238,6 @@
             "tomh"
         ],
         "mapdb": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -63818,12 +63280,10 @@
         "mariadb": [
             "hhorak",
             "mbayer",
-            "mmuzila",
             "mschorm"
         ],
         "mariadb-connector-c": [
             "@db-sig",
-            "mmuzila",
             "mschorm"
         ],
         "mariadb-connector-odbc": [
@@ -63872,7 +63332,6 @@
             "yselkowitz"
         ],
         "marked": [
-            "patches",
             "sdgathman"
         ],
         "marker": [
@@ -63923,7 +63382,7 @@
         ],
         "mat2": [
             "fabio",
-            "orphan"
+            "infraw"
         ],
         "matahari": [
             "orphan",
@@ -64266,7 +63725,6 @@
             "orphan"
         ],
         "maven-ant-plugin": [
-            "huwang",
             "java-sig",
             "orphan"
         ],
@@ -64301,8 +63759,6 @@
             "mkoncek"
         ],
         "maven-assembly-plugin": [
-            "gil",
-            "huwang",
             "java-sig",
             "mizdebsk",
             "mkoncek"
@@ -64312,7 +63768,6 @@
             "mkoncek"
         ],
         "maven-changelog-plugin": [
-            "huwang",
             "java-sig",
             "orphan"
         ],
@@ -64332,7 +63787,6 @@
             "mkoncek"
         ],
         "maven-common-artifact-filters": [
-            "gil",
             "java-sig",
             "mizdebsk",
             "mkoncek"
@@ -64363,12 +63817,10 @@
             "orphan"
         ],
         "maven-doap-plugin": [
-            "huwang",
             "java-sig",
             "kathenas"
         ],
         "maven-docck-plugin": [
-            "huwang",
             "java-sig",
             "orphan"
         ],
@@ -64395,7 +63847,6 @@
             "orphan"
         ],
         "maven-ear-plugin": [
-            "huwang",
             "java-sig",
             "orphan"
         ],
@@ -64404,7 +63855,6 @@
             "orphan"
         ],
         "maven-ejb-plugin": [
-            "huwang",
             "java-sig",
             "orphan"
         ],
@@ -64435,7 +63885,6 @@
             "orphan"
         ],
         "maven-help-plugin": [
-            "huwang",
             "java-sig",
             "mizdebsk",
             "orphan"
@@ -64453,12 +63902,10 @@
             "orphan"
         ],
         "maven-injection-plugin": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "maven-install-plugin": [
-            "huwang",
             "java-sig",
             "kathenas"
         ],
@@ -64491,7 +63938,6 @@
         ],
         "maven-jaxb2-plugin": [
             "dchen",
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -64522,11 +63968,9 @@
         ],
         "maven-native": [
             "deamn",
-            "gil",
             "java-sig"
         ],
         "maven-one-plugin": [
-            "huwang",
             "java-sig",
             "orphan"
         ],
@@ -64583,17 +64027,14 @@
             "orphan"
         ],
         "maven-processor-plugin": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "maven-project-info-reports-plugin": [
-            "huwang",
             "java-sig",
             "orphan"
         ],
         "maven-rar-plugin": [
-            "huwang",
             "java-sig",
             "orphan"
         ],
@@ -64603,7 +64044,6 @@
             "orphan"
         ],
         "maven-remote-resources-plugin": [
-            "huwang",
             "java-sig",
             "mizdebsk",
             "mkoncek"
@@ -64628,7 +64068,6 @@
             "orphan"
         ],
         "maven-repository-plugin": [
-            "huwang",
             "java-sig",
             "orphan"
         ],
@@ -64641,7 +64080,6 @@
             "mkoncek"
         ],
         "maven-resources-plugin": [
-            "huwang",
             "java-sig",
             "mizdebsk",
             "mkoncek"
@@ -64687,7 +64125,6 @@
             "orphan"
         ],
         "maven-shared-resources": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -64734,7 +64171,6 @@
             "mkoncek"
         ],
         "maven-verifier-plugin": [
-            "huwang",
             "java-sig",
             "jerboaa"
         ],
@@ -64757,7 +64193,6 @@
             "yyang"
         ],
         "maven2-common-poms": [
-            "huwang",
             "mizdebsk",
             "orphan"
         ],
@@ -64769,7 +64204,6 @@
             "mkoncek"
         ],
         "mavibot": [
-            "gil",
             "orphan"
         ],
         "mawk": [
@@ -64785,7 +64219,6 @@
             "salimma"
         ],
         "maxmind-db-java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -64851,7 +64284,6 @@
             "orphan"
         ],
         "mckoi": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -65388,7 +64820,6 @@
             "musuruan"
         ],
         "metadata-extractor2": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -65429,7 +64860,6 @@
             "orphan"
         ],
         "meterbridge": [
-            "oget",
             "tartina"
         ],
         "methane": [
@@ -65439,7 +64869,6 @@
             "sagitter"
         ],
         "metrics": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -65526,7 +64955,6 @@
             "eclipseo"
         ],
         "microba": [
-            "gil",
             "java-sig",
             "lkundrak",
             "orphan"
@@ -65613,7 +65041,6 @@
             "robert"
         ],
         "mimepull": [
-            "gil",
             "orphan"
         ],
         "mimetex": [
@@ -65642,7 +65069,6 @@
             "orphan"
         ],
         "mina-ftpserver": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -66127,7 +65553,7 @@
             "smani"
         ],
         "mingw-jansson": [
-            "janisozaur"
+            "orphan"
         ],
         "mingw-jasper": [
             "rjones",
@@ -66928,7 +66354,7 @@
             "valtri"
         ],
         "mingw-speexdsp": [
-            "janisozaur"
+            "orphan"
         ],
         "mingw-spice-gtk": [
             "elmarco",
@@ -67061,7 +66487,7 @@
             "mooninite"
         ],
         "mingw-yaml-cpp": [
-            "janisozaur"
+            "orphan"
         ],
         "mingw-zfstream": [
             "rjones",
@@ -67426,7 +66852,6 @@
             "pzacik"
         ],
         "minicomputer": [
-            "oget",
             "verdurin"
         ],
         "minidlna": [
@@ -67439,7 +66864,6 @@
             "rathann"
         ],
         "minidns": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -67450,7 +66874,6 @@
             "atim"
         ],
         "minimal-json": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -67499,19 +66922,16 @@
             "jamartis",
             "kwizart",
             "ljavorsk",
-            "mmuzila",
             "orion"
         ],
         "minizip-ng": [
             "jamartis",
-            "ljavorsk",
-            "mmuzila"
+            "ljavorsk"
         ],
         "minizip1.2": [
             "spot"
         ],
         "minlog": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -67750,7 +67170,6 @@
             "dcavalca"
         ],
         "mlocate": [
-            "mitr",
             "orphan"
         ],
         "mlpack": [
@@ -68003,7 +67422,6 @@
         ],
         "mod_cluster": [
             "csutherl",
-            "gil",
             "jajik",
             "jfclere",
             "rhusar",
@@ -68230,7 +67648,6 @@
             "salimma"
         ],
         "mojo-keytool": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -68308,7 +67725,6 @@
             "orphan"
         ],
         "mongo-java-driver2": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -68506,7 +67922,6 @@
         ],
         "mopac7": [
             "cicku",
-            "jdulaney",
             "mtasaka"
         ],
         "mopidy": [
@@ -68520,12 +67935,10 @@
             "slankes"
         ],
         "morfologik-stemming": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "morphia": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -68843,7 +68256,6 @@
             "yselkowitz"
         ],
         "mqtt-client": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -68909,7 +68321,6 @@
         ],
         "mscore": [
             "ignatenkobrain",
-            "oget",
             "orphan",
             "pampelmuse"
         ],
@@ -68995,7 +68406,6 @@
         ],
         "mstflint": [
             "dcavalca",
-            "dledford",
             "honli",
             "jirka",
             "kheib",
@@ -69133,7 +68543,7 @@
         ],
         "multimedia-menus": [
             "eeickmeyer",
-            "oget"
+            "orphan"
         ],
         "multisync": [
             "orphan"
@@ -69145,7 +68555,6 @@
             "mikelo2"
         ],
         "multithreadedtc": [
-            "huwang",
             "orphan"
         ],
         "multiverse": [
@@ -69210,7 +68619,7 @@
             "orphan"
         ],
         "muse": [
-            "oget"
+            "orphan"
         ],
         "museek+": [
             "belegdol",
@@ -69243,7 +68652,6 @@
             "orphan"
         ],
         "mustache-java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -69256,8 +68664,7 @@
             "fale",
             "fjanus",
             "hhorak",
-            "mhlavink",
-            "mmuzila"
+            "mhlavink"
         ],
         "mutter": [
             "@gnome-sig",
@@ -69293,7 +68700,6 @@
             "orphan"
         ],
         "mvel": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -69312,7 +68718,6 @@
         "mxml": [
             "@epel-packagers-sig",
             "dcavalca",
-            "green",
             "raphgro"
         ],
         "mxparser": [
@@ -69327,17 +68732,14 @@
             "wilmer"
         ],
         "mybatis": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "mybatis-generator": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "mybatis-parent": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -69389,12 +68791,10 @@
             "mhjacks"
         ],
         "mysema-apt-maven-plugin": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "mysema-commons-lang": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -69415,7 +68815,6 @@
         ],
         "mysql-connector-java": [
             "anezbeda",
-            "gil",
             "hhorak",
             "java-sig",
             "ljavorsk",
@@ -69517,7 +68916,6 @@
             "pnemade"
         ],
         "mythes-de": [
-            "mstahl",
             "robert"
         ],
         "mythes-el": [
@@ -69768,7 +69166,6 @@
             "tpokorra"
         ],
         "nar-maven-plugin": [
-            "gil",
             "orphan"
         ],
         "narayana": [
@@ -69788,12 +69185,10 @@
             "rathann"
         ],
         "native-platform": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "native2ascii-maven-plugin": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -70056,17 +69451,14 @@
             "duck"
         ],
         "neethi": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "neko-htmlunit": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "nekobee-dssi": [
-            "oget",
             "orphan"
         ],
         "nekohtml": [
@@ -70315,7 +69707,6 @@
         ],
         "netlabel_tools": [
             "mmalik",
-            "pcmoore",
             "plautrba",
             "vmojzis"
         ],
@@ -70409,7 +69800,6 @@
             "orphan"
         ],
         "netty3": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -70492,7 +69882,6 @@
             "yanqiyu"
         ],
         "nextcloud": [
-            "ichavero",
             "kni"
         ],
         "nextcloud-client": [
@@ -70586,8 +69975,7 @@
             "jorton",
             "luhliarik",
             "mikelo2",
-            "pali",
-            "wtogami"
+            "pali"
         ],
         "nginx-mod-brotli": [
             "heffer",
@@ -71682,8 +71070,7 @@
             "orphan"
         ],
         "nodejs-colors": [
-            "jsmith",
-            "patches"
+            "jsmith"
         ],
         "nodejs-colour": [
             "jsmith",
@@ -72701,8 +72088,7 @@
             "orphan"
         ],
         "nodejs-generic-pool": [
-            "orphan",
-            "patches"
+            "orphan"
         ],
         "nodejs-get": [
             "orphan",
@@ -73614,8 +73000,7 @@
         ],
         "nodejs-less": [
             "mrunge",
-            "orphan",
-            "patches"
+            "orphan"
         ],
         "nodejs-less-plugin-clean-css": [
             "orphan"
@@ -74540,8 +73925,7 @@
             "orphan"
         ],
         "nodejs-pkginfo": [
-            "orphan",
-            "patches"
+            "orphan"
         ],
         "nodejs-platform": [
             "orphan"
@@ -74940,15 +74324,14 @@
             "orphan"
         ],
         "nodejs-rhea": [
-            "kpvdr"
+            "orphan"
         ],
         "nodejs-right-align": [
             "orphan"
         ],
         "nodejs-rimraf": [
             "humaton",
-            "orphan",
-            "patches"
+            "orphan"
         ],
         "nodejs-rndm": [
             "jsmith",
@@ -74977,7 +74360,6 @@
         ],
         "nodejs-ronn": [
             "orphan",
-            "patches",
             "sdgathman"
         ],
         "nodejs-run-parallel-limit": [
@@ -75220,8 +74602,7 @@
             "orphan"
         ],
         "nodejs-source-map": [
-            "orphan",
-            "patches"
+            "orphan"
         ],
         "nodejs-source-map-fixtures": [
             "jsmith",
@@ -75808,7 +75189,7 @@
             "orphan"
         ],
         "nodejs-underscore": [
-            "patches"
+            "orphan"
         ],
         "nodejs-underscore-dot-logger": [
             "orphan"
@@ -76129,7 +75510,6 @@
         ],
         "nodejs-zlibjs": [
             "orphan",
-            "patches",
             "zbyszek"
         ],
         "nodejs16": [
@@ -76176,7 +75556,6 @@
             "ngompa"
         ],
         "noggit": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -76197,7 +75576,6 @@
             "orphan"
         ],
         "nom-tam-fits": [
-            "gil",
             "zbyszek"
         ],
         "nomacs": [
@@ -76426,8 +75804,7 @@
         ],
         "nss": [
             "@crypto-team",
-            "fkrenzel",
-            "kengert"
+            "fkrenzel"
         ],
         "nss-altfiles": [
             "@coreos-sig",
@@ -76481,7 +75858,6 @@
         "nss_nis": [
             "anezbeda",
             "fjanus",
-            "mmuzila",
             "osloup"
         ],
         "nss_updatedb": [
@@ -76521,8 +75897,7 @@
         ],
         "ntl": [
             "jjames",
-            "pcpa",
-            "rdieter"
+            "pcpa"
         ],
         "ntop": [
             "orphan"
@@ -76900,7 +76275,6 @@
             "richardfearn"
         ],
         "objectweb-asm4": [
-            "gil",
             "java-sig",
             "mizdebsk",
             "orphan"
@@ -78208,7 +77582,6 @@
             "jwrdegoede"
         ],
         "okhttp": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -78271,8 +77644,7 @@
             "pbrobinson"
         ],
         "olpc-logos": [
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "olpc-netutils": [
             "orphan",
@@ -78413,7 +77785,6 @@
             "orphan"
         ],
         "opae": [
-            "pcolberg",
             "trix"
         ],
         "opal": [
@@ -78758,22 +78129,18 @@
             "vascom"
         ],
         "openhft-affinity": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "openhft-chronicle-queue": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "openhft-java-compiler": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "openhft-java-lang": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -78782,18 +78149,15 @@
             "dcavalca"
         ],
         "openhpi": [
-            "rdossant",
             "sharkcz"
         ],
         "openhpi-subagent": [
-            "rdossant",
             "sharkcz"
         ],
         "openid-selector": [
             "orphan"
         ],
         "openid4java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -78815,15 +78179,13 @@
             "ovasik"
         ],
         "openjdk-asmtools": [
-            "jhuttana",
-            "jvanek"
+            "jvanek",
+            "orphan"
         ],
         "openjdk-asmtools7": [
-            "jhuttana",
             "jvanek"
         ],
         "openjdk-orb": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -78836,7 +78198,6 @@
             "deamn"
         ],
         "openjpa": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -78899,7 +78260,6 @@
             "tbaeder"
         ],
         "openmpi": [
-            "dledford",
             "jhladky",
             "jonathanspw",
             "orion"
@@ -78928,7 +78288,6 @@
             "orphan"
         ],
         "opennlp": [
-            "gil",
             "orphan"
         ],
         "openobex": [
@@ -79003,7 +78362,6 @@
             "hhorak"
         ],
         "openrdf-sesame": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -79064,7 +78422,6 @@
         ],
         "openscap-report": [
             "evgenyz",
-            "hony",
             "jcerny",
             "mburket"
         ],
@@ -79079,7 +78436,6 @@
             "slaanesh"
         ],
         "openshift-java-client": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -79186,7 +78542,6 @@
         ],
         "opensm": [
             "dcavalca",
-            "dledford",
             "honli",
             "kheib",
             "michich",
@@ -79282,7 +78637,6 @@
             "orphan"
         ],
         "openstack-glance": [
-            "markmc",
             "orphan"
         ],
         "openstack-gnocchi": [
@@ -79328,7 +78682,6 @@
             "orphan"
         ],
         "openstack-nova": [
-            "markmc",
             "orphan"
         ],
         "openstack-packstack": [
@@ -79508,7 +78861,6 @@
             "orphan"
         ],
         "openwebbeans": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -79547,12 +78899,10 @@
             "orphan"
         ],
         "ops4j-base": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "ops4j-master": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -79737,7 +79087,6 @@
             "evgenyz",
             "jcerny",
             "mburket",
-            "mlysonek",
             "vpodzime",
             "vpolasek"
         ],
@@ -79882,7 +79231,6 @@
         ],
         "oval-graph": [
             "evgenyz",
-            "hony",
             "jcerny",
             "mburket"
         ],
@@ -80005,7 +79353,6 @@
         ],
         "p11-kit": [
             "@crypto-team",
-            "kengert",
             "stefw",
             "ueno"
         ],
@@ -80482,7 +79829,6 @@
             "walters"
         ],
         "paranamer": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -80502,7 +79848,6 @@
             "sagitter"
         ],
         "parboiled": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -80644,7 +79989,6 @@
         "passwd": [
             "jkucera",
             "mhlavink",
-            "mitr",
             "tmraz"
         ],
         "passwdqc": [
@@ -80695,7 +80039,6 @@
             "gui1ty"
         ],
         "patricia-trie": [
-            "gil",
             "lkundrak",
             "orphan"
         ],
@@ -80720,7 +80063,6 @@
             "praiskup"
         ],
         "pax-logging": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -80915,9 +80257,7 @@
             "eclipseo"
         ],
         "pdf-renderer": [
-            "gil",
             "java-sig",
-            "oget",
             "orphan"
         ],
         "pdf-stapler": [
@@ -80938,12 +80278,10 @@
         ],
         "pdfbox": [
             "didiksupriadi41",
-            "gil",
             "java-sig",
             "jvanek"
         ],
         "pdfbox1": [
-            "gil",
             "orphan"
         ],
         "pdfchain": [
@@ -80967,8 +80305,7 @@
             "orphan"
         ],
         "pdfmerge": [
-            "dmaphy",
-            "sundaram"
+            "dmaphy"
         ],
         "pdfmixtool": [
             "xfgusta"
@@ -81038,7 +80375,6 @@
             "orphan"
         ],
         "pegdown": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -81100,7 +80436,6 @@
         ],
         "perftest": [
             "dcavalca",
-            "dledford",
             "honli",
             "kheib",
             "michich",
@@ -81282,8 +80617,8 @@
         ],
         "perl-Alien-Packages": [
             "orion",
-            "perl-sig",
-            "ttorling"
+            "orphan",
+            "perl-sig"
         ],
         "perl-Alien-ProtoBuf": [
             "ppisar"
@@ -88419,9 +87754,9 @@
             "ppisar"
         ],
         "perl-Log-Any": [
+            "orphan",
             "perl-sig",
             "steve",
-            "ttorling",
             "xavierb"
         ],
         "perl-Log-Any-Adapter": [
@@ -89572,7 +88907,7 @@
             "perl-sig"
         ],
         "perl-MooX-Log-Any": [
-            "ttorling"
+            "orphan"
         ],
         "perl-MooX-Options": [
             "eseyman",
@@ -89589,8 +88924,8 @@
             "ppisar"
         ],
         "perl-MooX-Roles-Pluggable": [
-            "perl-sig",
-            "ttorling"
+            "orphan",
+            "perl-sig"
         ],
         "perl-MooX-Singleton": [
             "jplesnik",
@@ -90648,7 +89983,7 @@
             "perl-sig"
         ],
         "perl-Net-Twitter": [
-            "jdunn",
+            "orphan",
             "perl-sig"
         ],
         "perl-Net-Twitter-Lite": [
@@ -95267,9 +94602,9 @@
         ],
         "perl-Unix-Statgrab": [
             "cicku",
+            "orphan",
             "perl-sig",
-            "steve",
-            "ttorling"
+            "steve"
         ],
         "perl-Unix-Syslog": [
             "mstevens",
@@ -95433,7 +94768,7 @@
             "xavierb"
         ],
         "perl-WWW-Shorten": [
-            "jdunn",
+            "orphan",
             "perl-sig"
         ],
         "perl-WWW-Splunk": [
@@ -96605,7 +95940,6 @@
             "orphan"
         ],
         "phasex": [
-            "green",
             "orphan"
         ],
         "phat": [
@@ -96708,7 +96042,7 @@
             "eischmann"
         ],
         "phototonic": [
-            "mich181189"
+            "orphan"
         ],
         "php": [
             "jorton",
@@ -100721,12 +100055,10 @@
             "orphan"
         ],
         "picketlink": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "picketlink-bindings": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -100807,8 +100139,7 @@
             "rvokal"
         ],
         "pidgin-indicator": [
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "pidgin-knotify": [
             "orphan"
@@ -101184,7 +100515,6 @@
         "plantuml": [
             "blaise",
             "blinxen",
-            "gil",
             "java-sig",
             "sumitgarg"
         ],
@@ -101364,8 +100694,7 @@
         ],
         "plasma-user-manager": [
             "@kde-sig",
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "plasma-vault": [
             "@kde-sig",
@@ -101434,8 +100763,7 @@
         "player": [
             "@robotics-sig",
             "kwizart",
-            "orphan",
-            "ttorling"
+            "orphan"
         ],
         "playerctl": [
             "dridi",
@@ -101478,7 +100806,6 @@
             "orphan"
         ],
         "plexus-build-api": [
-            "huwang",
             "java-sig",
             "mizdebsk",
             "mkoncek"
@@ -101491,7 +100818,6 @@
             "orphan"
         ],
         "plexus-cipher": [
-            "huwang",
             "java-sig",
             "mizdebsk",
             "mkoncek"
@@ -101511,7 +100837,6 @@
             "mkoncek"
         ],
         "plexus-component-api": [
-            "huwang",
             "java-sig",
             "mizdebsk",
             "orphan",
@@ -101529,7 +100854,6 @@
             "salimma"
         ],
         "plexus-container-default": [
-            "gil",
             "java-sig",
             "mbooth",
             "orphan"
@@ -101558,7 +100882,6 @@
             "mkoncek"
         ],
         "plexus-interpolation": [
-            "gil",
             "java-sig",
             "mizdebsk",
             "mkoncek"
@@ -101584,7 +100907,6 @@
             "orphan"
         ],
         "plexus-pom": [
-            "gil",
             "java-sig",
             "mizdebsk",
             "mkoncek"
@@ -101606,7 +100928,6 @@
             "orphan"
         ],
         "plexus-sec-dispatcher": [
-            "huwang",
             "java-sig",
             "mizdebsk",
             "mkoncek"
@@ -101947,7 +101268,6 @@
         ],
         "polkit": [
             "jrybar",
-            "mitr",
             "vmihalko"
         ],
         "polkit-gnome": [
@@ -102104,7 +101424,6 @@
             "orphan"
         ],
         "portals-pom": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -102120,13 +101439,11 @@
             "orphan"
         ],
         "portlet-2.0-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "portmidi": [
             "mjg",
-            "oget",
             "xavierb"
         ],
         "portpub": [
@@ -102380,7 +101697,6 @@
             "dwmw2",
             "hegdevasant",
             "jcajka",
-            "rdossant",
             "sinnykumari",
             "than"
         ],
@@ -102389,16 +101705,14 @@
         ],
         "powerpc-utils-python": [
             "jcajka",
-            "orphan",
-            "rdossant"
+            "orphan"
         ],
         "powerstat": [
             "fed500"
         ],
         "powertop": [
             "ajax",
-            "jskarvad",
-            "ttorling"
+            "jskarvad"
         ],
         "powwow": [
             "kalev"
@@ -102413,7 +101727,6 @@
         ],
         "ppc64-diag": [
             "jcajka",
-            "rdossant",
             "sinnykumari",
             "than"
         ],
@@ -102440,8 +101753,7 @@
             "orphan"
         ],
         "pps-tools": [
-            "mlichvar",
-            "ttorling"
+            "mlichvar"
         ],
         "pptp": [
             "jskarvad",
@@ -102713,7 +102025,6 @@
             "jjames"
         ],
         "properties-maven-plugin": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -102739,7 +102050,6 @@
             "topazus"
         ],
         "protobuf-java-format": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -102756,7 +102066,6 @@
             "jflory7"
         ],
         "protoparser": [
-            "gil",
             "java-sig",
             "orphan",
             "raphgro"
@@ -102778,7 +102087,6 @@
             "s00se"
         ],
         "proxool": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -102811,7 +102119,6 @@
             "mschorm"
         ],
         "proxytoys": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -102839,6 +102146,7 @@
             "adelton",
             "churchyard",
             "jstanek",
+            "rineau",
             "spot",
             "tibbs"
         ],
@@ -103374,8 +102682,7 @@
         "pyclutter": [
             "ankursinha",
             "orphan",
-            "pbrobinson",
-            "sundaram"
+            "pbrobinson"
         ],
         "pyclutter-gst": [
             "orphan",
@@ -103757,7 +103064,6 @@
             "orphan"
         ],
         "pyqt-mail-checker": [
-            "f1ash",
             "orphan"
         ],
         "pyqtrailer": [
@@ -103824,8 +103130,7 @@
         "pystatgrab": [
             "jonathanspw",
             "potty",
-            "slankes",
-            "ttorling"
+            "slankes"
         ],
         "pystring": [
             "hobbes1069",
@@ -103845,7 +103150,6 @@
             "fab"
         ],
         "pytagger": [
-            "oget",
             "orphan"
         ],
         "pytc": [
@@ -104313,7 +103617,6 @@
             "xanderlent"
         ],
         "python-accept-types": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -104776,8 +104079,7 @@
             "@python-packagers-sig",
             "aekoroglu",
             "mrunge",
-            "rcallicotte",
-            "sundaram"
+            "rcallicotte"
         ],
         "python-anykeystore": [
             "@infra-sig",
@@ -105623,7 +104925,6 @@
             "jcline"
         ],
         "python-azure-mgmt-support": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -105664,7 +104965,6 @@
             "orphan"
         ],
         "python-azure-storage-blob": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -105696,7 +104996,6 @@
         "python-b4": [
             "@epel-packagers-sig",
             "@python-packagers-sig",
-            "mripard",
             "salimma"
         ],
         "python-babel-BabelGladeExtractor": [
@@ -105843,7 +105142,6 @@
         ],
         "python-beartype": [
             "gotmax23",
-            "italomga",
             "orange-kao",
             "pwouters",
             "rommell"
@@ -105904,8 +105202,7 @@
             "mrunge",
             "ngompa",
             "pingou",
-            "pjp",
-            "sundaram"
+            "pjp"
         ],
         "python-binary-manager": [
             "dcavalca"
@@ -106559,8 +105856,7 @@
             "thrnciar"
         ],
         "python-cli": [
-            "orphan",
-            "ttorling"
+            "orphan"
         ],
         "python-cli-helpers": [
             "terjeros"
@@ -107282,7 +106578,6 @@
             "orphan"
         ],
         "python-cs": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -107703,7 +106998,6 @@
         "python-dialog": [
             "abompard",
             "raphgro",
-            "sundaram",
             "zbyszek"
         ],
         "python-dict-sorted": [
@@ -107763,7 +107057,6 @@
             "stevetraylen"
         ],
         "python-dirty-equals": [
-            "italomga",
             "music",
             "orange-kao",
             "pwouters",
@@ -108344,7 +107637,6 @@
         ],
         "python-dns": [
             "aviso",
-            "italomga",
             "lbalhar",
             "pspacek",
             "pwouters",
@@ -108881,7 +108173,6 @@
             "terjeros"
         ],
         "python-exoscale": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -109222,7 +108513,6 @@
         "python-flask-assets": [
             "kumarpraveen",
             "orphan",
-            "sundaram",
             "tflink"
         ],
         "python-flask-autoindex": [
@@ -109328,8 +108618,7 @@
         "python-flask-openid": [
             "frantisekz",
             "kumarpraveen",
-            "pjp",
-            "sundaram"
+            "pjp"
         ],
         "python-flask-paranoid": [
             "devrim",
@@ -109388,7 +108677,6 @@
             "kumarpraveen",
             "pjp",
             "praiskup",
-            "sundaram",
             "tflink"
         ],
         "python-flask-sqlalchemy-lite": [
@@ -109522,7 +108810,6 @@
             "orphan"
         ],
         "python-folium": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -109570,7 +108857,6 @@
             "pcpa"
         ],
         "python-fqdn": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "romaingeissler1a",
@@ -110033,7 +109319,6 @@
             "fkolwa",
             "jonathanspw",
             "kkeithle",
-            "miyunari",
             "music"
         ],
         "python-google-apputils": [
@@ -110050,172 +109335,144 @@
         "python-google-cloud-access-approval": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-access-context-manager": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-api-gateway": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-apigee-connect": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-appengine-admin": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-asset": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-automl": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-bigquery": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "neurowinter",
             "pwouters"
         ],
         "python-google-cloud-bigquery-connection": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-bigquery-datatransfer": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-bigquery-reservation": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-bigquery-storage": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "neurowinter",
             "pwouters"
         ],
         "python-google-cloud-bigtable": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-billing": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-billing-budgets": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-build": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-common": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-container": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-containeranalysis": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-core": [
             "@python-packagers-sig",
             "fkolwa",
             "jonathanspw",
-            "kkeithle",
-            "miyunari"
+            "kkeithle"
         ],
         "python-google-cloud-data-fusion": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-datacatalog": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-dataproc": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-dataproc-metastore": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-debugger-client": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-deploy": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-dlp": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-dms": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-dns": [
@@ -110224,104 +109481,87 @@
         "python-google-cloud-domains": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-filestore": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-firestore": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-functions": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-iam": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-kms": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-monitoring": [
-            "italomga",
             "neurowinter",
             "pwouters"
         ],
         "python-google-cloud-org-policy": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-os-config": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-private-ca": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-pubsub": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "music",
             "orphan"
         ],
         "python-google-cloud-redis": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-shell": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-source-context": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-spanner": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "orphan"
         ],
         "python-google-cloud-storage": [
             "@python-packagers-sig",
             "fkolwa",
             "jonathanspw",
-            "kkeithle",
-            "miyunari"
+            "kkeithle"
         ],
         "python-google-cloud-testutils": [
             "@python-packagers-sig",
             "fkolwa",
-            "miyunari",
             "neurowinter",
             "pwouters"
         ],
@@ -110332,7 +109572,6 @@
             "music"
         ],
         "python-google-i18n-address": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -110348,8 +109587,7 @@
             "@python-packagers-sig",
             "fkolwa",
             "jonathanspw",
-            "kkeithle",
-            "miyunari"
+            "kkeithle"
         ],
         "python-googletrans": [
             "orphan"
@@ -110399,8 +109637,7 @@
             "orphan"
         ],
         "python-grapefruit": [
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "python-graph-tool": [
             "@neuro-sig",
@@ -110656,7 +109893,6 @@
         ],
         "python-hiredis": [
             "bugant",
-            "italomga",
             "orange-kao",
             "pwouters",
             "rommell"
@@ -110724,7 +109960,6 @@
             "pjp",
             "sagitter",
             "salimma",
-            "sundaram",
             "tdawson"
         ],
         "python-htmlmin": [
@@ -110891,7 +110126,6 @@
             "limb"
         ],
         "python-icmplib": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -111121,8 +110355,7 @@
             "mulhern"
         ],
         "python-invocations": [
-            "orphan",
-            "pcreech17"
+            "orphan"
         ],
         "python-invoke": [
             "@python-packagers-sig",
@@ -111291,7 +110524,6 @@
             "kevin"
         ],
         "python-janus": [
-            "italomga",
             "orange-kao",
             "orphan",
             "pwouters",
@@ -111880,8 +111112,7 @@
             "mrunge",
             "ngompa",
             "pingou",
-            "pjp",
-            "sundaram"
+            "pjp"
         ],
         "python-korean-lunar-calendar": [
             "orphan"
@@ -112929,8 +112160,7 @@
         ],
         "python-mock": [
             "@python-packagers-sig",
-            "churchyard",
-            "ttorling"
+            "churchyard"
         ],
         "python-mock-ssh-server": [
             "raphgro"
@@ -113080,8 +112310,7 @@
             "jonathanspw",
             "kkeithle",
             "ktdreyer",
-            "pjp",
-            "sundaram"
+            "pjp"
         ],
         "python-msgspec": [
             "tritas"
@@ -113599,7 +112828,6 @@
             "churchyard"
         ],
         "python-nose-cov": [
-            "jdulaney",
             "orphan"
         ],
         "python-nose-cover3": [
@@ -113666,16 +112894,14 @@
         ],
         "python-novaclient": [
             "@openstack-sig",
-            "jcapitao",
-            "markmc"
+            "jcapitao"
         ],
         "python-novaclient-os-networks": [
             "ctria",
-            "rjmco"
+            "orphan"
         ],
         "python-novaclient-os-virtual-interfaces": [
-            "ctria",
-            "rjmco"
+            "ctria"
         ],
         "python-nptyping": [
             "orphan"
@@ -113775,8 +113001,7 @@
         "python-oauth2": [
             "ignatenkobrain",
             "pjp",
-            "spot",
-            "sundaram"
+            "spot"
         ],
         "python-oauth2client": [
             "@epel-packagers-sig",
@@ -113797,10 +113022,9 @@
         ],
         "python-octaviaclient": [
             "@openstack-sig",
-            "cgoncalves"
+            "orphan"
         ],
         "python-odata-query": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -114145,8 +113369,7 @@
         "python-oslo-config": [
             "@openstack-sig",
             "apevec",
-            "limb",
-            "markmc"
+            "limb"
         ],
         "python-oslo-context": [
             "@epel-packagers-sig",
@@ -114251,7 +113474,6 @@
             "iztokf"
         ],
         "python-ovh": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -114775,9 +113997,7 @@
             "@python-packagers-sig",
             "churchyard",
             "ksurma",
-            "sundaram",
-            "torsava",
-            "ttorling"
+            "torsava"
         ],
         "python-pip-epel": [
             "orphan"
@@ -114912,8 +114132,7 @@
             "lsm5",
             "luap99",
             "nsella",
-            "santiago",
-            "umohnani"
+            "santiago"
         ],
         "python-podman-api": [
             "orphan"
@@ -115717,7 +114936,6 @@
         ],
         "python-pygpgme": [
             "ignatenkobrain",
-            "mitr",
             "orphan",
             "till"
         ],
@@ -115825,8 +115043,7 @@
             "abompard",
             "frantisekz",
             "pjp",
-            "salimma",
-            "sundaram"
+            "salimma"
         ],
         "python-pylibravatar": [
             "@infra-sig",
@@ -115955,8 +115172,7 @@
             "alciregi"
         ],
         "python-pyngus": [
-            "hiwkby",
-            "kpvdr"
+            "hiwkby"
         ],
         "python-pynlpl": [
             "ishcherb",
@@ -116315,8 +115531,7 @@
         ],
         "python-pysocks": [
             "@infra-sig",
-            "kevin",
-            "ttorling"
+            "kevin"
         ],
         "python-pysodium": [
             "vtrefny"
@@ -116592,7 +115807,6 @@
             "gui1ty"
         ],
         "python-pytest-localserver": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -116858,8 +116072,8 @@
             "orphan"
         ],
         "python-pyvat": [
-            "italomga",
             "orange-kao",
+            "orphan",
             "pwouters",
             "rominf",
             "rommell"
@@ -117073,7 +116287,6 @@
             "@go-sig",
             "buckaroogeek",
             "dwalsh",
-            "ecurtin",
             "lsm5",
             "smooge"
         ],
@@ -117341,7 +116554,6 @@
             "salimma"
         ],
         "python-requests-exoscale-auth": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -117992,7 +117204,6 @@
             "smani"
         ],
         "python-sentry-sdk": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -118184,7 +117395,6 @@
             "peter"
         ],
         "python-simple-salesforce": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -118312,7 +117522,6 @@
             "fedepell"
         ],
         "python-sly": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -119241,7 +118450,6 @@
             "jonathanspw"
         ],
         "python-stripe": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -119364,7 +118572,6 @@
             "orphan"
         ],
         "python-systemd": [
-            "mjia",
             "zbyszek"
         ],
         "python-sysv_ipc": [
@@ -119535,8 +118742,7 @@
             "churchyard",
             "jonathanspw",
             "orion",
-            "romaingeissler1a",
-            "ttorling"
+            "romaingeissler1a"
         ],
         "python-terminaltables": [
             "terjeros"
@@ -119827,7 +119033,8 @@
         "python-torch": [
             "@rocm-packagers-sig",
             "mystro256",
-            "trix"
+            "trix",
+            "xanderlent"
         ],
         "python-torchaudio": [
             "@rocm-packagers-sig",
@@ -120128,7 +119335,6 @@
             "kevin"
         ],
         "python-twilio": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -120449,8 +119655,7 @@
         "python-unidecode": [
             "@epel-packagers-sig",
             "pjp",
-            "salimma",
-            "sundaram"
+            "salimma"
         ],
         "python-unidiff": [],
         "python-unipath": [
@@ -120465,8 +119670,7 @@
             "orphan"
         ],
         "python-unittest2": [
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "python-universal-pathlib": [
             "orphan"
@@ -120562,7 +119766,6 @@
             "churchyard"
         ],
         "python-urlobject": [
-            "jdulaney",
             "orphan"
         ],
         "python-urlpy": [
@@ -120644,7 +119847,6 @@
         ],
         "python-valkey": [
             "bugant",
-            "italomga",
             "orange-kao",
             "pwouters",
             "rommell"
@@ -120936,8 +120138,7 @@
         ],
         "python-webassets": [
             "kumarpraveen",
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "python-webcolors": [
             "@infra-sig",
@@ -121191,7 +120392,6 @@
             "pingou",
             "pjp",
             "praiskup",
-            "sundaram",
             "tdawson",
             "tflink"
         ],
@@ -121250,7 +120450,6 @@
         ],
         "python-xcffib": [
             "cicku",
-            "jdulaney",
             "orion"
         ],
         "python-xdfile": [
@@ -121718,7 +120917,6 @@
             "zuul"
         ],
         "python-zxcvbn": [
-            "italomga",
             "orange-kao",
             "pwouters",
             "rominf",
@@ -121906,7 +121104,6 @@
         ],
         "python26-m2crypto": [
             "gholms",
-            "mitr",
             "orphan"
         ],
         "python26-markupsafe": [
@@ -122088,7 +121285,7 @@
             "besser82"
         ],
         "python3-gql": [
-            "burlak"
+            "orphan"
         ],
         "python3-greenlet": [
             "salimma"
@@ -122930,7 +122127,6 @@
         ],
         "qalculate-kde": [
             "orphan",
-            "rdieter",
             "tdawson"
         ],
         "qalculate-qt": [
@@ -123042,15 +122238,14 @@
             "talcite"
         ],
         "qclib": [
-            "rdossant",
+            "orphan",
             "sharkcz"
         ],
         "qcodeedit": [
             "orphan"
         ],
         "qcomicbook": [
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "qcommandline": [
             "orphan"
@@ -123187,7 +122382,6 @@
         "qjackctl": [
             "ankursinha",
             "dtimms",
-            "green",
             "pampelmuse"
         ],
         "qjson": [
@@ -123330,7 +122524,6 @@
         "qperf": [
             "@epel-packagers-sig",
             "dcavalca",
-            "dledford",
             "honli",
             "michich",
             "salimma",
@@ -123343,17 +122536,14 @@
             "orphan"
         ],
         "qpid-java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "qpid-jms": [
-            "gil",
             "orphan"
         ],
         "qpid-proton": [
-            "hiwkby",
-            "kpvdr"
+            "hiwkby"
         ],
         "qpid-proton-java": [
             "java-sig",
@@ -123498,7 +122688,6 @@
         ],
         "qt-mobility": [
             "orphan",
-            "rdieter",
             "than"
         ],
         "qt-qsa": [
@@ -123509,7 +122698,6 @@
         ],
         "qt-virt-manager": [
             "@kde-sig",
-            "f1ash",
             "orphan",
             "raphgro",
             "vascom"
@@ -123722,7 +122910,7 @@
         ],
         "qt5-qtwebchannel": [
             "@kde-sig",
-            "nocnokneo"
+            "orphan"
         ],
         "qt5-qtwebengine": [
             "@kde-sig",
@@ -123737,7 +122925,7 @@
         ],
         "qt5-qtwebsockets": [
             "@kde-sig",
-            "nocnokneo"
+            "orphan"
         ],
         "qt5-qtwebview": [
             "@kde-sig",
@@ -123943,8 +123131,7 @@
         ],
         "qtcurve": [
             "@kde-sig",
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "qtcurve-gtk2": [
             "orphan"
@@ -123980,8 +123167,7 @@
         "qtile": [
             "akdev",
             "dannycolin",
-            "frostyx",
-            "jdulaney"
+            "frostyx"
         ],
         "qtile-extras": [
             "dannycolin",
@@ -123993,8 +123179,7 @@
         ],
         "qtiocompressor": [
             "fale",
-            "gbcox",
-            "oget"
+            "gbcox"
         ],
         "qtiplot": [
             "orphan"
@@ -124011,7 +123196,6 @@
             "@kde-sig",
             "fale",
             "krege",
-            "oget",
             "raphgro"
         ],
         "qtoctave": [
@@ -124036,8 +123220,7 @@
             "topazus"
         ],
         "qtscriptgenerator": [
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "qtscrob": [
             "ignatenkobrain",
@@ -124064,7 +123247,6 @@
             "kkofler",
             "orphan",
             "patux",
-            "rdieter",
             "than"
         ],
         "qtweetlib": [
@@ -124112,7 +123294,6 @@
             "orphan"
         ],
         "quartz": [
-            "gil",
             "orphan"
         ],
         "quassel": [
@@ -124157,12 +123338,10 @@
             "topazus"
         ],
         "querydsl": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "querydsl3": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -124253,15 +123432,13 @@
         ],
         "qwt": [
             "dreua",
-            "rdieter",
             "tdawson"
         ],
         "qwt-doc": [
             "orphan"
         ],
         "qwt5": [
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "qwt5-qt5": [
             "alexpl",
@@ -124314,7 +123491,6 @@
             "orphan"
         ],
         "rabbitmq-java-client": [
-            "gil",
             "orphan"
         ],
         "rabbitmq-server": [
@@ -124473,7 +123649,6 @@
             "slankes"
         ],
         "randomizedtesting": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -124518,7 +123693,6 @@
             "music"
         ],
         "raptor": [
-            "green",
             "orphan"
         ],
         "raptor2": [
@@ -124577,7 +123751,6 @@
             "bax"
         ],
         "raul": [
-            "oget",
             "orphan"
         ],
         "ravada": [
@@ -124657,7 +123830,7 @@
         ],
         "rcs": [
             "hhorak",
-            "mmuzila",
+            "orphan",
             "pampelmuse"
         ],
         "rcssbase": [
@@ -124735,12 +123908,10 @@
             "orphan"
         ],
         "reactive-streams": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "reactor": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -124904,7 +124075,6 @@
             "remi"
         ],
         "redis-protocol": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -124948,7 +124118,6 @@
             "orphan"
         ],
         "reflectasm": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -125004,13 +124173,11 @@
             "orphan"
         ],
         "rekollect": [
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "rekonq": [
             "jgrulich",
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "relaxng-datatype-java": [
             "mizdebsk",
@@ -125020,7 +124187,6 @@
             "orphan"
         ],
         "relaxngcc": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -125060,7 +124226,6 @@
             "orphan"
         ],
         "remotetea": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -125087,7 +124252,6 @@
         "replacer": [
             "@db-sig",
             "anezbeda",
-            "gil",
             "java-sig",
             "mizdebsk",
             "mkoncek"
@@ -125193,7 +124357,6 @@
         "resteasy": [
             "cfu",
             "edewata",
-            "gil",
             "java-sig",
             "jmagne",
             "mfargett",
@@ -125204,7 +124367,6 @@
             "mikelo2"
         ],
         "restlet-jse": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -125322,8 +124484,7 @@
             "rstrode"
         ],
         "rhino": [
-            "didiksupriadi41",
-            "ebaron"
+            "didiksupriadi41"
         ],
         "rhm": [
             "orphan"
@@ -125403,7 +124564,6 @@
             "czanik"
         ],
         "riffle": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -125496,8 +124656,7 @@
         ],
         "rktime": [
             "matriux",
-            "robert",
-            "sundaram"
+            "robert"
         ],
         "rkward": [
             "@r-maint-sig",
@@ -125552,7 +124711,6 @@
             "orphan"
         ],
         "rngom": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -125641,7 +124799,6 @@
             "dcavalca",
             "jonny",
             "kkeithle",
-            "mmuzila",
             "peter"
         ],
         "rocksndiamonds": [
@@ -125715,7 +124872,6 @@
             "tstellar"
         ],
         "rocoto": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -126125,8 +125281,7 @@
             "orphan"
         ],
         "rtaudio": [
-            "hobbes1069",
-            "oget"
+            "hobbes1069"
         ],
         "rteval": [
             "jkacur"
@@ -126607,7 +125762,7 @@
             "vondruch"
         ],
         "rubygem-bacon-colored_output": [
-            "ilgrad"
+            "orphan"
         ],
         "rubygem-base32": [
             "maha"
@@ -126705,7 +125860,6 @@
             "jaruga"
         ],
         "rubygem-bunny": [
-            "jdunn",
             "orphan"
         ],
         "rubygem-byebug": [
@@ -126743,7 +125897,6 @@
             "orphan"
         ],
         "rubygem-chef-zero": [
-            "jdunn",
             "orphan"
         ],
         "rubygem-childprocess": [
@@ -126816,7 +125969,7 @@
             "orphan"
         ],
         "rubygem-codeclimate-test-reporter": [
-            "ilgrad"
+            "orphan"
         ],
         "rubygem-codemirror-rails": [
             "orphan"
@@ -127052,7 +126205,7 @@
             "orphan"
         ],
         "rubygem-diffy": [
-            "ilgrad"
+            "orphan"
         ],
         "rubygem-ditz": [
             "orphan"
@@ -127370,7 +126523,7 @@
             "orphan"
         ],
         "rubygem-generator_spec": [
-            "ilgrad"
+            "orphan"
         ],
         "rubygem-geoip": [
             "ktdreyer",
@@ -127581,7 +126734,6 @@
             "orphan"
         ],
         "rubygem-http_parser.rb": [
-            "ilgrad",
             "vondruch"
         ],
         "rubygem-httparty": [
@@ -127656,7 +126808,7 @@
             "vondruch"
         ],
         "rubygem-ipaddress": [
-            "jdunn",
+            "orphan",
             "tdawson",
             "valtri"
         ],
@@ -127964,7 +127116,7 @@
             "vondruch"
         ],
         "rubygem-minitest-around": [
-            "ilgrad"
+            "orphan"
         ],
         "rubygem-minitest-profile": [
             "orphan"
@@ -127984,21 +127136,19 @@
             "orphan"
         ],
         "rubygem-mixlib-authentication": [
-            "jdunn",
             "orphan"
         ],
         "rubygem-mixlib-cli": [
-            "jdunn"
+            "orphan"
         ],
         "rubygem-mixlib-config": [
-            "jdunn"
+            "orphan"
         ],
         "rubygem-mixlib-log": [
-            "dcavalca",
-            "jdunn"
+            "dcavalca"
         ],
         "rubygem-mixlib-shellout": [
-            "jdunn"
+            "orphan"
         ],
         "rubygem-mizuho": [
             "tdawson",
@@ -128143,7 +127293,6 @@
             "orphan"
         ],
         "rubygem-net-ssh-multi": [
-            "jdunn",
             "orphan"
         ],
         "rubygem-netrc": [
@@ -128155,7 +127304,7 @@
         ],
         "rubygem-nifti": [
             "@neuro-sig",
-            "ilgrad"
+            "orphan"
         ],
         "rubygem-nio4r": [
             "@ruby-packagers-sig",
@@ -128364,7 +127513,7 @@
             "mtasaka"
         ],
         "rubygem-powerpack": [
-            "ilgrad"
+            "orphan"
         ],
         "rubygem-pr_geohash": [
             "orphan"
@@ -129064,7 +128213,6 @@
             "orphan"
         ],
         "rubygem-six": [
-            "ilgrad",
             "orphan"
         ],
         "rubygem-slim": [
@@ -129154,7 +128302,7 @@
             "tdawson"
         ],
         "rubygem-systemu": [
-            "jdunn",
+            "orphan",
             "stevetraylen"
         ],
         "rubygem-taskjuggler": [
@@ -129496,8 +128644,7 @@
             "orphan"
         ],
         "rumor": [
-            "limb",
-            "oget"
+            "limb"
         ],
         "runc": [
             "@go-sig",
@@ -129508,8 +128655,7 @@
             "haircommander",
             "jchaloup",
             "kir",
-            "runcom",
-            "ttorling"
+            "runcom"
         ],
         "rundoc": [
             "leamas"
@@ -129535,8 +128681,7 @@
             "jcheca",
             "jistone",
             "mulhern",
-            "pmurphy",
-            "ttorling"
+            "pmurphy"
         ],
         "rust-Inflector": [
             "@rust-sig",
@@ -133975,6 +133120,7 @@
         "rust-eza": [
             "@rust-sig",
             "germano",
+            "richardm",
             "tautropfli"
         ],
         "rust-faccess": [
@@ -138328,6 +137474,9 @@
         ],
         "rust-libsqlite3-sys0.25": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-libsqlite3-sys0.28": [
             "decathorpe"
         ],
         "rust-libssh2-sys": [
@@ -143000,6 +142149,9 @@
         ],
         "rust-rusqlite0.28": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-rusqlite0.31": [
             "decathorpe"
         ],
         "rust-rust-embed": [
@@ -148187,7 +147339,6 @@
             "jjames"
         ],
         "rxjava": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -148251,7 +147402,6 @@
             "orphan"
         ],
         "sablecc": [
-            "gil",
             "orphan"
         ],
         "sac": [
@@ -148488,7 +147638,6 @@
             "pbrobinson"
         ],
         "sbcl": [
-            "green",
             "yselkowitz"
         ],
         "sbd": [
@@ -148605,7 +147754,6 @@
             "orphan"
         ],
         "scalacheck": [
-            "gil",
             "orphan"
         ],
         "scalapack": [
@@ -148659,7 +147807,6 @@
             "jcerny",
             "marcusburghardt",
             "mburket",
-            "mlysonek",
             "mmarhefk",
             "vpolasek"
         ],
@@ -148668,7 +147815,6 @@
             "jcerny",
             "mbarabas",
             "mburket",
-            "mlysonek",
             "mmarhefk"
         ],
         "scapy": [
@@ -148833,7 +147979,6 @@
             "@python-packagers-sig",
             "cstratak",
             "davidsch",
-            "mmuzila",
             "nforro",
             "psimovec"
         ],
@@ -149086,7 +148231,6 @@
             "jlinton"
         ],
         "se-sandbox-runner": [
-            "f1ash",
             "orphan"
         ],
         "seabios": [
@@ -149142,7 +148286,6 @@
             "orphan"
         ],
         "seam-solder": [
-            "gil",
             "orphan"
         ],
         "seamonkey": [
@@ -149272,7 +148415,6 @@
             "topazus"
         ],
         "semweb4j": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -149320,7 +148462,6 @@
             "orphan"
         ],
         "seq24": [
-            "green",
             "orphan"
         ],
         "seqan": [
@@ -149348,7 +148489,7 @@
         ],
         "serafettin-cartoon-fonts": [
             "fonts-sig",
-            "oget"
+            "orphan"
         ],
         "serd": [
             "nphilipp",
@@ -149372,7 +148513,6 @@
             "jskarvad"
         ],
         "serp": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -149523,8 +148663,7 @@
         ],
         "sha2": [
             "fale",
-            "jonathanspw",
-            "oget"
+            "jonathanspw"
         ],
         "shaderc": [
             "dcavalca",
@@ -149637,12 +148776,10 @@
             "orphan"
         ],
         "shibboleth-java-parent-v3": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "shibboleth-java-support": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -149682,7 +148819,6 @@
             "jwrdegoede"
         ],
         "shiro": [
-            "gil",
             "orphan"
         ],
         "shmpps": [
@@ -149732,17 +148868,14 @@
             "raphgro"
         ],
         "shrinkwrap": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "shrinkwrap-descriptors": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "shrinkwrap-resolver": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -150018,7 +149151,6 @@
             "orphan"
         ],
         "simple": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -150027,7 +149159,6 @@
             "raveit65"
         ],
         "simple-jndi": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -150043,14 +149174,12 @@
             "amigadave",
             "dodji",
             "ignatenkobrain",
-            "slaanesh",
-            "sundaram"
+            "slaanesh"
         ],
         "simple-tpm-pk11": [
             "orphan"
         ],
         "simple-xml": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -150305,7 +149434,6 @@
             "mkoncek"
         ],
         "slf4j-jboss-logmanager": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -150386,17 +149514,15 @@
             "blowry"
         ],
         "slv2": [
-            "oget",
             "orphan"
         ],
         "smack": [
-            "gil",
             "java-sig",
             "orphan",
             "raphgro"
         ],
         "smaclient": [
-            "rdossant"
+            "orphan"
         ],
         "smart": [
             "orphan"
@@ -150587,7 +149713,6 @@
             "mgieseki"
         ],
         "snappy-java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -150616,7 +149741,6 @@
             "jgrulich",
             "kkofler",
             "orphan",
-            "rdieter",
             "than"
         ],
         "snifflib": [
@@ -150634,7 +149758,6 @@
             "orphan"
         ],
         "snmp4j": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -150669,7 +149792,6 @@
             "tdawson"
         ],
         "snowball-java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -150764,14 +149886,12 @@
             "peter"
         ],
         "solo3": [
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "solr": [
             "orphan"
         ],
         "solr3": [
-            "gil",
             "orphan"
         ],
         "sombok": [
@@ -150806,7 +149926,6 @@
             "orphan"
         ],
         "sonatype-gossip": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -151077,7 +150196,6 @@
             "orphan"
         ],
         "spatial4j": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -151120,7 +150238,6 @@
         ],
         "spec-version-maven-plugin": [
             "@epel-packagers-sig",
-            "gil",
             "java-sig",
             "jjames",
             "salimma"
@@ -151263,7 +150380,6 @@
             "orphan"
         ],
         "spice-parent": [
-            "huwang",
             "korkeala",
             "mizdebsk",
             "mkoncek"
@@ -151355,7 +150471,6 @@
             "hobbes1069"
         ],
         "spock": [
-            "gil",
             "java-sig",
             "mizdebsk",
             "orphan"
@@ -151390,7 +150505,6 @@
             "orphan"
         ],
         "spring-ldap": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -151405,77 +150519,62 @@
             "orphan"
         ],
         "springframework": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "springframework-amqp": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "springframework-batch": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "springframework-data-commons": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "springframework-data-jpa": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "springframework-data-mongodb": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "springframework-data-redis": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "springframework-hateoas": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "springframework-integration": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "springframework-plugin": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "springframework-retry": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "springframework-security": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "springframework-social": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "springframework-social-twitter": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "springframework-ws": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -151499,7 +150598,6 @@
             "prgutier"
         ],
         "spymemcached": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -151525,7 +150623,6 @@
             "zmiklank"
         ],
         "sqlite-jdbc": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -151702,7 +150799,6 @@
             "topazus"
         ],
         "sshj": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -151725,7 +150821,6 @@
             "robert"
         ],
         "sslext": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -151929,11 +151024,9 @@
             "psss"
         ],
         "stax-ex": [
-            "gil",
             "orphan"
         ],
         "stax-utils": [
-            "gil",
             "orphan"
         ],
         "stax2-api": [
@@ -151946,7 +151039,6 @@
             "orphan"
         ],
         "staxmate": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -152155,7 +151247,6 @@
             "salimma"
         ],
         "struts": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -152199,7 +151290,6 @@
             "orphan"
         ],
         "subethasmtp": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -152592,7 +151682,6 @@
             "lkundrak"
         ],
         "super-csv": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -152751,7 +151840,6 @@
             "cottsay"
         ],
         "swagger-core": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -152762,7 +151850,6 @@
             "tibbs"
         ],
         "swami": [
-            "oget",
             "ycollet"
         ],
         "swappy": [
@@ -152845,7 +151932,6 @@
             "orphan"
         ],
         "swh-plugins": [
-            "green",
             "orphan"
         ],
         "swid-tools": [
@@ -152875,7 +151961,6 @@
             "orphan"
         ],
         "swing-layout": [
-            "gil",
             "jandrlik",
             "java-sig",
             "lkundrak",
@@ -152948,7 +152033,6 @@
             "salimma"
         ],
         "swizzle": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -152969,7 +152053,6 @@
             "orphan"
         ],
         "sxc": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -153357,8 +152440,8 @@
             "zbyszek"
         ],
         "systemd-bootchart": [
-            "ecurtin",
-            "fale"
+            "fale",
+            "orphan"
         ],
         "systemd-coredump-python": [
             "stevetraylen",
@@ -153402,7 +152485,6 @@
             "plautrba"
         ],
         "t-digest": [
-            "gil",
             "jvanek"
         ],
         "t-prot": [
@@ -153591,7 +152673,6 @@
         "tar": [
             "kdudka",
             "ljavorsk",
-            "mmuzila",
             "ovasik",
             "pcahyna",
             "pkubat",
@@ -153960,8 +153041,7 @@
         ],
         "telepathy-accounts-signon": [
             "@kde-sig",
-            "orphan",
-            "rdieter"
+            "orphan"
         ],
         "telepathy-butterfly": [
             "orphan",
@@ -154092,7 +153172,6 @@
             "rombobeorn"
         ],
         "tempus-fugit": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -154157,7 +153236,6 @@
             "jonathanspw"
         ],
         "terracotta-statistics": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -154178,7 +153256,6 @@
             "orphan"
         ],
         "tesla-polyglot": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -154323,7 +153400,6 @@
             "orphan"
         ],
         "tex-musixtex": [
-            "oget",
             "orphan"
         ],
         "tex-simplecv": [
@@ -154527,7 +153603,6 @@
             "fed500"
         ],
         "thredds": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -154578,7 +153653,6 @@
         ],
         "thunderbird": [
             "ghishadow",
-            "kengert",
             "klaas",
             "rstrode"
         ],
@@ -154589,7 +153663,6 @@
             "orphan"
         ],
         "thymeleaf": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -154635,7 +153708,6 @@
             "orphan"
         ],
         "tiger-types": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -154646,7 +153718,6 @@
             "orphan"
         ],
         "tika": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -154668,7 +153739,6 @@
             "suve"
         ],
         "tiles": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -154723,8 +153793,7 @@
         "timidity++": [
             "chkr",
             "jnovy",
-            "jwrdegoede",
-            "oget"
+            "jwrdegoede"
         ],
         "tin": [
             "adrian",
@@ -155156,6 +154225,7 @@
         "toolbox": [
             "@go-sig",
             "harrymichal",
+            "nixuser",
             "patux",
             "rishi",
             "sumantrom"
@@ -155167,11 +154237,9 @@
             "alciregi"
         ],
         "toot2": [
-            "oget",
             "orphan"
         ],
         "tootaudioservers": [
-            "oget",
             "orphan"
         ],
         "toothchart": [
@@ -155288,15 +154356,13 @@
         "tpm-tools": [
             "@epel-packagers-sig",
             "dcavalca",
-            "michich",
-            "snits"
+            "michich"
         ],
         "tpm2-abrmd": [
             "dcavalca",
             "javierm",
             "pbrobinson",
-            "salimma",
-            "snits"
+            "salimma"
         ],
         "tpm2-abrmd-selinux": [
             "javierm"
@@ -155314,15 +154380,13 @@
             "dcavalca",
             "javierm",
             "pbrobinson",
-            "salimma",
-            "snits"
+            "salimma"
         ],
         "tpm2-tss": [
             "dcavalca",
             "javierm",
             "pbrobinson",
             "salimma",
-            "snits",
             "yunyings"
         ],
         "tpm2-tss-engine": [
@@ -155698,7 +154762,6 @@
         ],
         "treelayout": [
             "@epel-packagers-sig",
-            "gil",
             "java-sig",
             "jjames",
             "salimma"
@@ -155759,7 +154822,6 @@
         ],
         "tritonus": [
             "lzap",
-            "oget",
             "orphan"
         ],
         "trivy": [
@@ -155790,17 +154852,14 @@
             "orphan"
         ],
         "truecommons": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "truecommons-parent": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "truezip": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -155987,7 +155046,6 @@
         ],
         "tse3": [
             "davidcornette",
-            "oget",
             "orphan"
         ],
         "tsl-sparse-map": [
@@ -156006,6 +155064,7 @@
         "tss2": [
             "honclo",
             "kgold",
+            "orphan",
             "snits"
         ],
         "tsung": [
@@ -156086,8 +155145,7 @@
         ],
         "tumbler": [
             "kevin",
-            "nonamedotc",
-            "sundaram"
+            "nonamedotc"
         ],
         "tuna": [
             "acme",
@@ -156132,12 +155190,10 @@
             "orphan"
         ],
         "tuscany-parent": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "tuscany-sdo-java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -156157,7 +155213,6 @@
         ],
         "tuxguitar": [
             "mtasaka",
-            "oget",
             "orphan"
         ],
         "tuxkart": [
@@ -156215,7 +155270,7 @@
             "smani"
         ],
         "twirssi": [
-            "jdunn"
+            "orphan"
         ],
         "twitter-glib": [
             "orphan"
@@ -156309,7 +155364,6 @@
             "orphan"
         ],
         "tyrus": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -156341,7 +155395,6 @@
             "vda"
         ],
         "ua-parser-java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -156400,7 +155453,7 @@
         ],
         "uchardet": [
             "@multimedia-sig",
-            "ilgrad",
+            "orphan",
             "slaanesh",
             "vascom"
         ],
@@ -156544,15 +155597,13 @@
             "kkofler"
         ],
         "ugene": [
-            "mtasaka",
-            "yalgaer"
+            "mtasaka"
         ],
         "uget": [
             "mtasaka"
         ],
         "uglify-js": [
-            "ellert",
-            "patches"
+            "ellert"
         ],
         "uglify-js1": [
             "orphan"
@@ -156581,17 +155632,14 @@
             "tagoh"
         ],
         "uima-addons": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "uima-parent-pom": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "uimaj": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -156680,7 +155728,6 @@
             "smallvil"
         ],
         "unalz": [
-            "oget",
             "orphan",
             "ppisar"
         ],
@@ -156688,7 +155735,6 @@
             "peter"
         ],
         "unbescape": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -156709,7 +155755,6 @@
             "rharwood"
         ],
         "uncommons-maths": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -156728,7 +155773,6 @@
             "orphan"
         ],
         "undertow-js": [
-            "gil",
             "orphan"
         ],
         "unetbootin": [
@@ -156815,7 +155859,6 @@
             "orphan"
         ],
         "unit-api": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -157356,7 +156399,6 @@
             "mjw"
         ],
         "validator-htmlparser": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -157662,7 +156704,6 @@
             "mkoncek"
         ],
         "velocity-tools": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -157672,7 +156713,7 @@
             "sandeeps"
         ],
         "vera++": [
-            "nocnokneo"
+            "orphan"
         ],
         "verbiste": [
             "cicku",
@@ -158076,7 +157117,6 @@
             "mooninite"
         ],
         "vkeybd": [
-            "green",
             "tartina"
         ],
         "vkmark": [
@@ -158222,7 +157262,6 @@
             "orphan"
         ],
         "vorbis-java": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -158451,9 +157490,7 @@
         "waiverdb": [
             "dcallagh",
             "lholecek",
-            "mjia",
-            "orphan",
-            "vmaljulin"
+            "orphan"
         ],
         "wallaby": [
             "orphan"
@@ -158667,8 +157704,7 @@
             "fschwarz"
         ],
         "web-assets": [
-            "jstanek",
-            "patches"
+            "jstanek"
         ],
         "web-assets-epel": [
             "ppisar"
@@ -158703,12 +157739,10 @@
             "orphan"
         ],
         "webjars-locator": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "webjars-locator-core": [
-            "gil",
             "orphan"
         ],
         "webkit-sharp": [
@@ -158790,7 +157824,6 @@
         ],
         "weka": [
             "fabiobeneditto",
-            "gil",
             "orphan"
         ],
         "weld-api": [
@@ -158802,7 +157835,6 @@
             "orphan"
         ],
         "weld-parent": [
-            "gil",
             "java-sig",
             "korkeala"
         ],
@@ -158956,7 +157988,6 @@
             "jjames"
         ],
         "whysynth-dssi": [
-            "green",
             "orphan"
         ],
         "wicd": [
@@ -159010,36 +158041,29 @@
             "music"
         ],
         "wildfly": [
-            "gil",
             "orphan"
         ],
         "wildfly-arquillian": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "wildfly-build-tools": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "wildfly-common": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "wildfly-core": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "wildfly-elytron": [
-            "gil",
             "java-sig",
             "orphan"
         ],
         "wildfly-security-manager": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -159410,7 +158434,6 @@
             "wef"
         ],
         "woden": [
-            "gil",
             "orphan"
         ],
         "woff": [
@@ -159531,8 +158554,7 @@
             "jonathanspw"
         ],
         "wp_tray": [
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "wpa_supplicant": [
             "bengal",
@@ -159583,8 +158605,7 @@
             "orphan"
         ],
         "writer2latex": [
-            "orphan",
-            "sbergmann"
+            "orphan"
         ],
         "writerperfect": [
             "dtardon"
@@ -159593,16 +158614,15 @@
             "orphan"
         ],
         "ws-commons-util": [
-            "green",
             "mizdebsk",
-            "mkoncek"
+            "mkoncek",
+            "orphan"
         ],
         "ws-jaxme": [
             "java-sig",
             "orphan"
         ],
         "ws-xmlschema": [
-            "gil",
             "orphan"
         ],
         "wsdd": [
@@ -159837,7 +158857,6 @@
             "mosvald"
         ],
         "xapool": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -160653,7 +159672,6 @@
             "music"
         ],
         "xforms": [
-            "rdieter",
             "robert"
         ],
         "xfpanel-switch": [
@@ -160890,7 +159908,6 @@
             "mkoncek"
         ],
         "xml-security": [
-            "gil",
             "orphan"
         ],
         "xml-security-c": [
@@ -160915,12 +159932,10 @@
             "rombobeorn"
         ],
         "xmlbeans": [
-            "gil",
             "lkundrak",
             "orphan"
         ],
         "xmlbeans-maven-plugin": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -160937,7 +159952,6 @@
             "pfrields"
         ],
         "xmlenc": [
-            "gil",
             "orphan"
         ],
         "xmlfy": [
@@ -160961,7 +159975,6 @@
             "orphan"
         ],
         "xmlrpc": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -160995,7 +160008,6 @@
         ],
         "xmlstreambuffer": [
             "didiksupriadi41",
-            "gil",
             "java-sig",
             "mkoncek"
         ],
@@ -161078,7 +160090,6 @@
             "spot"
         ],
         "xmmsctrl": [
-            "oget",
             "orphan"
         ],
         "xmobar": [
@@ -161123,7 +160134,6 @@
             "rathann"
         ],
         "xmpcore": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -161737,7 +160747,6 @@
             "orphan"
         ],
         "xpp3": [
-            "gil",
             "hannes",
             "java-sig",
             "jerboaa",
@@ -161749,7 +160758,6 @@
             "orphan"
         ],
         "xpra": [
-            "patches",
             "sagitter"
         ],
         "xprobe2": [
@@ -161958,7 +160966,6 @@
             "orphan"
         ],
         "xsynth-dssi": [
-            "oget",
             "orphan"
         ],
         "xtb": [
@@ -162137,7 +161144,6 @@
         "xz": [
             "jamartis",
             "jnovy",
-            "mmuzila",
             "pkubat",
             "praiskup",
             "rjones"
@@ -162383,7 +161389,6 @@
             "anezbeda",
             "fjanus",
             "hhorak",
-            "mmuzila",
             "osloup",
             "pkubat"
         ],
@@ -162391,7 +161396,6 @@
             "anezbeda",
             "fjanus",
             "hhorak",
-            "mmuzila",
             "osloup",
             "pkubat"
         ],
@@ -162399,7 +161403,6 @@
             "anezbeda",
             "fjanus",
             "hhorak",
-            "mmuzila",
             "osloup",
             "pkubat"
         ],
@@ -162796,8 +161799,7 @@
             "orphan"
         ],
         "zikula-module-feeds": [
-            "orphan",
-            "sundaram"
+            "orphan"
         ],
         "zikula-module-filterutil": [
             "orphan"
@@ -162869,11 +161871,9 @@
             "tartina"
         ],
         "zita-convolver": [
-            "oget",
             "tartina"
         ],
         "zita-resampler": [
-            "oget",
             "tartina"
         ],
         "zita-rev1": [
@@ -162883,7 +161883,6 @@
             "tartina"
         ],
         "zkclient": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -162891,7 +161890,6 @@
             "jamartis",
             "jchaloup",
             "ljavorsk",
-            "mmuzila",
             "pkubat",
             "praiskup"
         ],
@@ -162941,7 +161939,6 @@
             "luk1337"
         ],
         "znerd-oss-parent": [
-            "gil",
             "java-sig",
             "orphan"
         ],
@@ -163063,7 +162060,6 @@
             "mattia"
         ],
         "zxing": [
-            "gil",
             "java-sig",
             "jonny",
             "orphan"
@@ -163086,11 +162082,9 @@
             "topazus"
         ],
         "zynaddsubfx": [
-            "green",
             "tartina"
         ],
         "zynjacku": [
-            "oget",
             "orphan"
         ],
         "zypper": [
@@ -163520,7 +162514,6 @@
         ],
         "libarchive": [
             "ljavorsk",
-            "mmuzila",
             "vdanek"
         ],
         "libcpuid": [
@@ -163776,7 +162769,6 @@
         "openscap": [
             "evgenyz",
             "jcerny",
-            "mlysonek",
             "mmarhefk",
             "vpolasek"
         ],
@@ -163962,16 +162954,16 @@
             "jcerny",
             "marcusburghardt",
             "matyc",
-            "mlysonek",
             "mmarhefk",
+            "orphan",
             "vpolasek"
         ],
         "scap-workbench": [
             "evgenyz",
             "jcerny",
             "matyc",
-            "mlysonek",
             "mmarhefk",
+            "orphan",
             "vpolasek"
         ],
         "sed": [
@@ -164195,7 +163187,6 @@
             "isenfeld",
             "jheger",
             "ljavorsk",
-            "mmuzila",
             "pkubat"
         ],
         "zlib-ng": [
