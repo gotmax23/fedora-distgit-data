@@ -2268,9 +2268,9 @@
             "fedora": "yselkowitz"
         },
         "libreoffice": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
         },
         "libreoffice-help": {
             "admin": "yselkowitz",
@@ -20995,6 +20995,11 @@
             "admin": "c72578",
             "epel": "c72578",
             "fedora": "c72578"
+        },
+        "cutecosmic": {
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "cutecw": {
             "admin": "orphan",
@@ -138501,6 +138506,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-diagnostic": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
         "python-dialog": {
             "admin": "zbyszek",
             "epel": "zbyszek",
@@ -140332,9 +140342,9 @@
             "fedora": "zbyszek"
         },
         "python-ffmpeg-python": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "matiwari",
+            "epel": "matiwari",
+            "fedora": "matiwari"
         },
         "python-fiat": {
             "admin": "orphan",

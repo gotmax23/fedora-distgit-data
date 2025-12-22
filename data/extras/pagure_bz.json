@@ -1848,7 +1848,7 @@
         ],
         "libreoffice": [
             "@flatpak-sig",
-            "orphan"
+            "yselkowitz"
         ],
         "libreoffice-help": [
             "@flatpak-sig",
@@ -16329,6 +16329,10 @@
         ],
         "cutecom": [
             "c72578"
+        ],
+        "cutecosmic": [
+            "@cosmic-sig",
+            "ngompa"
         ],
         "cutecw": [
             "hardaker",
@@ -106995,6 +106999,9 @@
         "python-di": [
             "orphan"
         ],
+        "python-diagnostic": [
+            "jjames"
+        ],
         "python-dialog": [
             "abompard",
             "raphgro",
@@ -108383,7 +108390,7 @@
             "zbyszek"
         ],
         "python-ffmpeg-python": [
-            "orphan"
+            "matiwari"
         ],
         "python-fiat": [
             "orphan"
