@@ -9142,9 +9142,9 @@
             "fedora": "jonathanspw"
         },
         "adobe-afdko": {
-            "admin": "petersen",
-            "epel": "petersen",
-            "fedora": "petersen"
+            "admin": "matiwari",
+            "epel": "matiwari",
+            "fedora": "matiwari"
         },
         "adobe-mappings-cmap": {
             "admin": "zdohnal",
@@ -15833,7 +15833,7 @@
         },
         "cadical": {
             "admin": "jjames",
-            "epel": "jjames",
+            "epel": "petersen",
             "fedora": "jjames"
         },
         "cadvisor": {
@@ -16422,9 +16422,9 @@
             "fedora": "besser82"
         },
         "ccache": {
-            "admin": "orphan",
+            "admin": "limb",
             "epel": "orion",
-            "fedora": "orphan"
+            "fedora": "limb"
         },
         "ccd2iso": {
             "admin": "msk61",
@@ -24263,7 +24263,7 @@
         },
         "drat-trim": {
             "admin": "jjames",
-            "epel": "jjames",
+            "epel": "petersen",
             "fedora": "jjames"
         },
         "drat2er": {
@@ -46172,9 +46172,9 @@
             "fedora": "@go-sig"
         },
         "golang-github-eclipse-paho-mqtt": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-edoardottt-golazy": {
             "admin": "orphan",
@@ -48482,9 +48482,9 @@
             "fedora": "eclipseo"
         },
         "golang-github-integrii-flaggy": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-intel-cpuid": {
             "admin": "orphan",
@@ -51672,9 +51672,9 @@
             "fedora": "mikelo2"
         },
         "golang-github-peterbourgon-ff-3": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-peterbourgon-g2s": {
             "admin": "orphan",
@@ -52497,9 +52497,9 @@
             "fedora": "orphan"
         },
         "golang-github-rjeczalik-notify": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-roaringbitmap-roaring": {
             "admin": "orphan",
@@ -52897,9 +52897,9 @@
             "fedora": "orphan"
         },
         "golang-github-sgreben-flagvar": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-shellcode33-vm-detection": {
             "admin": "orphan",
@@ -53512,9 +53512,9 @@
             "fedora": "qulogic"
         },
         "golang-github-subpop-ini": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-subpop-log": {
             "admin": "linkdupont",
@@ -54662,9 +54662,9 @@
             "fedora": "orphan"
         },
         "golang-github-zcalusic-sysinfo": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-zclconf-cty": {
             "admin": "mikelo2",
@@ -63232,9 +63232,9 @@
             "fedora": "orphan"
         },
         "irstlm": {
-            "admin": "mikep",
-            "epel": "mikep",
-            "fedora": "mikep"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "is-interface": {
             "admin": "orphan",
@@ -159117,9 +159117,9 @@
             "fedora": "lkundrak"
         },
         "qt5-qtwebchannel": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "tdawson",
+            "epel": "tdawson",
+            "fedora": "tdawson"
         },
         "qt5-qtwebengine": {
             "admin": "jgrulich",
@@ -159132,9 +159132,9 @@
             "fedora": "than"
         },
         "qt5-qtwebsockets": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "tdawson",
+            "epel": "tdawson",
+            "fedora": "tdawson"
         },
         "qt5-qtwebview": {
             "admin": "jgrulich",
@@ -163517,9 +163517,9 @@
             "fedora": "orphan"
         },
         "rubygem-diffy": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "vondruch",
+            "epel": "vondruch",
+            "fedora": "vondruch"
         },
         "rubygem-ditz": {
             "admin": "orphan",
@@ -164782,9 +164782,9 @@
             "fedora": "mtasaka"
         },
         "rubygem-minitest-around": {
-            "admin": "orphan",
+            "admin": "mtasaka",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "mtasaka"
         },
         "rubygem-minitest-profile": {
             "admin": "orphan",
@@ -187596,6 +187596,11 @@
             "epel": "alebastr",
             "fedora": "alebastr"
         },
+        "rust-tree-sitter-ada": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-tree-sitter-bash": {
             "admin": "solomoncyj",
             "epel": "@rust-sig",
@@ -187615,6 +187620,11 @@
             "admin": "alebastr",
             "epel": "alebastr",
             "fedora": "alebastr"
+        },
+        "rust-tree-sitter-cmake": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-tree-sitter-config": {
             "admin": "alebastr",
@@ -187722,6 +187732,11 @@
             "fedora": "@rust-sig"
         },
         "rust-tree-sitter-python": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-tree-sitter-racket": {
             "admin": "salimma",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -201377,9 +201392,9 @@
             "fedora": "jrincayc"
         },
         "uchardet": {
-            "admin": "orphan",
+            "admin": "vascom",
             "epel": "slaanesh",
-            "fedora": "orphan"
+            "fedora": "vascom"
         },
         "ucl": {
             "admin": "limb",

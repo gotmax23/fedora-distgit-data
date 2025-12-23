@@ -1480,6 +1480,7 @@
             "yselkowitz"
         ],
         "keepsecret": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "kexi": [
@@ -12817,8 +12818,8 @@
         ],
         "ccache": [
             "ghishadow",
-            "orion",
-            "orphan"
+            "limb",
+            "orion"
         ],
         "ccd2iso": [
             "msk61"
@@ -18909,7 +18910,8 @@
             "jwrdegoede"
         ],
         "drat-trim": [
-            "jjames"
+            "jjames",
+            "petersen"
         ],
         "drat2er": [
             "jjames"
@@ -35495,7 +35497,7 @@
         ],
         "golang-github-eclipse-paho-mqtt": [
             "@go-sig",
-            "linkdupont"
+            "orphan"
         ],
         "golang-github-edoardottt-golazy": [
             "@go-sig",
@@ -37253,7 +37255,7 @@
         ],
         "golang-github-integrii-flaggy": [
             "@go-sig",
-            "linkdupont"
+            "orphan"
         ],
         "golang-github-intel-cpuid": [
             "orphan"
@@ -39698,7 +39700,7 @@
         ],
         "golang-github-peterbourgon-ff-3": [
             "@go-sig",
-            "linkdupont"
+            "orphan"
         ],
         "golang-github-peterbourgon-g2s": [
             "orphan"
@@ -40342,7 +40344,7 @@
         ],
         "golang-github-rjeczalik-notify": [
             "@go-sig",
-            "linkdupont"
+            "orphan"
         ],
         "golang-github-roaringbitmap-roaring": [
             "orphan"
@@ -40648,7 +40650,7 @@
         ],
         "golang-github-sgreben-flagvar": [
             "@go-sig",
-            "linkdupont"
+            "orphan"
         ],
         "golang-github-shellcode33-vm-detection": [
             "@go-sig",
@@ -41122,7 +41124,7 @@
         ],
         "golang-github-subpop-ini": [
             "@go-sig",
-            "linkdupont"
+            "orphan"
         ],
         "golang-github-subpop-log": [
             "@go-sig",
@@ -41995,7 +41997,7 @@
         ],
         "golang-github-zcalusic-sysinfo": [
             "@go-sig",
-            "linkdupont"
+            "orphan"
         ],
         "golang-github-zclconf-cty": [
             "@go-sig",
@@ -48477,7 +48479,7 @@
         ],
         "irstlm": [
             "@epel-packagers-sig",
-            "mikep"
+            "orphan"
         ],
         "is-interface": [
             "orphan"
@@ -101170,6 +101172,7 @@
         "podman": [
             "@go-sig",
             "baude",
+            "dreua",
             "dwalsh",
             "ghishadow",
             "jnovy",
@@ -122917,7 +122920,7 @@
         ],
         "qt5-qtwebchannel": [
             "@kde-sig",
-            "orphan"
+            "tdawson"
         ],
         "qt5-qtwebengine": [
             "@kde-sig",
@@ -122932,7 +122935,7 @@
         ],
         "qt5-qtwebsockets": [
             "@kde-sig",
-            "orphan"
+            "tdawson"
         ],
         "qt5-qtwebview": [
             "@kde-sig",
@@ -126212,7 +126215,7 @@
             "orphan"
         ],
         "rubygem-diffy": [
-            "orphan"
+            "vondruch"
         ],
         "rubygem-ditz": [
             "orphan"
@@ -127123,7 +127126,7 @@
             "vondruch"
         ],
         "rubygem-minitest-around": [
-            "orphan"
+            "mtasaka"
         ],
         "rubygem-minitest-profile": [
             "orphan"
@@ -128784,6 +128787,7 @@
             "ueno"
         ],
         "rust-actix-web-httpauth": [
+            "@rust-sig",
             "alakatos"
         ],
         "rust-actix0.10": [
@@ -130747,6 +130751,7 @@
             "decathorpe"
         ],
         "rust-cbor-codec": [
+            "@rust-sig",
             "alakatos"
         ],
         "rust-cc": [
@@ -131444,6 +131449,7 @@
             "salimma"
         ],
         "rust-cose-rust": [
+            "@rust-sig",
             "alakatos"
         ],
         "rust-count-zeroes": [
@@ -132640,6 +132646,7 @@
             "decathorpe"
         ],
         "rust-ear": [
+            "@rust-sig",
             "alakatos"
         ],
         "rust-easy-cast": [
@@ -137484,6 +137491,7 @@
             "decathorpe"
         ],
         "rust-libsqlite3-sys0.28": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-libssh2-sys": [
@@ -141664,6 +141672,7 @@
             "decathorpe"
         ],
         "rust-regorus": [
+            "@rust-sig",
             "alakatos"
         ],
         "rust-reis": [
@@ -141800,6 +141809,7 @@
             "music"
         ],
         "rust-reqwest-retry0.7": [
+            "@rust-sig",
             "music"
         ],
         "rust-reqwest0.10": [
@@ -141853,6 +141863,7 @@
             "music"
         ],
         "rust-retry-policies0.4": [
+            "@rust-sig",
             "music"
         ],
         "rust-retry1": [
@@ -142159,6 +142170,7 @@
             "decathorpe"
         ],
         "rust-rusqlite0.31": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-rust-embed": [
@@ -142435,9 +142447,11 @@
             "decathorpe"
         ],
         "rust-rustyline-derive0.10": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-rustyline14": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-rutabaga_gfx": [
@@ -142559,9 +142573,11 @@
             "decathorpe"
         ],
         "rust-scientific": [
+            "@rust-sig",
             "alakatos"
         ],
         "rust-scientific-macro": [
+            "@rust-sig",
             "alakatos"
         ],
         "rust-scoped-tls": [
@@ -142935,6 +142951,7 @@
             "orphan"
         ],
         "rust-serde_norway": [
+            "@rust-sig",
             "terjeros"
         ],
         "rust-serde_path_to_error": [
@@ -145075,6 +145092,10 @@
             "@rust-sig",
             "alebastr"
         ],
+        "rust-tree-sitter-ada": [
+            "@rust-sig",
+            "salimma"
+        ],
         "rust-tree-sitter-bash": [
             "@rust-sig",
             "alebastr",
@@ -145091,6 +145112,10 @@
         "rust-tree-sitter-cli": [
             "@rust-sig",
             "alebastr"
+        ],
+        "rust-tree-sitter-cmake": [
+            "@rust-sig",
+            "salimma"
         ],
         "rust-tree-sitter-config": [
             "@rust-sig",
@@ -145177,6 +145202,10 @@
             "salimma"
         ],
         "rust-tree-sitter-python": [
+            "@rust-sig",
+            "salimma"
+        ],
+        "rust-tree-sitter-racket": [
             "@rust-sig",
             "salimma"
         ],
@@ -146374,6 +146403,7 @@
             "slp"
         ],
         "rust-virglrenderer-sys": [
+            "@rust-sig",
             "dorinda"
         ],
         "rust-virtio-bindings": [
@@ -155460,7 +155490,6 @@
         ],
         "uchardet": [
             "@multimedia-sig",
-            "orphan",
             "slaanesh",
             "vascom"
         ],
