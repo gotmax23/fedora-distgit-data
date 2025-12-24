@@ -47517,9 +47517,9 @@
             "fedora": "eclipseo"
         },
         "golang-github-google-wire": {
-            "admin": "mikep",
-            "epel": "mikep",
-            "fedora": "mikep"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-googleapis-enterprise-certificate-proxy": {
             "admin": "mikelo2",
@@ -113747,9 +113747,9 @@
             "fedora": "ppisar"
         },
         "perl-Log-Any": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "xavierb",
+            "epel": "xavierb",
+            "fedora": "xavierb"
         },
         "perl-Log-Any-Adapter": {
             "admin": "orphan",
@@ -115067,9 +115067,9 @@
             "fedora": "jplesnik"
         },
         "perl-MooX-Log-Any": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "xavierb",
+            "epel": "xavierb",
+            "fedora": "xavierb"
         },
         "perl-MooX-Options": {
             "admin": "eseyman",
@@ -154492,9 +154492,9 @@
             "fedora": "orphan"
         },
         "python-typeguard": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
         },
         "python-typepad": {
             "admin": "orphan",
@@ -164786,6 +164786,11 @@
             "epel": "orphan",
             "fedora": "mtasaka"
         },
+        "rubygem-minitest-mock": {
+            "admin": "mtasaka",
+            "epel": "orphan",
+            "fedora": "mtasaka"
+        },
         "rubygem-minitest-profile": {
             "admin": "orphan",
             "epel": "orphan",
@@ -164807,9 +164812,9 @@
             "fedora": "mtasaka"
         },
         "rubygem-minitest5": {
-            "admin": "orphan",
+            "admin": "mtasaka",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "mtasaka"
         },
         "rubygem-mixlib-authentication": {
             "admin": "orphan",
@@ -170686,6 +170691,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-crossterm0.28": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-crossterm_cursor": {
             "admin": "orphan",
             "epel": "orphan",
@@ -175646,7 +175656,17 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-hashlink0.10": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-hashlink0.8": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-hashlink0.9": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -187641,7 +187661,37 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-tree-sitter-dart-orchard": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-tree-sitter-devicetree": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-tree-sitter-elisp": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-tree-sitter-elixir": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-tree-sitter-elm": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-tree-sitter-erlang": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-tree-sitter-fsharp": {
             "admin": "salimma",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -187651,12 +187701,22 @@
             "epel": "alebastr",
             "fedora": "alebastr"
         },
+        "rust-tree-sitter-gleam": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-tree-sitter-go": {
             "admin": "salimma",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-tree-sitter-haskell": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-tree-sitter-hcl": {
             "admin": "salimma",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -187711,6 +187771,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-tree-sitter-newick": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-tree-sitter-nix": {
             "admin": "salimma",
             "epel": "@rust-sig",
@@ -187726,12 +187791,32 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-tree-sitter-pascal": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-tree-sitter-php": {
             "admin": "salimma",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-tree-sitter-proto": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-tree-sitter-python": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-tree-sitter-qmljs": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-tree-sitter-r": {
             "admin": "salimma",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -187751,7 +187836,37 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-tree-sitter-rust-orchard": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-tree-sitter-scala": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-tree-sitter-scheme": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-tree-sitter-sequel": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-tree-sitter-sfapex": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-tree-sitter-solidity": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-tree-sitter-swift": {
             "admin": "salimma",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -187771,12 +187886,22 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-tree-sitter-verilog": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-tree-sitter-xml": {
             "admin": "salimma",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-tree-sitter-yaml": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-tree-sitter-zig": {
             "admin": "salimma",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -189255,6 +189380,11 @@
             "admin": "slp",
             "epel": "slp",
             "fedora": "slp"
+        },
+        "rust-virglrenderer": {
+            "admin": "dorinda",
+            "epel": "dorinda",
+            "fedora": "dorinda"
         },
         "rust-virglrenderer-sys": {
             "admin": "dorinda",

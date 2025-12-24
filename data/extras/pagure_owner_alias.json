@@ -31262,7 +31262,7 @@
             "eclipseo"
         ],
         "golang-github-google-wire": [
-            "mikep"
+            "orphan"
         ],
         "golang-github-googleapis-enterprise-certificate-proxy": [
             "mikelo2"
@@ -75993,9 +75993,8 @@
             "jplesnik"
         ],
         "perl-Log-Any": [
-            "orphan",
-            "steve",
-            "xavierb"
+            "xavierb",
+            "steve"
         ],
         "perl-Log-Any-Adapter": [
             "orphan"
@@ -76981,7 +76980,7 @@
             "ppisar"
         ],
         "perl-MooX-Log-Any": [
-            "orphan"
+            "xavierb"
         ],
         "perl-MooX-Options": [
             "eseyman"
@@ -103787,7 +103786,7 @@
             "orphan"
         ],
         "python-typeguard": [
-            "orphan",
+            "fed500",
             "dcavalca",
             "salimma"
         ],
@@ -110598,6 +110597,9 @@
         "rubygem-minitest-around": [
             "mtasaka"
         ],
+        "rubygem-minitest-mock": [
+            "mtasaka"
+        ],
         "rubygem-minitest-profile": [
             "orphan"
         ],
@@ -110612,7 +110614,7 @@
             "mtasaka"
         ],
         "rubygem-minitest5": [
-            "orphan"
+            "mtasaka"
         ],
         "rubygem-mixlib-authentication": [
             "orphan"
@@ -114301,6 +114303,9 @@
         "rust-crossterm0.27": [
             "salimma"
         ],
+        "rust-crossterm0.28": [
+            "salimma"
+        ],
         "rust-crossterm_cursor": [
             "orphan"
         ],
@@ -117369,7 +117374,13 @@
         "rust-hashlink": [
             "decathorpe"
         ],
+        "rust-hashlink0.10": [
+            "decathorpe"
+        ],
         "rust-hashlink0.8": [
+            "decathorpe"
+        ],
+        "rust-hashlink0.9": [
             "decathorpe"
         ],
         "rust-hdrhistogram": [
@@ -124731,16 +124742,40 @@
         "rust-tree-sitter-css": [
             "salimma"
         ],
+        "rust-tree-sitter-dart-orchard": [
+            "salimma"
+        ],
+        "rust-tree-sitter-devicetree": [
+            "salimma"
+        ],
+        "rust-tree-sitter-elisp": [
+            "salimma"
+        ],
         "rust-tree-sitter-elixir": [
+            "salimma"
+        ],
+        "rust-tree-sitter-elm": [
+            "salimma"
+        ],
+        "rust-tree-sitter-erlang": [
+            "salimma"
+        ],
+        "rust-tree-sitter-fsharp": [
             "salimma"
         ],
         "rust-tree-sitter-generate": [
             "alebastr"
         ],
+        "rust-tree-sitter-gleam": [
+            "salimma"
+        ],
         "rust-tree-sitter-go": [
             "salimma"
         ],
         "rust-tree-sitter-haskell": [
+            "salimma"
+        ],
+        "rust-tree-sitter-hcl": [
             "salimma"
         ],
         "rust-tree-sitter-highlight": [
@@ -124773,6 +124808,9 @@
         "rust-tree-sitter-make": [
             "salimma"
         ],
+        "rust-tree-sitter-newick": [
+            "salimma"
+        ],
         "rust-tree-sitter-nix": [
             "salimma"
         ],
@@ -124782,10 +124820,22 @@
         "rust-tree-sitter-ocaml": [
             "salimma"
         ],
+        "rust-tree-sitter-pascal": [
+            "salimma"
+        ],
         "rust-tree-sitter-php": [
             "salimma"
         ],
+        "rust-tree-sitter-proto": [
+            "salimma"
+        ],
         "rust-tree-sitter-python": [
+            "salimma"
+        ],
+        "rust-tree-sitter-qmljs": [
+            "salimma"
+        ],
+        "rust-tree-sitter-r": [
             "salimma"
         ],
         "rust-tree-sitter-racket": [
@@ -124797,7 +124847,25 @@
         "rust-tree-sitter-rust": [
             "salimma"
         ],
+        "rust-tree-sitter-rust-orchard": [
+            "salimma"
+        ],
         "rust-tree-sitter-scala": [
+            "salimma"
+        ],
+        "rust-tree-sitter-scheme": [
+            "salimma"
+        ],
+        "rust-tree-sitter-sequel": [
+            "salimma"
+        ],
+        "rust-tree-sitter-sfapex": [
+            "salimma"
+        ],
+        "rust-tree-sitter-solidity": [
+            "salimma"
+        ],
+        "rust-tree-sitter-swift": [
             "salimma"
         ],
         "rust-tree-sitter-tags": [
@@ -124809,10 +124877,16 @@
         "rust-tree-sitter-typescript": [
             "salimma"
         ],
+        "rust-tree-sitter-verilog": [
+            "salimma"
+        ],
         "rust-tree-sitter-xml": [
             "salimma"
         ],
         "rust-tree-sitter-yaml": [
+            "salimma"
+        ],
+        "rust-tree-sitter-zig": [
             "salimma"
         ],
         "rust-tree-sitter0.20": [
@@ -125709,6 +125783,9 @@
         ],
         "rust-vhost-user-backend": [
             "slp"
+        ],
+        "rust-virglrenderer": [
+            "dorinda"
         ],
         "rust-virglrenderer-sys": [
             "dorinda"
@@ -132166,7 +132243,8 @@
             "osloup"
         ],
         "timeshift": [
-            "thunderbirdtr"
+            "thunderbirdtr",
+            "farchord"
         ],
         "timespan": [
             "orphan"
