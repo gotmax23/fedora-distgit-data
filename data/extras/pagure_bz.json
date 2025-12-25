@@ -64342,6 +64342,7 @@
         ],
         "md4c": [
             "fed500",
+            "fedepell",
             "jonathanspw"
         ],
         "md5deep": [
@@ -106004,7 +106005,6 @@
             "gui1ty"
         ],
         "python-cmarkgfm": [
-            "@epel-packagers-sig",
             "dcavalca",
             "romaingeissler1a",
             "salimma"
@@ -130545,6 +130545,10 @@
         "rust-camino": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-camino-tempfile": [
+            "@rust-sig",
+            "music"
         ],
         "rust-canon-json": [
             "@rust-sig",

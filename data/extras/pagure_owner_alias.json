@@ -55176,7 +55176,8 @@
         ],
         "md4c": [
             "fed500",
-            "jonathanspw"
+            "jonathanspw",
+            "fedepell"
         ],
         "md5deep": [
             "stingray",
@@ -113410,6 +113411,9 @@
         ],
         "rust-camino": [
             "decathorpe"
+        ],
+        "rust-camino-tempfile": [
+            "music"
         ],
         "rust-canon-json": [
             "uril"

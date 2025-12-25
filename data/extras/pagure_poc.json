@@ -169221,6 +169221,11 @@
             "epel": "decathorpe",
             "fedora": "decathorpe"
         },
+        "rust-camino-tempfile": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-canon-json": {
             "admin": "uril",
             "epel": "uril",
