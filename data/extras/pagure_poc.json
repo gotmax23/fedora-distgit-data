@@ -62067,9 +62067,9 @@
             "fedora": "jlebon"
         },
         "ignition-cmake": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
         },
         "ignition-fuel-tools": {
             "admin": "orphan",
@@ -123052,9 +123052,9 @@
             "fedora": "eischmann"
         },
         "phototonic": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
         },
         "php": {
             "admin": "remi",
@@ -160347,9 +160347,9 @@
             "fedora": "orphan"
         },
         "rcs": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "pampelmuse",
+            "epel": "pampelmuse",
+            "fedora": "pampelmuse"
         },
         "rcssbase": {
             "admin": "orphan",
@@ -205977,9 +205977,9 @@
             "fedora": "rathann"
         },
         "wxmedit": {
-            "admin": "orphan",
+            "admin": "topazus",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "topazus"
         },
         "wxpdfdoc": {
             "admin": "orphan",

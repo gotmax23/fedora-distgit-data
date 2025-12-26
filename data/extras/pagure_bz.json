@@ -47607,7 +47607,7 @@
         ],
         "ignition-cmake": [
             "@robotics-sig",
-            "orphan"
+            "topazus"
         ],
         "ignition-fuel-tools": [
             "@robotics-sig",
@@ -96048,7 +96048,7 @@
             "eischmann"
         ],
         "phototonic": [
-            "orphan"
+            "topazus"
         ],
         "php": [
             "jorton",
@@ -123839,7 +123839,6 @@
         ],
         "rcs": [
             "hhorak",
-            "orphan",
             "pampelmuse"
         ],
         "rcssbase": [
@@ -158882,7 +158881,7 @@
             "swt2c"
         ],
         "wxmedit": [
-            "orphan"
+            "topazus"
         ],
         "wxpdfdoc": [
             "orphan"
