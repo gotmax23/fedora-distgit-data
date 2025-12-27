@@ -11792,9 +11792,9 @@
             "fedora": "orphan"
         },
         "asahi-audio": {
-            "admin": "marcan",
-            "epel": "marcan",
-            "fedora": "marcan"
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "asahi-installer": {
             "admin": "dcavalca",
@@ -147111,6 +147111,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-pathlib-abc": {
+            "admin": "qulogic",
+            "epel": "qulogic",
+            "fedora": "qulogic"
+        },
         "python-pathlib2": {
             "admin": "orphan",
             "epel": "orphan",
@@ -185677,9 +185682,9 @@
             "fedora": "@rust-sig"
         },
         "rust-speakersafetyd": {
-            "admin": "marcan",
-            "epel": "marcan",
-            "fedora": "marcan"
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "rust-speculoos": {
             "admin": "dcavalca",

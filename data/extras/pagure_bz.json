@@ -9224,7 +9224,8 @@
             "orphan"
         ],
         "asahi-audio": [
-            "@asahi-sig"
+            "@asahi-sig",
+            "ngompa"
         ],
         "asahi-installer": [
             "@asahi-sig",
@@ -113710,6 +113711,9 @@
         "python-pathlib": [
             "orphan"
         ],
+        "python-pathlib-abc": [
+            "qulogic"
+        ],
         "python-pathlib2": [
             "orphan"
         ],
@@ -143578,7 +143582,8 @@
         ],
         "rust-speakersafetyd": [
             "@asahi-sig",
-            "@rust-sig"
+            "@rust-sig",
+            "ngompa"
         ],
         "rust-speculoos": [
             "@rust-sig",
