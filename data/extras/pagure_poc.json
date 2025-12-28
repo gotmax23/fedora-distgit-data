@@ -71401,6 +71401,11 @@
             "epel": "ngompa",
             "fedora": "ngompa"
         },
+        "labwc-tweaks": {
+            "admin": "sfaulken",
+            "epel": "sfaulken",
+            "fedora": "sfaulken"
+        },
         "laby": {
             "admin": "orphan",
             "epel": "orphan",
@@ -130137,9 +130142,9 @@
             "fedora": "ngompa"
         },
         "plasma-mediacenter": {
-            "admin": "siddharths",
-            "epel": "siddharths",
-            "fedora": "siddharths"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "plasma-milou": {
             "admin": "marcdeop",
@@ -171191,6 +171196,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-datatest-stable": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-datetime": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -186967,7 +186977,7 @@
             "fedora": "@rust-sig"
         },
         "rust-timeago": {
-            "admin": "orphan",
+            "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },

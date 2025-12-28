@@ -4235,7 +4235,6 @@
             "dchen",
             "hobbes1069",
             "limb",
-            "siddharths",
             "siddhesh"
         ],
         "LibRaw-epel": [
@@ -54994,6 +54993,9 @@
             "farchord",
             "ngompa"
         ],
+        "labwc-tweaks": [
+            "sfaulken"
+        ],
         "laby": [
             "orphan"
         ],
@@ -100611,7 +100613,7 @@
         ],
         "plasma-mediacenter": [
             "@kde-sig",
-            "siddharths",
+            "orphan",
             "sinnykumari"
         ],
         "plasma-milou": [
@@ -132072,6 +132074,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-datatest-stable": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-datetime": [
             "@rust-sig",
             "decathorpe"
@@ -144592,7 +144598,7 @@
         ],
         "rust-timeago": [
             "@rust-sig",
-            "orphan"
+            "decathorpe"
         ],
         "rust-timebomb": [
             "@rust-sig",
@@ -150747,7 +150753,6 @@
         ],
         "sqlcipher": [
             "carlwgeorge",
-            "siddharths",
             "tadej"
         ],
         "sqlcli": [
