@@ -12005,6 +12005,9 @@
             "besser82",
             "sagitter"
         ],
+        "cmakelang": [
+            "sicherha"
+        ],
         "cman": [
             "orphan"
         ],
@@ -15113,7 +15116,7 @@
             "pzacik"
         ],
         "dhcpd-pools": [
-            "cmadams"
+            "orphan"
         ],
         "dhcpdump": [
             "jonathanspw",
@@ -37506,7 +37509,8 @@
             "orphan"
         ],
         "groonga": [
-            "topazus"
+            "topazus",
+            "fed500"
         ],
         "groonga-normalizer-mysql": [
             "topazus"
@@ -43860,7 +43864,8 @@
             "farchord"
         ],
         "kaidan": [
-            "topazus"
+            "topazus",
+            "fed500"
         ],
         "kaider": [
             "orphan"
@@ -107342,7 +107347,8 @@
             "tieugene"
         ],
         "qxmpp": [
-            "topazus"
+            "topazus",
+            "fed500"
         ],
         "qxmpp-dev": [
             "orphan"

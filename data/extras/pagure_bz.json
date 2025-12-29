@@ -14115,6 +14115,9 @@
         "cmake3": [
             "sagitter"
         ],
+        "cmakelang": [
+            "sicherha"
+        ],
         "cman": [
             "agk",
             "cfeist",
@@ -15804,6 +15807,7 @@
             "buckaroogeek"
         ],
         "cri-o1.35": [
+            "@go-sig",
             "buckaroogeek"
         ],
         "cri-tools": [
@@ -17650,7 +17654,7 @@
             "pemensik"
         ],
         "dhcpd-pools": [
-            "cmadams"
+            "orphan"
         ],
         "dhcpdump": [
             "bbonev1",
@@ -44183,6 +44187,7 @@
             "orphan"
         ],
         "groonga": [
+            "fed500",
             "kenhys",
             "topazus"
         ],
@@ -51439,6 +51444,7 @@
         ],
         "kaidan": [
             "@kde-sig",
+            "fed500",
             "topazus"
         ],
         "kaider": [
@@ -123476,6 +123482,7 @@
         ],
         "qxmpp": [
             "@kde-sig",
+            "fed500",
             "minh",
             "topazus"
         ],

@@ -18111,6 +18111,11 @@
             "epel": "besser82",
             "fedora": "besser82"
         },
+        "cmakelang": {
+            "admin": "sicherha",
+            "epel": "sicherha",
+            "fedora": "sicherha"
+        },
         "cman": {
             "admin": "orphan",
             "epel": "orphan",
@@ -22612,9 +22617,9 @@
             "fedora": "pemensik"
         },
         "dhcpd-pools": {
-            "admin": "cmadams",
-            "epel": "cmadams",
-            "fedora": "cmadams"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "dhcpdump": {
             "admin": "jonathanspw",
