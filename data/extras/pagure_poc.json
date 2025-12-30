@@ -22617,9 +22617,9 @@
             "fedora": "pemensik"
         },
         "dhcpd-pools": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "pgreco",
+            "epel": "pgreco",
+            "fedora": "pgreco"
         },
         "dhcpdump": {
             "admin": "jonathanspw",
@@ -25825,6 +25825,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "dynamic-hibernate": {
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "dynamic-wallpaper": {
             "admin": "orphan",
@@ -131356,10 +131361,20 @@
             "epel": "fjanus",
             "fedora": "fjanus"
         },
+        "postgresql16-postgis": {
+            "admin": "smani",
+            "epel": "smani",
+            "fedora": "smani"
+        },
         "postgresql17": {
             "admin": "fjanus",
             "epel": "fjanus",
             "fedora": "fjanus"
+        },
+        "postgresql17-postgis": {
+            "admin": "smani",
+            "epel": "smani",
+            "fedora": "smani"
         },
         "postgresql18": {
             "admin": "fjanus",
@@ -140422,9 +140437,9 @@
             "fedora": "orphan"
         },
         "python-fissix": {
-            "admin": "salimma",
-            "epel": "salimma",
-            "fedora": "salimma"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-fisx": {
             "admin": "zbyszek",
@@ -154730,6 +154745,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "python-uncertainties": {
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
         },
         "python-unicode-segmentation-rs": {
             "admin": "sshil",
@@ -172906,6 +172926,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-float16": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-fluent": {
             "admin": "linkdupont",
             "epel": "linkdupont",
@@ -173790,6 +173815,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-gif0.13": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-gimli": {
             "admin": "decathorpe",
@@ -186622,6 +186652,11 @@
             "fedora": "@rust-sig"
         },
         "rust-term0.6": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-term0.7": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"

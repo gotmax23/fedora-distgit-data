@@ -17654,7 +17654,7 @@
             "pemensik"
         ],
         "dhcpd-pools": [
-            "orphan"
+            "pgreco"
         ],
         "dhcpdump": [
             "bbonev1",
@@ -19997,6 +19997,11 @@
         "dynalink": [
             "java-sig",
             "orphan"
+        ],
+        "dynamic-hibernate": [
+            "@btrfs-sig",
+            "@kde-sig",
+            "ngompa"
         ],
         "dynamic-wallpaper": [
             "orphan"
@@ -101607,8 +101612,14 @@
         "postgresql16-pgvector": [
             "fjanus"
         ],
+        "postgresql16-postgis": [
+            "smani"
+        ],
         "postgresql17": [
             "fjanus"
+        ],
+        "postgresql17-postgis": [
+            "smani"
         ],
         "postgresql18": [
             "anezbeda",
@@ -108451,7 +108462,7 @@
             "orphan"
         ],
         "python-fissix": [
-            "salimma"
+            "orphan"
         ],
         "python-fisx": [
             "@neuro-sig",
@@ -119659,6 +119670,9 @@
         ],
         "python-umemcache": [
             "orphan"
+        ],
+        "python-uncertainties": [
+            "topazus"
         ],
         "python-unicode-segmentation-rs": [
             "sshil"
@@ -133444,6 +133458,10 @@
             "@rust-sig",
             "bowlofeggs"
         ],
+        "rust-float16": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-fluent": [
             "@rust-sig",
             "linkdupont"
@@ -134135,6 +134153,9 @@
         "rust-gif0.12": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-gif0.13": [
+            "music"
         ],
         "rust-gimli": [
             "@rust-sig",
@@ -135667,6 +135688,7 @@
             "decathorpe"
         ],
         "rust-hashlink0.10": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-hashlink0.8": [
@@ -135674,6 +135696,7 @@
             "decathorpe"
         ],
         "rust-hashlink0.9": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-hdrhistogram": [
@@ -144317,6 +144340,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-term0.7": [
+            "decathorpe"
+        ],
         "rust-term_grid": [
             "@rust-sig",
             "decathorpe"
@@ -146520,6 +146546,7 @@
             "slp"
         ],
         "rust-virglrenderer": [
+            "@rust-sig",
             "dorinda"
         ],
         "rust-virglrenderer-sys": [
