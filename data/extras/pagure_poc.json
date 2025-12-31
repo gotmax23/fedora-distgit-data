@@ -16932,9 +16932,9 @@
             "fedora": "jogas"
         },
         "chatterino2": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "solomoncyj",
+            "epel": "solomoncyj",
+            "fedora": "solomoncyj"
         },
         "chatty": {
             "admin": "torbuntu",
@@ -90522,9 +90522,9 @@
             "fedora": "orphan"
         },
         "netstat-nat": {
-            "admin": "nucleo",
-            "epel": "nucleo",
-            "fedora": "nucleo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "netstiff": {
             "admin": "orphan",
@@ -131401,6 +131401,11 @@
             "epel": "fjanus",
             "fedora": "fjanus"
         },
+        "postgresql18-postgis": {
+            "admin": "smani",
+            "epel": "smani",
+            "fedora": "smani"
+        },
         "postgresql_autodoc": {
             "admin": "orphan",
             "epel": "orphan",
@@ -167596,6 +167601,11 @@
             "epel": "alebastr",
             "fedora": "alebastr"
         },
+        "rust-as-slice": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-asahi-bless": {
             "admin": "dcavalca",
             "epel": "@rust-sig",
@@ -172205,6 +172215,11 @@
             "admin": "ueno",
             "epel": "ueno",
             "fedora": "ueno"
+        },
+        "rust-enum-ordinalize-derive": {
+            "admin": "asn",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-enum-primitive-derive": {
             "admin": "orion",
@@ -180707,6 +180722,11 @@
             "fedora": "orphan"
         },
         "rust-pastel": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "rust-pastey": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"

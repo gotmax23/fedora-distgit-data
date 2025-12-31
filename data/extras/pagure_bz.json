@@ -13208,7 +13208,7 @@
             "loveshack"
         ],
         "chatterino2": [
-            "orphan"
+            "solomoncyj"
         ],
         "chatty": [
             "lihis",
@@ -69786,7 +69786,7 @@
             "orphan"
         ],
         "netstat-nat": [
-            "nucleo"
+            "orphan"
         ],
         "netstiff": [
             "orphan"
@@ -101642,6 +101642,9 @@
             "fjanus",
             "ndavidov"
         ],
+        "postgresql18-postgis": [
+            "smani"
+        ],
         "postgresql_autodoc": [
             "devrim",
             "orphan",
@@ -129237,6 +129240,10 @@
             "@rust-sig",
             "alebastr"
         ],
+        "rust-as-slice": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-asahi-bless": [
             "@asahi-sig",
             "@rust-sig",
@@ -132891,6 +132898,10 @@
         "rust-enum-ordinalize": [
             "@rust-sig",
             "ueno"
+        ],
+        "rust-enum-ordinalize-derive": [
+            "@rust-sig",
+            "asn"
         ],
         "rust-enum-primitive-derive": [
             "@rust-sig",
@@ -139664,6 +139675,10 @@
             "orphan"
         ],
         "rust-pastel": [
+            "@rust-sig",
+            "music"
+        ],
+        "rust-pastey": [
             "@rust-sig",
             "music"
         ],
