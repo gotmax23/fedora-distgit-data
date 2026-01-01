@@ -26459,7 +26459,6 @@
             "dmaphy",
             "evgeni",
             "nixuser",
-            "orphan",
             "pingou"
         ],
         "geany-plugins": [
@@ -122607,7 +122606,8 @@
             "dcavalca"
         ],
         "qps": [
-            "orphan"
+            "@lxqt-sig",
+            "basilcrow"
         ],
         "qpwgraph": [
             "martinkg",

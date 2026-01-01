@@ -8238,7 +8238,7 @@
         },
         "Rex": {
             "admin": "dmaphy",
-            "epel": "dmaphy",
+            "epel": "salimma",
             "fedora": "dmaphy"
         },
         "Ri-li": {
@@ -34532,9 +34532,9 @@
             "fedora": "mikelo2"
         },
         "geany": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "dmaphy",
+            "epel": "dmaphy",
+            "fedora": "dmaphy"
         },
         "geany-plugins": {
             "admin": "dmaphy",
@@ -158757,9 +158757,9 @@
             "fedora": "dcavalca"
         },
         "qps": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "basilcrow",
+            "epel": "basilcrow",
+            "fedora": "basilcrow"
         },
         "qpwgraph": {
             "admin": "martinkg",
@@ -160758,8 +160758,8 @@
         },
         "reg": {
             "admin": "orphan",
-            "epel": "@infra-sig",
-            "fedora": "@infra-sig"
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "regexp": {
             "admin": "mkoncek",
@@ -198543,7 +198543,7 @@
         },
         "terminator": {
             "admin": "dmaphy",
-            "epel": "dmaphy",
+            "epel": "salimma",
             "fedora": "dmaphy"
         },
         "terminology": {
