@@ -22316,8 +22316,8 @@
         "et": [
             "dcavalca",
             "jjg",
-            "orphan",
-            "salimma"
+            "salimma",
+            "topazus"
         ],
         "etcd": [
             "@go-sig",
@@ -37860,7 +37860,7 @@
         ],
         "golang-github-kelseyhightower-envconfig": [
             "@go-sig",
-            "neelc"
+            "orphan"
         ],
         "golang-github-kelvins-sunrisesunset": [
             "@go-sig",
@@ -68609,6 +68609,7 @@
         ],
         "munin": [
             "fenris02",
+            "gap",
             "ingvar",
             "jvanek",
             "kimheino"
@@ -132023,6 +132024,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-darling0.20": [
+            "decathorpe"
+        ],
         "rust-darling_core": [
             "@rust-sig",
             "decathorpe"
@@ -132039,6 +132043,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-darling_core0.20": [
+            "decathorpe"
+        ],
         "rust-darling_macro": [
             "@rust-sig",
             "decathorpe"
@@ -132053,6 +132060,9 @@
         ],
         "rust-darling_macro0.14": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-darling_macro0.20": [
             "decathorpe"
         ],
         "rust-dary_heap": [

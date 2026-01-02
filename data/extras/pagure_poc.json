@@ -29022,9 +29022,9 @@
             "fedora": "orphan"
         },
         "et": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
         },
         "etcd": {
             "admin": "jchaloup",
@@ -49287,9 +49287,9 @@
             "fedora": "orphan"
         },
         "golang-github-kelseyhightower-envconfig": {
-            "admin": "neelc",
-            "epel": "neelc",
-            "fedora": "neelc"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-kelvins-sunrisesunset": {
             "admin": "orphan",
@@ -171131,6 +171131,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-darling0.20": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-darling_core": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -171151,6 +171156,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-darling_core0.20": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-darling_macro": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -171167,6 +171177,11 @@
             "fedora": "@rust-sig"
         },
         "rust-darling_macro0.14": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-darling_macro0.20": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
