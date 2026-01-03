@@ -13576,7 +13576,7 @@
             "rathann"
         ],
         "cl-asdf": [
-            "orphan"
+            "peter"
         ],
         "clac": [
             "orphan"
@@ -14587,7 +14587,7 @@
             "orphan"
         ],
         "common-lisp-controller": [
-            "orphan"
+            "peter"
         ],
         "commoncpp2": [
             "ixs",
@@ -19936,7 +19936,7 @@
         ],
         "dwayland": [
             "@deepinde-sig",
-            "topazus"
+            "orphan"
         ],
         "dwb": [
             "orphan"
@@ -44401,7 +44401,7 @@
             "simo"
         ],
         "gst": [
-            "atim"
+            "orphan"
         ],
         "gst-devtools": [
             "limb"
@@ -45197,7 +45197,7 @@
             "orphan"
         ],
         "gwe": [
-            "atim"
+            "orphan"
         ],
         "gwebsockets": [
             "chimosky"
@@ -61347,7 +61347,7 @@
             "orphan"
         ],
         "lizardfs": [
-            "suve"
+            "orphan"
         ],
         "lklug-fonts": [
             "i18n-team",
@@ -70155,6 +70155,9 @@
         "niri": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "niri-settings": [
+            "sfaulken"
         ],
         "nispor": [
             "cathay4t",
@@ -106470,6 +106473,9 @@
             "bkabrda",
             "trawets"
         ],
+        "python-covdefaults": [
+            "topazus"
+        ],
         "python-coverage": [
             "abompard",
             "kkeithle",
@@ -123467,7 +123473,7 @@
             "orphan"
         ],
         "qwlroots": [
-            "topazus"
+            "orphan"
         ],
         "qwt": [
             "dreua",
@@ -132752,6 +132758,7 @@
         ],
         "rust-educe": [
             "@rust-sig",
+            "asn",
             "ueno"
         ],
         "rust-effective-limits": [
@@ -132907,6 +132914,7 @@
         ],
         "rust-enum-ordinalize": [
             "@rust-sig",
+            "asn",
             "ueno"
         ],
         "rust-enum-ordinalize-derive": [
@@ -161467,7 +161475,7 @@
             "orphan"
         ],
         "yaru-theme": [
-            "atim"
+            "orphan"
         ],
         "yascreen": [
             "bbonev1"

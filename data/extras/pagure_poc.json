@@ -17402,9 +17402,9 @@
             "fedora": "rathann"
         },
         "cl-asdf": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "peter",
+            "epel": "peter",
+            "fedora": "peter"
         },
         "clac": {
             "admin": "orphan",
@@ -18752,9 +18752,9 @@
             "fedora": "orphan"
         },
         "common-lisp-controller": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "peter",
+            "epel": "peter",
+            "fedora": "peter"
         },
         "commoncpp2": {
             "admin": "smani",
@@ -25732,9 +25732,9 @@
             "fedora": "orphan"
         },
         "dwayland": {
-            "admin": "topazus",
-            "epel": "topazus",
-            "fedora": "topazus"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "dwb": {
             "admin": "orphan",
@@ -57792,9 +57792,9 @@
             "fedora": "jrische"
         },
         "gst": {
-            "admin": "atim",
-            "epel": "atim",
-            "fedora": "atim"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "gst-devtools": {
             "admin": "limb",
@@ -58797,9 +58797,9 @@
             "fedora": "orphan"
         },
         "gwe": {
-            "admin": "atim",
-            "epel": "atim",
-            "fedora": "atim"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "gwebsockets": {
             "admin": "chimosky",
@@ -79382,9 +79382,9 @@
             "fedora": "orphan"
         },
         "lizardfs": {
-            "admin": "suve",
-            "epel": "suve",
-            "fedora": "suve"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "lklug-fonts": {
             "admin": "sshil",
@@ -90995,6 +90995,11 @@
             "admin": "decathorpe",
             "epel": "decathorpe",
             "fedora": "decathorpe"
+        },
+        "niri-settings": {
+            "admin": "sfaulken",
+            "epel": "sfaulken",
+            "fedora": "sfaulken"
         },
         "nispor": {
             "admin": "cathay4t",
@@ -137836,6 +137841,11 @@
             "epel": "trawets",
             "fedora": "trawets"
         },
+        "python-covdefaults": {
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
+        },
         "python-coverage": {
             "admin": "spot",
             "epel": "spot",
@@ -159827,9 +159837,9 @@
             "fedora": "orphan"
         },
         "qwlroots": {
-            "admin": "topazus",
-            "epel": "topazus",
-            "fedora": "topazus"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "qwt": {
             "admin": "dreua",
@@ -209397,9 +209407,9 @@
             "fedora": "orphan"
         },
         "yaru-theme": {
-            "admin": "atim",
-            "epel": "atim",
-            "fedora": "atim"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "yascreen": {
             "admin": "bbonev1",
