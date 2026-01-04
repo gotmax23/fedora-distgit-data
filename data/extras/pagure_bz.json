@@ -13071,7 +13071,6 @@
             "junghans"
         ],
         "ceres-solver": [
-            "orphan",
             "rmattes",
             "smani"
         ],
@@ -33896,7 +33895,7 @@
         ],
         "golang-github-azure-sdk-internal": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-azure-sdk-resourcemanager-dns-armdns": [
             "@go-sig",
@@ -34571,7 +34570,7 @@
         ],
         "golang-github-cli-safeexec": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-cli-shurcool-graphql": [
             "@go-sig",
@@ -38552,7 +38551,7 @@
         ],
         "golang-github-mattn-ieproxy": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-mattn-isatty": [
             "@go-sig",
@@ -41632,7 +41631,7 @@
         "golang-github-vividcortex-ewma": [
             "@go-sig",
             "jchaloup",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-vividcortex-godaemon": [
             "orphan"
@@ -44401,7 +44400,7 @@
             "simo"
         ],
         "gst": [
-            "orphan"
+            "atim"
         ],
         "gst-devtools": [
             "limb"
@@ -116114,7 +116113,6 @@
         ],
         "python-pyvat": [
             "orange-kao",
-            "orphan",
             "pwouters",
             "rominf",
             "rommell"
@@ -129093,7 +129091,7 @@
         ],
         "rust-app-rummage": [
             "@rust-sig",
-            "solomoncyj"
+            "orphan"
         ],
         "rust-app-store-connect": [
             "@rust-sig",
@@ -130203,11 +130201,11 @@
         ],
         "rust-bmart": [
             "@rust-sig",
-            "solomoncyj"
+            "orphan"
         ],
         "rust-bmart-derive": [
             "@rust-sig",
-            "solomoncyj"
+            "orphan"
         ],
         "rust-bodhi": [
             "@rust-sig",
@@ -133076,7 +133074,7 @@
         ],
         "rust-error-code": [
             "@rust-sig",
-            "solomoncyj"
+            "orphan"
         ],
         "rust-esaxx-rs": [
             "@ai-packagers-sig",
@@ -136998,7 +136996,7 @@
         ],
         "rust-khronos-egl": [
             "@rust-sig",
-            "solomoncyj"
+            "orphan"
         ],
         "rust-khronos_api": [
             "@rust-sig"
@@ -144529,7 +144527,7 @@
         ],
         "rust-textdistance": [
             "@rust-sig",
-            "solomoncyj"
+            "orphan"
         ],
         "rust-textwrap": [
             "@rust-sig",
@@ -145453,7 +145451,7 @@
         ],
         "rust-triggered": [
             "@rust-sig",
-            "solomoncyj"
+            "orphan"
         ],
         "rust-trim-in-place": [
             "@rust-sig",
@@ -145693,7 +145691,7 @@
         ],
         "rust-udisks2": [
             "@rust-sig",
-            "solomoncyj"
+            "orphan"
         ],
         "rust-uefi": [
             "@rust-sig",
@@ -146601,7 +146599,7 @@
         ],
         "rust-virtual-terminal": [
             "@rust-sig",
-            "solomoncyj"
+            "orphan"
         ],
         "rust-virtue": [
             "@rust-sig",

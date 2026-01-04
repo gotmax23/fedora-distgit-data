@@ -16762,9 +16762,9 @@
             "fedora": "junghans"
         },
         "ceres-solver": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "smani",
+            "epel": "smani",
+            "fedora": "smani"
         },
         "cernlib": {
             "admin": "orphan",
@@ -44067,9 +44067,9 @@
             "fedora": "orphan"
         },
         "golang-github-azure-sdk-internal": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-azure-sdk-resourcemanager-dns-armdns": {
             "admin": "orphan",
@@ -44947,9 +44947,9 @@
             "fedora": "orphan"
         },
         "golang-github-cli-safeexec": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-cli-shurcool-graphql": {
             "admin": "jdoss",
@@ -50197,9 +50197,9 @@
             "fedora": "orphan"
         },
         "golang-github-mattn-ieproxy": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-mattn-isatty": {
             "admin": "mikelo2",
@@ -54182,9 +54182,9 @@
             "fedora": "orphan"
         },
         "golang-github-vividcortex-ewma": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-vividcortex-godaemon": {
             "admin": "orphan",
@@ -57792,9 +57792,9 @@
             "fedora": "jrische"
         },
         "gst": {
-            "admin": "orphan",
+            "admin": "atim",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "atim"
         },
         "gst-devtools": {
             "admin": "limb",
@@ -150222,9 +150222,9 @@
             "fedora": "orphan"
         },
         "python-pyvat": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "pwouters",
+            "epel": "pwouters",
+            "fedora": "pwouters"
         },
         "python-pyvex": {
             "admin": "orphan",
@@ -167417,7 +167417,7 @@
             "fedora": "orphan"
         },
         "rust-app-rummage": {
-            "admin": "solomoncyj",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -168792,12 +168792,12 @@
             "fedora": "javierm"
         },
         "rust-bmart": {
-            "admin": "solomoncyj",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-bmart-derive": {
-            "admin": "solomoncyj",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -172437,7 +172437,7 @@
             "fedora": "@rust-sig"
         },
         "rust-error-code": {
-            "admin": "solomoncyj",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -177347,9 +177347,9 @@
             "fedora": "@rust-sig"
         },
         "rust-khronos-egl": {
-            "admin": "solomoncyj",
-            "epel": "solomoncyj",
-            "fedora": "solomoncyj"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-khronos_api": {
             "admin": "returntrip",
@@ -186892,9 +186892,9 @@
             "fedora": "@rust-sig"
         },
         "rust-textdistance": {
-            "admin": "solomoncyj",
-            "epel": "solomoncyj",
-            "fedora": "solomoncyj"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-textwrap": {
             "admin": "decathorpe",
@@ -188052,9 +188052,9 @@
             "fedora": "@rust-sig"
         },
         "rust-triggered": {
-            "admin": "solomoncyj",
-            "epel": "solomoncyj",
-            "fedora": "solomoncyj"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-trim-in-place": {
             "admin": "lecris",
@@ -188372,9 +188372,9 @@
             "fedora": "@rust-sig"
         },
         "rust-udisks2": {
-            "admin": "solomoncyj",
-            "epel": "solomoncyj",
-            "fedora": "solomoncyj"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-uefi": {
             "admin": "kraxel",
@@ -189512,7 +189512,7 @@
             "fedora": "@rust-sig"
         },
         "rust-virtual-terminal": {
-            "admin": "solomoncyj",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
