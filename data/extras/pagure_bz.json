@@ -14262,8 +14262,7 @@
         ],
         "cockpit-composer": [
             "@osbuild-sig",
-            "martinpitt",
-            "orphan"
+            "martinpitt"
         ],
         "cockpit-file-sharing": [
             "orphan"
@@ -16394,8 +16393,8 @@
         ],
         "cvsps": [
             "hhorak",
-            "orphan",
-            "salimma"
+            "salimma",
+            "supakeen"
         ],
         "cvsup": [
             "orphan"
@@ -33855,7 +33854,7 @@
         ],
         "golang-github-aymanbagabas-osc52": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-azure-amqp": [
             "@go-sig",
@@ -34863,7 +34862,7 @@
         ],
         "golang-github-coreos-oidc": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-coreos-pkg": [
             "@go-sig",
@@ -37453,7 +37452,7 @@
         ],
         "golang-github-jarcoal-httpmock": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-jawher-mow-cli": [
             "@go-sig",
@@ -37994,7 +37993,7 @@
         "golang-github-kr-pty": [
             "@go-sig",
             "jchaloup",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-kr-text": [
             "@epel-packagers-sig",
@@ -59495,7 +59494,8 @@
             "vpv"
         ],
         "librep": [
-            "kimheino"
+            "kimheino",
+            "tcordes"
         ],
         "libreplaygain": [
             "ankursinha",
@@ -63612,6 +63612,9 @@
             "canderson9",
             "ersen"
         ],
+        "materialx": [
+            "luya"
+        ],
         "mathex": [
             "smani"
         ],
@@ -65572,7 +65575,7 @@
             "smani"
         ],
         "mingw-jansson": [
-            "orphan"
+            "smani"
         ],
         "mingw-jasper": [
             "rjones",
@@ -66506,7 +66509,7 @@
             "mooninite"
         ],
         "mingw-yaml-cpp": [
-            "orphan"
+            "smani"
         ],
         "mingw-zfstream": [
             "rjones",
@@ -81204,7 +81207,7 @@
             "ppisar"
         ],
         "perl-B-Hooks-Parser": [
-            "orphan"
+            "pghmcfc"
         ],
         "perl-B-Keywords": [
             "mspacek",
@@ -124290,7 +124293,8 @@
             "cra"
         ],
         "rep-gtk": [
-            "kimheino"
+            "kimheino",
+            "tcordes"
         ],
         "replacer": [
             "@db-sig",
@@ -128945,6 +128949,10 @@
         "rust-aliasable": [
             "@rust-sig",
             "cheimes"
+        ],
+        "rust-aligned": [
+            "@rust-sig",
+            "music"
         ],
         "rust-aligned-vec": [
             "@rust-sig",
@@ -134095,6 +134103,10 @@
             "music"
         ],
         "rust-gengo-bin": [
+            "@rust-sig",
+            "music"
+        ],
+        "rust-gengo-language": [
             "@rust-sig",
             "music"
         ],
@@ -147825,10 +147837,12 @@
             "orphan"
         ],
         "sawfish": [
-            "kimheino"
+            "kimheino",
+            "tcordes"
         ],
         "sawfish-pager": [
-            "kimheino"
+            "kimheino",
+            "tcordes"
         ],
         "saxon": [
             "devrim",

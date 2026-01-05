@@ -18312,9 +18312,9 @@
             "fedora": "martinpitt"
         },
         "cockpit-composer": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "gundersanne",
+            "epel": "gundersanne",
+            "fedora": "gundersanne"
         },
         "cockpit-file-sharing": {
             "admin": "orphan",
@@ -21087,9 +21087,9 @@
             "fedora": "orphan"
         },
         "cvsps": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "supakeen",
+            "epel": "supakeen",
+            "fedora": "supakeen"
         },
         "cvsup": {
             "admin": "orphan",
@@ -44017,9 +44017,9 @@
             "fedora": "qulogic"
         },
         "golang-github-aymanbagabas-osc52": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-azure-amqp": {
             "admin": "mikep",
@@ -45342,9 +45342,9 @@
             "fedora": "orphan"
         },
         "golang-github-coreos-oidc": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-coreos-pkg": {
             "admin": "eclipseo",
@@ -48772,9 +48772,9 @@
             "fedora": "solopasha"
         },
         "golang-github-jarcoal-httpmock": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-jawher-mow-cli": {
             "admin": "eclipseo",
@@ -49467,9 +49467,9 @@
             "fedora": "alexsaezm"
         },
         "golang-github-kr-pty": {
-            "admin": "mikelo2",
+            "admin": "orphan",
             "epel": "jchaloup",
-            "fedora": "mikelo2"
+            "fedora": "orphan"
         },
         "golang-github-kr-text": {
             "admin": "alexsaezm",
@@ -82276,6 +82276,11 @@
             "epel": "canderson9",
             "fedora": "canderson9"
         },
+        "materialx": {
+            "admin": "luya",
+            "epel": "luya",
+            "fedora": "luya"
+        },
         "mathex": {
             "admin": "smani",
             "epel": "smani",
@@ -84772,9 +84777,9 @@
             "fedora": "smani"
         },
         "mingw-jansson": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "smani",
+            "epel": "smani",
+            "fedora": "smani"
         },
         "mingw-jasper": {
             "admin": "rjones",
@@ -86087,9 +86092,9 @@
             "fedora": "mooninite"
         },
         "mingw-yaml-cpp": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "smani",
+            "epel": "smani",
+            "fedora": "smani"
         },
         "mingw-zfstream": {
             "admin": "sailer",
@@ -106597,9 +106602,9 @@
             "fedora": "jplesnik"
         },
         "perl-B-Hooks-Parser": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "pghmcfc",
+            "epel": "pghmcfc",
+            "fedora": "pghmcfc"
         },
         "perl-B-Keywords": {
             "admin": "jplesnik",
@@ -167231,6 +167236,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-aligned": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-aligned-vec": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -173747,6 +173757,11 @@
             "fedora": "music"
         },
         "rust-gengo-bin": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "rust-gengo-language": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"
