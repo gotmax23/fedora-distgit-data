@@ -43347,9 +43347,9 @@
             "fedora": "orphan"
         },
         "golang-github-adrg-xdg": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-adrianmo-nmea": {
             "admin": "orphan",
@@ -56197,9 +56197,9 @@
             "fedora": "orphan"
         },
         "golang-sr-spc-log": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-starlark": {
             "admin": "alexsaezm",
@@ -64407,9 +64407,9 @@
             "fedora": "orphan"
         },
         "java-jd-decompiler": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "jvanek",
+            "epel": "jvanek",
+            "fedora": "jvanek"
         },
         "java-latest-openjdk": {
             "admin": "pmikova",
@@ -73757,9 +73757,9 @@
             "fedora": "music"
         },
         "libfaketime": {
-            "admin": "orphan",
+            "admin": "ppisar",
             "epel": "slaanesh",
-            "fedora": "orphan"
+            "fedora": "ppisar"
         },
         "libfap": {
             "admin": "orphan",
@@ -128656,6 +128656,11 @@
             "epel": "siwinski",
             "fedora": "siwinski"
         },
+        "php-webmozart-assert2": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
         "php-webmozart-path-util": {
             "admin": "siwinski",
             "epel": "siwinski",
@@ -134975,6 +134980,11 @@
             "admin": "marcindulak",
             "epel": "marcindulak",
             "fedora": "marcindulak"
+        },
+        "python-asgi-lifespan": {
+            "admin": "prgutier",
+            "epel": "prgutier",
+            "fedora": "prgutier"
         },
         "python-asgiref": {
             "admin": "carlwgeorge",
@@ -146312,9 +146322,9 @@
             "fedora": "orphan"
         },
         "python-octaviaclient": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "python-odata-query": {
             "admin": "rominf",
@@ -152336,6 +152346,11 @@
             "epel": "dcavalca",
             "fedora": "qulogic"
         },
+        "python-sounddevice": {
+            "admin": "mikep",
+            "epel": "mikep",
+            "fedora": "mikep"
+        },
         "python-soundfile": {
             "admin": "limb",
             "epel": "limb",
@@ -156962,9 +156977,9 @@
             "fedora": "besser82"
         },
         "python3-gql": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "ernunes",
+            "epel": "ernunes",
+            "fedora": "ernunes"
         },
         "python3-greenlet": {
             "admin": "salimma",
@@ -158322,9 +158337,9 @@
             "fedora": "jussilehtola"
         },
         "qclib": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "sharkcz",
+            "epel": "sharkcz",
+            "fedora": "sharkcz"
         },
         "qcodeedit": {
             "admin": "orphan",
@@ -167310,6 +167325,11 @@
             "admin": "decathorpe",
             "epel": "decathorpe",
             "fedora": "decathorpe"
+        },
+        "rust-annotate-snippets0.11": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-annotate-snippets0.6": {
             "admin": "decathorpe",
@@ -178206,6 +178226,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-linux-raw-sys0.11": {
+            "admin": "salimma",
+            "epel": "salimma",
+            "fedora": "salimma"
+        },
         "rust-linux-raw-sys0.3": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -184740,6 +184765,11 @@
             "admin": "salimma",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-selinux0.4": {
+            "admin": "salimma",
+            "epel": "salimma",
+            "fedora": "salimma"
         },
         "rust-semver": {
             "admin": "decathorpe",
@@ -204882,9 +204912,9 @@
             "fedora": "limb"
         },
         "weston": {
-            "admin": "rhughes",
-            "epel": "rhughes",
-            "fedora": "rhughes"
+            "admin": "ernunes",
+            "epel": "ernunes",
+            "fedora": "ernunes"
         },
         "wev": {
             "admin": "ngompa",
@@ -209337,9 +209367,9 @@
             "fedora": "krege"
         },
         "yajl": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "mikelo2",
+            "epel": "mikelo2",
+            "fedora": "mikelo2"
         },
         "yaksa": {
             "admin": "zbyszek",

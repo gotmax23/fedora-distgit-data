@@ -12535,6 +12535,7 @@
         "calls": [
             "lihis",
             "lorbus",
+            "mcrha",
             "torbuntu"
         ],
         "callweaver": [
@@ -13211,6 +13212,7 @@
         ],
         "chatty": [
             "lihis",
+            "mcrha",
             "torbuntu"
         ],
         "chatzilla": [
@@ -33332,7 +33334,7 @@
         ],
         "golang-github-adrg-xdg": [
             "@go-sig",
-            "linkdupont"
+            "orphan"
         ],
         "golang-github-adrianmo-nmea": [
             "@go-sig",
@@ -43149,7 +43151,7 @@
         ],
         "golang-sr-spc-log": [
             "@go-sig",
-            "linkdupont"
+            "orphan"
         ],
         "golang-starlark": [
             "@go-sig",
@@ -49379,8 +49381,7 @@
             "orphan"
         ],
         "java-jd-decompiler": [
-            "jvanek",
-            "orphan"
+            "jvanek"
         ],
         "java-latest-openjdk": [
             "ahughes",
@@ -56949,8 +56950,9 @@
             "pbrobinson"
         ],
         "libfaketime": [
-            "orphan",
+            "@rpm-software-management-sig",
             "pgreco",
+            "ppisar",
             "pwouters",
             "slaanesh"
         ],
@@ -59437,6 +59439,7 @@
         ],
         "librdkafka": [
             "alakatos",
+            "linkdupont",
             "rsroka",
             "zfridric"
         ],
@@ -60147,7 +60150,6 @@
         "libthai": [
             "mclasen",
             "pwu",
-            "rhughes",
             "rstrode",
             "ueno"
         ],
@@ -99595,6 +99597,9 @@
         "php-webmozart-assert": [
             "siwinski"
         ],
+        "php-webmozart-assert2": [
+            "remi"
+        ],
         "php-webmozart-path-util": [
             "siwinski"
         ],
@@ -104279,6 +104284,9 @@
             "qulogic"
         ],
         "python-ase": [],
+        "python-asgi-lifespan": [
+            "prgutier"
+        ],
         "python-asgiref": [
             "@python-packagers-sig",
             "carlwgeorge",
@@ -109639,6 +109647,7 @@
             "orphan"
         ],
         "python-gphoto2": [
+            "koxt2",
             "orphan"
         ],
         "python-gpiozero": [
@@ -113062,7 +113071,7 @@
         ],
         "python-octaviaclient": [
             "@openstack-sig",
-            "orphan"
+            "limb"
         ],
         "python-odata-query": [
             "orange-kao",
@@ -117792,6 +117801,9 @@
             "kkeithle",
             "qulogic"
         ],
+        "python-sounddevice": [
+            "mikep"
+        ],
         "python-soundfile": [
             "limb"
         ],
@@ -121330,7 +121342,7 @@
             "besser82"
         ],
         "python3-gql": [
-            "orphan"
+            "ernunes"
         ],
         "python3-greenlet": [
             "salimma"
@@ -122283,7 +122295,6 @@
             "talcite"
         ],
         "qclib": [
-            "orphan",
             "sharkcz"
         ],
         "qcodeedit": [
@@ -129009,6 +129020,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-annotate-snippets0.11": [
+            "decathorpe"
+        ],
         "rust-annotate-snippets0.6": [
             "@rust-sig",
             "decathorpe"
@@ -132037,6 +132051,7 @@
             "decathorpe"
         ],
         "rust-darling0.20": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-darling_core": [
@@ -132056,6 +132071,7 @@
             "decathorpe"
         ],
         "rust-darling_core0.20": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-darling_macro": [
@@ -132075,6 +132091,7 @@
             "decathorpe"
         ],
         "rust-darling_macro0.20": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-dary_heap": [
@@ -134194,6 +134211,7 @@
             "decathorpe"
         ],
         "rust-gif0.13": [
+            "@rust-sig",
             "music"
         ],
         "rust-gimli": [
@@ -137698,6 +137716,9 @@
         "rust-linux-raw-sys": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-linux-raw-sys0.11": [
+            "salimma"
         ],
         "rust-linux-raw-sys0.3": [
             "@rust-sig",
@@ -142827,6 +142848,9 @@
             "@rust-sig",
             "salimma"
         ],
+        "rust-selinux0.4": [
+            "salimma"
+        ],
         "rust-semver": [
             "@rust-sig",
             "decathorpe",
@@ -144384,6 +144408,7 @@
             "decathorpe"
         ],
         "rust-term0.7": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-term_grid": [
@@ -144864,6 +144889,7 @@
         ],
         "rust-tokio-serde": [
             "@rust-sig",
+            "asn",
             "ueno"
         ],
         "rust-tokio-service": [
@@ -161418,7 +161444,7 @@
         "yajl": [
             "@epel-packagers-sig",
             "jonathanspw",
-            "orphan"
+            "mikelo2"
         ],
         "yaksa": [
             "@neuro-sig",
