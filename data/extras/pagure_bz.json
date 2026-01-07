@@ -36209,7 +36209,7 @@
         ],
         "golang-github-gocql": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-gocql-gocql": [
             "orphan"
@@ -41779,7 +41779,7 @@
         ],
         "golang-github-xanzy-gitlab": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-xanzy-ssh-agent": [
             "@go-sig",
@@ -56531,6 +56531,7 @@
         "libdbi": [
             "fjanus",
             "hhorak",
+            "jonathanspw",
             "limb"
         ],
         "libdbi-drivers": [
@@ -59891,7 +59892,6 @@
             "ignatenkobrain",
             "jmracek",
             "jrohel",
-            "mcermak",
             "ngompa",
             "pkratoch"
         ],
@@ -107018,6 +107018,9 @@
             "@openstack-sig",
             "orphan"
         ],
+        "python-desktop-entry-lib": [
+            "carlwgeorge"
+        ],
         "python-detect-secrets": [
             "rathann"
         ],
@@ -109618,6 +109621,9 @@
             "@python-packagers-sig",
             "jonathanspw",
             "music"
+        ],
+        "python-google-genai": [
+            "msuchy"
         ],
         "python-google-i18n-address": [
             "orange-kao",
@@ -112540,7 +112546,9 @@
         ],
         "python-nagiosplugin": [
             "aekoroglu",
-            "slaanesh"
+            "loveshack",
+            "slaanesh",
+            "thofmann"
         ],
         "python-name-that-hash": [
             "mikelo2"
@@ -114127,7 +114135,7 @@
             "orphan"
         ],
         "python-plotly": [
-            "orphan"
+            "aekoroglu"
         ],
         "python-plotnine": [
             "orphan"
@@ -127174,6 +127182,9 @@
             "vondruch"
         ],
         "rubygem-minitest-around": [
+            "mtasaka"
+        ],
+        "rubygem-minitest-global_expectations": [
             "mtasaka"
         ],
         "rubygem-minitest-mock": [
@@ -150111,6 +150122,9 @@
         "softwedge": [
             "jskarvad"
         ],
+        "sol2": [
+            "solomoncyj"
+        ],
         "solaar": [
             "rathann",
             "tibbs"
@@ -151259,7 +151273,7 @@
             "rstrode"
         ],
         "stats-collect": [
-            "orphan"
+            "aekoroglu"
         ],
         "statscache": [
             "orphan"
@@ -152694,8 +152708,8 @@
             "zbyszek"
         ],
         "systemd-bootchart": [
-            "fale",
-            "orphan"
+            "dreua",
+            "fale"
         ],
         "systemd-coredump-python": [
             "stevetraylen",
@@ -153682,6 +153696,9 @@
         "texlive-extension": [
             "tdawson",
             "than"
+        ],
+        "texlive-scheme-tetex": [
+            "spot"
         ],
         "texlive-texmf": [
             "jnovy",

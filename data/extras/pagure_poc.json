@@ -47107,9 +47107,9 @@
             "fedora": "orphan"
         },
         "golang-github-gocql": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-gocql-gocql": {
             "admin": "orphan",
@@ -54382,9 +54382,9 @@
             "fedora": "orphan"
         },
         "golang-github-xanzy-gitlab": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-xanzy-ssh-agent": {
             "admin": "mikelo2",
@@ -138526,6 +138526,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-desktop-entry-lib": {
+            "admin": "carlwgeorge",
+            "epel": "carlwgeorge",
+            "fedora": "carlwgeorge"
+        },
         "python-detect-secrets": {
             "admin": "rathann",
             "epel": "rathann",
@@ -141860,6 +141865,11 @@
             "admin": "music",
             "epel": "music",
             "fedora": "music"
+        },
+        "python-google-genai": {
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
         },
         "python-google-i18n-address": {
             "admin": "pwouters",
@@ -145623,7 +145633,7 @@
         },
         "python-nagiosplugin": {
             "admin": "aekoroglu",
-            "epel": "orphan",
+            "epel": "thofmann",
             "fedora": "aekoroglu"
         },
         "python-name-that-hash": {
@@ -147647,9 +147657,9 @@
             "fedora": "orphan"
         },
         "python-plotly": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
         },
         "python-plotnine": {
             "admin": "orphan",
@@ -164852,6 +164862,11 @@
             "fedora": "mtasaka"
         },
         "rubygem-minitest-around": {
+            "admin": "mtasaka",
+            "epel": "orphan",
+            "fedora": "mtasaka"
+        },
+        "rubygem-minitest-global_expectations": {
             "admin": "mtasaka",
             "epel": "orphan",
             "fedora": "mtasaka"
@@ -194156,6 +194171,11 @@
             "epel": "jskarvad",
             "fedora": "jskarvad"
         },
+        "sol2": {
+            "admin": "solomoncyj",
+            "epel": "solomoncyj",
+            "fedora": "solomoncyj"
+        },
         "solaar": {
             "admin": "rathann",
             "epel": "rathann",
@@ -195622,9 +195642,9 @@
             "fedora": "rstrode"
         },
         "stats-collect": {
-            "admin": "orphan",
+            "admin": "aekoroglu",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "aekoroglu"
         },
         "statscache": {
             "admin": "orphan",
@@ -197582,9 +197602,9 @@
             "fedora": "zbyszek"
         },
         "systemd-bootchart": {
-            "admin": "orphan",
+            "admin": "dreua",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "dreua"
         },
         "systemd-coredump-python": {
             "admin": "zbyszek",
@@ -198905,6 +198925,11 @@
             "admin": "than",
             "epel": "than",
             "fedora": "than"
+        },
+        "texlive-scheme-tetex": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
         },
         "texlive-texmf": {
             "admin": "orphan",
