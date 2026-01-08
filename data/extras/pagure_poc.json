@@ -9576,6 +9576,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "airspyhf": {
+            "admin": "fale",
+            "epel": "fale",
+            "fedora": "fale"
+        },
         "airspyhf-1.6.8-1": {
             "admin": "orphan",
             "epel": "orphan",
@@ -15090,6 +15095,11 @@
             "admin": "jjames",
             "epel": "jjames",
             "fedora": "jjames"
+        },
+        "breakpad": {
+            "admin": "errornointernet",
+            "epel": "errornointernet",
+            "fedora": "errornointernet"
         },
         "breathe": {
             "admin": "orphan",
@@ -42551,6 +42561,11 @@
             "epel": "tomparkin",
             "fedora": "tomparkin"
         },
+        "go-mmproxy": {
+            "admin": "salimma",
+            "epel": "salimma",
+            "fedora": "salimma"
+        },
         "go-rpm-macros": {
             "admin": "alexsaezm",
             "epel": "alexsaezm",
@@ -59437,6 +59452,11 @@
             "fedora": "petersen"
         },
         "helm": {
+            "admin": "mikelo2",
+            "epel": "mikelo2",
+            "fedora": "mikelo2"
+        },
+        "helm3": {
             "admin": "mikelo2",
             "epel": "mikelo2",
             "fedora": "mikelo2"
@@ -144316,6 +144336,11 @@
             "epel": "@epel-packagers-sig",
             "fedora": "jruzicka"
         },
+        "python-lmfit": {
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
+        },
         "python-lmiwbem": {
             "admin": "orphan",
             "epel": "orphan",
@@ -149352,9 +149377,9 @@
             "fedora": "@infra-sig"
         },
         "python-pyramid_sawing": {
-            "admin": "mattia",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "mattia"
+            "fedora": "orphan"
         },
         "python-pyrankvote": {
             "admin": "fed500",
@@ -159781,6 +159806,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "quickshell": {
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
+        },
         "quicksynergy": {
             "admin": "orphan",
             "epel": "orphan",
@@ -164477,9 +164507,9 @@
             "fedora": "orphan"
         },
         "rubygem-jekyll-email-protect": {
-            "admin": "jackorp",
-            "epel": "jackorp",
-            "fedora": "jackorp"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-jekyll-feed": {
             "admin": "orphan",
@@ -198921,10 +198951,60 @@
             "epel": "spot",
             "fedora": "spot"
         },
+        "texlive-eq-save": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
         "texlive-extension": {
             "admin": "than",
             "epel": "than",
             "fedora": "than"
+        },
+        "texlive-mathtime-ltx": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-scheme-basic": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-scheme-bookpub": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-scheme-context": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-scheme-full": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-scheme-gust": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-scheme-infraonly": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-scheme-medium": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-scheme-minimal": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
         },
         "texlive-scheme-tetex": {
             "admin": "spot",

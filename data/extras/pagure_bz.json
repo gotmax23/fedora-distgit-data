@@ -7473,6 +7473,9 @@
         "airsnort": [
             "orphan"
         ],
+        "airspyhf": [
+            "fale"
+        ],
         "airspyhf-1.6.8-1": [
             "orphan"
         ],
@@ -11789,6 +11792,10 @@
         ],
         "breakid": [
             "jjames"
+        ],
+        "breakpad": [
+            "errornointernet",
+            "ngompa"
         ],
         "breathe": [
             "orphan"
@@ -25582,6 +25589,7 @@
             "orphan"
         ],
         "galera": [
+            "@db-sig",
             "fabbione",
             "hhorak",
             "ljavorsk",
@@ -32736,6 +32744,11 @@
         "go-l2tp": [
             "@go-sig",
             "tomparkin"
+        ],
+        "go-mmproxy": [
+            "@go-sig",
+            "dcavalca",
+            "salimma"
         ],
         "go-rpm-macros": [
             "@go-sig",
@@ -45666,6 +45679,9 @@
         ],
         "helm": [
             "@go-sig",
+            "mikelo2"
+        ],
+        "helm3": [
             "mikelo2"
         ],
         "help2man": [
@@ -61206,7 +61222,8 @@
             "jforbes",
             "jwboyer",
             "kernel-maint",
-            "pbrobinson"
+            "pbrobinson",
+            "tectrixdev"
         ],
         "linux-igd": [
             "orphan"
@@ -104113,7 +104130,8 @@
         ],
         "python-anyio": [
             "@python-packagers-sig",
-            "carlwgeorge"
+            "carlwgeorge",
+            "music"
         ],
         "python-anyjson": [
             "@python-packagers-sig",
@@ -111529,6 +111547,9 @@
             "jonathanspw",
             "jruzicka"
         ],
+        "python-lmfit": [
+            "topazus"
+        ],
         "python-lmiwbem": [
             "orphan"
         ],
@@ -115448,7 +115469,7 @@
             "kevin"
         ],
         "python-pyramid_sawing": [
-            "mattia"
+            "orphan"
         ],
         "python-pyrankvote": [
             "fed500"
@@ -119095,6 +119116,7 @@
         "python-torch": [
             "@rocm-packagers-sig",
             "mystro256",
+            "pbrobinson",
             "trix",
             "xanderlent"
         ],
@@ -123431,6 +123453,9 @@
             "mtasaka",
             "orphan"
         ],
+        "quickshell": [
+            "ngompa"
+        ],
         "quicksynergy": [
             "drago01",
             "orphan"
@@ -126894,8 +126919,7 @@
             "orphan"
         ],
         "rubygem-jekyll-email-protect": [
-            "@ruby-packagers-sig",
-            "jackorp"
+            "orphan"
         ],
         "rubygem-jekyll-feed": [
             "orphan"
@@ -153693,9 +153717,39 @@
             "spot",
             "than"
         ],
+        "texlive-eq-save": [
+            "spot"
+        ],
         "texlive-extension": [
             "tdawson",
             "than"
+        ],
+        "texlive-mathtime-ltx": [
+            "spot"
+        ],
+        "texlive-scheme-basic": [
+            "spot"
+        ],
+        "texlive-scheme-bookpub": [
+            "spot"
+        ],
+        "texlive-scheme-context": [
+            "spot"
+        ],
+        "texlive-scheme-full": [
+            "spot"
+        ],
+        "texlive-scheme-gust": [
+            "spot"
+        ],
+        "texlive-scheme-infraonly": [
+            "spot"
+        ],
+        "texlive-scheme-medium": [
+            "spot"
+        ],
+        "texlive-scheme-minimal": [
+            "spot"
         ],
         "texlive-scheme-tetex": [
             "spot"
