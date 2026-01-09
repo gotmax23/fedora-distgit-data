@@ -24551,7 +24551,7 @@
             "atim"
         ],
         "folio": [
-            "umutd3401"
+            "orphan"
         ],
         "folks": [
             "@gnome-sig",
@@ -56539,6 +56539,7 @@
             "hhorak",
             "jnovy",
             "jstanek",
+            "onesensor1",
             "pkubat"
         ],
         "libdb4": [
@@ -103751,7 +103752,7 @@
             "sshil"
         ],
         "python-aenum": [
-            "umutd3401"
+            "orphan"
         ],
         "python-aexpect": [
             "cleber"
@@ -119909,6 +119910,9 @@
             "churchyard",
             "music"
         ],
+        "python-uv-dynamic-versioning": [
+            "mikep"
+        ],
         "python-uvicorn": [
             "@python-packagers-sig",
             "carlwgeorge"
@@ -129596,7 +129600,7 @@
         ],
         "rust-async-std-resolver": [
             "@rust-sig",
-            "umutd3401"
+            "orphan"
         ],
         "rust-async-stream": [
             "@rust-sig",
@@ -133487,6 +133491,9 @@
         "rust-find-crate": [
             "@rust-sig",
             "linkdupont"
+        ],
+        "rust-find-msvc-tools": [
+            "decathorpe"
         ],
         "rust-findshlibs": [
             "@rust-sig",
@@ -147485,6 +147492,9 @@
             "@rust-sig",
             "asn"
         ],
+        "rust-zmij": [
+            "decathorpe"
+        ],
         "rust-zmq": [
             "@rust-sig",
             "ueno"
@@ -153713,6 +153723,9 @@
             "spot",
             "than"
         ],
+        "texlive-acrotex": [
+            "spot"
+        ],
         "texlive-base": [
             "spot",
             "than"
@@ -153749,6 +153762,9 @@
             "spot"
         ],
         "texlive-scheme-minimal": [
+            "spot"
+        ],
+        "texlive-scheme-small": [
             "spot"
         ],
         "texlive-scheme-tetex": [

@@ -31907,9 +31907,9 @@
             "fedora": "atim"
         },
         "folio": {
-            "admin": "umutd3401",
-            "epel": "umutd3401",
-            "fedora": "umutd3401"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "folks": {
             "admin": "rishi",
@@ -134252,9 +134252,9 @@
             "fedora": "sshil"
         },
         "python-aenum": {
-            "admin": "umutd3401",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "umutd3401"
+            "fedora": "orphan"
         },
         "python-aexpect": {
             "admin": "cleber",
@@ -155066,6 +155066,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "python-uv-dynamic-versioning": {
+            "admin": "mikep",
+            "epel": "mikep",
+            "fedora": "mikep"
+        },
         "python-uvicorn": {
             "admin": "carlwgeorge",
             "epel": "carlwgeorge",
@@ -168042,9 +168047,9 @@
             "fedora": "@rust-sig"
         },
         "rust-async-std-resolver": {
-            "admin": "umutd3401",
-            "epel": "umutd3401",
-            "fedora": "umutd3401"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-async-stream": {
             "admin": "decathorpe",
@@ -172965,6 +172970,11 @@
             "admin": "linkdupont",
             "epel": "linkdupont",
             "fedora": "linkdupont"
+        },
+        "rust-find-msvc-tools": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-findshlibs": {
             "admin": "salimma",
@@ -190666,6 +190676,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-zmij": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-zmq": {
             "admin": "ueno",
             "epel": "ueno",
@@ -198946,6 +198961,11 @@
             "epel": "spot",
             "fedora": "spot"
         },
+        "texlive-acrotex": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
         "texlive-base": {
             "admin": "spot",
             "epel": "spot",
@@ -199002,6 +199022,11 @@
             "fedora": "spot"
         },
         "texlive-scheme-minimal": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-scheme-small": {
             "admin": "spot",
             "epel": "spot",
             "fedora": "spot"
