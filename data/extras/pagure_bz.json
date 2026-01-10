@@ -885,6 +885,9 @@
             "@flatpak-sig",
             "limb"
         ],
+        "fooyin": [
+            "yselkowitz"
+        ],
         "fotocx": [
             "@flatpak-sig",
             "yselkowitz"
@@ -14114,7 +14117,7 @@
             "orphan"
         ],
         "cmake-fedora": [
-            "fujiwara"
+            "orphan"
         ],
         "cmake28": [
             "hobbes1069",
@@ -26276,6 +26279,7 @@
             "smani"
         ],
         "gdal-epel": [
+            "fjanus",
             "pkhartsk"
         ],
         "gdalcpp": [
@@ -48165,6 +48169,7 @@
         ],
         "intel-opencl-clang": [
             "aekoroglu",
+            "androniychuk",
             "frantisekz",
             "ghishadow"
         ],
@@ -52377,6 +52382,7 @@
             "masami",
             "mchehab",
             "patrickt",
+            "rexjarvis117",
             "smallorange",
             "steved"
         ],
@@ -131643,6 +131649,10 @@
         "rust-crc-core": [
             "orphan"
         ],
+        "rust-crc-fast": [
+            "@rust-sig",
+            "salimma"
+        ],
         "rust-crc1": [
             "orphan"
         ],
@@ -150117,7 +150127,8 @@
             "pwouters"
         ],
         "soci": [
-            "denisarnaud"
+            "denisarnaud",
+            "lihis"
         ],
         "socialscan": [
             "orphan"

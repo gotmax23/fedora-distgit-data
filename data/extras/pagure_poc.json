@@ -1072,6 +1072,11 @@
             "epel": "limb",
             "fedora": "limb"
         },
+        "fooyin": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "fotocx": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -18107,9 +18112,9 @@
             "fedora": "orphan"
         },
         "cmake-fedora": {
-            "admin": "fujiwara",
-            "epel": "fujiwara",
-            "fedora": "fujiwara"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "cmake28": {
             "admin": "orphan",
@@ -170645,6 +170650,11 @@
             "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "orphan"
+        },
+        "rust-crc-fast": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-crc1": {
             "admin": "orphan",
