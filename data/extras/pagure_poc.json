@@ -8182,9 +8182,9 @@
             "fedora": "jamatos"
         },
         "R2spec": {
-            "admin": "pingou",
-            "epel": "pingou",
-            "fedora": "pingou"
+            "admin": "iucar",
+            "epel": "iucar",
+            "fedora": "iucar"
         },
         "RBTools": {
             "admin": "alebastr",
@@ -18110,6 +18110,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "cmake-extras": {
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
         },
         "cmake-fedora": {
             "admin": "orphan",
@@ -39022,9 +39027,9 @@
             "fedora": "music"
         },
         "gi-loadouts": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "t0xic0der",
+            "epel": "t0xic0der",
+            "fedora": "t0xic0der"
         },
         "giac": {
             "admin": "sagitter",
@@ -148111,6 +148116,11 @@
             "epel": "orphan",
             "fedora": "wfp"
         },
+        "python-psygnal": {
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
+        },
         "python-pthreading": {
             "admin": "orphan",
             "epel": "fsimonce",
@@ -160387,9 +160397,9 @@
             "fedora": "thunderbirdtr"
         },
         "raysession": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "eeickmeyer",
+            "epel": "eeickmeyer",
+            "fedora": "eeickmeyer"
         },
         "razertool": {
             "admin": "orphan",

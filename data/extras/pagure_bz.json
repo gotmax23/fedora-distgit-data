@@ -6427,6 +6427,8 @@
             "jamatos"
         ],
         "R2spec": [
+            "@r-maint-sig",
+            "iucar",
             "pingou"
         ],
         "RBTools": [
@@ -7379,6 +7381,7 @@
         "age": [
             "@go-sig",
             "eclipseo",
+            "ghen2",
             "ghishadow",
             "mikelo2"
         ],
@@ -14115,6 +14118,9 @@
         ],
         "cmake-elementary": [
             "orphan"
+        ],
+        "cmake-extras": [
+            "topazus"
         ],
         "cmake-fedora": [
             "orphan"
@@ -30073,7 +30079,7 @@
             "music"
         ],
         "gi-loadouts": [
-            "orphan"
+            "t0xic0der"
         ],
         "giac": [
             "sagitter"
@@ -114499,6 +114505,9 @@
             "osloup",
             "wfp"
         ],
+        "python-psygnal": [
+            "topazus"
+        ],
         "python-pthreading": [
             "danken",
             "orphan"
@@ -123876,7 +123885,7 @@
             "thunderbirdtr"
         ],
         "raysession": [
-            "orphan"
+            "eeickmeyer"
         ],
         "razertool": [
             "orphan"
