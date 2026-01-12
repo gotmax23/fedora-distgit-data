@@ -36202,11 +36202,11 @@
         ],
         "golang-github-gobwas-httphead": [
             "@go-sig",
-            "orphan"
+            "qulogic"
         ],
         "golang-github-gobwas-pool": [
             "@go-sig",
-            "orphan"
+            "qulogic"
         ],
         "golang-github-gobwas-ws": [
             "@go-sig",
@@ -48058,6 +48058,7 @@
         ],
         "inotify-tools": [
             "drago01",
+            "ffish",
             "jankratochvil",
             "mmckinst"
         ],
@@ -69820,7 +69821,7 @@
             "orphan"
         ],
         "netstat-nat": [
-            "orphan"
+            "infraw"
         ],
         "netstiff": [
             "orphan"
@@ -129763,6 +129764,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-av-scenechange": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-av1-grain": [
             "@rust-sig",
             "decathorpe"
@@ -151572,6 +151577,9 @@
             "java-sig",
             "orphan"
         ],
+        "stubble": [
+            "jwrdegoede"
+        ],
         "stubby": [
             "antedebaas",
             "jorton",
@@ -153958,7 +153966,8 @@
             "@python-packagers-sig",
             "abrarwali",
             "churchyard",
-            "ksurma"
+            "ksurma",
+            "ph14nix"
         ],
         "thorvg": [
             "fed500"

@@ -47097,14 +47097,14 @@
             "fedora": "athoscr"
         },
         "golang-github-gobwas-httphead": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "qulogic",
+            "epel": "qulogic",
+            "fedora": "qulogic"
         },
         "golang-github-gobwas-pool": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "qulogic",
+            "epel": "qulogic",
+            "fedora": "qulogic"
         },
         "golang-github-gobwas-ws": {
             "admin": "qulogic",
@@ -90557,9 +90557,9 @@
             "fedora": "orphan"
         },
         "netstat-nat": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "infraw",
+            "epel": "infraw",
+            "fedora": "infraw"
         },
         "netstiff": {
             "admin": "orphan",
@@ -168251,6 +168251,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-av-scenechange": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-av1-grain": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -196030,6 +196035,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "stubble": {
+            "admin": "jwrdegoede",
+            "epel": "jwrdegoede",
+            "fedora": "jwrdegoede"
         },
         "stubby": {
             "admin": "jorton",
