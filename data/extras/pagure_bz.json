@@ -886,6 +886,7 @@
             "limb"
         ],
         "fooyin": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "fotocx": [
@@ -24440,6 +24441,12 @@
             "orion",
             "phracek"
         ],
+        "fltk1.3": [
+            "hobbes1069",
+            "jchaloup",
+            "ngompa",
+            "phracek"
+        ],
         "fluent-bit": [
             "bkircher",
             "leoswaldo"
@@ -45547,7 +45554,7 @@
         "hcloud": [
             "@go-sig",
             "fkolwa",
-            "orphan"
+            "mikelo2"
         ],
         "hct": [
             "orphan"
@@ -45692,6 +45699,7 @@
             "mikelo2"
         ],
         "helm3": [
+            "@go-sig",
             "mikelo2"
         ],
         "help2man": [
@@ -66923,6 +66931,7 @@
             "orphan"
         ],
         "minify": [
+            "@go-sig",
             "mikelo2"
         ],
         "minigalaxy": [
@@ -96583,6 +96592,9 @@
         "php-doctrine-instantiator": [
             "remi"
         ],
+        "php-doctrine-instantiator2": [
+            "remi"
+        ],
         "php-doctrine-lexer": [
             "remi",
             "siwinski"
@@ -100665,8 +100677,8 @@
         ],
         "plasma-mediacenter": [
             "@kde-sig",
-            "orphan",
-            "sinnykumari"
+            "sinnykumari",
+            "yselkowitz"
         ],
         "plasma-milou": [
             "@kde-sig",
@@ -103765,7 +103777,7 @@
             "sshil"
         ],
         "python-aenum": [
-            "orphan"
+            "fedepell"
         ],
         "python-aexpect": [
             "cleber"
@@ -129076,6 +129088,7 @@
             "decathorpe"
         ],
         "rust-annotate-snippets0.11": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-annotate-snippets0.6": [
@@ -133517,6 +133530,7 @@
             "linkdupont"
         ],
         "rust-find-msvc-tools": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-findshlibs": [
@@ -137784,6 +137798,7 @@
             "decathorpe"
         ],
         "rust-linux-raw-sys0.11": [
+            "@rust-sig",
             "salimma"
         ],
         "rust-linux-raw-sys0.3": [
@@ -142915,6 +142930,7 @@
             "salimma"
         ],
         "rust-selinux0.4": [
+            "@rust-sig",
             "salimma"
         ],
         "rust-semver": [
@@ -147517,6 +147533,7 @@
             "asn"
         ],
         "rust-zmij": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-zmq": [
@@ -147569,6 +147586,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-zune-core0.4": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-zune-inflate": [
             "@rust-sig",
             "decathorpe"
@@ -147576,6 +147597,10 @@
         "rust-zune-jpeg": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-zune-jpeg0.4": [
+            "@rust-sig",
+            "music"
         ],
         "rust-zvariant": [
             "@rust-sig",
@@ -162099,7 +162124,9 @@
             "tdawson"
         ],
         "zeromq-ada": [
-            "landgraf"
+            "dvraaij",
+            "landgraf",
+            "rombobeorn"
         ],
         "zeromq2": [
             "orphan"

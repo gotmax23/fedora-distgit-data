@@ -31746,6 +31746,11 @@
             "epel": "orion",
             "fedora": "hobbes1069"
         },
+        "fltk1.3": {
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
+        },
         "fluent-bit": {
             "admin": "bkircher",
             "epel": "bkircher",
@@ -59282,9 +59287,9 @@
             "fedora": "orphan"
         },
         "hcloud": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "mikelo2",
+            "epel": "mikelo2",
+            "fedora": "mikelo2"
         },
         "hct": {
             "admin": "orphan",
@@ -123841,6 +123846,11 @@
             "epel": "remi",
             "fedora": "remi"
         },
+        "php-doctrine-instantiator2": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
         "php-doctrine-lexer": {
             "admin": "siwinski",
             "epel": "siwinski",
@@ -130197,9 +130207,9 @@
             "fedora": "ngompa"
         },
         "plasma-mediacenter": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
         },
         "plasma-milou": {
             "admin": "marcdeop",
@@ -134262,9 +134272,9 @@
             "fedora": "sshil"
         },
         "python-aenum": {
-            "admin": "orphan",
+            "admin": "fedepell",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "fedepell"
         },
         "python-aexpect": {
             "admin": "cleber",
@@ -190766,6 +190776,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-zune-core0.4": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-zune-inflate": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -190775,6 +190790,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-zune-jpeg0.4": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-zvariant": {
             "admin": "elmarco",
