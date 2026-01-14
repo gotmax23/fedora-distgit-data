@@ -13497,9 +13497,9 @@
             "fedora": "orphan"
         },
         "bashmount": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "vtrefny",
+            "epel": "vtrefny",
+            "fedora": "vtrefny"
         },
         "bashtop": {
             "admin": "orphan",
@@ -23648,7 +23648,7 @@
         },
         "dnsperf": {
             "admin": "pwouters",
-            "epel": "pwouters",
+            "epel": "pemensik",
             "fedora": "pwouters"
         },
         "dnsprobe": {
@@ -25427,9 +25427,9 @@
             "fedora": "orphan"
         },
         "dssp": {
-            "admin": "loveshack",
-            "epel": "loveshack",
-            "fedora": "loveshack"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "dstat": {
             "admin": "orphan",
@@ -31922,9 +31922,9 @@
             "fedora": "atim"
         },
         "folio": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "vtrefny",
+            "epel": "vtrefny",
+            "fedora": "vtrefny"
         },
         "folks": {
             "admin": "rishi",
@@ -34325,6 +34325,11 @@
             "admin": "pkhartsk",
             "epel": "pkhartsk",
             "fedora": "pkhartsk"
+        },
+        "gdal34": {
+            "admin": "fjanus",
+            "epel": "fjanus",
+            "fedora": "fjanus"
         },
         "gdalcpp": {
             "admin": "tomh",
@@ -88927,9 +88932,9 @@
             "fedora": "yselkowitz"
         },
         "multimedia-menus": {
-            "admin": "orphan",
+            "admin": "eeickmeyer",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "eeickmeyer"
         },
         "multisync": {
             "admin": "orphan",
@@ -90562,9 +90567,9 @@
             "fedora": "orphan"
         },
         "netstat-nat": {
-            "admin": "infraw",
-            "epel": "infraw",
-            "fedora": "infraw"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "netstiff": {
             "admin": "orphan",
@@ -91027,9 +91032,9 @@
             "fedora": "agoode"
         },
         "nipy-data": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "niri": {
             "admin": "decathorpe",
@@ -99812,9 +99817,9 @@
             "fedora": "mlichvar"
         },
         "nuclei": {
-            "admin": "orphan",
+            "admin": "infraw",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "infraw"
         },
         "nucleo": {
             "admin": "orphan",
@@ -136462,9 +136467,9 @@
             "fedora": "orphan"
         },
         "python-bokeh": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-boltons": {
             "admin": "orion",
@@ -136767,9 +136772,9 @@
             "fedora": "cottsay"
         },
         "python-catkin_lint": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-catkin_pkg": {
             "admin": "ankursinha",
@@ -143442,9 +143447,9 @@
             "fedora": "wojnilowicz"
         },
         "python-jsonpath-rw": {
-            "admin": "semeijn",
-            "epel": "semeijn",
-            "fedora": "semeijn"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-jsonpath-rw-ext": {
             "admin": "orphan",
@@ -183681,6 +183686,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-reqwest0.12": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-resctl-bench": {
             "admin": "dcavalca",
             "epel": "@rust-sig",
@@ -201327,9 +201337,9 @@
             "fedora": "orphan"
         },
         "tss2": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "infraw",
+            "epel": "infraw",
+            "fedora": "infraw"
         },
         "tsung": {
             "admin": "tartare",

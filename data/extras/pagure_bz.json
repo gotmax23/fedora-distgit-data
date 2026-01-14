@@ -10566,7 +10566,7 @@
             "orphan"
         ],
         "bashmount": [
-            "orphan"
+            "vtrefny"
         ],
         "bashtop": [
             "orphan"
@@ -19694,7 +19694,7 @@
             "orphan"
         ],
         "dssp": [
-            "loveshack"
+            "orphan"
         ],
         "dstat": [
             "orphan"
@@ -24567,7 +24567,7 @@
             "atim"
         ],
         "folio": [
-            "orphan"
+            "vtrefny"
         ],
         "folks": [
             "@gnome-sig",
@@ -26294,6 +26294,9 @@
         "gdal-epel": [
             "fjanus",
             "pkhartsk"
+        ],
+        "gdal34": [
+            "fjanus"
         ],
         "gdalcpp": [
             "tomh"
@@ -68606,8 +68609,7 @@
             "yselkowitz"
         ],
         "multimedia-menus": [
-            "eeickmeyer",
-            "orphan"
+            "eeickmeyer"
         ],
         "multisync": [
             "orphan"
@@ -69830,7 +69832,7 @@
             "orphan"
         ],
         "netstat-nat": [
-            "infraw"
+            "orphan"
         ],
         "netstiff": [
             "orphan"
@@ -70192,9 +70194,8 @@
             "agoode"
         ],
         "nipy-data": [
-            "@neuro-sig",
-            "ankursinha",
-            "ignatenkobrain"
+            "ignatenkobrain",
+            "orphan"
         ],
         "niri": [
             "@rust-sig",
@@ -75991,7 +75992,7 @@
         ],
         "nuclei": [
             "@go-sig",
-            "orphan"
+            "infraw"
         ],
         "nucleo": [
             "orphan"
@@ -77694,7 +77695,8 @@
         ],
         "ollama": [
             "@go-sig",
-            "trix"
+            "trix",
+            "xanderlent"
         ],
         "olpc-contents": [
             "orphan"
@@ -101651,6 +101653,7 @@
             "ndavidov"
         ],
         "postgresql16-anonymizer": [
+            "@db-sig",
             "pkhartsk"
         ],
         "postgresql16-decoderbufs": [
@@ -105441,8 +105444,7 @@
             "orphan"
         ],
         "python-bokeh": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "python-boltons": [
             "@epel-packagers-sig",
@@ -105678,8 +105680,8 @@
         ],
         "python-catkin_lint": [
             "@robotics-sig",
-            "ankursinha",
             "cottsay",
+            "orphan",
             "rmattes"
         ],
         "python-catkin_pkg": [
@@ -110857,7 +110859,7 @@
             "wojnilowicz"
         ],
         "python-jsonpath-rw": [
-            "semeijn"
+            "orphan"
         ],
         "python-jsonpath-rw-ext": [
             "@epel-packagers-sig",
@@ -142019,6 +142021,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-reqwest0.12": [
+            "decathorpe"
+        ],
         "rust-resctl-bench": [
             "@rust-sig",
             "dcavalca"
@@ -155459,8 +155464,8 @@
         ],
         "tss2": [
             "honclo",
+            "infraw",
             "kgold",
-            "orphan",
             "snits"
         ],
         "tsung": [
