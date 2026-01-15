@@ -23067,9 +23067,9 @@
             "fedora": "msuchy"
         },
         "distro-info": {
-            "admin": "orphan",
+            "admin": "slaanesh",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "slaanesh"
         },
         "distro-info-data": {
             "admin": "orphan",
@@ -34325,6 +34325,11 @@
             "admin": "pkhartsk",
             "epel": "pkhartsk",
             "fedora": "pkhartsk"
+        },
+        "gdal3.4": {
+            "admin": "fjanus",
+            "epel": "fjanus",
+            "fedora": "fjanus"
         },
         "gdal34": {
             "admin": "fjanus",
@@ -105611,6 +105616,11 @@
             "epel": "robert",
             "fedora": "robert"
         },
+        "pdfio": {
+            "admin": "zdohnal",
+            "epel": "zdohnal",
+            "fedora": "zdohnal"
+        },
         "pdfjam": {
             "admin": "orphan",
             "epel": "orphan",
@@ -157693,23 +157703,23 @@
         },
         "python3.13-flit-core": {
             "admin": "ksurma",
-            "epel": "ksurma",
-            "fedora": "ksurma"
+            "epel": "python-maint",
+            "fedora": "python-maint"
         },
         "python3.13-packaging": {
             "admin": "ksurma",
-            "epel": "ksurma",
-            "fedora": "ksurma"
+            "epel": "python-maint",
+            "fedora": "python-maint"
         },
         "python3.13-pip": {
             "admin": "ksurma",
-            "epel": "ksurma",
-            "fedora": "ksurma"
+            "epel": "python-maint",
+            "fedora": "python-maint"
         },
         "python3.13-setuptools": {
             "admin": "ksurma",
-            "epel": "ksurma",
-            "fedora": "ksurma"
+            "epel": "python-maint",
+            "fedora": "python-maint"
         },
         "python3.14": {
             "admin": "ksurma",
@@ -187646,6 +187656,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-toml_edit0.23": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-toml_parser": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -199027,6 +199042,11 @@
             "fedora": "spot"
         },
         "texlive-base": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-collection-basic": {
             "admin": "spot",
             "epel": "spot",
             "fedora": "spot"
