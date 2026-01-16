@@ -248,7 +248,7 @@
             "pkubat"
         ],
         "php": [
-            "orphan",
+            "hhorak",
             "phracek",
             "pkubat",
             "rpitonak"
@@ -17985,6 +17985,7 @@
             "limb"
         ],
         "distgen": [
+            "@db-sig",
             "anezbeda",
             "phracek",
             "pkubat",
@@ -18505,6 +18506,7 @@
             "orphan"
         ],
         "docbook-dtds": [
+            "@db-sig",
             "anezbeda",
             "kasal",
             "kdudka",
@@ -18512,25 +18514,30 @@
             "ovasik"
         ],
         "docbook-simple": [
+            "@db-sig",
             "anezbeda",
             "ovasik"
         ],
         "docbook-slides": [
+            "@db-sig",
             "anezbeda",
             "ovasik"
         ],
         "docbook-style-dsssl": [
+            "@db-sig",
             "anezbeda",
             "osloup",
             "ovasik"
         ],
         "docbook-style-xsl": [
+            "@db-sig",
             "anezbeda",
             "kdudka",
             "osloup",
             "ovasik"
         ],
         "docbook-utils": [
+            "@db-sig",
             "anezbeda",
             "osloup",
             "ovasik"
@@ -18539,11 +18546,13 @@
             "slankes"
         ],
         "docbook5-schemas": [
+            "@db-sig",
             "anezbeda",
             "osloup",
             "ovasik"
         ],
         "docbook5-style-xsl": [
+            "@db-sig",
             "anezbeda",
             "osloup",
             "ovasik",
@@ -43676,6 +43685,10 @@
             "mohammedisam",
             "orphan"
         ],
+        "goss": [
+            "@go-sig",
+            "carlosrodrifernandez"
+        ],
         "gossip": [
             "mizdebsk",
             "orphan"
@@ -58814,10 +58827,12 @@
             "orphan"
         ],
         "libnsl2": [
+            "@db-sig",
             "anezbeda",
             "fjanus",
             "orion",
-            "osloup"
+            "osloup",
+            "pkubat"
         ],
         "libnss-mysql": [
             "ondrejj"
@@ -61300,6 +61315,7 @@
             "orphan"
         ],
         "linuxdoc-tools": [
+            "@db-sig",
             "anezbeda",
             "jrische",
             "ovasik"
@@ -75928,9 +75944,11 @@
             "orphan"
         ],
         "nss_nis": [
+            "@db-sig",
             "anezbeda",
             "fjanus",
-            "osloup"
+            "osloup",
+            "pkubat"
         ],
         "nss_updatedb": [
             "kashyapc"
@@ -78247,13 +78265,13 @@
             "hargonix"
         ],
         "openjade": [
+            "@db-sig",
             "anezbeda",
             "osloup",
             "ovasik"
         ],
         "openjdk-asmtools": [
-            "jvanek",
-            "orphan"
+            "jvanek"
         ],
         "openjdk-asmtools7": [
             "jvanek"
@@ -78625,6 +78643,7 @@
             "dfateyev"
         ],
         "opensp": [
+            "@db-sig",
             "anezbeda",
             "osloup",
             "ovasik"
@@ -102203,7 +102222,6 @@
             "rishi"
         ],
         "proxysql": [
-            "@db-sig",
             "acaringi",
             "hhorak",
             "ignatenkobrain",
@@ -145133,6 +145151,7 @@
             "decathorpe"
         ],
         "rust-toml_edit0.23": [
+            "@rust-sig",
             "music"
         ],
         "rust-toml_parser": [
@@ -149003,6 +149022,7 @@
             "orphan"
         ],
         "sgml-common": [
+            "@db-sig",
             "anezbeda",
             "osloup",
             "ovasik"
@@ -150981,6 +151001,7 @@
             "steve"
         ],
         "sqlite": [
+            "@db-sig",
             "anezbeda",
             "fjanus",
             "ndavidov",
@@ -153797,6 +153818,15 @@
             "than"
         ],
         "texlive-collection-basic": [
+            "spot"
+        ],
+        "texlive-collection-fontutils": [
+            "spot"
+        ],
+        "texlive-collection-formatsextra": [
+            "spot"
+        ],
+        "texlive-collection-langchinese": [
             "spot"
         ],
         "texlive-eq-save": [
@@ -160427,11 +160457,13 @@
             "ovasik"
         ],
         "xmlto": [
+            "@db-sig",
             "anezbeda",
             "osloup",
             "ovasik"
         ],
         "xmltoman": [
+            "@db-sig",
             "anezbeda",
             "lkundrak",
             "ovasik"
@@ -161086,6 +161118,7 @@
             "airlied",
             "ajax",
             "jexposit",
+            "mdaenzer",
             "rhughes",
             "rstrode",
             "xgl-maint"
@@ -161797,6 +161830,7 @@
             "till"
         ],
         "yp-tools": [
+            "@db-sig",
             "anezbeda",
             "fjanus",
             "hhorak",
@@ -161804,6 +161838,7 @@
             "pkubat"
         ],
         "ypbind": [
+            "@db-sig",
             "anezbeda",
             "fjanus",
             "hhorak",
@@ -161811,6 +161846,7 @@
             "pkubat"
         ],
         "ypserv": [
+            "@db-sig",
             "anezbeda",
             "fjanus",
             "hhorak",

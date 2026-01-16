@@ -316,9 +316,9 @@
             "fedora": "hhorak"
         },
         "php": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "hhorak",
+            "epel": "hhorak",
+            "fedora": "hhorak"
         },
         "php-mongodb": {
             "admin": "orphan",
@@ -23057,9 +23057,9 @@
             "fedora": "limb"
         },
         "distgen": {
-            "admin": "anezbeda",
-            "epel": "anezbeda",
-            "fedora": "anezbeda"
+            "admin": "pkubat",
+            "epel": "pkubat",
+            "fedora": "pkubat"
         },
         "distribution-gpg-keys": {
             "admin": "msuchy",
@@ -56826,6 +56826,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "goss": {
+            "admin": "carlosrodrifernandez",
+            "epel": "carlosrodrifernandez",
+            "fedora": "carlosrodrifernandez"
+        },
         "gossip": {
             "admin": "orphan",
             "epel": "orphan",
@@ -76157,7 +76162,7 @@
             "fedora": "orphan"
         },
         "libnsl2": {
-            "admin": "anezbeda",
+            "admin": "pkubat",
             "epel": "osloup",
             "fedora": "osloup"
         },
@@ -99732,7 +99737,7 @@
             "fedora": "orphan"
         },
         "nss_nis": {
-            "admin": "anezbeda",
+            "admin": "pkubat",
             "epel": "osloup",
             "fedora": "osloup"
         },
@@ -102807,9 +102812,9 @@
             "fedora": "ovasik"
         },
         "openjdk-asmtools": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "jvanek",
+            "epel": "jvanek",
+            "fedora": "jvanek"
         },
         "openjdk-asmtools7": {
             "admin": "jvanek",
@@ -132147,9 +132152,9 @@
             "fedora": "orphan"
         },
         "proxysql": {
-            "admin": "mschorm",
-            "epel": "mschorm",
-            "fedora": "mschorm"
+            "admin": "ignatenkobrain",
+            "epel": "ignatenkobrain",
+            "fedora": "ignatenkobrain"
         },
         "proxytoys": {
             "admin": "orphan",
@@ -195252,9 +195257,9 @@
             "fedora": "kevin"
         },
         "sqlite": {
-            "admin": "anezbeda",
-            "epel": "anezbeda",
-            "fedora": "anezbeda"
+            "admin": "pkubat",
+            "epel": "pkubat",
+            "fedora": "pkubat"
         },
         "sqlite-jdbc": {
             "admin": "orphan",
@@ -199047,6 +199052,21 @@
             "fedora": "spot"
         },
         "texlive-collection-basic": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-collection-fontutils": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-collection-formatsextra": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-collection-langchinese": {
             "admin": "spot",
             "epel": "spot",
             "fedora": "spot"
@@ -209827,19 +209847,19 @@
             "fedora": "till"
         },
         "yp-tools": {
-            "admin": "anezbeda",
+            "admin": "pkubat",
             "epel": "fjanus",
             "fedora": "fjanus"
         },
         "ypbind": {
-            "admin": "anezbeda",
-            "epel": "anezbeda",
-            "fedora": "anezbeda"
+            "admin": "pkubat",
+            "epel": "pkubat",
+            "fedora": "pkubat"
         },
         "ypserv": {
-            "admin": "anezbeda",
-            "epel": "anezbeda",
-            "fedora": "anezbeda"
+            "admin": "pkubat",
+            "epel": "pkubat",
+            "fedora": "pkubat"
         },
         "yq": {
             "admin": "salimma",
