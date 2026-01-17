@@ -60052,7 +60052,7 @@
         "libstatgrab": [
             "cicku",
             "mosvald",
-            "orphan"
+            "sfaulken"
         ],
         "libstemmer": [
             "orphan"
@@ -100103,6 +100103,9 @@
         "phrel": [
             "orphan"
         ],
+        "phrog": [
+            "samcday"
+        ],
         "physfs": [
             "@epel-packagers-sig",
             "jonathanspw",
@@ -105467,7 +105470,7 @@
             "orphan"
         ],
         "python-bokeh": [
-            "orphan"
+            "fedepell"
         ],
         "python-boltons": [
             "@epel-packagers-sig",
@@ -107047,6 +107050,9 @@
         "python-deepdiff": [
             "jussilehtola",
             "romaingeissler1a"
+        ],
+        "python-deepl": [
+            "msuchy"
         ],
         "python-deepmerge": [
             "@python-packagers-sig",
@@ -117384,8 +117390,7 @@
         ],
         "python-setuptools-git-versioning": [
             "@epel-packagers-sig",
-            "ankursinha",
-            "music"
+            "orphan"
         ],
         "python-setuptools-lint": [
             "orphan"
@@ -125009,6 +125014,10 @@
         "rocm-smi": [
             "@rocm-packagers-sig",
             "mystro256"
+        ],
+        "rocm-transferbench": [
+            "@rocm-packagers-sig",
+            "trix"
         ],
         "rocm-validation-suite": [
             "@rocm-packagers-sig",

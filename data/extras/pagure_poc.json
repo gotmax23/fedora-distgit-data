@@ -77732,9 +77732,9 @@
             "fedora": "dtardon"
         },
         "libstatgrab": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "sfaulken",
+            "epel": "sfaulken",
+            "fedora": "sfaulken"
         },
         "libstemmer": {
             "admin": "orphan",
@@ -129416,6 +129416,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "phrog": {
+            "admin": "samcday",
+            "epel": "samcday",
+            "fedora": "samcday"
+        },
         "physfs": {
             "admin": "spot",
             "epel": "@epel-packagers-sig",
@@ -136482,9 +136487,9 @@
             "fedora": "orphan"
         },
         "python-bokeh": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-boltons": {
             "admin": "orion",
@@ -138535,6 +138540,11 @@
             "admin": "jussilehtola",
             "epel": "jussilehtola",
             "fedora": "jussilehtola"
+        },
+        "python-deepl": {
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
         },
         "python-deepmerge": {
             "admin": "ngompa",
@@ -151772,9 +151782,9 @@
             "fedora": "bkhl"
         },
         "python-setuptools-git-versioning": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-setuptools-lint": {
             "admin": "orphan",
@@ -161860,6 +161870,11 @@
             "admin": "mystro256",
             "epel": "mystro256",
             "fedora": "mystro256"
+        },
+        "rocm-transferbench": {
+            "admin": "trix",
+            "epel": "trix",
+            "fedora": "trix"
         },
         "rocm-validation-suite": {
             "admin": "trix",
