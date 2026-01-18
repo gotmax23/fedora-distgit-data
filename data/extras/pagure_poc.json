@@ -21962,9 +21962,9 @@
             "fedora": "orphan"
         },
         "deepin-daemon": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
         },
         "deepin-dbus-generator": {
             "admin": "orphan",
@@ -141507,9 +141507,9 @@
             "fedora": "sagitter"
         },
         "python-gevent-eventemitter": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "python-gevent-socketio": {
             "admin": "orphan",
@@ -143182,9 +143182,9 @@
             "fedora": "orphan"
         },
         "python-jack-client": {
-            "admin": "orphan",
+            "admin": "eeickmeyer",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "eeickmeyer"
         },
         "python-jaconv": {
             "admin": "kevin",
@@ -151782,9 +151782,9 @@
             "fedora": "bkhl"
         },
         "python-setuptools-git-versioning": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
         },
         "python-setuptools-lint": {
             "admin": "orphan",

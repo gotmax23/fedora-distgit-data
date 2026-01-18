@@ -17090,7 +17090,7 @@
             "@deepinde-sig",
             "@go-sig",
             "cheeselee",
-            "orphan",
+            "topazus",
             "zsun"
         ],
         "deepin-dbus-generator": [
@@ -60050,6 +60050,7 @@
             "dtardon"
         ],
         "libstatgrab": [
+            "@lxqt-sig",
             "cicku",
             "mosvald",
             "sfaulken"
@@ -109306,7 +109307,7 @@
             "sagitter"
         ],
         "python-gevent-eventemitter": [
-            "orphan"
+            "atim"
         ],
         "python-gevent-socketio": [
             "orphan"
@@ -110648,7 +110649,7 @@
             "orphan"
         ],
         "python-jack-client": [
-            "orphan"
+            "eeickmeyer"
         ],
         "python-jaconv": [
             "kevin"
@@ -117390,7 +117391,7 @@
         ],
         "python-setuptools-git-versioning": [
             "@epel-packagers-sig",
-            "orphan"
+            "topazus"
         ],
         "python-setuptools-lint": [
             "orphan"
@@ -150840,6 +150841,7 @@
             "frantisekz"
         ],
         "spirv-llvm15.0-translator": [
+            "androniychuk",
             "frantisekz"
         ],
         "spirv-llvm8.0-translator": [
