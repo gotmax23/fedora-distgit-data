@@ -88712,9 +88712,9 @@
             "fedora": "peter"
         },
         "msoffcrypto-tool": {
-            "admin": "robert",
-            "epel": "robert",
-            "fedora": "robert"
+            "admin": "rebus",
+            "epel": "rebus",
+            "fedora": "rebus"
         },
         "msolve": {
             "admin": "jjames",
@@ -143183,7 +143183,7 @@
         },
         "python-jack-client": {
             "admin": "eeickmeyer",
-            "epel": "orphan",
+            "epel": "eeickmeyer",
             "fedora": "eeickmeyer"
         },
         "python-jaconv": {
@@ -209697,9 +209697,9 @@
             "fedora": "orphan"
         },
         "yaru-theme": {
-            "admin": "orphan",
+            "admin": "atim",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "atim"
         },
         "yascreen": {
             "admin": "bbonev1",
