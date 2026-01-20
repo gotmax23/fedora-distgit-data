@@ -15773,6 +15773,7 @@
             "tmlcoch"
         ],
         "credcheck": [
+            "@db-sig",
             "psloboda"
         ],
         "credentials-fetcher": [
@@ -45247,7 +45248,7 @@
             "orphan"
         ],
         "gwe": [
-            "orphan"
+            "atim"
         ],
         "gwebsockets": [
             "chimosky"
@@ -45499,6 +45500,9 @@
             "orphan"
         ],
         "haskell-platform": [
+            "petersen"
+        ],
+        "hasktags": [
             "petersen"
         ],
         "hatari": [
@@ -118523,7 +118527,7 @@
             "sharkcz"
         ],
         "python-steam": [
-            "orphan"
+            "atim"
         ],
         "python-steampunk-spotter": [
             "rathann"
@@ -142056,6 +142060,7 @@
             "decathorpe"
         ],
         "rust-reqwest0.12": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-resctl-bench": [
@@ -157171,6 +157176,9 @@
         "verbiste": [
             "cicku",
             "tartare"
+        ],
+        "vercel-geist-fonts": [
+            "basilcrow"
         ],
         "verilator": [
             "npgo22",

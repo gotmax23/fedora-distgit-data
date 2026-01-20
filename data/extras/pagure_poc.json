@@ -58842,9 +58842,9 @@
             "fedora": "orphan"
         },
         "gwe": {
-            "admin": "orphan",
+            "admin": "atim",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "atim"
         },
         "gwebsockets": {
             "admin": "chimosky",
@@ -59197,6 +59197,11 @@
             "fedora": "orphan"
         },
         "haskell-platform": {
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
+        },
+        "hasktags": {
             "admin": "petersen",
             "epel": "petersen",
             "fedora": "petersen"
@@ -153262,9 +153267,9 @@
             "fedora": "sharkcz"
         },
         "python-steam": {
-            "admin": "orphan",
+            "admin": "atim",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "atim"
         },
         "python-steampunk-spotter": {
             "admin": "rathann",
@@ -203615,6 +203620,11 @@
             "admin": "tartare",
             "epel": "tartare",
             "fedora": "tartare"
+        },
+        "vercel-geist-fonts": {
+            "admin": "basilcrow",
+            "epel": "basilcrow",
+            "fedora": "basilcrow"
         },
         "verilator": {
             "admin": "scottt",
