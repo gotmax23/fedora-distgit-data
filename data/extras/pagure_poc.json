@@ -14577,9 +14577,9 @@
             "fedora": "orphan"
         },
         "blueprint-compiler": {
-            "admin": "lyessaadi",
-            "epel": "lyessaadi",
-            "fedora": "lyessaadi"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "blueproximity": {
             "admin": "orphan",
@@ -29675,6 +29675,11 @@
             "admin": "michich",
             "epel": "michich",
             "fedora": "michich"
+        },
+        "facebook-time": {
+            "admin": "pawo2500",
+            "epel": "pawo2500",
+            "fedora": "pawo2500"
         },
         "facter": {
             "admin": "ekohl",
@@ -131842,9 +131847,9 @@
             "fedora": "orphan"
         },
         "primecount": {
-            "admin": "carlosrodrifernandez",
-            "epel": "carlosrodrifernandez",
-            "fedora": "carlosrodrifernandez"
+            "admin": "walki",
+            "epel": "walki",
+            "fedora": "walki"
         },
         "primer3": {
             "admin": "pingou",
@@ -161341,6 +161346,11 @@
             "epel": "petersen",
             "fedora": "petersen"
         },
+        "rhc": {
+            "admin": "mhorky",
+            "epel": "mhorky",
+            "fedora": "mhorky"
+        },
         "rhdb-utils": {
             "admin": "fjanus",
             "epel": "fjanus",
@@ -171270,6 +171280,11 @@
             "admin": "music",
             "epel": "music",
             "fedora": "music"
+        },
+        "rust-daemonix": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-daemonize": {
             "admin": "dcavalca",
@@ -199086,7 +199101,17 @@
             "epel": "spot",
             "fedora": "spot"
         },
+        "texlive-collection-humanities": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
         "texlive-collection-langchinese": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-collection-langczechslovak": {
             "admin": "spot",
             "epel": "spot",
             "fedora": "spot"

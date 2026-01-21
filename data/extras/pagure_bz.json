@@ -11404,7 +11404,7 @@
         "blueprint-compiler": [
             "0xmrtt",
             "@gnome-sig",
-            "lyessaadi"
+            "orphan"
         ],
         "blueproximity": [
             "orphan"
@@ -14269,6 +14269,7 @@
             "rjones"
         ],
         "cockatrice": [
+            "laiot",
             "linkdupont"
         ],
         "cockpit": [
@@ -22829,6 +22830,15 @@
             "kheib",
             "michich",
             "orion"
+        ],
+        "facebook-time": [
+            "@go-sig",
+            "dcavalca",
+            "leoleovich",
+            "pawo2500",
+            "salimma",
+            "vfedorenko",
+            "yarek"
         ],
         "facter": [
             "brandfbb",
@@ -43125,6 +43135,7 @@
         ],
         "golang-rsc-qr": [
             "@go-sig",
+            "matthickford",
             "qulogic"
         ],
         "golang-salsa-debian-vasudev-gospake2": [
@@ -101996,7 +102007,6 @@
             "orphan"
         ],
         "primecount": [
-            "carlosrodrifernandez",
             "walki"
         ],
         "primer3": [
@@ -124628,6 +124638,9 @@
         "rhbzquery": [
             "petersen"
         ],
+        "rhc": [
+            "mhorky"
+        ],
         "rhdb-utils": [
             "fjanus",
             "hhorak",
@@ -132145,6 +132158,9 @@
         "rust-cyclonedx-bom-macros": [
             "@rust-sig",
             "music"
+        ],
+        "rust-daemonix": [
+            "decathorpe"
         ],
         "rust-daemonize": [
             "@rust-sig",
@@ -153843,7 +153859,13 @@
         "texlive-collection-formatsextra": [
             "spot"
         ],
+        "texlive-collection-humanities": [
+            "spot"
+        ],
         "texlive-collection-langchinese": [
+            "spot"
+        ],
+        "texlive-collection-langczechslovak": [
             "spot"
         ],
         "texlive-eq-save": [
