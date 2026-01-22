@@ -17092,7 +17092,7 @@
             "@deepinde-sig",
             "@go-sig",
             "cheeselee",
-            "topazus",
+            "orphan",
             "zsun"
         ],
         "deepin-dbus-generator": [
@@ -22937,6 +22937,9 @@
             "music",
             "pwouters",
             "rominf"
+        ],
+        "fastapi-new": [
+            "music"
         ],
         "fastback": [
             "gavin",
@@ -49152,7 +49155,6 @@
             "salimma"
         ],
         "jakarta-mail": [
-            "kni",
             "mizdebsk",
             "mkoncek"
         ],
@@ -68639,7 +68641,8 @@
         ],
         "multilib-rpm-config": [
             "mschorm",
-            "praiskup"
+            "praiskup",
+            "tstellar"
         ],
         "multimarkdown": [
             "yselkowitz"
@@ -68861,7 +68864,7 @@
             "orphan"
         ],
         "mygnuhealth": [
-            "orphan"
+            "kathenas"
         ],
         "mygui": [
             "bruno",
@@ -76613,6 +76616,9 @@
         "ocaml-camomile": [
             "avsej",
             "rjones"
+        ],
+        "ocaml-capitalization": [
+            "jjames"
         ],
         "ocaml-charinfo-width": [
             "orphan"
@@ -104099,6 +104105,10 @@
         "python-amara": [
             "orphan"
         ],
+        "python-amd-debug-tools": [
+            "@rocm-packagers-sig",
+            "trix"
+        ],
         "python-amico": [
             "ignatenkobrain",
             "orphan"
@@ -114646,6 +114656,9 @@
         ],
         "python-py-gql": [
             "orphan"
+        ],
+        "python-py-key-value": [
+            "carlwgeorge"
         ],
         "python-py-tes": [
             "@neuro-sig",
@@ -155365,7 +155378,7 @@
             "orion"
         ],
         "tryton": [
-            "orphan"
+            "kathenas"
         ],
         "trytond": [
             "orphan"

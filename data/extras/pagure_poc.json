@@ -21962,9 +21962,9 @@
             "fedora": "orphan"
         },
         "deepin-daemon": {
-            "admin": "topazus",
-            "epel": "topazus",
-            "fedora": "topazus"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "deepin-dbus-generator": {
             "admin": "orphan",
@@ -29812,6 +29812,11 @@
             "fedora": "music"
         },
         "fastapi-cloud-cli": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "fastapi-new": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"
@@ -64087,9 +64092,9 @@
             "fedora": "jjames"
         },
         "jakarta-mail": {
-            "admin": "kni",
-            "epel": "kni",
-            "fedora": "kni"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "jakarta-mail1": {
             "admin": "ellert",
@@ -88942,9 +88947,9 @@
             "fedora": "orphan"
         },
         "multilib-rpm-config": {
-            "admin": "mschorm",
-            "epel": "mschorm",
-            "fedora": "mschorm"
+            "admin": "tstellar",
+            "epel": "tstellar",
+            "fedora": "tstellar"
         },
         "multimarkdown": {
             "admin": "yselkowitz",
@@ -89232,9 +89237,9 @@
             "fedora": "orphan"
         },
         "mygnuhealth": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "kathenas",
+            "epel": "kathenas",
+            "fedora": "kathenas"
         },
         "mygui": {
             "admin": "chapien",
@@ -100610,6 +100615,11 @@
             "admin": "rjones",
             "epel": "rjones",
             "fedora": "rjones"
+        },
+        "ocaml-capitalization": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
         },
         "ocaml-charinfo-width": {
             "admin": "orphan",
@@ -134701,6 +134711,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-amd-debug-tools": {
+            "admin": "trix",
+            "epel": "trix",
+            "fedora": "trix"
+        },
         "python-amico": {
             "admin": "orphan",
             "epel": "orphan",
@@ -148270,6 +148285,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "python-py-key-value": {
+            "admin": "carlwgeorge",
+            "epel": "carlwgeorge",
+            "fedora": "carlwgeorge"
         },
         "python-py-tes": {
             "admin": "music",
@@ -201137,9 +201157,9 @@
             "fedora": "orion"
         },
         "tryton": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "kathenas",
+            "epel": "kathenas",
+            "fedora": "kathenas"
         },
         "trytond": {
             "admin": "orphan",
