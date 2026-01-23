@@ -19918,6 +19918,7 @@
         ],
         "dvd+rw-tools": [
             "hhorak",
+            "kni",
             "pcahyna"
         ],
         "dvdauthor": [
@@ -25073,7 +25074,7 @@
             "orphan"
         ],
         "freeopcua": [
-            "thofmann"
+            "orphan"
         ],
         "freeorion": [
             "orphan",
@@ -48104,7 +48105,6 @@
         ],
         "inotify-tools": [
             "drago01",
-            "ffish",
             "jankratochvil",
             "mmckinst"
         ],
@@ -56597,7 +56597,6 @@
             "hhorak",
             "jnovy",
             "jstanek",
-            "onesensor1",
             "pkubat"
         ],
         "libdb4": [
@@ -61284,8 +61283,7 @@
             "jforbes",
             "jwboyer",
             "kernel-maint",
-            "pbrobinson",
-            "tectrixdev"
+            "pbrobinson"
         ],
         "linux-igd": [
             "orphan"
@@ -63396,7 +63394,6 @@
             "orphan"
         ],
         "mariadb-java-client": [
-            "anezbeda",
             "mizdebsk",
             "mkoncek",
             "mschorm"
@@ -67030,6 +67027,7 @@
             "orion"
         ],
         "minizip-ng": [
+            "@db-sig",
             "jamartis",
             "ljavorsk"
         ],
@@ -69792,8 +69790,7 @@
             "mschweikardt"
         ],
         "netgen-mesher": [
-            "hobbes1069",
-            "smani"
+            "hobbes1069"
         ],
         "netgo": [
             "orphan"
@@ -75632,13 +75629,11 @@
         "nodejs20": [
             "aradchen",
             "jstanek",
-            "sgallagh",
             "tjuhasz"
         ],
         "nodejs22": [
             "aradchen",
             "jstanek",
-            "sgallagh",
             "tjuhasz"
         ],
         "nodejs24": [
@@ -78527,6 +78522,7 @@
             "dahaic",
             "evgenyz",
             "jcerny",
+            "mburket",
             "mmarhefk",
             "rebus",
             "vpolasek"
@@ -113812,6 +113808,7 @@
             "@openstack-sig",
             "apevec",
             "jcapitao",
+            "smani",
             "zuul"
         ],
         "python-paste": [
@@ -136560,6 +136557,9 @@
             "limb",
             "orion"
         ],
+        "rust-ingredients": [
+            "decathorpe"
+        ],
         "rust-ini_core": [
             "@rust-sig",
             "dcavalca"
@@ -142073,11 +142073,19 @@
             "@rust-sig",
             "music"
         ],
+        "rust-reqwest-middleware0.4": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-reqwest-retry": [
             "@rust-sig",
             "music"
         ],
         "rust-reqwest-retry0.7": [
+            "@rust-sig",
+            "music"
+        ],
+        "rust-reqwest-retry0.8": [
             "@rust-sig",
             "music"
         ],
@@ -152985,6 +152993,9 @@
             "spot",
             "tpokorra"
         ],
+        "taglib1": [
+            "yselkowitz"
+        ],
         "tagsoup": [
             "@epel-packagers-sig",
             "java-sig",
@@ -153866,6 +153877,12 @@
         "texlive-collection-basic": [
             "spot"
         ],
+        "texlive-collection-bibtexextra": [
+            "spot"
+        ],
+        "texlive-collection-binextra": [
+            "spot"
+        ],
         "texlive-collection-fontutils": [
             "spot"
         ],
@@ -153875,10 +153892,19 @@
         "texlive-collection-humanities": [
             "spot"
         ],
+        "texlive-collection-langarabic": [
+            "spot"
+        ],
         "texlive-collection-langchinese": [
             "spot"
         ],
+        "texlive-collection-langcyrillic": [
+            "spot"
+        ],
         "texlive-collection-langczechslovak": [
+            "spot"
+        ],
+        "texlive-collection-langenglish": [
             "spot"
         ],
         "texlive-eq-save": [
@@ -155381,10 +155407,10 @@
             "kathenas"
         ],
         "trytond": [
-            "orphan"
+            "kathenas"
         ],
         "trytond-account": [
-            "orphan"
+            "kathenas"
         ],
         "trytond-account-be": [
             "orphan"
@@ -157445,6 +157471,9 @@
         ],
         "vim-trailing-whitespace": [
             "atim"
+        ],
+        "vim-vala": [
+            "fujiwara"
         ],
         "vim-vimoutliner": [
             "orphan",
