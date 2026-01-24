@@ -101389,6 +101389,7 @@
             "orphan"
         ],
         "polkit": [
+            "ghishadow",
             "jrybar",
             "vmihalko"
         ],
@@ -116952,6 +116953,9 @@
         "python-roman": [
             "gui1ty",
             "rebus"
+        ],
+        "python-roman-numerals": [
+            "ksurma"
         ],
         "python-roman-numerals-py": [
             "@python-packagers-sig",
@@ -134290,7 +134294,7 @@
         ],
         "rust-gethostname": [
             "@rust-sig",
-            "atim"
+            "orphan"
         ],
         "rust-gethostname0.2": [
             "@rust-sig",
@@ -137453,6 +137457,9 @@
             "@rust-sig",
             "salimma"
         ],
+        "rust-libbpf-rs0.24": [
+            "decathorpe"
+        ],
         "rust-libbpf-sys": [
             "@rust-sig",
             "dcavalca",
@@ -139003,6 +139010,7 @@
         ],
         "rust-nu": [
             "@rust-sig",
+            "ghishadow",
             "salimma"
         ],
         "rust-nu-ansi-term": [
@@ -142261,7 +142269,7 @@
         ],
         "rust-ron": [
             "@rust-sig",
-            "atim"
+            "orphan"
         ],
         "rust-ron0.6": [
             "orphan"
@@ -142930,19 +142938,23 @@
         ],
         "rust-scx_layered": [
             "@rust-sig",
-            "jordalgo"
+            "jordalgo",
+            "salimma"
         ],
         "rust-scx_rustland": [
             "@rust-sig",
-            "jordalgo"
+            "jordalgo",
+            "salimma"
         ],
         "rust-scx_rusty": [
             "@rust-sig",
-            "jordalgo"
+            "jordalgo",
+            "salimma"
         ],
         "rust-scx_utils": [
             "@rust-sig",
-            "jordalgo"
+            "jordalgo",
+            "salimma"
         ],
         "rust-sd": [
             "@rust-sig",
@@ -143949,11 +143961,13 @@
         ],
         "rust-sscanf": [
             "@rust-sig",
-            "jordalgo"
+            "jordalgo",
+            "salimma"
         ],
         "rust-sscanf_macro": [
             "@rust-sig",
-            "jordalgo"
+            "jordalgo",
+            "salimma"
         ],
         "rust-ssh-cipher": [
             "@rust-sig",
@@ -148571,7 +148585,8 @@
             "chkr"
         ],
         "scx_c_schedulers": [
-            "jordalgo"
+            "jordalgo",
+            "salimma"
         ],
         "scythia": [
             "hguemar",
@@ -153881,6 +153896,12 @@
             "spot"
         ],
         "texlive-collection-binextra": [
+            "spot"
+        ],
+        "texlive-collection-fontsextra": [
+            "spot"
+        ],
+        "texlive-collection-fontsrecommended": [
             "spot"
         ],
         "texlive-collection-fontutils": [
