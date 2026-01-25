@@ -199171,6 +199171,11 @@
             "epel": "spot",
             "fedora": "spot"
         },
+        "texlive-collection-games": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
         "texlive-collection-humanities": {
             "admin": "spot",
             "epel": "spot",
@@ -199186,6 +199191,11 @@
             "epel": "spot",
             "fedora": "spot"
         },
+        "texlive-collection-langcjk": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
         "texlive-collection-langcyrillic": {
             "admin": "spot",
             "epel": "spot",
@@ -199197,6 +199207,16 @@
             "fedora": "spot"
         },
         "texlive-collection-langenglish": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-collection-latex": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-collection-luatex": {
             "admin": "spot",
             "epel": "spot",
             "fedora": "spot"

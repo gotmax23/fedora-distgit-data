@@ -117950,7 +117950,8 @@
         "python-spdx-tools": [
             "@python-packagers-sig",
             "eclipseo",
-            "gotmax23"
+            "gotmax23",
+            "khwarizmi"
         ],
         "python-speaklater": [
             "ondrejj"
@@ -153910,6 +153911,9 @@
         "texlive-collection-formatsextra": [
             "spot"
         ],
+        "texlive-collection-games": [
+            "spot"
+        ],
         "texlive-collection-humanities": [
             "spot"
         ],
@@ -153919,6 +153923,9 @@
         "texlive-collection-langchinese": [
             "spot"
         ],
+        "texlive-collection-langcjk": [
+            "spot"
+        ],
         "texlive-collection-langcyrillic": [
             "spot"
         ],
@@ -153926,6 +153933,12 @@
             "spot"
         ],
         "texlive-collection-langenglish": [
+            "spot"
+        ],
+        "texlive-collection-latex": [
+            "spot"
+        ],
+        "texlive-collection-luatex": [
             "spot"
         ],
         "texlive-eq-save": [
@@ -157672,6 +157685,7 @@
         "vkroots": [
             "frantisekz",
             "ngompa",
+            "slaanesh",
             "thunderbirdtr"
         ],
         "vl-gothic-fonts": [
