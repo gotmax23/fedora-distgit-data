@@ -78166,6 +78166,11 @@
             "epel": "alciregi",
             "fedora": "alciregi"
         },
+        "libultrahdr": {
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
+        },
         "libumberlog": {
             "admin": "orphan",
             "epel": "orphan",
@@ -177285,6 +177290,11 @@
             "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "orphan"
+        },
+        "rust-jid": {
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
         },
         "rust-jieba-rs": {
             "admin": "orphan",
