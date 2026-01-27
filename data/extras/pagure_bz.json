@@ -10650,7 +10650,8 @@
         ],
         "bcftools": [
             "jaruga",
-            "jmarshall"
+            "jmarshall",
+            "ron"
         ],
         "bcg729": [
             "smani"
@@ -11921,6 +11922,9 @@
         ],
         "bst-external": [
             "orphan"
+        ],
+        "bstring": [
+            "kni"
         ],
         "btanks": [
             "orphan"
@@ -43505,7 +43509,6 @@
         ],
         "google-compute-engine-guest-configs": [
             "@cloud-sig",
-            "mhayden",
             "ngompa",
             "siosm"
         ],
@@ -43539,7 +43542,6 @@
         ],
         "google-disk-expand": [
             "@cloud-sig",
-            "mhayden",
             "ngompa",
             "siosm"
         ],
@@ -43563,7 +43565,6 @@
         "google-guest-agent": [
             "@cloud-sig",
             "@go-sig",
-            "mhayden",
             "ngompa"
         ],
         "google-guice": [
@@ -43624,7 +43625,6 @@
         "google-osconfig-agent": [
             "@cloud-sig",
             "@go-sig",
-            "mhayden",
             "ngompa"
         ],
         "google-perftools": [
@@ -46304,7 +46304,8 @@
         ],
         "htslib": [
             "jaruga",
-            "jmarshall"
+            "jmarshall",
+            "ron"
         ],
         "http-builder": [
             "java-sig",
@@ -58838,10 +58839,10 @@
             "huzaifas"
         ],
         "libnsbmp": [
-            "orphan"
+            "alebastr"
         ],
         "libnsgif": [
-            "orphan"
+            "alebastr"
         ],
         "libnsl2": [
             "@db-sig",
@@ -77286,7 +77287,8 @@
             "mtasaka"
         ],
         "oci-cli": [
-            "mhayden"
+            "mhayden",
+            "neil"
         ],
         "oci-kvm-hook": [
             "orphan"
@@ -105966,7 +105968,8 @@
             "jcapitao"
         ],
         "python-circuitbreaker": [
-            "mhayden"
+            "mhayden",
+            "neil"
         ],
         "python-ciso8601": [
             "fab"
@@ -110748,6 +110751,7 @@
         ],
         "python-javaproperties": [
             "@python-packagers-sig",
+            "jcline",
             "mhayden"
         ],
         "python-jaydebeapi": [
@@ -112088,6 +112092,7 @@
         ],
         "python-mercantile": [
             "@python-packagers-sig",
+            "fedepell",
             "qulogic"
         ],
         "python-merge3": [
@@ -113175,7 +113180,8 @@
             "michaelanguskelly"
         ],
         "python-oci": [
-            "mhayden"
+            "mhayden",
+            "neil"
         ],
         "python-octave-kernel": [
             "@python-packagers-sig",
@@ -113429,6 +113435,9 @@
         ],
         "python-opentype-sanitizer": [
             "music"
+        ],
+        "python-opentypesvg": [
+            "fed500"
         ],
         "python-operator-courier": [
             "orphan"
@@ -116958,6 +116967,7 @@
             "rebus"
         ],
         "python-roman-numerals": [
+            "@python-packagers-sig",
             "ksurma"
         ],
         "python-roman-numerals-py": [
@@ -118707,6 +118717,9 @@
         ],
         "python-svg2tikz": [
             "fed500"
+        ],
+        "python-svgelements": [
+            "jskarvad"
         ],
         "python-svgwrite": [
             "jujens",
@@ -120779,6 +120792,7 @@
         ],
         "python-xyzservices": [
             "@python-packagers-sig",
+            "fedepell",
             "qulogic"
         ],
         "python-y-py": [
@@ -124657,6 +124671,7 @@
             "petersen"
         ],
         "rhc": [
+            "@go-sig",
             "mhorky"
         ],
         "rhdb-utils": [
@@ -132178,6 +132193,7 @@
             "music"
         ],
         "rust-daemonix": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-daemonize": [
@@ -136566,6 +136582,7 @@
             "orion"
         ],
         "rust-ingredients": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-ini_core": [
@@ -137466,6 +137483,7 @@
             "salimma"
         ],
         "rust-libbpf-rs0.24": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-libbpf-sys": [
@@ -147255,6 +147273,9 @@
             "@rust-sig",
             "salimma"
         ],
+        "rust-wycheproof": [
+            "jjelen"
+        ],
         "rust-wyz": [
             "@rust-sig",
             "decathorpe"
@@ -147974,6 +147995,7 @@
         "samtools": [
             "jaruga",
             "jmarshall",
+            "ron",
             "verdurin"
         ],
         "samurai": [
@@ -153906,6 +153928,9 @@
         "texlive-collection-binextra": [
             "spot"
         ],
+        "texlive-collection-context": [
+            "spot"
+        ],
         "texlive-collection-fontsextra": [
             "spot"
         ],
@@ -153942,7 +153967,16 @@
         "texlive-collection-langenglish": [
             "spot"
         ],
+        "texlive-collection-langeuropean": [
+            "spot"
+        ],
+        "texlive-collection-langfrench": [
+            "spot"
+        ],
         "texlive-collection-latex": [
+            "spot"
+        ],
+        "texlive-collection-latexrecommended": [
             "spot"
         ],
         "texlive-collection-luatex": [
@@ -156957,6 +156991,9 @@
             "jcheca",
             "mcermak",
             "mjw"
+        ],
+        "vali": [
+            "alebastr"
         ],
         "validator-htmlparser": [
             "java-sig",
@@ -162569,7 +162606,9 @@
             "pgreco"
         ],
         "zram-generator": [
-            "orphan"
+            "@rust-sig",
+            "decathorpe",
+            "zbyszek"
         ],
         "zsh": [
             "dmaphy",
