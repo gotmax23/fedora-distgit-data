@@ -54611,6 +54611,7 @@
             "than"
         ],
         "kshutdown": [
+            "@kde-sig",
             "jgrulich"
         ],
         "ksig": [
@@ -56782,6 +56783,7 @@
             "ignatenkobrain",
             "jexposit",
             "mpenttil",
+            "oneace",
             "rstrode"
         ],
         "libdrm-armada": [
@@ -64830,6 +64832,7 @@
             "kathenas",
             "lyude",
             "mpenttil",
+            "oneace",
             "rstrode",
             "tibbs",
             "tstellar"
@@ -76474,6 +76477,9 @@
         "obs-studio-plugin-droidcam": [
             "dogphilosopher"
         ],
+        "obs-studio-plugin-pwvideo": [
+            "hoshinolina"
+        ],
         "obs-studio-plugin-vaapi": [
             "luk1337"
         ],
@@ -83634,6 +83640,10 @@
         "perl-Dancer2-Plugin-Database": [
             "eseyman"
         ],
+        "perl-Dancer2-Plugin-LogReport": [
+            "@perl-maint-sig",
+            "ppisar"
+        ],
         "perl-Dancer2-Plugin-REST": [
             "eseyman",
             "perl-sig"
@@ -87973,6 +87983,10 @@
         ],
         "perl-Log-Report-Optional": [
             "perl-sig",
+            "ppisar"
+        ],
+        "perl-Log-Report-Template": [
+            "@perl-maint-sig",
             "ppisar"
         ],
         "perl-Log-Trace": [
@@ -114551,6 +114565,9 @@
             "ignatenkobrain",
             "jonathanspw"
         ],
+        "python-pskc": [
+            "gbcox"
+        ],
         "python-psphere": [
             "clalance",
             "orphan"
@@ -118484,6 +118501,9 @@
         ],
         "python-ssdp": [
             "orphan"
+        ],
+        "python-sse-starlette": [
+            "r0x0d"
         ],
         "python-sseclient": [
             "orphan"
@@ -131300,6 +131320,9 @@
         "rust-cmd_lib_macros": [
             "@rust-sig",
             "dcavalca"
+        ],
+        "rust-cms": [
+            "kraxel"
         ],
         "rust-cobs": [
             "@rust-sig",
@@ -146672,6 +146695,9 @@
         "rust-v_frame": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-v_frame0.3": [
+            "music"
         ],
         "rust-v_htmlescape": [
             "@rust-sig",

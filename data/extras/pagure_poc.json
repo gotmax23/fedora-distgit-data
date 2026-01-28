@@ -100431,6 +100431,11 @@
             "epel": "dogphilosopher",
             "fedora": "dogphilosopher"
         },
+        "obs-studio-plugin-pwvideo": {
+            "admin": "hoshinolina",
+            "epel": "hoshinolina",
+            "fedora": "hoshinolina"
+        },
         "obs-studio-plugin-vaapi": {
             "admin": "luk1337",
             "epel": "luk1337",
@@ -109236,6 +109241,11 @@
             "epel": "eseyman",
             "fedora": "eseyman"
         },
+        "perl-Dancer2-Plugin-LogReport": {
+            "admin": "ppisar",
+            "epel": "ppisar",
+            "fedora": "ppisar"
+        },
         "perl-Dancer2-Plugin-REST": {
             "admin": "eseyman",
             "epel": "eseyman",
@@ -113972,6 +113982,11 @@
             "fedora": "ppisar"
         },
         "perl-Log-Report-Optional": {
+            "admin": "ppisar",
+            "epel": "ppisar",
+            "fedora": "ppisar"
+        },
+        "perl-Log-Report-Template": {
             "admin": "ppisar",
             "epel": "ppisar",
             "fedora": "ppisar"
@@ -148161,6 +148176,11 @@
             "epel": "orphan",
             "fedora": "jonathanspw"
         },
+        "python-pskc": {
+            "admin": "gbcox",
+            "epel": "gbcox",
+            "fedora": "gbcox"
+        },
         "python-psphere": {
             "admin": "orphan",
             "epel": "orphan",
@@ -153200,6 +153220,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "python-sse-starlette": {
+            "admin": "r0x0d",
+            "epel": "r0x0d",
+            "fedora": "r0x0d"
         },
         "python-sseclient": {
             "admin": "orphan",
@@ -170180,6 +170205,11 @@
             "admin": "dcavalca",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-cms": {
+            "admin": "kraxel",
+            "epel": "kraxel",
+            "fedora": "kraxel"
         },
         "rust-cobs": {
             "admin": "music",
@@ -189575,6 +189605,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-v_frame0.3": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-v_htmlescape": {
             "admin": "salimma",
