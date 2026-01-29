@@ -3931,6 +3931,7 @@
         ],
         "DirectX-Headers": [
             "jcline",
+            "jexposit",
             "kwizart"
         ],
         "DisplayCAL": [
@@ -11405,7 +11406,7 @@
         "blueprint-compiler": [
             "0xmrtt",
             "@gnome-sig",
-            "orphan"
+            "limb"
         ],
         "blueproximity": [
             "orphan"
@@ -19726,7 +19727,8 @@
             "pbrobinson"
         ],
         "dtach": [
-            "lon"
+            "lon",
+            "mjg"
         ],
         "dtc": [
             "bonzini",
@@ -31235,6 +31237,7 @@
             "ivaxer",
             "jonathanspw",
             "kkeithle",
+            "rcallicotte",
             "stevetraylen"
         ],
         "glogg": [
@@ -48412,6 +48415,9 @@
             "chkr",
             "orphan",
             "salimma"
+        ],
+        "ipp-usb": [
+            "zdohnal"
         ],
         "ipplan": [
             "orphan"
@@ -116926,6 +116932,9 @@
         "python-rich-click": [
             "ksurma"
         ],
+        "python-rich-rst": [
+            "samdoran"
+        ],
         "python-rich-toolkit": [
             "music"
         ],
@@ -146697,6 +146706,7 @@
             "decathorpe"
         ],
         "rust-v_frame0.3": [
+            "@rust-sig",
             "music"
         ],
         "rust-v_htmlescape": [

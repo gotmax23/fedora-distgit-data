@@ -14577,9 +14577,9 @@
             "fedora": "orphan"
         },
         "blueprint-compiler": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "blueproximity": {
             "admin": "orphan",
@@ -19713,7 +19713,7 @@
         },
         "corectrl": {
             "admin": "atim",
-            "epel": "atim",
+            "epel": "orphan",
             "fedora": "atim"
         },
         "coredumper": {
@@ -25457,9 +25457,9 @@
             "fedora": "pbrobinson"
         },
         "dtach": {
-            "admin": "lon",
-            "epel": "lon",
-            "fedora": "lon"
+            "admin": "mjg",
+            "epel": "mjg",
+            "fedora": "mjg"
         },
         "dtc": {
             "admin": "pbrobinson",
@@ -63121,6 +63121,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "ipp-usb": {
+            "admin": "zdohnal",
+            "epel": "zdohnal",
+            "fedora": "zdohnal"
+        },
         "ipplan": {
             "admin": "orphan",
             "epel": "orphan",
@@ -67203,7 +67208,7 @@
         },
         "kakoune": {
             "admin": "atim",
-            "epel": "atim",
+            "epel": "orphan",
             "fedora": "atim"
         },
         "kalamine": {
@@ -68223,7 +68228,7 @@
         },
         "kdiskmark": {
             "admin": "atim",
-            "epel": "atim",
+            "epel": "orphan",
             "fedora": "atim"
         },
         "kdissert": {
@@ -151221,6 +151226,11 @@
             "epel": "ksurma",
             "fedora": "ksurma"
         },
+        "python-rich-rst": {
+            "admin": "samdoran",
+            "epel": "samdoran",
+            "fedora": "samdoran"
+        },
         "python-rich-toolkit": {
             "admin": "music",
             "epel": "music",
@@ -158878,7 +158888,7 @@
         },
         "qownnotes": {
             "admin": "atim",
-            "epel": "atim",
+            "epel": "orphan",
             "fedora": "atim"
         },
         "qpackagekit": {
@@ -161768,7 +161778,7 @@
         },
         "rnnoise": {
             "admin": "atim",
-            "epel": "atim",
+            "epel": "orphan",
             "fedora": "atim"
         },
         "rnp": {
@@ -204568,7 +204578,7 @@
         },
         "vokoscreenNG": {
             "admin": "atim",
-            "epel": "atim",
+            "epel": "orphan",
             "fedora": "atim"
         },
         "volk": {
@@ -209813,7 +209823,7 @@
         },
         "yacreader": {
             "admin": "atim",
-            "epel": "atim",
+            "epel": "orphan",
             "fedora": "atim"
         },
         "yad": {
