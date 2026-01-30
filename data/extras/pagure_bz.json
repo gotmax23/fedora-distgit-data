@@ -6858,7 +6858,7 @@
             "zdohnal"
         ],
         "a52dec": [
-            "kwizart"
+            "rathann"
         ],
         "aactivator": [
             "fschwarz"
@@ -11739,7 +11739,8 @@
             "topazus"
         ],
         "boxes": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "boxfort": [
             "topazus"
@@ -11998,7 +11999,8 @@
         "btrfsmaintenance": [
             "@btrfs-sig",
             "atim",
-            "ngompa"
+            "ngompa",
+            "orphan"
         ],
         "bubblemail": [
             "alexpl",
@@ -13855,6 +13857,9 @@
             "pbrobinson",
             "scorreia"
         ],
+        "clevis-pin-trustee": [
+            "sarroutb"
+        ],
         "clex": [
             "orphan"
         ],
@@ -15371,7 +15376,8 @@
             "decathorpe"
         ],
         "corsix-th": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "cortado": [
             "jwrdegoede"
@@ -15674,7 +15680,8 @@
         ],
         "cpu-x": [
             "atim",
-            "martinkg"
+            "martinkg",
+            "orphan"
         ],
         "cpufetch": [
             "alciregi",
@@ -15988,7 +15995,8 @@
         ],
         "crow-translate": [
             "@kde-sig",
-            "atim"
+            "atim",
+            "orphan"
         ],
         "crrcsim": [
             "dwrobel"
@@ -20043,7 +20051,8 @@
             "orphan"
         ],
         "dynamic-wallpaper-editor": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "dynamite": [
             "jwrdegoede"
@@ -21698,6 +21707,7 @@
             "orphan"
         ],
         "epstool": [
+            "fedepell",
             "jussilehtola",
             "trix"
         ],
@@ -24595,7 +24605,8 @@
             "leigh123linux"
         ],
         "foliate": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "folio": [
             "vtrefny"
@@ -30509,7 +30520,8 @@
             "orphan"
         ],
         "gitqlient": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "gitso": [
             "orphan"
@@ -31600,6 +31612,7 @@
         "gnome-applets": [
             "atim",
             "muktupavels",
+            "orphan",
             "rstrode",
             "yselkowitz"
         ],
@@ -31643,7 +31656,8 @@
             "teuf"
         ],
         "gnome-break-timer": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "gnome-browser-connector": [
             "kalev",
@@ -31803,11 +31817,13 @@
             "mclasen"
         ],
         "gnome-firmware": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "gnome-flashback": [
             "atim",
             "muktupavels",
+            "orphan",
             "yselkowitz"
         ],
         "gnome-font-viewer": [
@@ -32010,6 +32026,7 @@
         "gnome-panel": [
             "atim",
             "muktupavels",
+            "orphan",
             "rstrode",
             "yselkowitz"
         ],
@@ -43737,7 +43754,8 @@
             "orphan"
         ],
         "goverlay": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "gp2c": [
             "jjames",
@@ -44470,7 +44488,8 @@
             "simo"
         ],
         "gst": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "gst-devtools": [
             "limb"
@@ -44714,7 +44733,8 @@
         ],
         "gtk-layer-shell": [
             "@epel-packagers-sig",
-            "atim"
+            "atim",
+            "orphan"
         ],
         "gtk-murrine-engine": [
             "@epel-packagers-sig",
@@ -44818,7 +44838,8 @@
         ],
         "gtk4-layer-shell": [
             "atim",
-            "erikreider"
+            "erikreider",
+            "orphan"
         ],
         "gtkd": [
             "cicku",
@@ -45266,7 +45287,8 @@
             "orphan"
         ],
         "gwe": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "gwebsockets": [
             "chimosky"
@@ -45304,7 +45326,8 @@
             "xavierb"
         ],
         "gxkb": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "gxmessage": [
             "orphan"
@@ -48234,7 +48257,8 @@
             "aekoroglu"
         ],
         "intel-undervolt": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "intel-vpl-gpu-rt": [
             "aekoroglu",
@@ -51545,7 +51569,8 @@
         ],
         "kakoune": [
             "atim",
-            "jkonecny"
+            "jkonecny",
+            "orphan"
         ],
         "kalamine": [
             "carlwgeorge"
@@ -52334,6 +52359,7 @@
         ],
         "kdiskmark": [
             "atim",
+            "orphan",
             "zawertun"
         ],
         "kdissert": [
@@ -56643,7 +56669,6 @@
         ],
         "libdca": [
             "@multimedia-sig",
-            "kwizart",
             "ngompa",
             "rathann"
         ],
@@ -57300,6 +57325,9 @@
             "@gnome-sig",
             "kalev",
             "rathann"
+        ],
+        "libgexiv2_0.14": [
+            "xhorak"
         ],
         "libggz": [
             "orphan"
@@ -60421,7 +60449,8 @@
             "orphan"
         ],
         "libunarr": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "libunibreak": [
             "gui1ty"
@@ -65170,7 +65199,7 @@
             "farchord"
         ],
         "mimic": [
-            "pbrobinson"
+            "orphan"
         ],
         "min-cloud-agent": [
             "orphan"
@@ -86905,7 +86934,6 @@
         ],
         "perl-IO-Async": [
             "eseyman",
-            "kwizart",
             "perl-sig"
         ],
         "perl-IO-Async-Loop-Mojo": [
@@ -101460,7 +101488,8 @@
             "cottsay"
         ],
         "polybar": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "polybori": [
             "orphan"
@@ -104052,6 +104081,7 @@
             "jonathanspw"
         ],
         "python-aiostream": [
+            "@python-packagers-sig",
             "astra",
             "salimma"
         ],
@@ -110207,6 +110237,10 @@
         "python-httpx-socks": [
             "ankursinha"
         ],
+        "python-httpx-sse": [
+            "@rhel-lightspeed",
+            "r0x0d"
+        ],
         "python-huami-token": [
             "rathann"
         ],
@@ -112472,7 +112506,7 @@
             "zbyszek"
         ],
         "python-mrcfile": [
-            "semeijn"
+            "orphan"
         ],
         "python-mrcrowbar": [
             "orphan"
@@ -112587,7 +112621,7 @@
         ],
         "python-murano-pkg-check": [
             "@openstack-sig",
-            "jpena"
+            "orphan"
         ],
         "python-muranoclient": [
             "orphan"
@@ -113743,7 +113777,7 @@
             "sergiopr"
         ],
         "python-pandas-flavor": [
-            "orphan"
+            "pbrobinson"
         ],
         "python-pandocfilters": [
             "@python-packagers-sig",
@@ -118512,6 +118546,7 @@
             "orphan"
         ],
         "python-sse-starlette": [
+            "@rhel-lightspeed",
             "r0x0d"
         ],
         "python-sseclient": [
@@ -122599,7 +122634,8 @@
             "than"
         ],
         "qimgv": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "qiv": [
             "sham1"
@@ -125076,6 +125112,10 @@
             "mystro256"
         ],
         "rocm-origami": [
+            "@rocm-packagers-sig",
+            "trix"
+        ],
+        "rocm-rdc": [
             "@rocm-packagers-sig",
             "trix"
         ],
@@ -150825,7 +150865,8 @@
             "orphan"
         ],
         "speedtest": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "speedtest-cli": [
             "besser82",
@@ -151102,7 +151143,8 @@
         "springlobby": [
             "abompard",
             "atim",
-            "gilboa"
+            "gilboa",
+            "orphan"
         ],
         "sprout": [
             "ngompa"
@@ -153088,7 +153130,8 @@
             "dmaphy"
         ],
         "taigo": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "tailor": [
             "orphan"
@@ -154009,7 +154052,13 @@
         "texlive-collection-langfrench": [
             "spot"
         ],
+        "texlive-collection-langgerman": [
+            "spot"
+        ],
         "texlive-collection-latex": [
+            "spot"
+        ],
+        "texlive-collection-latexextra": [
             "spot"
         ],
         "texlive-collection-latexrecommended": [
@@ -156293,6 +156342,7 @@
         ],
         "ulauncher": [
             "atim",
+            "orphan",
             "troycurtisjr"
         ],
         "ulogd": [
@@ -157518,7 +157568,8 @@
             "frostyx"
         ],
         "vim-gitgutter": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "vim-go": [
             "jchaloup",
@@ -157529,7 +157580,8 @@
             "fujiwara"
         ],
         "vim-gv": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "vim-javabrowser": [
             "phracek"
@@ -157561,7 +157613,8 @@
             "marcdeop"
         ],
         "vim-pathogen": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "vim-perl-support": [
             "dmaphy",
@@ -157584,7 +157637,8 @@
             "orphan"
         ],
         "vim-trailing-whitespace": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "vim-vala": [
             "fujiwara"
@@ -158232,10 +158286,12 @@
             "aleasto"
         ],
         "wayfire": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "wayfire-config-manager": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "wayland": [
             "ajax",
@@ -158515,14 +158571,16 @@
             "terjeros"
         ],
         "wf-config": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "wf-recorder": [
             "ngompa",
             "wef"
         ],
         "wf-shell": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "wfmath": [
             "orphan",
@@ -158752,7 +158810,8 @@
             "mooninite"
         ],
         "wineglass": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "winetricks": [
             "vtrefny"
@@ -161808,7 +161867,8 @@
             "orphan"
         ],
         "yacreader": [
-            "atim"
+            "atim",
+            "orphan"
         ],
         "yad": [
             "buc"
