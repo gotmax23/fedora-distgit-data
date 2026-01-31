@@ -13858,7 +13858,8 @@
             "scorreia"
         ],
         "clevis-pin-trustee": [
-            "sarroutb"
+            "sarroutb",
+            "scorreia"
         ],
         "clex": [
             "orphan"
@@ -32250,6 +32251,9 @@
         "gnome-shell-extension-just-perfection": [
             "carlwgeorge"
         ],
+        "gnome-shell-extension-kimpanel": [
+            "mochaa"
+        ],
         "gnome-shell-extension-material-shell": [
             "orphan"
         ],
@@ -46088,6 +46092,7 @@
             "ctria",
             "jeffreyness",
             "soulen",
+            "sumitgarg",
             "survient"
         ],
         "home-assistant-cli": [
@@ -61641,6 +61646,9 @@
             "@fedora-llvm-team",
             "tstellar"
         ],
+        "llvm21": [
+            "releng-bot"
+        ],
         "llvm3.7": [
             "orphan"
         ],
@@ -77021,6 +77029,9 @@
         ],
         "ocaml-ppx-base": [
             "defolos",
+            "jjames"
+        ],
+        "ocaml-ppx-bench": [
             "jjames"
         ],
         "ocaml-ppx-cold": [
@@ -114725,6 +114736,7 @@
             "orphan"
         ],
         "python-py-key-value": [
+            "@rhel-lightspeed",
             "carlwgeorge"
         ],
         "python-py-tes": [
@@ -115215,6 +115227,9 @@
         ],
         "python-pyiqvia": [
             "orphan"
+        ],
+        "python-pyjson5": [
+            "limb"
         ],
         "python-pyjwkest": [
             "frostyx",
@@ -156342,7 +156357,6 @@
         ],
         "ulauncher": [
             "atim",
-            "orphan",
             "troycurtisjr"
         ],
         "ulogd": [

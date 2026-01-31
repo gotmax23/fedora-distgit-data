@@ -41831,6 +41831,11 @@
             "epel": "carlwgeorge",
             "fedora": "carlwgeorge"
         },
+        "gnome-shell-extension-kimpanel": {
+            "admin": "mochaa",
+            "epel": "mochaa",
+            "fedora": "mochaa"
+        },
         "gnome-shell-extension-material-shell": {
             "admin": "orphan",
             "epel": "orphan",
@@ -79641,6 +79646,11 @@
             "epel": "tstellar",
             "fedora": "tstellar"
         },
+        "llvm21": {
+            "admin": "releng-bot",
+            "epel": "releng-bot",
+            "fedora": "releng-bot"
+        },
         "llvm3.7": {
             "admin": "orphan",
             "epel": "orphan",
@@ -101167,6 +101177,11 @@
             "fedora": "jjames"
         },
         "ocaml-ppx-base": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
+        "ocaml-ppx-bench": {
             "admin": "jjames",
             "epel": "jjames",
             "fedora": "jjames"
@@ -149001,6 +149016,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-pyjson5": {
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
+        },
         "python-pyjwkest": {
             "admin": "lcrpkking",
             "epel": "lcrpkking",
@@ -171269,7 +171289,7 @@
         "rust-cursive-macros": {
             "admin": "xanderlent",
             "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "fedora": "xanderlent"
         },
         "rust-cursive-tabs": {
             "admin": "dcavalca",
@@ -172719,7 +172739,7 @@
         "rust-esaxx-rs": {
             "admin": "xanderlent",
             "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "fedora": "xanderlent"
         },
         "rust-escape8259": {
             "admin": "principis",
@@ -176159,7 +176179,7 @@
         "rust-hf-hub": {
             "admin": "xanderlent",
             "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "fedora": "xanderlent"
         },
         "rust-hickory-client": {
             "admin": "decathorpe",
@@ -176794,12 +176814,12 @@
         "rust-include_dir": {
             "admin": "xanderlent",
             "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "fedora": "xanderlent"
         },
         "rust-include_dir_macros": {
             "admin": "xanderlent",
             "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "fedora": "xanderlent"
         },
         "rust-indent_write": {
             "admin": "salimma",
@@ -178854,12 +178874,12 @@
         "rust-macro_rules_attribute": {
             "admin": "xanderlent",
             "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "fedora": "xanderlent"
         },
         "rust-macro_rules_attribute-proc_macro": {
             "admin": "xanderlent",
             "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "fedora": "xanderlent"
         },
         "rust-macroquad_macro": {
             "admin": "orphan",
@@ -179419,12 +179439,12 @@
         "rust-monostate": {
             "admin": "xanderlent",
             "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "fedora": "xanderlent"
         },
         "rust-monostate-impl": {
             "admin": "xanderlent",
             "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "fedora": "xanderlent"
         },
         "rust-more-asserts": {
             "admin": "orphan",
@@ -180219,7 +180239,7 @@
         "rust-numpy": {
             "admin": "xanderlent",
             "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "fedora": "xanderlent"
         },
         "rust-numtoa": {
             "admin": "decathorpe",
@@ -183469,7 +183489,7 @@
         "rust-rayon-cond": {
             "admin": "xanderlent",
             "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "fedora": "xanderlent"
         },
         "rust-rayon-core": {
             "admin": "decathorpe",
@@ -186154,7 +186174,7 @@
         "rust-spm_precompiled": {
             "admin": "xanderlent",
             "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "fedora": "xanderlent"
         },
         "rust-spmc": {
             "admin": "orphan",
@@ -187499,7 +187519,7 @@
         "rust-tokenizers": {
             "admin": "xanderlent",
             "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "fedora": "xanderlent"
         },
         "rust-tokio": {
             "admin": "decathorpe",
@@ -188919,7 +188939,7 @@
         "rust-unicode-normalization-alignments": {
             "admin": "xanderlent",
             "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "fedora": "xanderlent"
         },
         "rust-unicode-properties": {
             "admin": "lecris",
@@ -202462,9 +202482,9 @@
             "fedora": "wart"
         },
         "ulauncher": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "troycurtisjr",
+            "epel": "troycurtisjr",
+            "fedora": "troycurtisjr"
         },
         "ulogd": {
             "admin": "warthog9",
