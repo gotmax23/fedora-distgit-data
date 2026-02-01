@@ -18722,6 +18722,7 @@
             "vakwetu"
         ],
         "dogtail": [
+            "dreua",
             "jreznik",
             "vhumpa"
         ],
@@ -61647,7 +61648,7 @@
             "tstellar"
         ],
         "llvm21": [
-            "releng-bot"
+            "tuliom"
         ],
         "llvm3.7": [
             "orphan"
@@ -118410,8 +118411,7 @@
             "orphan"
         ],
         "python-sphinxemoji": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "python-sphinxext-opengraph": [
             "zawertun"
@@ -122650,7 +122650,7 @@
         ],
         "qimgv": [
             "atim",
-            "orphan"
+            "topazus"
         ],
         "qiv": [
             "sham1"
@@ -137552,6 +137552,9 @@
         "rust-libbpf-cargo0.23": [
             "@rust-sig",
             "salimma"
+        ],
+        "rust-libbpf-cargo0.24": [
+            "decathorpe"
         ],
         "rust-libbpf-rs": [
             "@rust-sig",

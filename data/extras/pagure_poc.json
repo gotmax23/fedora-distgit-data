@@ -79647,9 +79647,9 @@
             "fedora": "tstellar"
         },
         "llvm21": {
-            "admin": "releng-bot",
-            "epel": "releng-bot",
-            "fedora": "releng-bot"
+            "admin": "tuliom",
+            "epel": "tuliom",
+            "fedora": "tuliom"
         },
         "llvm3.7": {
             "admin": "orphan",
@@ -153052,9 +153052,9 @@
             "fedora": "orphan"
         },
         "python-sphinxemoji": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-sphinxext-opengraph": {
             "admin": "zawertun",
@@ -158737,9 +158737,9 @@
             "fedora": "kkofler"
         },
         "qimgv": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
         },
         "qiv": {
             "admin": "sham1",
@@ -177985,6 +177985,11 @@
             "admin": "salimma",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-libbpf-cargo0.24": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-libbpf-rs": {
             "admin": "dcavalca",
