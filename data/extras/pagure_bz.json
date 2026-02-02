@@ -38298,7 +38298,7 @@
             "zsun"
         ],
         "golang-github-linuxdeepin-gir": [
-            "topazus"
+            "orphan"
         ],
         "golang-github-linuxdeepin-go-x11-client": [
             "@deepinde-sig",
@@ -56535,6 +56535,9 @@
         ],
         "libcprops": [
             "orphan"
+        ],
+        "libcpucycles": [
+            "gsauthof"
         ],
         "libcpuid": [
             "martinkg",
@@ -108655,6 +108658,7 @@
         "python-fisx": [
             "@neuro-sig",
             "@python-packagers-sig",
+            "fedepell",
             "zbyszek"
         ],
         "python-fitdecode": [
@@ -114744,6 +114748,9 @@
             "@neuro-sig",
             "music"
         ],
+        "python-py-walk": [
+            "limb"
+        ],
         "python-py27hash": [
             "orphan"
         ],
@@ -118411,7 +118418,7 @@
             "orphan"
         ],
         "python-sphinxemoji": [
-            "orphan"
+            "dreua"
         ],
         "python-sphinxext-opengraph": [
             "zawertun"

@@ -49797,9 +49797,9 @@
             "fedora": "@deepinde-sig"
         },
         "golang-github-linuxdeepin-gir": {
-            "admin": "topazus",
-            "epel": "topazus",
-            "fedora": "topazus"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-linuxdeepin-go-x11-client": {
             "admin": "zsun",
@@ -73190,6 +73190,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "libcpucycles": {
+            "admin": "gsauthof",
+            "epel": "gsauthof",
+            "fedora": "gsauthof"
         },
         "libcpuid": {
             "admin": "martinkg",
@@ -148366,6 +148371,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "python-py-walk": {
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
+        },
         "python-py27hash": {
             "admin": "orphan",
             "epel": "orphan",
@@ -153052,9 +153062,9 @@
             "fedora": "orphan"
         },
         "python-sphinxemoji": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "dreua",
+            "epel": "dreua",
+            "fedora": "dreua"
         },
         "python-sphinxext-opengraph": {
             "admin": "zawertun",
