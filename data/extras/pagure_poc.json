@@ -58871,6 +58871,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "gweather-locations": {
+            "admin": "xhorak",
+            "epel": "xhorak",
+            "fedora": "xhorak"
+        },
         "gwebsockets": {
             "admin": "chimosky",
             "epel": "chimosky",
@@ -90370,6 +90375,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "net-naming-sysattrs": {
+            "admin": "michich",
+            "epel": "michich",
+            "fedora": "michich"
         },
         "net-snmp": {
             "admin": "jridky",
@@ -147442,9 +147452,9 @@
             "fedora": "sergiopr"
         },
         "python-pdir2": {
-            "admin": "supakeen",
-            "epel": "supakeen",
-            "fedora": "supakeen"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pdm-backend": {
             "admin": "lbalhar",
@@ -151105,6 +151115,11 @@
             "admin": "lslebodn",
             "epel": "lslebodn",
             "fedora": "lslebodn"
+        },
+        "python-requests-ratelimiter": {
+            "admin": "gbcox",
+            "epel": "gbcox",
+            "fedora": "gbcox"
         },
         "python-requests-toolbelt": {
             "admin": "pnemade",
@@ -155592,9 +155607,9 @@
             "fedora": "kushal"
         },
         "python-wand": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
         },
         "python-waqiasync": {
             "admin": "orphan",

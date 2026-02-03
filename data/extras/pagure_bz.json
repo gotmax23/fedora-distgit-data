@@ -16806,6 +16806,7 @@
         ],
         "dbus-broker": [
             "dvdhrm",
+            "lnykryn",
             "yaneti"
         ],
         "dbus-c++": [
@@ -45295,6 +45296,9 @@
             "atim",
             "orphan"
         ],
+        "gweather-locations": [
+            "xhorak"
+        ],
         "gwebsockets": [
             "chimosky"
         ],
@@ -48447,6 +48451,7 @@
             "salimma"
         ],
         "ipp-usb": [
+            "@go-sig",
             "zdohnal"
         ],
         "ipplan": [
@@ -57003,7 +57008,8 @@
             "lkundrak"
         ],
         "libetonyek": [
-            "dtardon"
+            "dtardon",
+            "limb"
         ],
         "libetpan": [
             "mtasaka",
@@ -60690,7 +60696,8 @@
             "lnie"
         ],
         "libvisio": [
-            "dtardon"
+            "dtardon",
+            "limb"
         ],
         "libvisual": [
             "@multimedia-sig",
@@ -61651,6 +61658,7 @@
             "tstellar"
         ],
         "llvm21": [
+            "@fedora-llvm-team",
             "tuliom"
         ],
         "llvm3.7": [
@@ -69720,6 +69728,9 @@
         ],
         "nested": [
             "orphan"
+        ],
+        "net-naming-sysattrs": [
+            "michich"
         ],
         "net-snmp": [
             "jridky",
@@ -79229,6 +79240,7 @@
             "twaugh"
         ],
         "osbuild": [
+            "@go-sig",
             "@osbuild-sig",
             "akoutsou",
             "obudai",
@@ -114021,7 +114033,7 @@
         ],
         "python-pdir2": [
             "@python-packagers-sig",
-            "supakeen"
+            "orphan"
         ],
         "python-pdm-backend": [
             "@python-packagers-sig",
@@ -116853,6 +116865,9 @@
         ],
         "python-requests-pkcs12": [
             "lslebodn"
+        ],
+        "python-requests-ratelimiter": [
+            "gbcox"
         ],
         "python-requests-toolbelt": [
             "ignatenkobrain",
@@ -120367,7 +120382,7 @@
             "kushal"
         ],
         "python-wand": [
-            "orphan"
+            "fed500"
         ],
         "python-waqiasync": [
             "orphan"
@@ -131393,6 +131408,7 @@
             "dcavalca"
         ],
         "rust-cms": [
+            "@rust-sig",
             "kraxel"
         ],
         "rust-cobs": [
@@ -137561,6 +137577,7 @@
             "salimma"
         ],
         "rust-libbpf-cargo0.24": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-libbpf-rs": [
@@ -147375,6 +147392,7 @@
             "salimma"
         ],
         "rust-wycheproof": [
+            "@rust-sig",
             "jjelen"
         ],
         "rust-wyz": [
