@@ -79417,9 +79417,9 @@
             "fedora": "orphan"
         },
         "lis": {
-            "admin": "flo",
-            "epel": "flo",
-            "fedora": "flo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "listen": {
             "admin": "orphan",
@@ -140296,6 +140296,11 @@
             "epel": "terjeros",
             "fedora": "terjeros"
         },
+        "python-exiv2": {
+            "admin": "ankursinha",
+            "epel": "ankursinha",
+            "fedora": "ankursinha"
+        },
         "python-exoscale": {
             "admin": "rominf",
             "epel": "rominf",
@@ -144970,6 +144975,11 @@
             "admin": "limb",
             "epel": "trix",
             "fedora": "limb"
+        },
+        "python-mcp": {
+            "admin": "r0x0d",
+            "epel": "r0x0d",
+            "fedora": "r0x0d"
         },
         "python-mdit-py-plugins": {
             "admin": "ksurma",
@@ -154732,9 +154742,9 @@
             "fedora": "spot"
         },
         "python-twomemo": {
-            "admin": "orphan",
+            "admin": "fed500",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "fed500"
         },
         "python-twyt": {
             "admin": "orphan",
@@ -159947,9 +159957,9 @@
             "fedora": "mymindstorm"
         },
         "quazip": {
-            "admin": "kwizart",
-            "epel": "kwizart",
-            "fedora": "kwizart"
+            "admin": "smani",
+            "epel": "smani",
+            "fedora": "smani"
         },
         "quazip-qt5": {
             "admin": "sharkcz",
@@ -168430,6 +168440,11 @@
             "admin": "elmarco",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-authenticode": {
+            "admin": "kraxel",
+            "epel": "kraxel",
+            "fedora": "kraxel"
         },
         "rust-auto_enums": {
             "admin": "lecris",
@@ -205137,14 +205152,14 @@
             "fedora": "aleasto"
         },
         "wayfire": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "wayfire-config-manager": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "wayland": {
             "admin": "ajax",
@@ -205497,9 +205512,9 @@
             "fedora": "terjeros"
         },
         "wf-config": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "wf-recorder": {
             "admin": "ngompa",
@@ -205507,9 +205522,9 @@
             "fedora": "ngompa"
         },
         "wf-shell": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "wfmath": {
             "admin": "orphan",

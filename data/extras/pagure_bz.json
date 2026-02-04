@@ -48473,7 +48473,6 @@
         ],
         "ipset": [
             "erig0",
-            "kwizart",
             "psutter",
             "thaller"
         ],
@@ -61433,7 +61432,7 @@
             "orphan"
         ],
         "lis": [
-            "flo"
+            "orphan"
         ],
         "listen": [
             "orphan"
@@ -108404,6 +108403,9 @@
         "python-exif": [
             "terjeros"
         ],
+        "python-exiv2": [
+            "ankursinha"
+        ],
         "python-exoscale": [
             "orange-kao",
             "pwouters",
@@ -111717,6 +111719,7 @@
             "jruzicka"
         ],
         "python-lmfit": [
+            "@python-packagers-sig",
             "topazus"
         ],
         "python-lmiwbem": [
@@ -112099,6 +112102,10 @@
             "@python-packagers-sig",
             "limb",
             "trix"
+        ],
+        "python-mcp": [
+            "@rhel-lightspeed",
+            "r0x0d"
         ],
         "python-mdit-py-plugins": [
             "@python-packagers-sig",
@@ -119685,7 +119692,7 @@
             "spot"
         ],
         "python-twomemo": [
-            "orphan"
+            "fed500"
         ],
         "python-twyt": [
             "maxamillion",
@@ -123616,7 +123623,8 @@
         ],
         "quazip": [
             "kwizart",
-            "omos"
+            "omos",
+            "smani"
         ],
         "quazip-qt5": [
             "sharkcz"
@@ -129947,6 +129955,9 @@
         "rust-audiopus_sys": [
             "@rust-sig",
             "elmarco"
+        ],
+        "rust-authenticode": [
+            "kraxel"
         ],
         "rust-auto_enums": [
             "@rust-sig",
@@ -158328,12 +158339,10 @@
             "aleasto"
         ],
         "wayfire": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "wayfire-config-manager": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "wayland": [
             "ajax",
@@ -158613,16 +158622,14 @@
             "terjeros"
         ],
         "wf-config": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "wf-recorder": [
             "ngompa",
             "wef"
         ],
         "wf-shell": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "wfmath": [
             "orphan",
