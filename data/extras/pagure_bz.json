@@ -2056,6 +2056,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "nodejs24": [
+            "yselkowitz"
+        ],
         "nomacs": [
             "@flatpak-sig",
             "yselkowitz"
@@ -17300,7 +17303,7 @@
         "deepin-session-shell": [
             "@deepinde-sig",
             "cheeselee",
-            "topazus"
+            "orphan"
         ],
         "deepin-session-ui": [
             "@deepinde-sig",
@@ -34630,7 +34633,7 @@
         ],
         "golang-github-circonus-labs-gometrics": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-civo-civogo": [
             "@go-sig",
@@ -56426,6 +56429,7 @@
             "remi"
         ],
         "libcgroup": [
+            "fedepell",
             "jchaloup",
             "jwboyer",
             "nforro"
@@ -77968,8 +77972,7 @@
             "trix"
         ],
         "opal": [
-            "peter",
-            "pfrields"
+            "peter"
         ],
         "opal-prd": [
             "hegdevasant",
@@ -108548,6 +108551,9 @@
         "python-fastrlock": [
             "trix"
         ],
+        "python-fastuuid": [
+            "msuchy"
+        ],
         "python-fauxquests": [
             "fale",
             "ignatenkobrain",
@@ -112896,7 +112902,8 @@
         "python-netifaces": [
             "apevec",
             "fcami",
-            "ftrivino"
+            "ftrivino",
+            "limb"
         ],
         "python-netjsonconfig": [
             "orphan"
@@ -118695,6 +118702,7 @@
             "apevec",
             "dcavalca",
             "dprince",
+            "limb",
             "mrunge"
         ],
         "python-stochastic": [
@@ -127476,7 +127484,7 @@
             "dcavalca"
         ],
         "rubygem-mixlib-shellout": [
-            "orphan"
+            "jaymzh"
         ],
         "rubygem-mizuho": [
             "tdawson",
@@ -132927,6 +132935,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-downcast-rs1": [
+            "decathorpe"
+        ],
         "rust-dpi": [
             "@rust-sig",
             "alebastr"
@@ -133565,6 +133576,9 @@
         "rust-fancy-regex0.11": [
             "@rust-sig",
             "salimma"
+        ],
+        "rust-fancy-regex0.13": [
+            "music"
         ],
         "rust-fancy-regex0.7": [
             "@rust-sig",
@@ -134435,7 +134449,7 @@
         ],
         "rust-gethostname": [
             "@rust-sig",
-            "orphan"
+            "decathorpe"
         ],
         "rust-gethostname0.2": [
             "@rust-sig",
@@ -149241,6 +149255,7 @@
             "jwrdegoede"
         ],
         "sg3_utils": [
+            "pevans",
             "sharkcz"
         ],
         "sgabios": [
@@ -151233,11 +151248,9 @@
         ],
         "sqlite": [
             "@db-sig",
-            "anezbeda",
             "fjanus",
             "ndavidov",
-            "pkubat",
-            "zmiklank"
+            "pkubat"
         ],
         "sqlite-jdbc": [
             "java-sig",
@@ -151622,7 +151635,7 @@
             "rstrode"
         ],
         "stats-collect": [
-            "aekoroglu"
+            "orphan"
         ],
         "statscache": [
             "orphan"
@@ -154109,6 +154122,30 @@
         "texlive-collection-langgerman": [
             "spot"
         ],
+        "texlive-collection-langgreek": [
+            "spot"
+        ],
+        "texlive-collection-langitalian": [
+            "spot"
+        ],
+        "texlive-collection-langjapanese": [
+            "spot"
+        ],
+        "texlive-collection-langkorean": [
+            "spot"
+        ],
+        "texlive-collection-langother": [
+            "spot"
+        ],
+        "texlive-collection-langpolish": [
+            "spot"
+        ],
+        "texlive-collection-langportuguese": [
+            "spot"
+        ],
+        "texlive-collection-langspanish": [
+            "spot"
+        ],
         "texlive-collection-latex": [
             "spot"
         ],
@@ -154119,6 +154156,12 @@
             "spot"
         ],
         "texlive-collection-luatex": [
+            "spot"
+        ],
+        "texlive-collection-mathscience": [
+            "spot"
+        ],
+        "texlive-collection-metapost": [
             "spot"
         ],
         "texlive-eq-save": [
@@ -159892,7 +159935,7 @@
             "rishi"
         ],
         "xdg-desktop-portal-hyprland": [
-            "nightishaman"
+            "orphan"
         ],
         "xdg-desktop-portal-kde": [
             "@kde-sig",
