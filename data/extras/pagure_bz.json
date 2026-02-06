@@ -10679,6 +10679,9 @@
         "bcunit": [
             "orphan"
         ],
+        "bcvk": [
+            "gursewak"
+        ],
         "bdftopcf": [
             "ajax",
             "ofourdan",
@@ -13461,6 +13464,9 @@
         ],
         "chrpath": [
             "amigadave"
+        ],
+        "chunkah": [
+            "jlebon"
         ],
         "chunkd": [
             "orphan"
@@ -22544,6 +22550,7 @@
             "whot"
         ],
         "evtgen": [
+            "ellert",
             "yanqiyu"
         ],
         "ewl": [
@@ -25710,10 +25717,12 @@
         ],
         "gamescope": [
             "@sway-sig",
+            "dogphilosopher",
             "farchord",
             "frantisekz",
             "ghishadow",
             "ngompa",
+            "slaanesh",
             "thunderbirdtr"
         ],
         "gamin": [
@@ -43775,7 +43784,6 @@
         ],
         "gpac": [
             "@multimedia-sig",
-            "kwizart",
             "rathann"
         ],
         "gpar2": [
@@ -77972,7 +77980,7 @@
             "trix"
         ],
         "opal": [
-            "peter"
+            "orphan"
         ],
         "opal-prd": [
             "hegdevasant",
@@ -102514,7 +102522,7 @@
             "topazus"
         ],
         "ptlib": [
-            "peter"
+            "orphan"
         ],
         "ptouch-driver": [
             "lkundrak",
@@ -110970,6 +110978,9 @@
         "python-json-minify": [
             "@python-packagers-sig",
             "qulogic"
+        ],
+        "python-json-repair": [
+            "msuchy"
         ],
         "python-json-specifications": [
             "@openstack-sig",
@@ -125155,6 +125166,10 @@
             "@rocm-packagers-sig",
             "trix"
         ],
+        "rocm-filesystem": [
+            "@rocm-packagers-sig",
+            "trix"
+        ],
         "rocm-omp": [
             "@rocm-packagers-sig",
             "trix"
@@ -128731,6 +128746,7 @@
             "humaton"
         ],
         "rubygem-tins": [
+            "orphan",
             "tdawson"
         ],
         "rubygem-tk": [
@@ -133578,6 +133594,7 @@
             "salimma"
         ],
         "rust-fancy-regex0.13": [
+            "@rust-sig",
             "music"
         ],
         "rust-fancy-regex0.7": [
@@ -154162,6 +154179,18 @@
             "spot"
         ],
         "texlive-collection-metapost": [
+            "spot"
+        ],
+        "texlive-collection-music": [
+            "spot"
+        ],
+        "texlive-collection-pictures": [
+            "spot"
+        ],
+        "texlive-collection-plaingeneric": [
+            "spot"
+        ],
+        "texlive-collection-pstricks": [
             "spot"
         ],
         "texlive-eq-save": [

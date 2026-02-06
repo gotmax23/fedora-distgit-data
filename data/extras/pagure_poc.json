@@ -13646,6 +13646,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "bcvk": {
+            "admin": "gursewak",
+            "epel": "gursewak",
+            "fedora": "gursewak"
+        },
         "bdftopcf": {
             "admin": "whot",
             "epel": "whot",
@@ -17255,6 +17260,11 @@
             "admin": "amigadave",
             "epel": "amigadave",
             "fedora": "amigadave"
+        },
+        "chunkah": {
+            "admin": "jlebon",
+            "epel": "jlebon",
+            "fedora": "jlebon"
         },
         "chunkd": {
             "admin": "orphan",
@@ -102407,7 +102417,7 @@
             "fedora": "trix"
         },
         "opal": {
-            "admin": "peter",
+            "admin": "orphan",
             "epel": "orphan",
             "fedora": "peter"
         },
@@ -132502,7 +132512,7 @@
             "fedora": "topazus"
         },
         "ptlib": {
-            "admin": "peter",
+            "admin": "orphan",
             "epel": "orphan",
             "fedora": "peter"
         },
@@ -143535,6 +143545,11 @@
             "admin": "qulogic",
             "epel": "qulogic",
             "fedora": "qulogic"
+        },
+        "python-json-repair": {
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
         },
         "python-json-specifications": {
             "admin": "jcapitao",
@@ -162011,6 +162026,11 @@
             "epel": "@rocm-packagers-sig",
             "fedora": "@rocm-packagers-sig"
         },
+        "rocm-filesystem": {
+            "admin": "trix",
+            "epel": "trix",
+            "fedora": "trix"
+        },
         "rocm-omp": {
             "admin": "trix",
             "epel": "@rocm-packagers-sig",
@@ -166902,9 +166922,9 @@
             "fedora": "humaton"
         },
         "rubygem-tins": {
-            "admin": "tdawson",
-            "epel": "tdawson",
-            "fedora": "oturpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-tk": {
             "admin": "mtasaka",
@@ -199477,6 +199497,26 @@
             "fedora": "spot"
         },
         "texlive-collection-metapost": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-collection-music": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-collection-pictures": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-collection-plaingeneric": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-collection-pstricks": {
             "admin": "spot",
             "epel": "spot",
             "fedora": "spot"
