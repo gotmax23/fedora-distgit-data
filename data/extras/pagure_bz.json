@@ -17309,7 +17309,7 @@
         "deepin-session-shell": [
             "@deepinde-sig",
             "cheeselee",
-            "orphan"
+            "topazus"
         ],
         "deepin-session-ui": [
             "@deepinde-sig",
@@ -21899,7 +21899,7 @@
             "orphan"
         ],
         "erlang-esasl": [
-            "peter"
+            "orphan"
         ],
         "erlang-esdl": [
             "peter"
@@ -21970,7 +21970,7 @@
             "peter"
         ],
         "erlang-gtknode": [
-            "peter"
+            "orphan"
         ],
         "erlang-gun": [
             "peter"
@@ -48687,6 +48687,7 @@
         ],
         "isomd5sum": [
             "anaconda-maint",
+            "m4rtink",
             "rvykydal"
         ],
         "isorelax": [
@@ -64454,6 +64455,9 @@
         ],
         "mchange-commons": [
             "orphan"
+        ],
+        "mcjoin": [
+            "mruprich"
         ],
         "mckoi": [
             "java-sig",
@@ -98931,6 +98935,9 @@
         "php-phpunit-php-code-coverage12": [
             "remi"
         ],
+        "php-phpunit-php-code-coverage13": [
+            "remi"
+        ],
         "php-phpunit-php-code-coverage5": [
             "orphan"
         ],
@@ -98961,6 +98968,9 @@
         "php-phpunit-php-file-iterator6": [
             "remi"
         ],
+        "php-phpunit-php-file-iterator7": [
+            "remi"
+        ],
         "php-phpunit-php-invoker2": [
             "remi"
         ],
@@ -98976,6 +98986,9 @@
         "php-phpunit-php-invoker6": [
             "remi"
         ],
+        "php-phpunit-php-invoker7": [
+            "remi"
+        ],
         "php-phpunit-php-text-template2": [
             "remi"
         ],
@@ -98986,6 +98999,9 @@
             "remi"
         ],
         "php-phpunit-php-text-template5": [
+            "remi"
+        ],
+        "php-phpunit-php-text-template6": [
             "remi"
         ],
         "php-phpunit-php-timer2": [
@@ -99004,6 +99020,9 @@
             "remi"
         ],
         "php-phpunit-php-timer8": [
+            "remi"
+        ],
+        "php-phpunit-php-timer9": [
             "remi"
         ],
         "php-phpunit-php-token-stream2": [
@@ -99245,6 +99264,9 @@
         "php-sebastian-cli-parser4": [
             "remi"
         ],
+        "php-sebastian-cli-parser5": [
+            "remi"
+        ],
         "php-sebastian-code-unit": [
             "remi"
         ],
@@ -99284,6 +99306,9 @@
         "php-sebastian-comparator7": [
             "remi"
         ],
+        "php-sebastian-comparator8": [
+            "remi"
+        ],
         "php-sebastian-complexity": [
             "remi"
         ],
@@ -99294,6 +99319,9 @@
             "remi"
         ],
         "php-sebastian-complexity5": [
+            "remi"
+        ],
+        "php-sebastian-complexity6": [
             "remi"
         ],
         "php-sebastian-diff2": [
@@ -99314,6 +99342,9 @@
         "php-sebastian-diff7": [
             "remi"
         ],
+        "php-sebastian-diff8": [
+            "remi"
+        ],
         "php-sebastian-environment3": [
             "orphan"
         ],
@@ -99332,6 +99363,9 @@
         "php-sebastian-environment8": [
             "remi"
         ],
+        "php-sebastian-environment9": [
+            "remi"
+        ],
         "php-sebastian-exporter3": [
             "remi"
         ],
@@ -99345,6 +99379,9 @@
             "remi"
         ],
         "php-sebastian-exporter7": [
+            "remi"
+        ],
+        "php-sebastian-exporter8": [
             "remi"
         ],
         "php-sebastian-finder-facade2": [
@@ -99374,6 +99411,9 @@
         "php-sebastian-global-state8": [
             "remi"
         ],
+        "php-sebastian-global-state9": [
+            "remi"
+        ],
         "php-sebastian-lines-of-code": [
             "remi"
         ],
@@ -99384,6 +99424,9 @@
             "remi"
         ],
         "php-sebastian-lines-of-code4": [
+            "remi"
+        ],
+        "php-sebastian-lines-of-code5": [
             "remi"
         ],
         "php-sebastian-object-enumerator": [
@@ -99404,6 +99447,9 @@
         "php-sebastian-object-enumerator7": [
             "remi"
         ],
+        "php-sebastian-object-enumerator8": [
+            "remi"
+        ],
         "php-sebastian-object-reflector": [
             "remi"
         ],
@@ -99417,6 +99463,9 @@
             "remi"
         ],
         "php-sebastian-object-reflector5": [
+            "remi"
+        ],
+        "php-sebastian-object-reflector6": [
             "remi"
         ],
         "php-sebastian-recursion-context": [
@@ -99435,6 +99484,9 @@
             "remi"
         ],
         "php-sebastian-recursion-context7": [
+            "remi"
+        ],
+        "php-sebastian-recursion-context8": [
             "remi"
         ],
         "php-sebastian-resource-operations": [
@@ -99464,6 +99516,9 @@
         "php-sebastian-type6": [
             "remi"
         ],
+        "php-sebastian-type7": [
+            "remi"
+        ],
         "php-sebastian-version3": [
             "remi"
         ],
@@ -99474,6 +99529,9 @@
             "remi"
         ],
         "php-sebastian-version6": [
+            "remi"
+        ],
+        "php-sebastian-version7": [
             "remi"
         ],
         "php-seld-cli-prompt": [
@@ -100192,6 +100250,9 @@
             "remi"
         ],
         "phpunit12": [
+            "remi"
+        ],
+        "phpunit13": [
             "remi"
         ],
         "phpunit6": [
@@ -106039,6 +106100,9 @@
         ],
         "python-cherrytemplate": [
             "orphan"
+        ],
+        "python-chevron": [
+            "msuchy"
         ],
         "python-chirpstack-api": [
             "orphan"
@@ -139446,6 +139510,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-object-rewrite": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-object0.36": [
             "@rust-sig",
             "decathorpe"
@@ -147527,6 +147595,9 @@
         "rust-xkeysym": [
             "@rust-sig",
             "alebastr"
+        ],
+        "rust-xml": [
+            "neeralishah"
         ],
         "rust-xml-rs": [
             "@rust-sig",
@@ -155678,6 +155749,9 @@
         ],
         "trustedqsl": [
             "hobbes1069"
+        ],
+        "trustee": [
+            "alakatos"
         ],
         "trustee-guest-components": [
             "uril"

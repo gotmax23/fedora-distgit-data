@@ -13608,7 +13608,7 @@
         },
         "bcftools": {
             "admin": "jaruga",
-            "epel": "jaruga",
+            "epel": "ron",
             "fedora": "jaruga"
         },
         "bcg729": {
@@ -22162,9 +22162,9 @@
             "fedora": "orphan"
         },
         "deepin-session-shell": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "topazus",
+            "epel": "topazus",
+            "fedora": "topazus"
         },
         "deepin-session-ui": {
             "admin": "topazus",
@@ -28427,9 +28427,9 @@
             "fedora": "orphan"
         },
         "erlang-esasl": {
-            "admin": "peter",
-            "epel": "peter",
-            "fedora": "peter"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "erlang-esdl": {
             "admin": "peter",
@@ -28522,9 +28522,9 @@
             "fedora": "peter"
         },
         "erlang-gtknode": {
-            "admin": "peter",
-            "epel": "peter",
-            "fedora": "peter"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "erlang-gun": {
             "admin": "peter",
@@ -60303,7 +60303,7 @@
         },
         "htslib": {
             "admin": "jaruga",
-            "epel": "jaruga",
+            "epel": "ron",
             "fedora": "jaruga"
         },
         "http-builder": {
@@ -63442,9 +63442,9 @@
             "fedora": "szpak"
         },
         "isomd5sum": {
-            "admin": "anaconda-maint",
-            "epel": "anaconda-maint",
-            "fedora": "anaconda-maint"
+            "admin": "m4rtink",
+            "epel": "m4rtink",
+            "fedora": "m4rtink"
         },
         "isorelax": {
             "admin": "orphan",
@@ -83205,6 +83205,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "mcjoin": {
+            "admin": "mruprich",
+            "epel": "mruprich",
+            "fedora": "mruprich"
         },
         "mckoi": {
             "admin": "orphan",
@@ -127456,6 +127461,11 @@
             "epel": "remi",
             "fedora": "remi"
         },
+        "php-phpunit-php-code-coverage13": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
         "php-phpunit-php-code-coverage5": {
             "admin": "orphan",
             "epel": "orphan",
@@ -127506,6 +127516,11 @@
             "epel": "remi",
             "fedora": "remi"
         },
+        "php-phpunit-php-file-iterator7": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
         "php-phpunit-php-invoker2": {
             "admin": "remi",
             "epel": "remi",
@@ -127531,6 +127546,11 @@
             "epel": "remi",
             "fedora": "remi"
         },
+        "php-phpunit-php-invoker7": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
         "php-phpunit-php-text-template2": {
             "admin": "remi",
             "epel": "remi",
@@ -127547,6 +127567,11 @@
             "fedora": "remi"
         },
         "php-phpunit-php-text-template5": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
+        "php-phpunit-php-text-template6": {
             "admin": "remi",
             "epel": "remi",
             "fedora": "remi"
@@ -127577,6 +127602,11 @@
             "fedora": "remi"
         },
         "php-phpunit-php-timer8": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
+        "php-phpunit-php-timer9": {
             "admin": "remi",
             "epel": "remi",
             "fedora": "remi"
@@ -127966,6 +127996,11 @@
             "epel": "remi",
             "fedora": "remi"
         },
+        "php-sebastian-cli-parser5": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
         "php-sebastian-code-unit": {
             "admin": "remi",
             "epel": "remi",
@@ -128031,6 +128066,11 @@
             "epel": "remi",
             "fedora": "remi"
         },
+        "php-sebastian-comparator8": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
         "php-sebastian-complexity": {
             "admin": "remi",
             "epel": "remi",
@@ -128047,6 +128087,11 @@
             "fedora": "remi"
         },
         "php-sebastian-complexity5": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
+        "php-sebastian-complexity6": {
             "admin": "remi",
             "epel": "remi",
             "fedora": "remi"
@@ -128081,6 +128126,11 @@
             "epel": "remi",
             "fedora": "remi"
         },
+        "php-sebastian-diff8": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
         "php-sebastian-environment3": {
             "admin": "orphan",
             "epel": "orphan",
@@ -128111,6 +128161,11 @@
             "epel": "remi",
             "fedora": "remi"
         },
+        "php-sebastian-environment9": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
         "php-sebastian-exporter3": {
             "admin": "remi",
             "epel": "remi",
@@ -128132,6 +128187,11 @@
             "fedora": "remi"
         },
         "php-sebastian-exporter7": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
+        "php-sebastian-exporter8": {
             "admin": "remi",
             "epel": "remi",
             "fedora": "remi"
@@ -128181,6 +128241,11 @@
             "epel": "remi",
             "fedora": "remi"
         },
+        "php-sebastian-global-state9": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
         "php-sebastian-lines-of-code": {
             "admin": "remi",
             "epel": "remi",
@@ -128197,6 +128262,11 @@
             "fedora": "remi"
         },
         "php-sebastian-lines-of-code4": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
+        "php-sebastian-lines-of-code5": {
             "admin": "remi",
             "epel": "remi",
             "fedora": "remi"
@@ -128231,6 +128301,11 @@
             "epel": "remi",
             "fedora": "remi"
         },
+        "php-sebastian-object-enumerator8": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
         "php-sebastian-object-reflector": {
             "admin": "remi",
             "epel": "remi",
@@ -128252,6 +128327,11 @@
             "fedora": "remi"
         },
         "php-sebastian-object-reflector5": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
+        "php-sebastian-object-reflector6": {
             "admin": "remi",
             "epel": "remi",
             "fedora": "remi"
@@ -128282,6 +128362,11 @@
             "fedora": "remi"
         },
         "php-sebastian-recursion-context7": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
+        "php-sebastian-recursion-context8": {
             "admin": "remi",
             "epel": "remi",
             "fedora": "remi"
@@ -128331,6 +128416,11 @@
             "epel": "remi",
             "fedora": "remi"
         },
+        "php-sebastian-type7": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
         "php-sebastian-version3": {
             "admin": "remi",
             "epel": "remi",
@@ -128347,6 +128437,11 @@
             "fedora": "remi"
         },
         "php-sebastian-version6": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
+        "php-sebastian-version7": {
             "admin": "remi",
             "epel": "remi",
             "fedora": "remi"
@@ -129487,6 +129582,11 @@
             "fedora": "remi"
         },
         "phpunit12": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
+        "phpunit13": {
             "admin": "remi",
             "epel": "remi",
             "fedora": "remi"
@@ -137165,6 +137265,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "python-chevron": {
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
         },
         "python-chirpstack-api": {
             "admin": "orphan",
@@ -172238,8 +172343,8 @@
         },
         "rust-downcast-rs1": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-dpi": {
             "admin": "alebastr",
@@ -180360,6 +180465,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-object-rewrite": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-object0.36": {
             "admin": "decathorpe",
@@ -190655,6 +190765,11 @@
             "admin": "alebastr",
             "epel": "alebastr",
             "fedora": "alebastr"
+        },
+        "rust-xml": {
+            "admin": "neeralishah",
+            "epel": "neeralishah",
+            "fedora": "neeralishah"
         },
         "rust-xml-rs": {
             "admin": "decathorpe",
@@ -201525,6 +201640,11 @@
             "admin": "hobbes1069",
             "epel": "hobbes1069",
             "fedora": "hobbes1069"
+        },
+        "trustee": {
+            "admin": "alakatos",
+            "epel": "alakatos",
+            "fedora": "alakatos"
         },
         "trustee-guest-components": {
             "admin": "uril",
