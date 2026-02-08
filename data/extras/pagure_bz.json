@@ -51592,7 +51592,7 @@
         "kakoune": [
             "atim",
             "jkonecny",
-            "orphan"
+            "topazus"
         ],
         "kalamine": [
             "carlwgeorge"
@@ -105283,7 +105283,8 @@
             "jcline"
         ],
         "python-b2sdk": [
-            "jonny"
+            "jonny",
+            "limb"
         ],
         "python-b4": [
             "@epel-packagers-sig",
@@ -154262,6 +154263,12 @@
             "spot"
         ],
         "texlive-collection-pstricks": [
+            "spot"
+        ],
+        "texlive-collection-publishers": [
+            "spot"
+        ],
+        "texlive-collection-xetex": [
             "spot"
         ],
         "texlive-eq-save": [

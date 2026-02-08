@@ -67237,7 +67237,7 @@
             "fedora": "tagoh"
         },
         "kakoune": {
-            "admin": "orphan",
+            "admin": "topazus",
             "epel": "orphan",
             "fedora": "atim"
         },
@@ -199632,6 +199632,16 @@
             "fedora": "spot"
         },
         "texlive-collection-pstricks": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-collection-publishers": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
+        "texlive-collection-xetex": {
             "admin": "spot",
             "epel": "spot",
             "fedora": "spot"
