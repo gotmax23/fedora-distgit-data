@@ -15022,9 +15022,9 @@
             "fedora": "topazus"
         },
         "boxes": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "boxfort": {
             "admin": "topazus",
@@ -19792,9 +19792,9 @@
             "fedora": "decathorpe"
         },
         "corsix-th": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "cortado": {
             "admin": "jwrdegoede",
@@ -20157,9 +20157,9 @@
             "fedora": "bytehackr"
         },
         "cpu-x": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "cpufetch": {
             "admin": "suve",
@@ -20547,9 +20547,9 @@
             "fedora": "dcavalca"
         },
         "crow-translate": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "crrcsim": {
             "admin": "dwrobel",
@@ -29681,6 +29681,11 @@
             "epel": "luya",
             "fedora": "luya"
         },
+        "f44-backgrounds": {
+            "admin": "luya",
+            "epel": "luya",
+            "fedora": "luya"
+        },
         "fRaBs": {
             "admin": "orphan",
             "epel": "orphan",
@@ -31952,9 +31957,9 @@
             "fedora": "leigh123linux"
         },
         "foliate": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "folio": {
             "admin": "vtrefny",
@@ -39587,9 +39592,9 @@
             "fedora": "orphan"
         },
         "gitqlient": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "gitso": {
             "admin": "orphan",
@@ -41112,9 +41117,9 @@
             "fedora": "teuf"
         },
         "gnome-break-timer": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "gnome-browser-connector": {
             "admin": "mclasen",
@@ -56907,9 +56912,9 @@
             "fedora": "orphan"
         },
         "goverlay": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "gp2c": {
             "admin": "music",
@@ -57877,9 +57882,9 @@
             "fedora": "jrische"
         },
         "gst": {
-            "admin": "orphan",
+            "admin": "atim",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "atim"
         },
         "gst-devtools": {
             "admin": "limb",
@@ -58177,9 +58182,9 @@
             "fedora": "buc"
         },
         "gtk-layer-shell": {
-            "admin": "orphan",
+            "admin": "atim",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "atim"
         },
         "gtk-murrine-engine": {
             "admin": "raveit65",
@@ -58307,9 +58312,9 @@
             "fedora": "@gnome-sig"
         },
         "gtk4-layer-shell": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "gtkd": {
             "admin": "kalev",
@@ -58882,9 +58887,9 @@
             "fedora": "orphan"
         },
         "gwe": {
-            "admin": "orphan",
+            "admin": "atim",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "atim"
         },
         "gweather-locations": {
             "admin": "xhorak",
@@ -58942,9 +58947,9 @@
             "fedora": "orphan"
         },
         "gxkb": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "gxmessage": {
             "admin": "orphan",
@@ -62907,9 +62912,9 @@
             "fedora": "aekoroglu"
         },
         "intel-undervolt": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "intel-vpl-gpu-rt": {
             "admin": "slaanesh",
@@ -68257,7 +68262,7 @@
             "fedora": "orphan"
         },
         "kdiskmark": {
-            "admin": "orphan",
+            "admin": "atim",
             "epel": "orphan",
             "fedora": "atim"
         },
@@ -71508,7 +71513,7 @@
         },
         "labwc": {
             "admin": "atim",
-            "epel": "atim",
+            "epel": "orphan",
             "fedora": "atim"
         },
         "labwc-menu-generator": {
@@ -78227,9 +78232,9 @@
             "fedora": "orphan"
         },
         "libunarr": {
-            "admin": "orphan",
+            "admin": "atim",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "atim"
         },
         "libunibreak": {
             "admin": "gui1ty",
@@ -81868,7 +81873,7 @@
         },
         "mangohud": {
             "admin": "atim",
-            "epel": "atim",
+            "epel": "orphan",
             "fedora": "atim"
         },
         "maniadrive": {
@@ -83170,6 +83175,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "mbpoll": {
+            "admin": "deamn",
+            "epel": "deamn",
+            "fedora": "deamn"
         },
         "mbrowse": {
             "admin": "orphan",
@@ -86778,7 +86788,7 @@
         },
         "minigalaxy": {
             "admin": "atim",
-            "epel": "atim",
+            "epel": "orphan",
             "fedora": "atim"
         },
         "minimal-json": {
@@ -103178,7 +103188,7 @@
         },
         "openrgb": {
             "admin": "atim",
-            "epel": "atim",
+            "epel": "orphan",
             "fedora": "atim"
         },
         "openriichi": {
@@ -129738,7 +129748,7 @@
         },
         "picom": {
             "admin": "atim",
-            "epel": "atim",
+            "epel": "orphan",
             "fedora": "atim"
         },
         "picosat": {
@@ -131284,7 +131294,7 @@
         "polybar": {
             "admin": "orphan",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "atim"
         },
         "polybori": {
             "admin": "orphan",
@@ -136228,7 +136238,7 @@
         },
         "python-b2sdk": {
             "admin": "jonny",
-            "epel": "jonny",
+            "epel": "supakeen",
             "fedora": "jonny"
         },
         "python-b4": {
@@ -155498,7 +155508,7 @@
         },
         "python-vdf": {
             "admin": "atim",
-            "epel": "atim",
+            "epel": "orphan",
             "fedora": "atim"
         },
         "python-vecrec": {
@@ -184287,7 +184297,7 @@
             "fedora": "@rust-sig"
         },
         "rust-ron": {
-            "admin": "orphan",
+            "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -195282,9 +195292,9 @@
             "fedora": "orphan"
         },
         "speedtest": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "speedtest-cli": {
             "admin": "jonathanspw",
@@ -195612,9 +195622,9 @@
             "fedora": "orphan"
         },
         "springlobby": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "sprout": {
             "admin": "ngompa",
@@ -198282,9 +198292,9 @@
             "fedora": "dmaphy"
         },
         "taigo": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "tailor": {
             "admin": "orphan",
@@ -202316,6 +202326,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "ty": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "tycho": {
             "admin": "orphan",
             "epel": "orphan",
@@ -204343,7 +204358,7 @@
         },
         "vifm": {
             "admin": "atim",
-            "epel": "atim",
+            "epel": "orphan",
             "fedora": "atim"
         },
         "vigra": {
@@ -204913,7 +204928,7 @@
         },
         "vokoscreenNG": {
             "admin": "atim",
-            "epel": "@epel-packagers-sig",
+            "epel": "orphan",
             "fedora": "atim"
         },
         "volk": {
@@ -206082,9 +206097,9 @@
             "fedora": "mooninite"
         },
         "wineglass": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "atim",
+            "epel": "atim",
+            "fedora": "atim"
         },
         "winetricks": {
             "admin": "vtrefny",
@@ -210157,7 +210172,7 @@
             "fedora": "orphan"
         },
         "yacreader": {
-            "admin": "orphan",
+            "admin": "atim",
             "epel": "orphan",
             "fedora": "atim"
         },

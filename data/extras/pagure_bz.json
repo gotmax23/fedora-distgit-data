@@ -11745,8 +11745,7 @@
             "topazus"
         ],
         "boxes": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "boxfort": [
             "topazus"
@@ -15386,8 +15385,7 @@
             "decathorpe"
         ],
         "corsix-th": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "cortado": [
             "jwrdegoede"
@@ -15690,8 +15688,7 @@
         ],
         "cpu-x": [
             "atim",
-            "martinkg",
-            "orphan"
+            "martinkg"
         ],
         "cpufetch": [
             "alciregi",
@@ -16005,8 +16002,7 @@
         ],
         "crow-translate": [
             "@kde-sig",
-            "atim",
-            "orphan"
+            "atim"
         ],
         "crrcsim": [
             "dwrobel"
@@ -22843,6 +22839,9 @@
         "f43-backgrounds": [
             "luya"
         ],
+        "f44-backgrounds": [
+            "luya"
+        ],
         "fRaBs": [
             "jwrdegoede",
             "orphan"
@@ -24618,8 +24617,7 @@
             "leigh123linux"
         ],
         "foliate": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "folio": [
             "vtrefny"
@@ -30535,8 +30533,7 @@
             "orphan"
         ],
         "gitqlient": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "gitso": [
             "orphan"
@@ -31671,8 +31668,7 @@
             "teuf"
         ],
         "gnome-break-timer": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "gnome-browser-connector": [
             "kalev",
@@ -43772,8 +43768,7 @@
             "orphan"
         ],
         "goverlay": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "gp2c": [
             "jjames",
@@ -44505,8 +44500,7 @@
             "simo"
         ],
         "gst": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "gst-devtools": [
             "limb"
@@ -44750,8 +44744,7 @@
         ],
         "gtk-layer-shell": [
             "@epel-packagers-sig",
-            "atim",
-            "orphan"
+            "atim"
         ],
         "gtk-murrine-engine": [
             "@epel-packagers-sig",
@@ -44855,8 +44848,7 @@
         ],
         "gtk4-layer-shell": [
             "atim",
-            "erikreider",
-            "orphan"
+            "erikreider"
         ],
         "gtkd": [
             "cicku",
@@ -45304,8 +45296,7 @@
             "orphan"
         ],
         "gwe": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "gweather-locations": [
             "xhorak"
@@ -45346,8 +45337,7 @@
             "xavierb"
         ],
         "gxkb": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "gxmessage": [
             "orphan"
@@ -48278,8 +48268,7 @@
             "aekoroglu"
         ],
         "intel-undervolt": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "intel-vpl-gpu-rt": [
             "aekoroglu",
@@ -52381,7 +52370,6 @@
         ],
         "kdiskmark": [
             "atim",
-            "orphan",
             "zawertun"
         ],
         "kdissert": [
@@ -60476,8 +60464,7 @@
             "orphan"
         ],
         "libunarr": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "libunibreak": [
             "gui1ty"
@@ -64430,6 +64417,9 @@
         ],
         "mbpfan": [
             "orphan"
+        ],
+        "mbpoll": [
+            "deamn"
         ],
         "mbrowse": [
             "orphan"
@@ -101586,7 +101576,6 @@
             "cottsay"
         ],
         "polybar": [
-            "atim",
             "orphan"
         ],
         "polybori": [
@@ -105284,7 +105273,8 @@
         ],
         "python-b2sdk": [
             "jonny",
-            "limb"
+            "limb",
+            "supakeen"
         ],
         "python-b4": [
             "@epel-packagers-sig",
@@ -142520,7 +142510,7 @@
         ],
         "rust-ron": [
             "@rust-sig",
-            "orphan"
+            "decathorpe"
         ],
         "rust-ron0.6": [
             "orphan"
@@ -151023,8 +151013,7 @@
             "orphan"
         ],
         "speedtest": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "speedtest-cli": [
             "besser82",
@@ -151301,8 +151290,7 @@
         "springlobby": [
             "abompard",
             "atim",
-            "gilboa",
-            "orphan"
+            "gilboa"
         ],
         "sprout": [
             "ngompa"
@@ -153286,8 +153274,7 @@
             "dmaphy"
         ],
         "taigo": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "tailor": [
             "orphan"
@@ -156207,6 +156194,11 @@
         "txw2": [
             "orphan"
         ],
+        "ty": [
+            "@python-packagers-sig",
+            "@rust-sig",
+            "music"
+        ],
         "tycho": [
             "java-sig",
             "orphan"
@@ -159012,8 +159004,7 @@
             "mooninite"
         ],
         "wineglass": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "winetricks": [
             "vtrefny"
@@ -162069,8 +162060,7 @@
             "orphan"
         ],
         "yacreader": [
-            "atim",
-            "orphan"
+            "atim"
         ],
         "yad": [
             "buc"
