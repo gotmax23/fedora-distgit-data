@@ -105096,6 +105096,11 @@
             "epel": "walters",
             "fedora": "golfu"
         },
+        "parallel-hashmap": {
+            "admin": "carlwgeorge",
+            "epel": "carlwgeorge",
+            "fedora": "carlwgeorge"
+        },
         "paranamer": {
             "admin": "orphan",
             "epel": "orphan",
@@ -140531,6 +140536,11 @@
             "epel": "jorti",
             "fedora": "jorti"
         },
+        "python-fakeredis": {
+            "admin": "r0x0d",
+            "epel": "r0x0d",
+            "fedora": "r0x0d"
+        },
         "python-falcon": {
             "admin": "carlwgeorge",
             "epel": "carlwgeorge",
@@ -151305,6 +151315,11 @@
             "admin": "music",
             "epel": "music",
             "fedora": "music"
+        },
+        "python-resend": {
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
         },
         "python-resolvelib": {
             "admin": "kevin",
@@ -170375,6 +170390,11 @@
             "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-cliclack": {
+            "admin": "r0x0d",
+            "epel": "r0x0d",
+            "fedora": "r0x0d"
         },
         "rust-clicolors-control": {
             "admin": "decathorpe",

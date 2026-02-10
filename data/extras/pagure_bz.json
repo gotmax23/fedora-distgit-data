@@ -2057,6 +2057,7 @@
             "yselkowitz"
         ],
         "nodejs24": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "nomacs": [
@@ -80015,6 +80016,9 @@
             "mikelo2",
             "walters"
         ],
+        "parallel-hashmap": [
+            "carlwgeorge"
+        ],
         "paranamer": [
             "java-sig",
             "orphan"
@@ -108554,6 +108558,10 @@
             "jorti",
             "mikelo2"
         ],
+        "python-fakeredis": [
+            "@rhel-lightspeed",
+            "r0x0d"
+        ],
         "python-falcon": [
             "@python-packagers-sig",
             "carlwgeorge"
@@ -116980,6 +116988,9 @@
             "@neuro-sig",
             "music"
         ],
+        "python-resend": [
+            "msuchy"
+        ],
         "python-resolvelib": [
             "@python-packagers-sig",
             "gotmax23",
@@ -117085,6 +117096,7 @@
             "ksurma"
         ],
         "python-rich-rst": [
+            "@rhel-lightspeed",
             "samdoran"
         ],
         "python-rich-toolkit": [
@@ -130036,6 +130048,7 @@
             "elmarco"
         ],
         "rust-authenticode": [
+            "@rust-sig",
             "kraxel"
         ],
         "rust-auto_enums": [
@@ -131447,6 +131460,9 @@
         "rust-cli-table-derive": [
             "@rust-sig",
             "orphan"
+        ],
+        "rust-cliclack": [
+            "r0x0d"
         ],
         "rust-clicolors-control": [
             "@rust-sig",
@@ -133007,6 +133023,7 @@
             "decathorpe"
         ],
         "rust-downcast-rs1": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-dpi": [
@@ -147588,6 +147605,7 @@
             "alebastr"
         ],
         "rust-xml": [
+            "@rust-sig",
             "neeralishah"
         ],
         "rust-xml-rs": [
