@@ -45147,9 +45147,9 @@
             "fedora": "orphan"
         },
         "golang-github-cockroachdb-cockroach-go": {
-            "admin": "logic",
-            "epel": "logic",
-            "fedora": "logic"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-cockroachdb-datadriven": {
             "admin": "alexsaezm",
@@ -47487,9 +47487,9 @@
             "fedora": "orphan"
         },
         "golang-github-google-go-github": {
-            "admin": "logic",
-            "epel": "logic",
-            "fedora": "logic"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-google-go-querystring": {
             "admin": "orphan",
@@ -52002,9 +52002,9 @@
             "fedora": "eclipseo"
         },
         "golang-github-pquerna-otp": {
-            "admin": "logic",
-            "epel": "logic",
-            "fedora": "logic"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-prashantv-gostub": {
             "admin": "fuller",
@@ -70235,6 +70235,11 @@
             "admin": "kwizart",
             "epel": "kwizart",
             "fedora": "kwizart"
+        },
+        "kmonad": {
+            "admin": "solomoncyj",
+            "epel": "solomoncyj",
+            "fedora": "solomoncyj"
         },
         "kmousetool": {
             "admin": "marcdeop",
@@ -144337,9 +144342,9 @@
             "fedora": "spichugi"
         },
         "python-ldap3": {
-            "admin": "neelc",
+            "admin": "orphan",
             "epel": "aviso",
-            "fedora": "neelc"
+            "fedora": "orphan"
         },
         "python-ldaphelper": {
             "admin": "orphan",
@@ -144595,6 +144600,11 @@
             "admin": "tstellar",
             "epel": "tstellar",
             "fedora": "tstellar"
+        },
+        "python-litellm-proxy-extras": {
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
         },
         "python-littleutils": {
             "admin": "ankursinha",
@@ -146710,6 +146720,11 @@
             "admin": "orphan",
             "epel": "awood",
             "fedora": "orphan"
+        },
+        "python-oldmemo": {
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
         },
         "python-olefile": {
             "admin": "smani",
@@ -171450,6 +171465,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-ctor0.2": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-ctr": {
             "admin": "decathorpe",
@@ -205095,6 +205115,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "vst3sdk": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
         },
         "vt323-fonts": {
             "admin": "orphan",

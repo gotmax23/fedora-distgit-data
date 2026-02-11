@@ -11245,6 +11245,7 @@
         "blender": [
             "@epel-packagers-sig",
             "design-sw",
+            "gang65",
             "luya",
             "music",
             "slaanesh"
@@ -34758,7 +34759,7 @@
         ],
         "golang-github-cockroachdb-cockroach-go": [
             "@go-sig",
-            "logic"
+            "orphan"
         ],
         "golang-github-cockroachdb-datadriven": [
             "@go-sig",
@@ -36529,7 +36530,7 @@
         ],
         "golang-github-google-go-github": [
             "@go-sig",
-            "logic"
+            "orphan"
         ],
         "golang-github-google-go-querystring": [
             "orphan"
@@ -39998,7 +39999,7 @@
         ],
         "golang-github-pquerna-otp": [
             "@go-sig",
-            "logic"
+            "orphan"
         ],
         "golang-github-prashantv-gostub": [
             "@go-sig",
@@ -45169,6 +45170,7 @@
             "tkorbar"
         ],
         "guile30": [
+            "fed500",
             "tkorbar"
         ],
         "guiloader": [
@@ -45300,6 +45302,7 @@
             "atim"
         ],
         "gweather-locations": [
+            "@gnome-sig",
             "xhorak"
         ],
         "gwebsockets": [
@@ -54078,6 +54081,9 @@
             "nvieville",
             "slaanesh"
         ],
+        "kmonad": [
+            "solomoncyj"
+        ],
         "kmousetool": [
             "@kde-sig",
             "jreznik",
@@ -57343,6 +57349,7 @@
             "rathann"
         ],
         "libgexiv2_0.14": [
+            "@gnome-sig",
             "xhorak"
         ],
         "libggz": [
@@ -60519,7 +60526,6 @@
             "@multimedia-sig",
             "ajax",
             "jdieter",
-            "kwizart",
             "limb",
             "slaanesh"
         ],
@@ -101432,7 +101438,6 @@
         "podman": [
             "@go-sig",
             "baude",
-            "dreua",
             "dwalsh",
             "ghishadow",
             "jnovy",
@@ -111567,7 +111572,7 @@
             "@python-packagers-sig",
             "aviso",
             "ignatenkobrain",
-            "neelc"
+            "orphan"
         ],
         "python-ldaphelper": [
             "orphan"
@@ -111758,6 +111763,9 @@
             "sergesanspaille",
             "tstellar",
             "tuliom"
+        ],
+        "python-litellm-proxy-extras": [
+            "msuchy"
         ],
         "python-littleutils": [
             "@epel-packagers-sig",
@@ -113395,6 +113403,9 @@
         "python-okaara": [
             "jdob",
             "orphan"
+        ],
+        "python-oldmemo": [
+            "fed500"
         ],
         "python-olefile": [
             "@epel-packagers-sig",
@@ -119930,6 +119941,7 @@
         "python-typing-extensions": [
             "@epel-packagers-sig",
             "@python-packagers-sig",
+            "churchyard",
             "jonny",
             "music",
             "salimma"
@@ -132277,6 +132289,9 @@
         ],
         "rust-ctor0.1": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-ctor0.2": [
             "decathorpe"
         ],
         "rust-ctr": [
@@ -158241,6 +158256,9 @@
         "vsqlite++": [
             "evilissimo",
             "orphan"
+        ],
+        "vst3sdk": [
+            "jjames"
         ],
         "vt323-fonts": [
             "fonts-sig",
