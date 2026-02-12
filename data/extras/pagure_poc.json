@@ -129982,9 +129982,9 @@
             "fedora": "farchord"
         },
         "pimd": {
-            "admin": "linville",
-            "epel": "linville",
-            "fedora": "linville"
+            "admin": "mruprich",
+            "epel": "mruprich",
+            "fedora": "mruprich"
         },
         "pinball": {
             "admin": "limb",
@@ -136222,6 +136222,21 @@
             "fedora": "rommell"
         },
         "python-azure-storage-common": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
+        },
+        "python-azure-storage-file-datalake": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
+        },
+        "python-azure-storage-file-share": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
+        },
+        "python-azure-storage-queue": {
             "admin": "jcline",
             "epel": "jcline",
             "fedora": "jcline"
@@ -146960,6 +146975,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "python-opentelemetry-api": {
+            "admin": "r0x0d",
+            "epel": "r0x0d",
+            "fedora": "r0x0d"
         },
         "python-opentelemetry-contrib": {
             "admin": "orphan",
@@ -163641,6 +163661,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "rubygem-chef-utils": {
+            "admin": "jaymzh",
+            "epel": "jaymzh",
+            "fedora": "jaymzh"
+        },
         "rubygem-chef-zero": {
             "admin": "orphan",
             "epel": "orphan",
@@ -180026,6 +180051,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-nix0.30": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-nix0.8": {
             "admin": "orphan",
             "epel": "orphan",
@@ -194272,9 +194302,9 @@
             "fedora": "orphan"
         },
         "smaclient": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "sharkcz",
+            "epel": "sharkcz",
+            "fedora": "sharkcz"
         },
         "smart": {
             "admin": "orphan",

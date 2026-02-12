@@ -62178,6 +62178,7 @@
             "vascom"
         ],
         "lsscsi": [
+            "pevans",
             "sharkcz"
         ],
         "lsvpd": [
@@ -64426,7 +64427,8 @@
             "orphan"
         ],
         "mbpoll": [
-            "deamn"
+            "deamn",
+            "lihis"
         ],
         "mbrowse": [
             "orphan"
@@ -100517,7 +100519,7 @@
             "farchord"
         ],
         "pimd": [
-            "linville"
+            "mruprich"
         ],
         "pinball": [
             "limb"
@@ -105262,6 +105264,15 @@
         ],
         "python-azure-storage-common": [
             "@python-packagers-sig",
+            "jcline"
+        ],
+        "python-azure-storage-file-datalake": [
+            "jcline"
+        ],
+        "python-azure-storage-file-share": [
+            "jcline"
+        ],
+        "python-azure-storage-queue": [
             "jcline"
         ],
         "python-azure-synapse-accesscontrol": [
@@ -113585,6 +113596,10 @@
             "orphan",
             "pwouters",
             "rominf"
+        ],
+        "python-opentelemetry-api": [
+            "@rhel-lightspeed",
+            "r0x0d"
         ],
         "python-opentelemetry-contrib": [
             "mhayden",
@@ -126320,6 +126335,9 @@
         "rubygem-charlock_holmes": [
             "ktdreyer",
             "orphan"
+        ],
+        "rubygem-chef-utils": [
+            "jaymzh"
         ],
         "rubygem-chef-zero": [
             "orphan"
@@ -139148,6 +139166,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-nix0.30": [
+            "decathorpe"
+        ],
         "rust-nix0.8": [
             "orphan"
         ],
@@ -150258,9 +150279,7 @@
             "orphan",
             "raphgro"
         ],
-        "smaclient": [
-            "orphan"
-        ],
+        "smaclient": [],
         "smart": [
             "orphan"
         ],
