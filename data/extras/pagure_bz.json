@@ -32302,6 +32302,9 @@
         "gnome-shell-extension-pidgin": [
             "spot"
         ],
+        "gnome-shell-extension-pipewire-settings": [
+            "eeickmeyer"
+        ],
         "gnome-shell-extension-pomodoro": [
             "orphan"
         ],
@@ -51723,6 +51726,9 @@
         ],
         "katapult": [
             "orphan"
+        ],
+        "katarakt": [
+            "sicherha"
         ],
         "kate": [
             "@kde-sig",
@@ -102658,6 +102664,7 @@
             "orphan"
         ],
         "pulp-cli": [
+            "slaanesh",
             "x-9c4"
         ],
         "pulp-docker": [
@@ -114817,6 +114824,7 @@
             "music"
         ],
         "python-pulp-glue": [
+            "slaanesh",
             "x-9c4"
         ],
         "python-pulsectl": [
@@ -119397,6 +119405,12 @@
         ],
         "python-tokenize-rt": [
             "rominf"
+        ],
+        "python-tokenizers": [
+            "@ai-packagers-sig",
+            "@python-packagers-sig",
+            "@rust-sig",
+            "xanderlent"
         ],
         "python-toml": [
             "@python-packagers-sig",
@@ -132305,6 +132319,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-ctor-proc-macro": [
+            "decathorpe"
+        ],
         "rust-ctor0.1": [
             "@rust-sig",
             "decathorpe"
@@ -133115,6 +133132,9 @@
         ],
         "rust-dtoa0.4": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-dtor-proc-macro": [
             "decathorpe"
         ],
         "rust-dtparse": [
@@ -140843,6 +140863,10 @@
             "@rust-sig",
             "salimma"
         ],
+        "rust-ppmd-rust": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-ppv-lite86": [
             "@rust-sig",
             "decathorpe"
@@ -146151,6 +146175,10 @@
         "rust-typed-builder-macro": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-typed-path": [
+            "@rust-sig",
+            "music"
         ],
         "rust-typeid": [
             "@rust-sig",
@@ -163750,6 +163778,9 @@
         ],
         "pcp": [
             "jkurik"
+        ],
+        "pdfarranger": [
+            "dreua"
         ],
         "perl-Image-Size": [
             "fhrdina"
