@@ -13904,6 +13904,11 @@
         "clingo": [
             "thofmann"
         ],
+        "cliphist": [
+            "@go-sig",
+            "@miracle-sig",
+            "ngompa"
+        ],
         "clipit": [
             "mtasaka"
         ],
@@ -16605,6 +16610,11 @@
         "daniel-wikholm-segment16-fonts": [
             "suve"
         ],
+        "danksearch": [
+            "@go-sig",
+            "@miracle-sig",
+            "ngompa"
+        ],
         "danmaq": [
             "zsun"
         ],
@@ -17659,6 +17669,11 @@
         "dgit": [
             "filiperosset",
             "lkundrak"
+        ],
+        "dgop": [
+            "@go-sig",
+            "@miracle-sig",
+            "ngompa"
         ],
         "dh-autoreconf": [
             "smani"
@@ -31653,6 +31668,7 @@
             "orphan"
         ],
         "gnome-bluetooth": [
+            "@gnome-sig",
             "kalev",
             "mclasen"
         ],
@@ -43758,7 +43774,7 @@
             "loveshack"
         ],
         "gotify-desktop": [
-            "alciregi"
+            "orphan"
         ],
         "gotun": [
             "@go-sig",
@@ -115549,7 +115565,8 @@
             "@openstack-sig",
             "@python-packagers-sig",
             "ignatenkobrain",
-            "jcapitao"
+            "jcapitao",
+            "jcline"
         ],
         "python-pynamodb": [
             "orphan"
@@ -130208,8 +130225,8 @@
         ],
         "rust-backoff": [
             "@rust-sig",
-            "alciregi",
-            "music"
+            "music",
+            "orphan"
         ],
         "rust-backon": [
             "@rust-sig",
@@ -133134,6 +133151,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-dtor": [
+            "decathorpe"
+        ],
         "rust-dtor-proc-macro": [
             "decathorpe"
         ],
@@ -134853,6 +134873,10 @@
             "@rust-sig",
             "blinxen"
         ],
+        "rust-gix-error": [
+            "@rust-sig",
+            "blinxen"
+        ],
         "rust-gix-features": [
             "@rust-sig",
             "blinxen"
@@ -136382,6 +136406,9 @@
         ],
         "rust-html5ever0.26": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-html5ever0.29": [
             "decathorpe"
         ],
         "rust-http": [
@@ -138517,6 +138544,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-markup5ever0.14": [
+            "decathorpe"
+        ],
         "rust-markup5ever_rcdom": [
             "@rust-sig",
             "decathorpe"
@@ -138564,6 +138594,12 @@
         "rust-matrixmultiply": [
             "@rust-sig",
             "dcavalca"
+        ],
+        "rust-matugen": [
+            "@miracle-sig",
+            "@rust-sig",
+            "decathorpe",
+            "ngompa"
         ],
         "rust-maxminddb": [
             "@rust-sig",
@@ -139249,6 +139285,9 @@
         "rust-noop_proc_macro": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-norm": [
+            "lecris"
         ],
         "rust-normalize-line": [
             "orphan"
@@ -142103,6 +142142,10 @@
         ],
         "rust-rawslice": [
             "orphan"
+        ],
+        "rust-rawzip": [
+            "@rust-sig",
+            "blinxen"
         ],
         "rust-rayon": [
             "@rust-sig",
@@ -150102,7 +150145,7 @@
             "jwrdegoede"
         ],
         "sjinn": [
-            "linville"
+            "orphan"
         ],
         "sk2py": [
             "orphan"
@@ -155182,7 +155225,7 @@
             "sumantrom"
         ],
         "toolshed": [
-            "linville"
+            "orphan"
         ],
         "toot": [
             "alciregi"
@@ -156913,7 +156956,7 @@
             "orphan"
         ],
         "unzoo": [
-            "linville"
+            "orphan"
         ],
         "uom-lib": [
             "lberk",
@@ -158995,7 +159038,7 @@
         ],
         "wiggle": [
             "@epel-packagers-sig",
-            "linville",
+            "orphan",
             "salimma"
         ],
         "wiiuse": [
@@ -159161,7 +159204,7 @@
             "jdoss"
         ],
         "wireless-regdb": [
-            "linville"
+            "orphan"
         ],
         "wireless-tools": [
             "orphan"
@@ -162668,7 +162711,7 @@
         ],
         "zd1211-firmware": [
             "kwizart",
-            "linville"
+            "orphan"
         ],
         "zeal": [
             "lbalhar",

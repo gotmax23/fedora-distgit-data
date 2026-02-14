@@ -17816,6 +17816,11 @@
             "epel": "thofmann",
             "fedora": "thofmann"
         },
+        "cliphist": {
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
+        },
         "clipit": {
             "admin": "mtasaka",
             "epel": "orphan",
@@ -21356,6 +21361,11 @@
             "epel": "suve",
             "fedora": "suve"
         },
+        "danksearch": {
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
+        },
         "danmaq": {
             "admin": "zsun",
             "epel": "zsun",
@@ -22615,6 +22625,11 @@
             "admin": "lkundrak",
             "epel": "lkundrak",
             "fedora": "lkundrak"
+        },
+        "dgop": {
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "dh-autoreconf": {
             "admin": "smani",
@@ -56897,9 +56912,9 @@
             "fedora": "fed500"
         },
         "gotify-desktop": {
-            "admin": "alciregi",
-            "epel": "alciregi",
-            "fedora": "alciregi"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "gotun": {
             "admin": "kushal",
@@ -132743,7 +132758,7 @@
         },
         "pulp-cli": {
             "admin": "x-9c4",
-            "epel": "x-9c4",
+            "epel": "slaanesh",
             "fedora": "x-9c4"
         },
         "pulp-docker": {
@@ -148513,7 +148528,7 @@
         },
         "python-pulp-glue": {
             "admin": "x-9c4",
-            "epel": "x-9c4",
+            "epel": "slaanesh",
             "fedora": "x-9c4"
         },
         "python-pulsectl": {
@@ -168797,7 +168812,7 @@
             "fedora": "music"
         },
         "rust-backoff": {
-            "admin": "alciregi",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -172511,6 +172526,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-dtor": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-dtor-proc-macro": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -174603,7 +174623,7 @@
         },
         "rust-gitui": {
             "admin": "blinxen",
-            "epel": "orphan",
+            "epel": "blinxen",
             "fedora": "blinxen"
         },
         "rust-gix": {
@@ -174682,6 +174702,11 @@
             "fedora": "blinxen"
         },
         "rust-gix-discover": {
+            "admin": "blinxen",
+            "epel": "blinxen",
+            "fedora": "blinxen"
+        },
+        "rust-gix-error": {
             "admin": "blinxen",
             "epel": "blinxen",
             "fedora": "blinxen"
@@ -176580,6 +176605,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-html5ever0.29": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-http": {
             "admin": "decathorpe",
@@ -179226,6 +179256,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-markup5ever0.14": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-markup5ever_rcdom": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -179285,6 +179320,11 @@
             "admin": "dcavalca",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-matugen": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-maxminddb": {
             "admin": "decathorpe",
@@ -180160,6 +180200,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-norm": {
+            "admin": "lecris",
+            "epel": "lecris",
+            "fedora": "lecris"
         },
         "rust-normalize-line": {
             "admin": "orphan",
@@ -183785,6 +183830,11 @@
             "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-rawzip": {
+            "admin": "blinxen",
+            "epel": "blinxen",
+            "fedora": "blinxen"
         },
         "rust-rayon": {
             "admin": "decathorpe",
@@ -194077,9 +194127,9 @@
             "fedora": "jwrdegoede"
         },
         "sjinn": {
-            "admin": "linville",
-            "epel": "linville",
-            "fedora": "linville"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "sk2py": {
             "admin": "orphan",
@@ -200882,9 +200932,9 @@
             "fedora": "rishi"
         },
         "toolshed": {
-            "admin": "linville",
-            "epel": "linville",
-            "fedora": "linville"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "toot": {
             "admin": "alciregi",
@@ -203267,9 +203317,9 @@
             "fedora": "orphan"
         },
         "unzoo": {
-            "admin": "linville",
-            "epel": "linville",
-            "fedora": "linville"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "uom-lib": {
             "admin": "orphan",
@@ -206082,9 +206132,9 @@
             "fedora": "orphan"
         },
         "wiggle": {
-            "admin": "linville",
-            "epel": "linville",
-            "fedora": "linville"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "wiiuse": {
             "admin": "limb",
@@ -206317,9 +206367,9 @@
             "fedora": "jdoss"
         },
         "wireless-regdb": {
-            "admin": "linville",
-            "epel": "linville",
-            "fedora": "linville"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "wireless-tools": {
             "admin": "orphan",
@@ -210952,9 +211002,9 @@
             "fedora": "jdieter"
         },
         "zd1211-firmware": {
-            "admin": "linville",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "linville"
+            "fedora": "orphan"
         },
         "zeal": {
             "admin": "salimma",
