@@ -176608,8 +176608,8 @@
         },
         "rust-html5ever0.29": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-http": {
             "admin": "decathorpe",
@@ -179258,8 +179258,8 @@
         },
         "rust-markup5ever0.14": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-markup5ever_rcdom": {
             "admin": "decathorpe",
@@ -190965,6 +190965,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-xterm-color": {
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "rust-xterm-query": {
             "admin": "decathorpe",

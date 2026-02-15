@@ -31020,7 +31020,8 @@
         ],
         "global": [
             "cheeselee",
-            "landgraf"
+            "landgraf",
+            "mkrupcale"
         ],
         "globalplatform": [
             "fkooman",
@@ -147737,6 +147738,9 @@
         "rust-xmlwriter": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-xterm-color": [
+            "ngompa"
         ],
         "rust-xterm-query": [
             "@rust-sig",
