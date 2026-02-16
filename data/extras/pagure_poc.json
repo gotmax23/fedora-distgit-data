@@ -4956,6 +4956,11 @@
             "epel": "jjames",
             "fedora": "jjames"
         },
+        "DankMaterialShell": {
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
+        },
         "DecodeIR": {
             "admin": "orphan",
             "epel": "orphan",

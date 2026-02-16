@@ -3906,6 +3906,11 @@
         "DSDP": [
             "jjames"
         ],
+        "DankMaterialShell": [
+            "@go-sig",
+            "@miracle-sig",
+            "ngompa"
+        ],
         "DecodeIR": [
             "leamas",
             "orphan"
@@ -8807,7 +8812,8 @@
             "jonathanspw",
             "moceap",
             "ngompa",
-            "slaanesh"
+            "slaanesh",
+            "terjeros"
         ],
         "apt-cacher-ng": [
             "adetiste",
@@ -123819,6 +123825,7 @@
             "orphan"
         ],
         "quickshell": [
+            "@miracle-sig",
             "ngompa"
         ],
         "quicksynergy": [
