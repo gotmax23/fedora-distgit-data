@@ -12169,6 +12169,7 @@
             "orphan"
         ],
         "bustle": [
+            "@gnome-sig",
             "@rust-sig",
             "petersen",
             "pwithnall"
@@ -25752,7 +25753,8 @@
             "pbrobinson"
         ],
         "gammaray": [
-            "aekoroglu"
+            "aekoroglu",
+            "fedepell"
         ],
         "gammastep": [
             "alebastr"
@@ -32773,6 +32775,7 @@
             "tmraz"
         ],
         "gnuplot": [
+            "fedepell",
             "jkucera",
             "orion",
             "pcahyna"
@@ -34846,7 +34849,7 @@
         ],
         "golang-github-colinmarc-hdfs-2": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-collectd-go-collectd": [
             "jchaloup",
@@ -37235,7 +37238,7 @@
         ],
         "golang-github-hub": [
             "@go-sig",
-            "jaymzh"
+            "orphan"
         ],
         "golang-github-hudl-fargo": [
             "@go-sig",
@@ -54972,6 +54975,10 @@
         "kup": [
             "orphan"
         ],
+        "kup-backup": [
+            "@kde-sig",
+            "farchord"
+        ],
         "kupfer": [
             "orphan"
         ],
@@ -60858,7 +60865,6 @@
             "rstrode"
         ],
         "libwnck": [
-            "@gnome-sig",
             "jonathanspw",
             "mclasen",
             "rhughes",
@@ -78847,7 +78853,7 @@
         ],
         "openssl3": [
             "@epel-packagers-sig",
-            "salimma"
+            "orphan"
         ],
         "openstack-barbican": [
             "orphan"
@@ -96148,6 +96154,7 @@
         "pgpdump": [
             "@epel-packagers-sig",
             "cicku",
+            "mikelo2",
             "nb",
             "turboben"
         ],
@@ -102690,6 +102697,10 @@
             "slaanesh",
             "x-9c4"
         ],
+        "pulp-cli-deb": [
+            "slaanesh",
+            "x-9c4"
+        ],
         "pulp-docker": [
             "orphan"
         ],
@@ -104467,7 +104478,8 @@
         ],
         "python-apt": [
             "jonathanspw",
-            "ngompa"
+            "ngompa",
+            "terjeros"
         ],
         "python-apypie": [
             "ogajduse"
@@ -114850,6 +114862,10 @@
             "slaanesh",
             "x-9c4"
         ],
+        "python-pulp-glue-deb": [
+            "slaanesh",
+            "x-9c4"
+        ],
         "python-pulsectl": [
             "pfrields"
         ],
@@ -117835,7 +117851,7 @@
             "smani"
         ],
         "python-simpleaudio": [
-            "suve"
+            "orphan"
         ],
         "python-simplebayes": [
             "@python-packagers-sig",
@@ -119160,6 +119176,7 @@
             "aekoroglu",
             "dcavalca",
             "dminer",
+            "fedepell",
             "mrunge",
             "ngompa",
             "salimma"
@@ -120570,7 +120587,7 @@
         ],
         "python-wavio": [
             "gui1ty",
-            "suve"
+            "orphan"
         ],
         "python-wcag-contrast-ratio": [
             "ksurma"
@@ -129502,6 +129519,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-anstream0.6": [
+            "decathorpe"
+        ],
         "rust-anstyle": [
             "@rust-sig",
             "decathorpe"
@@ -129514,12 +129534,18 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-anstyle-parse0.2": [
+            "decathorpe"
+        ],
         "rust-anstyle-query": [
             "@rust-sig",
             "decathorpe"
         ],
         "rust-anstyle-svg": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-anstyle-svg0.1": [
             "decathorpe"
         ],
         "rust-antidote": [
@@ -129638,6 +129664,9 @@
         ],
         "rust-argfile": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-argfile0.2": [
             "decathorpe"
         ],
         "rust-argh": [
@@ -130608,8 +130637,14 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-blobby0.3": [
+            "decathorpe"
+        ],
         "rust-block-buffer": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-block-buffer0.10": [
             "decathorpe"
         ],
         "rust-block-buffer0.7": [
@@ -130635,6 +130670,9 @@
         ],
         "rust-block-padding0.2": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-block-padding0.3": [
             "decathorpe"
         ],
         "rust-blocking": [
@@ -131319,6 +131357,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-chacha20_0.9": [
+            "decathorpe"
+        ],
         "rust-chainerror": [
             "@rust-sig",
             "decathorpe"
@@ -131412,6 +131453,9 @@
         ],
         "rust-cipher0.3": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-cipher0.4": [
             "decathorpe"
         ],
         "rust-circular-buffer": [
@@ -131511,6 +131555,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-clap_lex0.7": [
+            "decathorpe"
+        ],
         "rust-clap_mangen": [
             "@rust-sig",
             "decathorpe"
@@ -131531,6 +131578,7 @@
             "orphan"
         ],
         "rust-cliclack": [
+            "@rust-sig",
             "r0x0d"
         ],
         "rust-clicolors-control": [
@@ -131996,6 +132044,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-cpufeatures0.2": [
+            "decathorpe"
+        ],
         "rust-cpuid-bool": [
             "orphan"
         ],
@@ -132257,6 +132308,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-crypto-common0.1": [
+            "decathorpe"
+        ],
         "rust-crypto-hash": [
             "@rust-sig",
             "decathorpe"
@@ -132345,6 +132399,7 @@
             "decathorpe"
         ],
         "rust-ctor-proc-macro": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-ctor0.1": [
@@ -132352,6 +132407,7 @@
             "decathorpe"
         ],
         "rust-ctor0.2": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-ctr": [
@@ -133160,9 +133216,11 @@
             "decathorpe"
         ],
         "rust-dtor": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-dtor-proc-macro": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-dtparse": [
@@ -134639,6 +134697,9 @@
         ],
         "rust-getrandom0.2": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-getrandom0.3": [
             "decathorpe"
         ],
         "rust-getset": [
@@ -136417,6 +136478,7 @@
             "decathorpe"
         ],
         "rust-html5ever0.29": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-http": [
@@ -136919,6 +136981,9 @@
         ],
         "rust-inout": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-inout0.1": [
             "decathorpe"
         ],
         "rust-input": [
@@ -138553,6 +138618,7 @@
             "decathorpe"
         ],
         "rust-markup5ever0.14": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-markup5ever_rcdom": [
@@ -139231,6 +139297,7 @@
             "decathorpe"
         ],
         "rust-nix0.30": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-nix0.8": [
@@ -139295,6 +139362,7 @@
             "decathorpe"
         ],
         "rust-norm": [
+            "@rust-sig",
             "lecris"
         ],
         "rust-normalize-line": [
@@ -139627,6 +139695,9 @@
         ],
         "rust-object0.36": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-object0.37": [
             "decathorpe"
         ],
         "rust-objekt": [
@@ -141952,6 +142023,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-rand0.9": [
+            "decathorpe"
+        ],
         "rust-rand_chacha": [
             "@rust-sig",
             "decathorpe"
@@ -141966,6 +142040,9 @@
         ],
         "rust-rand_chacha0.3": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-rand_chacha0.9": [
             "decathorpe"
         ],
         "rust-rand_core": [
@@ -141992,6 +142069,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-rand_core0.9": [
+            "decathorpe"
+        ],
         "rust-rand_distr": [
             "@rust-sig",
             "decathorpe"
@@ -142001,6 +142081,9 @@
         ],
         "rust-rand_distr0.4": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-rand_distr0.5": [
             "decathorpe"
         ],
         "rust-rand_hc": [
@@ -142021,6 +142104,12 @@
         ],
         "rust-rand_isaac0.2": [
             "orphan"
+        ],
+        "rust-rand_isaac0.3": [
+            "decathorpe"
+        ],
+        "rust-rand_isaac0.4": [
+            "decathorpe"
         ],
         "rust-rand_jitter": [
             "@rust-sig",
@@ -142055,6 +142144,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-rand_pcg0.9": [
+            "decathorpe"
+        ],
         "rust-rand_regex": [
             "@rust-sig",
             "orphan"
@@ -142076,6 +142168,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-rand_xorshift0.4": [
+            "decathorpe"
+        ],
         "rust-rand_xoshiro": [
             "@rust-sig",
             "decathorpe"
@@ -142083,6 +142178,9 @@
         "rust-rand_xoshiro0.6": [
             "@rust-sig",
             "music"
+        ],
+        "rust-rand_xoshiro0.7": [
+            "decathorpe"
         ],
         "rust-random": [
             "@rust-sig",
@@ -142634,6 +142732,9 @@
         ],
         "rust-roff0.1": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-roff0.2": [
             "decathorpe"
         ],
         "rust-ron": [
@@ -144171,8 +144272,14 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-snapbox-macros0.4": [
+            "decathorpe"
+        ],
         "rust-snapbox0.4": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-snapbox0.6": [
             "decathorpe"
         ],
         "rust-snowflake": [
@@ -145035,6 +145142,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-termtree0.5": [
+            "decathorpe"
+        ],
         "rust-termwiz": [
             "@rust-sig",
             "dcavalca"
@@ -145558,12 +145668,18 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-toml0.9": [
+            "decathorpe"
+        ],
         "rust-toml_datetime": [
             "@rust-sig",
             "decathorpe"
         ],
         "rust-toml_datetime0.6": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-toml_datetime0.7": [
             "decathorpe"
         ],
         "rust-toml_edit": [
@@ -145589,6 +145705,9 @@
         "rust-toml_edit0.23": [
             "@rust-sig",
             "music"
+        ],
+        "rust-toml_edit0.24": [
+            "decathorpe"
         ],
         "rust-toml_parser": [
             "@rust-sig",
@@ -146126,8 +146245,14 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-trycmd0.15": [
+            "decathorpe"
+        ],
         "rust-tryfn": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-tryfn0.2": [
             "decathorpe"
         ],
         "rust-tss-esapi": [
@@ -147747,6 +147872,7 @@
             "decathorpe"
         ],
         "rust-xterm-color": [
+            "@rust-sig",
             "ngompa"
         ],
         "rust-xterm-query": [
@@ -151117,7 +151243,7 @@
             "ganto"
         ],
         "spectrographic": [
-            "suve"
+            "orphan"
         ],
         "spectrum": [
             "mcepl",
@@ -155640,8 +155766,7 @@
         ],
         "transmission": [
             "limb",
-            "maxamillion",
-            "oturpe"
+            "maxamillion"
         ],
         "transmission-remote-cli": [
             "orphan"
@@ -159340,6 +159465,9 @@
         ],
         "wlroots0.18": [
             "@sway-sig",
+            "alebastr"
+        ],
+        "wlroots0.19": [
             "alebastr"
         ],
         "wlsunset": [
