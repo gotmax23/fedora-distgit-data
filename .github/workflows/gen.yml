@@ -16,11 +16,11 @@ jobs:
       security-events: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           persist-credentials: false
       - name: zizmor
-        uses: zizmorcore/zizmor-action@v0.5.0
+        uses: zizmorcore/zizmor-action@v0.5.6
       - name: actionlint
         uses: docker://rhysd/actionlint:latest
   download:
@@ -46,7 +46,7 @@ jobs:
       - name: Sort pagure_bz.json
         run: python3 tools/pagure_bz_sort.py
       - name: Upload artifact
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: data
           path: data
@@ -59,16 +59,16 @@ jobs:
       contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
-          persist-credentials: false
+          persist-credentials: true
       - name: Set Git user to github-actions
         uses: gotmax23/set-bot-git-user-action@v1
         with:
           bot: github-actions
           name: "Github Actions"
       - name: Download artifact
-        uses: actions/download-artifact@v7
+        uses: actions/download-artifact@v8
         with:
           name: data
           path: data
