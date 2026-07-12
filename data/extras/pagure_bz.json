@@ -24781,7 +24781,6 @@
             "orphan"
         ],
         "folder-color-switcher": [
-            "@epel-packagers-sig",
             "leigh123linux"
         ],
         "foliate": [
@@ -32211,7 +32210,6 @@
             "limb"
         ],
         "gnome-online-accounts-gtk": [
-            "@epel-packagers-sig",
             "leigh123linux"
         ],
         "gnome-online-miners": [
@@ -61566,7 +61564,6 @@
             "orphan"
         ],
         "lightdm-settings": [
-            "@epel-packagers-sig",
             "leigh123linux"
         ],
         "lightly": [
@@ -111315,6 +111312,7 @@
         ],
         "python-jupyter-kernel-test": [
             "@python-packagers-sig",
+            "kkeithle",
             "qulogic"
         ],
         "python-jupyter-lsp": [
@@ -151917,7 +151915,6 @@
             "orphan"
         ],
         "slick-greeter": [
-            "@epel-packagers-sig",
             "leigh123linux"
         ],
         "slim": [
@@ -154656,7 +154653,8 @@
         "syncthing": [
             "@go-sig",
             "decathorpe",
-            "gotmax23"
+            "gotmax23",
+            "vw1057"
         ],
         "syncthing-gtk": [
             "orphan"
@@ -161852,7 +161850,6 @@
             "alebastr"
         ],
         "xdg-desktop-portal-xapp": [
-            "@epel-packagers-sig",
             "leigh123linux"
         ],
         "xdg-native-messaging-proxy": [
@@ -161998,6 +161995,7 @@
             "orphan"
         ],
         "xeus": [
+            "kkeithle",
             "qulogic"
         ],
         "xeus-zmq": [
@@ -163691,6 +163689,7 @@
         "xtl": [
             "@epel-packagers-sig",
             "cottsay",
+            "kkeithle",
             "qulogic"
         ],
         "xtrace": [

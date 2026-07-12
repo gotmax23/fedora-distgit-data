@@ -17443,7 +17443,7 @@
         },
         "cinnamon": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "cinnamon-applet-globalappmenu": {
@@ -17453,32 +17453,32 @@
         },
         "cinnamon-control-center": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "cinnamon-desktop": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "cinnamon-menus": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "cinnamon-screensaver": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "cinnamon-session": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "cinnamon-settings-daemon": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "cinnamon-themes": {
@@ -17488,7 +17488,7 @@
         },
         "cinnamon-translations": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "ciphertest": {
@@ -17543,7 +17543,7 @@
         },
         "cjs": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "cjson": {
@@ -32233,7 +32233,7 @@
         },
         "folder-color-switcher": {
             "admin": "leigh123linux",
-            "epel": "@epel-packagers-sig",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "foliate": {
@@ -41838,7 +41838,7 @@
         },
         "gnome-online-accounts-gtk": {
             "admin": "leigh123linux",
-            "epel": "@epel-packagers-sig",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "gnome-online-miners": {
@@ -79663,7 +79663,7 @@
         },
         "lightdm-settings": {
             "admin": "leigh123linux",
-            "epel": "@epel-packagers-sig",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "lightly": {
@@ -87433,7 +87433,7 @@
         },
         "mint-themes": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "mint-themes-gtk3": {
@@ -87443,12 +87443,12 @@
         },
         "mint-x-icons": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "mint-y-icons": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "mint-y-theme": {
@@ -87458,7 +87458,7 @@
         },
         "mintlocale": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "mintmenu": {
@@ -89543,7 +89543,7 @@
         },
         "muffin": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "mugshot": {
@@ -90883,12 +90883,12 @@
         },
         "nemo": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "nemo-extensions": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "nemo-open-terminal": {
@@ -157423,7 +157423,7 @@
         },
         "python-xapp": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "python-xappy": {
@@ -197303,7 +197303,7 @@
         },
         "slick-greeter": {
             "admin": "leigh123linux",
-            "epel": "@epel-packagers-sig",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "slim": {
@@ -210378,12 +210378,12 @@
         },
         "xapp-symbolic-icons": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "xapps": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "xar": {
@@ -210773,7 +210773,7 @@
         },
         "xdg-desktop-portal-xapp": {
             "admin": "leigh123linux",
-            "epel": "@epel-packagers-sig",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "xdg-native-messaging-proxy": {
@@ -210873,7 +210873,7 @@
         },
         "xed": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "xedit": {
@@ -212978,7 +212978,7 @@
         },
         "xreader": {
             "admin": "leigh123linux",
-            "epel": "leigh123linux",
+            "epel": "orphan",
             "fedora": "leigh123linux"
         },
         "xrefresh": {
