@@ -42911,6 +42911,11 @@
             "epel": "jchaloup",
             "fedora": "eclipseo"
         },
+        "go-chromecast": {
+            "admin": "omos",
+            "epel": "omos",
+            "fedora": "omos"
+        },
         "go-compilers": {
             "admin": "orphan",
             "epel": "orphan",
@@ -134757,9 +134762,9 @@
             "fedora": "orphan"
         },
         "python-CommonMark": {
-            "admin": "jujens",
-            "epel": "jujens",
-            "fedora": "jujens"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-ECPy": {
             "admin": "orphan",
@@ -152192,9 +152197,9 @@
             "fedora": "fed500"
         },
         "python-recommonmark": {
-            "admin": "jujens",
-            "epel": "jujens",
-            "fedora": "jujens"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-recordclass": {
             "admin": "orphan",
@@ -212957,9 +212962,9 @@
             "fedora": "whot"
         },
         "xrdb": {
-            "admin": "whot",
-            "epel": "whot",
-            "fedora": "whot"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "xrdcl-http": {
             "admin": "orphan",
@@ -213082,9 +213087,9 @@
             "fedora": "mystro256"
         },
         "xset": {
-            "admin": "whot",
-            "epel": "whot",
-            "fedora": "whot"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "xsetpointer": {
             "admin": "ajax",

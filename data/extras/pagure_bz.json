@@ -13397,6 +13397,7 @@
             "rstoyanov"
         ],
         "checkpolicy": [
+            "ca-hu",
             "dwalsh",
             "mmalik",
             "plautrba",
@@ -33012,6 +33013,10 @@
             "@go-sig",
             "eclipseo",
             "jchaloup"
+        ],
+        "go-chromecast": [
+            "@go-sig",
+            "omos"
         ],
         "go-compilers": [
             "jchaloup",
@@ -60210,6 +60215,7 @@
             "sagitter"
         ],
         "libselinux": [
+            "ca-hu",
             "dwalsh",
             "mmalik",
             "plautrba",
@@ -60219,6 +60225,7 @@
             "orphan"
         ],
         "libsemanage": [
+            "ca-hu",
             "dwalsh",
             "mmalik",
             "plautrba",
@@ -60228,6 +60235,7 @@
             "jjames"
         ],
         "libsepol": [
+            "ca-hu",
             "dwalsh",
             "mmalik",
             "plautrba",
@@ -64865,6 +64873,7 @@
             "orphan"
         ],
         "mcstrans": [
+            "ca-hu",
             "dwalsh",
             "mmalik",
             "plautrba"
@@ -64893,7 +64902,8 @@
         ],
         "mdbtools": [
             "jwrdegoede",
-            "lkundrak"
+            "lkundrak",
+            "mschorm"
         ],
         "mdds": [
             "dtardon"
@@ -101549,6 +101559,7 @@
             "mavit"
         ],
         "policycoreutils": [
+            "ca-hu",
             "dwalsh",
             "lvrabec",
             "mmalik",
@@ -103556,7 +103567,7 @@
             "orphan"
         ],
         "python-CommonMark": [
-            "jujens"
+            "orphan"
         ],
         "python-ECPy": [
             "orphan"
@@ -105642,7 +105653,8 @@
         "python-black": [
             "@python-packagers-sig",
             "cheimes",
-            "churchyard"
+            "churchyard",
+            "tollsimy"
         ],
         "python-blackbird": [
             "orphan"
@@ -116989,7 +117001,7 @@
             "fed500"
         ],
         "python-recommonmark": [
-            "jujens"
+            "orphan"
         ],
         "python-recordclass": [
             "orphan"
@@ -150794,6 +150806,7 @@
             "stefansf"
         ],
         "secilc": [
+            "ca-hu",
             "mmalik",
             "plautrba",
             "vmojzis"
@@ -150858,6 +150871,7 @@
             "orphan"
         ],
         "selint": [
+            "ca-hu",
             "jmarcin",
             "omos",
             "plautrba",
@@ -150868,6 +150882,7 @@
             "orphan"
         ],
         "selinux-policy": [
+            "ca-hu",
             "dwalsh",
             "lvrabec",
             "mmalik",
@@ -151027,6 +151042,7 @@
             "jamacku"
         ],
         "setools": [
+            "ca-hu",
             "dwalsh",
             "mmalik",
             "plautrba",
@@ -151035,12 +151051,14 @@
             "vsyncako"
         ],
         "setroubleshoot": [
+            "ca-hu",
             "dwalsh",
             "mmalik",
             "plautrba",
             "vmojzis"
         ],
         "setroubleshoot-plugins": [
+            "ca-hu",
             "dwalsh",
             "mmalik",
             "plautrba",
@@ -154674,8 +154692,7 @@
         "syncthing": [
             "@go-sig",
             "decathorpe",
-            "gotmax23",
-            "vw1057"
+            "gotmax23"
         ],
         "syncthing-gtk": [
             "orphan"
@@ -158177,6 +158194,7 @@
             "pcahyna"
         ],
         "udica": [
+            "ca-hu",
             "lvrabec",
             "mmalik",
             "plautrba",
@@ -162024,7 +162042,8 @@
             "qulogic"
         ],
         "xeus-zmq": [
-            "fed500"
+            "fed500",
+            "kkeithle"
         ],
         "xev": [
             "@graphics-sig",
@@ -163519,8 +163538,8 @@
         ],
         "xrdb": [
             "ajax",
-            "ofourdan",
-            "whot"
+            "filiperosset",
+            "ofourdan"
         ],
         "xrdcl-http": [
             "orphan"
@@ -163619,8 +163638,8 @@
         ],
         "xset": [
             "ajax",
-            "ofourdan",
-            "whot"
+            "filiperosset",
+            "ofourdan"
         ],
         "xsetpointer": [
             "ajax"
