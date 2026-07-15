@@ -2780,6 +2780,9 @@
         "zeal": [
             "@flatpak-sig",
             "yselkowitz"
+        ],
+        "zoitechat": [
+            "yselkowitz"
         ]
     },
     "modules": {
@@ -15185,6 +15188,9 @@
             "lsm5",
             "mohanboddu"
         ],
+        "conmon-v3": [
+            "jkaluza"
+        ],
         "conmux": [
             "bpeck"
         ],
@@ -17606,6 +17612,7 @@
             "orphan"
         ],
         "deskflow": [
+            "aekoroglu",
             "astra",
             "dchen",
             "ngompa"
@@ -90890,7 +90897,7 @@
         ],
         "perl-Parallel-Prefork": [
             "corsepiu",
-            "orphan",
+            "eseyman",
             "perl-sig"
         ],
         "perl-Parallel-Runner": [
@@ -118804,8 +118811,8 @@
         ],
         "python-spyder-kernels": [
             "@neuro-sig",
-            "gui1ty",
-            "jonathanspw"
+            "jonathanspw",
+            "orphan"
         ],
         "python-spyking-circus": [
             "@neuro-sig",
@@ -125702,6 +125709,9 @@
         "rocs": [
             "@kde-sig",
             "than"
+        ],
+        "rocshmem": [
+            "trix"
         ],
         "rocsolver": [
             "@rocm-packagers-sig",
@@ -152000,6 +152010,7 @@
             "ppisar"
         ],
         "slurm": [
+            "adrian",
             "dklein",
             "neil",
             "pillose",
@@ -153092,6 +153103,7 @@
             "@neuro-sig",
             "gui1ty",
             "jonathanspw",
+            "orphan",
             "prgutier"
         ],
         "spymemcached": [

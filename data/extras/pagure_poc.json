@@ -3426,6 +3426,11 @@
             "admin": "yselkowitz",
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
+        },
+        "zoitechat": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
         }
     },
     "modules": {
@@ -19570,6 +19575,11 @@
             "admin": "haircommander",
             "epel": "haircommander",
             "fedora": "haircommander"
+        },
+        "conmon-v3": {
+            "admin": "jkaluza",
+            "epel": "jkaluza",
+            "fedora": "jkaluza"
         },
         "conmux": {
             "admin": "bpeck",
@@ -117887,9 +117897,9 @@
             "fedora": "jplesnik"
         },
         "perl-Parallel-Prefork": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "eseyman",
+            "epel": "eseyman",
+            "fedora": "eseyman"
         },
         "perl-Parallel-Runner": {
             "admin": "pghmcfc",
@@ -154477,9 +154487,9 @@
             "fedora": "orion"
         },
         "python-spyder-kernels": {
-            "admin": "gui1ty",
-            "epel": "gui1ty",
-            "fedora": "gui1ty"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-spyking-circus": {
             "admin": "ankursinha",
@@ -163630,6 +163640,11 @@
             "admin": "than",
             "epel": "than",
             "fedora": "than"
+        },
+        "rocshmem": {
+            "admin": "trix",
+            "epel": "trix",
+            "fedora": "trix"
         },
         "rocsolver": {
             "admin": "trix",
@@ -198807,9 +198822,9 @@
             "fedora": "orphan"
         },
         "spyder": {
-            "admin": "jonathanspw",
-            "epel": "jonathanspw",
-            "fedora": "jonathanspw"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "spymemcached": {
             "admin": "orphan",
