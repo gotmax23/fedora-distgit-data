@@ -15378,7 +15378,7 @@
         },
         "bsh": {
             "admin": "didiksupriadi41",
-            "epel": "didiksupriadi41",
+            "epel": "kkeithle",
             "fedora": "didiksupriadi41"
         },
         "bsp": {
@@ -82551,6 +82551,11 @@
             "epel": "mschorm",
             "fedora": "mschorm"
         },
+        "mariadb-connector-python": {
+            "admin": "dhandzus",
+            "epel": "dhandzus",
+            "fedora": "dhandzus"
+        },
         "mariadb-galera": {
             "admin": "orphan",
             "epel": "orphan",
@@ -131608,7 +131613,7 @@
         },
         "plexus-i18n": {
             "admin": "didiksupriadi41",
-            "epel": "didiksupriadi41",
+            "epel": "kkeithle",
             "fedora": "didiksupriadi41"
         },
         "plexus-interactivity": {
@@ -156207,9 +156212,9 @@
             "fedora": "limb"
         },
         "python-types-docutils": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-types-enum34": {
             "admin": "salimma",

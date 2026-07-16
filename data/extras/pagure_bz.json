@@ -2782,6 +2782,7 @@
             "yselkowitz"
         ],
         "zoitechat": [
+            "@flatpak-sig",
             "yselkowitz"
         ]
     },
@@ -12027,6 +12028,7 @@
         ],
         "bsh": [
             "didiksupriadi41",
+            "kkeithle",
             "mizdebsk",
             "mkoncek",
             "salimma"
@@ -63832,6 +63834,10 @@
             "mschorm",
             "psloboda"
         ],
+        "mariadb-connector-python": [
+            "@db-sig",
+            "dhandzus"
+        ],
         "mariadb-galera": [
             "orphan"
         ],
@@ -101181,6 +101187,7 @@
         "plexus-i18n": [
             "didiksupriadi41",
             "java-sig",
+            "kkeithle",
             "mizdebsk",
             "mkoncek"
         ],
@@ -120123,9 +120130,8 @@
         ],
         "python-types-docutils": [
             "@epel-packagers-sig",
-            "@neuro-sig",
-            "ankursinha",
-            "kkeithle"
+            "kkeithle",
+            "orphan"
         ],
         "python-types-enum34": [
             "@epel-packagers-sig",
@@ -121987,7 +121993,8 @@
             "orphan"
         ],
         "python3-mallard-ducktype": [
-            "amigadave"
+            "amigadave",
+            "yaneti"
         ],
         "python3-markupsafe": [
             "orphan"
