@@ -5418,7 +5418,7 @@
         },
         "JUnitParams": {
             "admin": "jjames",
-            "epel": "jjames",
+            "epel": "kkeithle",
             "fedora": "jjames"
         },
         "Java-WebSocket": {
@@ -12918,7 +12918,7 @@
         },
         "autolink-java": {
             "admin": "jjames",
-            "epel": "jjames",
+            "epel": "kkeithle",
             "fedora": "jjames"
         },
         "automake": {
@@ -20017,6 +20017,11 @@
             "fedora": "ryanabx"
         },
         "cosmic-launcher": {
+            "admin": "ryanabx",
+            "epel": "ryanabx",
+            "fedora": "ryanabx"
+        },
+        "cosmic-monitor": {
             "admin": "ryanabx",
             "epel": "ryanabx",
             "fedora": "ryanabx"
@@ -66153,7 +66158,7 @@
         },
         "jetbrains-annotations": {
             "admin": "jjames",
-            "epel": "jjames",
+            "epel": "kkeithle",
             "fedora": "jjames"
         },
         "jetbrains-mono-fonts": {
@@ -212945,6 +212950,11 @@
             "admin": "dcavalca",
             "epel": "dcavalca",
             "fedora": "dcavalca"
+        },
+        "xpu-manager": {
+            "admin": "androniychuk",
+            "epel": "androniychuk",
+            "fedora": "androniychuk"
         },
         "xq": {
             "admin": "mikelo2",

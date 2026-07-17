@@ -4255,7 +4255,8 @@
             "orphan"
         ],
         "JUnitParams": [
-            "jjames"
+            "jjames",
+            "kkeithle"
         ],
         "Java-WebSocket": [
             "@libreoffice-sig",
@@ -10137,7 +10138,8 @@
         ],
         "autolink-java": [
             "@java-maint-sig",
-            "jjames"
+            "jjames",
+            "kkeithle"
         ],
         "automake": [
             "fberat",
@@ -15571,6 +15573,9 @@
         "cosmic-launcher": [
             "@cosmic-sig",
             "@rust-sig",
+            "ryanabx"
+        ],
+        "cosmic-monitor": [
             "ryanabx"
         ],
         "cosmic-notifications": [
@@ -50757,7 +50762,8 @@
         "jetbrains-annotations": [
             "@java-maint-sig",
             "java-sig",
-            "jjames"
+            "jjames",
+            "kkeithle"
         ],
         "jetbrains-mono-fonts": [
             "aekoroglu",
@@ -56019,7 +56025,8 @@
         "lfortran": [
             "averbyts",
             "fed500",
-            "junghans"
+            "junghans",
+            "kkeithle"
         ],
         "lfsc": [
             "orphan"
@@ -163528,6 +163535,9 @@
         "xpsk31": [
             "dcavalca"
         ],
+        "xpu-manager": [
+            "androniychuk"
+        ],
         "xq": [
             "@go-sig",
             "mikelo2"
@@ -164163,6 +164173,7 @@
         ],
         "yq": [
             "@go-sig",
+            "mikelo2",
             "salimma"
         ],
         "yt-dlp": [
@@ -165065,6 +165076,7 @@
         "espeak-ng": [
             "bnater",
             "jskarvad",
+            "omejzlik",
             "psklenar"
         ],
         "exim": [
@@ -165072,6 +165084,7 @@
         ],
         "expat": [
             "bnater",
+            "omejzlik",
             "psklenar",
             "tkorbar"
         ],
@@ -165269,6 +165282,7 @@
             "mkoncek"
         ],
         "json-c": [
+            "omejzlik",
             "psklenar",
             "tkorbar"
         ],
@@ -165314,6 +165328,7 @@
             "omejzlik"
         ],
         "libidn2": [
+            "omejzlik",
             "pdancak"
         ],
         "libijs": [
@@ -165905,6 +165920,7 @@
             "zdohnal"
         ],
         "utf8proc": [
+            "omejzlik",
             "psklenar",
             "tkorbar"
         ],
@@ -165936,6 +165952,7 @@
         ],
         "wavpack": [
             "bnater",
+            "omejzlik",
             "psklenar",
             "tkorbar"
         ],
