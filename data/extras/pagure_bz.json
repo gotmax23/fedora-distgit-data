@@ -1600,6 +1600,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "klatexformula": [
+            "yselkowitz"
+        ],
         "klavaro": [
             "@flatpak-sig",
             "yselkowitz"
@@ -13736,7 +13739,6 @@
             "benniej",
             "cnl219",
             "ensc",
-            "gbcox",
             "leejnk",
             "limb",
             "nevun",
@@ -17209,6 +17211,9 @@
         "decibels": [
             "@gnome-sig",
             "ngompa"
+        ],
+        "decklink": [
+            "rathann"
         ],
         "decnumber": [
             "dcavalca"
@@ -24582,7 +24587,8 @@
         ],
         "flexmark-java": [
             "@java-maint-sig",
-            "jjames"
+            "jjames",
+            "kkeithle"
         ],
         "flickcurl": [
             "mjg"
@@ -45866,6 +45872,7 @@
         "hawtjni": [
             "didiksupriadi41",
             "java-sig",
+            "kkeithle",
             "mizdebsk",
             "mkoncek"
         ],
@@ -46080,7 +46087,7 @@
             "orphan"
         ],
         "hexchat": [
-            "kevin"
+            "orphan"
         ],
         "hexchat-autoaway": [
             "dchen"
@@ -55668,7 +55675,6 @@
             "orphan"
         ],
         "latte-dock": [
-            "gbcox",
             "marcdeop",
             "orphan"
         ],
@@ -67720,7 +67726,6 @@
             "sagitter"
         ],
         "mldonkey": [
-            "gbcox",
             "orphan",
             "peter"
         ],
@@ -68973,7 +68978,6 @@
         "msmtp": [
             "@epel-packagers-sig",
             "devos",
-            "gbcox",
             "peter",
             "romaingeissler1a",
             "wart"
@@ -100856,8 +100860,7 @@
             "vascom"
         ],
         "plasma-applet-weather-widget": [
-            "@kde-sig",
-            "gbcox"
+            "@kde-sig"
         ],
         "plasma-bigscreen": [
             "@kde-sig",
@@ -123865,8 +123868,7 @@
             "farchord"
         ],
         "qtiocompressor": [
-            "fale",
-            "gbcox"
+            "fale"
         ],
         "qtiplot": [
             "orphan"
@@ -146711,6 +146713,12 @@
             "@rust-sig",
             "orphan"
         ],
+        "rust-tls_codec": [
+            "rathann"
+        ],
+        "rust-tls_codec_derive": [
+            "rathann"
+        ],
         "rust-tokei": [
             "@rust-sig",
             "decathorpe",
@@ -164229,7 +164237,6 @@
             "nb"
         ],
         "yubioath-desktop": [
-            "gbcox",
             "orion"
         ],
         "yudit": [
@@ -165049,6 +165056,7 @@
         "dnsmasq": [
             "@dns-sig",
             "aguidi",
+            "omejzlik",
             "pemensik",
             "psklenar",
             "tkorbar"
@@ -165902,6 +165910,7 @@
         ],
         "unbound": [
             "@dns-sig",
+            "omejzlik",
             "pemensik",
             "psklenar",
             "tkorbar"

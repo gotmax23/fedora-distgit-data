@@ -1957,6 +1957,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "klatexformula": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "klavaro": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -22131,6 +22136,11 @@
             "epel": "ngompa",
             "fedora": "ngompa"
         },
+        "decklink": {
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
+        },
         "decnumber": {
             "admin": "dcavalca",
             "epel": "dcavalca",
@@ -31943,7 +31953,7 @@
         },
         "flexmark-java": {
             "admin": "jjames",
-            "epel": "jjames",
+            "epel": "kkeithle",
             "fedora": "jjames"
         },
         "flickcurl": {
@@ -59972,9 +59982,9 @@
             "fedora": "orphan"
         },
         "hexchat": {
-            "admin": "kevin",
-            "epel": "kevin",
-            "fedora": "kevin"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "hexchat-autoaway": {
             "admin": "dchen",
@@ -190515,6 +190525,16 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "rust-tls_codec": {
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
+        },
+        "rust-tls_codec_derive": {
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
         },
         "rust-tokei": {
             "admin": "music",
