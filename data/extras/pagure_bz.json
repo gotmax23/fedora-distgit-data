@@ -1601,6 +1601,7 @@
             "yselkowitz"
         ],
         "klatexformula": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "klavaro": [
@@ -106823,6 +106824,9 @@
             "msuchy",
             "praiskup"
         ],
+        "python-coprtree": [
+            "sundaram123krishnan"
+        ],
         "python-coreapi": [
             "orphan"
         ],
@@ -146714,9 +146718,11 @@
             "orphan"
         ],
         "rust-tls_codec": [
+            "@rust-sig",
             "rathann"
         ],
         "rust-tls_codec_derive": [
+            "@rust-sig",
             "rathann"
         ],
         "rust-tokei": [
