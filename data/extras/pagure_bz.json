@@ -41179,7 +41179,7 @@
         ],
         "golang-github-sirupsen-logrus": [
             "@go-sig",
-            "orphan"
+            "wojnilowicz"
         ],
         "golang-github-sjmudd-stopwatch": [
             "@go-sig",
@@ -124116,7 +124116,7 @@
             "tieugene"
         ],
         "qview": [
-            "orphan"
+            "yselkowitz"
         ],
         "qvr": [
             "@xr-sig",
@@ -132408,7 +132408,7 @@
         ],
         "rust-const-cstr": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-const-oid": [
             "@rust-sig",
@@ -141268,7 +141268,7 @@
         ],
         "rust-parking_lot0.11": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-parking_lot_core": [
             "@rust-sig",
@@ -141276,7 +141276,7 @@
         ],
         "rust-parking_lot_core0.8": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-parse-size": [
             "@rust-sig",
@@ -149486,7 +149486,7 @@
         ],
         "rust-yeslogic-fontconfig-sys4": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-yoke": [
             "@rust-sig",

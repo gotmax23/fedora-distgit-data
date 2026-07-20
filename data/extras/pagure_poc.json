@@ -53597,9 +53597,9 @@
             "fedora": "orphan"
         },
         "golang-github-sirupsen-logrus": {
-            "admin": "orphan",
+            "admin": "wojnilowicz",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "wojnilowicz"
         },
         "golang-github-sjmudd-stopwatch": {
             "admin": "eclipseo",
@@ -161522,9 +161522,9 @@
             "fedora": "tieugene"
         },
         "qview": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
         },
         "qvr": {
             "admin": "dcavalca",
@@ -172462,7 +172462,7 @@
             "fedora": "orphan"
         },
         "rust-const-cstr": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -179348,8 +179348,8 @@
         },
         "rust-instant": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-int-enum": {
             "admin": "dcavalca",
@@ -183617,7 +183617,7 @@
             "fedora": "@rust-sig"
         },
         "rust-parking_lot0.11": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -183627,7 +183627,7 @@
             "fedora": "@rust-sig"
         },
         "rust-parking_lot_core0.8": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -194072,7 +194072,7 @@
             "fedora": "@rust-sig"
         },
         "rust-yeslogic-fontconfig-sys4": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
