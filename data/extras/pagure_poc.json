@@ -47702,9 +47702,9 @@
             "fedora": "orphan"
         },
         "golang-github-golangci-lint-1": {
-            "admin": "obudai",
-            "epel": "obudai",
-            "fedora": "obudai"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-golangplus-bytes": {
             "admin": "qulogic",
@@ -49632,9 +49632,9 @@
             "fedora": "orphan"
         },
         "golang-github-jwt": {
-            "admin": "obudai",
-            "epel": "obudai",
-            "fedora": "obudai"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-jwt-4": {
             "admin": "alexsaezm",
@@ -49967,9 +49967,9 @@
             "fedora": "orphan"
         },
         "golang-github-labstack-gommon": {
-            "admin": "obudai",
-            "epel": "obudai",
-            "fedora": "obudai"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-ladicle-tabwriter": {
             "admin": "orphan",
@@ -53597,9 +53597,9 @@
             "fedora": "orphan"
         },
         "golang-github-sirupsen-logrus": {
-            "admin": "wojnilowicz",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "wojnilowicz"
+            "fedora": "orphan"
         },
         "golang-github-sjmudd-stopwatch": {
             "admin": "eclipseo",
@@ -62442,9 +62442,9 @@
             "fedora": "orphan"
         },
         "icestorm": {
-            "admin": "somlo",
-            "epel": "somlo",
-            "fedora": "somlo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "icewm": {
             "admin": "atim",
@@ -119537,9 +119537,9 @@
             "fedora": "robert"
         },
         "perl-Starlet": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "xavierb",
+            "epel": "xavierb",
+            "fedora": "xavierb"
         },
         "perl-Starman": {
             "admin": "eseyman",
@@ -142407,9 +142407,9 @@
             "fedora": "music"
         },
         "python-fs": {
-            "admin": "pnemade",
-            "epel": "pnemade",
-            "fedora": "pnemade"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-fsleyes": {
             "admin": "ankursinha",
@@ -146357,9 +146357,9 @@
             "fedora": "orphan"
         },
         "python-migen": {
-            "admin": "somlo",
-            "epel": "somlo",
-            "fedora": "somlo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-migrate": {
             "admin": "orphan",
@@ -172390,6 +172390,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-cond_sync": {
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "rust-config": {
             "admin": "pbrobinson",
@@ -204802,9 +204807,9 @@
             "fedora": "limb"
         },
         "trellis": {
-            "admin": "somlo",
-            "epel": "somlo",
-            "fedora": "somlo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "tremfusion": {
             "admin": "orphan",
@@ -213757,14 +213762,14 @@
             "fedora": "verdurin"
         },
         "yosys": {
-            "admin": "somlo",
-            "epel": "somlo",
-            "fedora": "somlo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "yosyshq-abc": {
-            "admin": "somlo",
-            "epel": "somlo",
-            "fedora": "somlo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "yourls": {
             "admin": "orphan",

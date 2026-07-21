@@ -16833,6 +16833,7 @@
             "aekoroglu",
             "asn",
             "germano",
+            "giman",
             "kalev"
         ],
         "dash": [
@@ -36668,7 +36669,7 @@
         ],
         "golang-github-golangci-lint-1": [
             "@go-sig",
-            "obudai"
+            "orphan"
         ],
         "golang-github-golangplus-bytes": [
             "@go-sig",
@@ -38126,7 +38127,7 @@
         "golang-github-jwt": [
             "@go-sig",
             "@osbuild-sig",
-            "obudai"
+            "orphan"
         ],
         "golang-github-jwt-4": [
             "@go-sig",
@@ -38387,7 +38388,7 @@
         ],
         "golang-github-labstack-gommon": [
             "@go-sig",
-            "obudai"
+            "orphan"
         ],
         "golang-github-ladicle-tabwriter": [
             "@go-sig",
@@ -41179,7 +41180,7 @@
         ],
         "golang-github-sirupsen-logrus": [
             "@go-sig",
-            "wojnilowicz"
+            "orphan"
         ],
         "golang-github-sjmudd-stopwatch": [
             "@go-sig",
@@ -47901,7 +47902,7 @@
         ],
         "icestorm": [
             "lkundrak",
-            "somlo"
+            "orphan"
         ],
         "icewm": [
             "atim",
@@ -70511,8 +70512,7 @@
             "xplosionmind"
         ],
         "nextpnr": [
-            "lkundrak",
-            "somlo"
+            "lkundrak"
         ],
         "nexuiz": [
             "orphan"
@@ -74074,7 +74074,6 @@
         ],
         "nodejs-nodemon": [
             "aradchen",
-            "hhorak",
             "jstanek",
             "tjuhasz"
         ],
@@ -92344,8 +92343,8 @@
         ],
         "perl-Starlet": [
             "corsepiu",
-            "orphan",
-            "perl-sig"
+            "perl-sig",
+            "xavierb"
         ],
         "perl-Starman": [
             "eseyman",
@@ -101976,6 +101975,7 @@
             "smani"
         ],
         "postgresql19": [
+            "@db-sig",
             "fjanus"
         ],
         "postgresql_autodoc": [
@@ -109379,7 +109379,7 @@
             "music"
         ],
         "python-fs": [
-            "pnemade"
+            "orphan"
         ],
         "python-fsleyes": [
             "@neuro-sig",
@@ -112506,7 +112506,7 @@
             "orphan"
         ],
         "python-migen": [
-            "somlo"
+            "orphan"
         ],
         "python-migrate": [
             "@openstack-sig",
@@ -132349,6 +132349,9 @@
         "rust-concurrent-queue": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-cond_sync": [
+            "limb"
         ],
         "rust-config": [
             "@rust-sig",
@@ -155315,6 +155318,7 @@
         ],
         "tbb2020.3": [
             "codonell",
+            "jonathanspw",
             "jwakely"
         ],
         "tbcload": [
@@ -157489,7 +157493,7 @@
         ],
         "trellis": [
             "lkundrak",
-            "somlo"
+            "orphan"
         ],
         "tremfusion": [
             "orphan"
@@ -164152,10 +164156,10 @@
         "yosys": [
             "brouhaha",
             "lkundrak",
-            "somlo"
+            "orphan"
         ],
         "yosyshq-abc": [
-            "somlo"
+            "orphan"
         ],
         "yourls": [
             "mkrizek",
