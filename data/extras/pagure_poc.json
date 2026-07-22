@@ -9767,9 +9767,9 @@
             "fedora": "farchord"
         },
         "akonadi-notes": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "akonadi-search": {
             "admin": "farchord",
@@ -70507,9 +70507,9 @@
             "fedora": "xvitaly"
         },
         "kjots": {
-            "admin": "aleasto",
-            "epel": "aleasto",
-            "fedora": "aleasto"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kjournald": {
             "admin": "farchord",
@@ -70817,9 +70817,9 @@
             "fedora": "jruzicka"
         },
         "knotes": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "knutclient": {
             "admin": "orphan",
@@ -107551,6 +107551,11 @@
             "epel": "ppisar",
             "fedora": "ppisar"
         },
+        "perl-Badger": {
+            "admin": "xavierb",
+            "epel": "xavierb",
+            "fedora": "xavierb"
+        },
         "perl-Barcode-Code128": {
             "admin": "ppisar",
             "epel": "ppisar",
@@ -139375,6 +139380,11 @@
             "admin": "zdohnal",
             "epel": "zdohnal",
             "fedora": "zdohnal"
+        },
+        "python-cupy-rocm": {
+            "admin": "trix",
+            "epel": "trix",
+            "fedora": "trix"
         },
         "python-curio": {
             "admin": "carlwgeorge",
@@ -188946,6 +188956,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-smbios-lib": {
+            "admin": "matiasv",
+            "epel": "matiasv",
+            "fedora": "matiasv"
+        },
         "rust-smithay-client-toolkit": {
             "admin": "salimma",
             "epel": "@rust-sig",
@@ -189117,6 +189132,11 @@
             "fedora": "@rust-sig"
         },
         "rust-spin": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-spin0.10": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -199912,9 +199932,9 @@
             "fedora": "orphan"
         },
         "sugar-browse": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "chimosky",
+            "epel": "chimosky",
+            "fedora": "chimosky"
         },
         "sugar-calculator": {
             "admin": "chimosky",
@@ -200062,9 +200082,9 @@
             "fedora": "orphan"
         },
         "sugar-log": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "chimosky",
+            "epel": "chimosky",
+            "fedora": "chimosky"
         },
         "sugar-logos": {
             "admin": "chimosky",
@@ -200212,9 +200232,9 @@
             "fedora": "orphan"
         },
         "sugar-toolkit-gtk3": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "chimosky",
+            "epel": "chimosky",
+            "fedora": "chimosky"
         },
         "sugar-turtleart": {
             "admin": "chimosky",

@@ -7467,7 +7467,6 @@
         "age": [
             "@go-sig",
             "eclipseo",
-            "ghen2",
             "ghishadow",
             "mikelo2"
         ],
@@ -7636,7 +7635,7 @@
         ],
         "akonadi-notes": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "akonadi-search": [
             "@kde-sig",
@@ -54258,7 +54257,7 @@
         ],
         "kjots": [
             "@kde-sig",
-            "aleasto"
+            "orphan"
         ],
         "kjournald": [
             "@kde-sig",
@@ -54511,7 +54510,7 @@
         ],
         "knotes": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "knutclient": [
             "kkofler",
@@ -81908,6 +81907,9 @@
             "perl-sig",
             "ppisar"
         ],
+        "perl-Badger": [
+            "xavierb"
+        ],
         "perl-Barcode-Code128": [
             "perl-sig",
             "ppisar",
@@ -107066,6 +107068,9 @@
         "python-cups": [
             "twaugh",
             "zdohnal"
+        ],
+        "python-cupy-rocm": [
+            "trix"
         ],
         "python-curio": [
             "@python-packagers-sig",
@@ -132351,6 +132356,7 @@
             "decathorpe"
         ],
         "rust-cond_sync": [
+            "@rust-sig",
             "limb"
         ],
         "rust-config": [
@@ -145466,6 +145472,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-smbios-lib": [
+            "matiasv"
+        ],
         "rust-smithay-client-toolkit": [
             "@rust-sig",
             "salimma"
@@ -145601,6 +145610,9 @@
         ],
         "rust-spin": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-spin0.10": [
             "decathorpe"
         ],
         "rust-spin0.5": [
@@ -153936,8 +153948,7 @@
             "orphan"
         ],
         "sugar-browse": [
-            "chimosky",
-            "orphan"
+            "chimosky"
         ],
         "sugar-calculator": [
             "chimosky"
@@ -154039,8 +154050,7 @@
             "orphan"
         ],
         "sugar-log": [
-            "chimosky",
-            "orphan"
+            "chimosky"
         ],
         "sugar-logos": [
             "chimosky",
@@ -154144,8 +154154,7 @@
             "orphan"
         ],
         "sugar-toolkit-gtk3": [
-            "chimosky",
-            "orphan"
+            "chimosky"
         ],
         "sugar-turtleart": [
             "chimosky"
