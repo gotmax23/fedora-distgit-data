@@ -7994,6 +7994,9 @@
             "orphan",
             "sgrubb"
         ],
+        "amule": [
+            "gbcox"
+        ],
         "anaconda": [
             "anaconda-maint",
             "bookwar",
@@ -8380,9 +8383,9 @@
             "dchen",
             "java-sig",
             "jjames",
+            "kkeithle",
             "mizdebsk",
             "mkoncek",
-            "salimma",
             "walters"
         ],
         "antlr32": [
@@ -17214,6 +17217,7 @@
             "ngompa"
         ],
         "decklink": [
+            "@multimedia-sig",
             "rathann"
         ],
         "decnumber": [
@@ -23012,6 +23016,9 @@
             "luya"
         ],
         "f44-backgrounds": [
+            "luya"
+        ],
+        "f45-backgrounds": [
             "luya"
         ],
         "fRaBs": [
@@ -45629,6 +45636,7 @@
             "orphan"
         ],
         "gzip": [
+            "jamartis",
             "kdudka"
         ],
         "h2": [
@@ -62050,7 +62058,8 @@
             "@fedora-llvm-team",
             "carlwgeorge",
             "mikedep333",
-            "nikic"
+            "nikic",
+            "rcallicotte"
         ],
         "llvm20": [
             "@fedora-llvm-team",
@@ -64483,6 +64492,7 @@
         "maven-invoker-plugin": [
             "@epel-packagers-sig",
             "java-sig",
+            "kkeithle",
             "korkeala",
             "mizdebsk",
             "mkoncek"
@@ -64889,7 +64899,6 @@
             "pghmcfc"
         ],
         "mcrouter": [
-            "orphan",
             "salimma"
         ],
         "mcrypt": [
@@ -77053,6 +77062,9 @@
         "ocaml-autoconf": [
             "rjones"
         ],
+        "ocaml-b0": [
+            "jjames"
+        ],
         "ocaml-base": [
             "defolos",
             "jjames"
@@ -80299,6 +80311,7 @@
             "orphan"
         ],
         "pam_radius": [
+            "antorres",
             "ipedrosa"
         ],
         "pam_script": [],
@@ -83894,7 +83907,7 @@
         ],
         "perl-DBD-ODBC": [
             "lkundrak",
-            "orphan",
+            "mspacek",
             "perl-sig"
         ],
         "perl-DBD-Pg": [
@@ -102476,7 +102489,6 @@
             "psklenar"
         ],
         "proxygen": [
-            "orphan",
             "salimma"
         ],
         "proxyknife": [
@@ -131225,7 +131237,7 @@
         ],
         "rust-blsctl": [
             "@rust-sig",
-            "javierm"
+            "orphan"
         ],
         "rust-bmart": [
             "@rust-sig",
@@ -131922,6 +131934,10 @@
         ],
         "rust-chan": [
             "orphan"
+        ],
+        "rust-char_str": [
+            "@rust-sig",
+            "music"
         ],
         "rust-chardetng": [
             "@rust-sig",
@@ -145037,7 +145053,7 @@
         ],
         "rust-serial_test0.5": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-serial_test0.6": [
             "@rust-sig",
@@ -145057,7 +145073,7 @@
         ],
         "rust-serial_test_derive0.5": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-serial_test_derive0.6": [
             "@rust-sig",
@@ -145473,6 +145489,7 @@
             "decathorpe"
         ],
         "rust-smbios-lib": [
+            "@rust-sig",
             "matiasv"
         ],
         "rust-smithay-client-toolkit": [
@@ -145613,6 +145630,7 @@
             "decathorpe"
         ],
         "rust-spin0.10": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-spin0.5": [
@@ -151227,6 +151245,7 @@
             "atikhonov",
             "ipedrosa",
             "pbrezina",
+            "thalman",
             "tmraz"
         ],
         "shadowsintolight-fonts": [
@@ -157495,6 +157514,7 @@
             "@epel-packagers-sig",
             "java-sig",
             "jjames",
+            "kkeithle",
             "salimma"
         ],
         "trelby": [
@@ -158685,6 +158705,7 @@
             "eballetbo"
         ],
         "unzip": [
+            "jamartis",
             "kdudka",
             "pstodulk"
         ],
@@ -160455,7 +160476,6 @@
             "jskarvad"
         ],
         "wdt": [
-            "orphan",
             "salimma"
         ],
         "wdune": [
@@ -162506,7 +162526,7 @@
         ],
         "xgrep": [
             "brendt",
-            "orphan"
+            "filiperosset"
         ],
         "xgridfit": [
             "fonts-sig",

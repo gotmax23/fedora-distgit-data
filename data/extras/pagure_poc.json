@@ -10251,6 +10251,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "amule": {
+            "admin": "gbcox",
+            "epel": "gbcox",
+            "fedora": "gbcox"
+        },
         "anaconda": {
             "admin": "m4rtink",
             "epel": "m4rtink",
@@ -10723,7 +10728,7 @@
         },
         "antlr3": {
             "admin": "jjames",
-            "epel": "salimma",
+            "epel": "kkeithle",
             "fedora": "jjames"
         },
         "antlr32": {
@@ -29957,6 +29962,11 @@
             "fedora": "luya"
         },
         "f44-backgrounds": {
+            "admin": "luya",
+            "epel": "luya",
+            "fedora": "luya"
+        },
+        "f45-backgrounds": {
             "admin": "luya",
             "epel": "luya",
             "fedora": "luya"
@@ -83847,9 +83857,9 @@
             "fedora": "pghmcfc"
         },
         "mcrouter": {
-            "admin": "orphan",
+            "admin": "salimma",
             "epel": "salimma",
-            "fedora": "orphan"
+            "fedora": "salimma"
         },
         "mcrypt": {
             "admin": "spot",
@@ -101241,6 +101251,11 @@
             "epel": "rjones",
             "fedora": "rjones"
         },
+        "ocaml-b0": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
         "ocaml-base": {
             "admin": "jjames",
             "epel": "jjames",
@@ -105527,9 +105542,9 @@
             "fedora": "orphan"
         },
         "pam_radius": {
-            "admin": "ipedrosa",
-            "epel": "ipedrosa",
-            "fedora": "ipedrosa"
+            "admin": "antorres",
+            "epel": "antorres",
+            "fedora": "antorres"
         },
         "pam_script": {
             "admin": "jtaylor",
@@ -109837,9 +109852,9 @@
             "fedora": "jplesnik"
         },
         "perl-DBD-ODBC": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-DBD-Pg": {
             "admin": "jplesnik",
@@ -123987,7 +124002,7 @@
             "fedora": "orphan"
         },
         "phoc": {
-            "admin": "lihis",
+            "admin": "samcday",
             "epel": "samcday",
             "fedora": "samcday"
         },
@@ -124042,17 +124057,17 @@
             "fedora": "salimma"
         },
         "phosh": {
-            "admin": "lihis",
+            "admin": "samcday",
             "epel": "samcday",
             "fedora": "samcday"
         },
         "phosh-mobile-settings": {
-            "admin": "lihis",
+            "admin": "samcday",
             "epel": "samcday",
             "fedora": "samcday"
         },
         "phosh-tour": {
-            "admin": "lihis",
+            "admin": "samcday",
             "epel": "samcday",
             "fedora": "samcday"
         },
@@ -133277,9 +133292,9 @@
             "fedora": "psklenar"
         },
         "proxygen": {
-            "admin": "orphan",
+            "admin": "salimma",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "salimma"
         },
         "proxyknife": {
             "admin": "orphan",
@@ -170952,9 +170967,9 @@
             "fedora": "smani"
         },
         "rust-blsctl": {
-            "admin": "javierm",
-            "epel": "javierm",
-            "fedora": "javierm"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-bmart": {
             "admin": "orphan",
@@ -171845,6 +171860,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "rust-char_str": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-chardetng": {
             "admin": "blinxen",
@@ -188417,7 +188437,7 @@
             "fedora": "@rust-sig"
         },
         "rust-serial_test0.5": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -188442,7 +188462,7 @@
             "fedora": "@rust-sig"
         },
         "rust-serial_test_derive0.5": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -196327,9 +196347,9 @@
             "fedora": "dcavalca"
         },
         "shadow-utils": {
-            "admin": "ipedrosa",
-            "epel": "ipedrosa",
-            "fedora": "ipedrosa"
+            "admin": "atikhonov",
+            "epel": "atikhonov",
+            "fedora": "atikhonov"
         },
         "shadowsintolight-fonts": {
             "admin": "orphan",
@@ -204818,7 +204838,7 @@
         },
         "treelayout": {
             "admin": "jjames",
-            "epel": "salimma",
+            "epel": "kkeithle",
             "fedora": "jjames"
         },
         "trelby": {
@@ -208847,9 +208867,9 @@
             "fedora": "jskarvad"
         },
         "wdt": {
-            "admin": "orphan",
+            "admin": "salimma",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "salimma"
         },
         "wdune": {
             "admin": "orphan",
@@ -211632,9 +211652,9 @@
             "fedora": "limb"
         },
         "xgrep": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "xgridfit": {
             "admin": "orphan",
