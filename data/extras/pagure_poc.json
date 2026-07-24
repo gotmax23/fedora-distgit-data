@@ -70347,9 +70347,9 @@
             "fedora": "ngompa"
         },
         "kio-ftps": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kio-fuse": {
             "admin": "zawertun",
@@ -71902,9 +71902,9 @@
             "fedora": "farchord"
         },
         "kwooty": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kwordquiz": {
             "admin": "than",
@@ -163112,9 +163112,9 @@
             "fedora": "jskarvad"
         },
         "rinetd": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "tieugene",
+            "epel": "tieugene",
+            "fedora": "tieugene"
         },
         "rinputd": {
             "admin": "orphan",
@@ -169292,6 +169292,11 @@
             "fedora": "@rust-sig"
         },
         "rust-amq-protocol-types": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
+        },
+        "rust-amq-protocol-uri": {
             "admin": "jcline",
             "epel": "jcline",
             "fedora": "jcline"

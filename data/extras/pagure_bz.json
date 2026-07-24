@@ -8481,6 +8481,7 @@
         "apache-commons-collections4": [
             "java-sig",
             "jjelen",
+            "kkeithle",
             "mizdebsk",
             "mkoncek"
         ],
@@ -54131,8 +54132,8 @@
         ],
         "kio-ftps": [
             "@kde-sig",
-            "farchord",
             "jreznik",
+            "orphan",
             "than"
         ],
         "kio-fuse": [
@@ -55396,7 +55397,7 @@
         ],
         "kwooty": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kwordquiz": [
             "@kde-sig",
@@ -92358,6 +92359,7 @@
         ],
         "perl-Starlet": [
             "corsepiu",
+            "eseyman",
             "perl-sig",
             "xavierb"
         ],
@@ -125310,7 +125312,7 @@
             "jskarvad"
         ],
         "rinetd": [
-            "orphan"
+            "tieugene"
         ],
         "rinputd": [
             "orphan"
@@ -129891,6 +129893,10 @@
             "decathorpe"
         ],
         "rust-amq-protocol-types": [
+            "@rust-sig",
+            "jcline"
+        ],
+        "rust-amq-protocol-uri": [
             "@rust-sig",
             "jcline"
         ],
