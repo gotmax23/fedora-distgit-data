@@ -5847,9 +5847,9 @@
             "fedora": "ngompa"
         },
         "PackageKit-Qt5": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "Pagila": {
             "admin": "orphan",
@@ -57707,9 +57707,9 @@
             "fedora": "farchord"
         },
         "grantlee-qt5": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "grantleetheme": {
             "admin": "farchord",
@@ -69002,32 +69002,32 @@
             "fedora": "orphan"
         },
         "kf5-akonadi-calendar": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-akonadi-contacts": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-akonadi-mime": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-akonadi-notes": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-akonadi-search": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-akonadi-server": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
@@ -69042,24 +69042,24 @@
             "fedora": "farchord"
         },
         "kf5-baloo": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-bluez-qt": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-calendarsupport": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-eventviews": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-frameworkintegration": {
             "admin": "farchord",
@@ -69072,14 +69072,14 @@
             "fedora": "@kde-sig"
         },
         "kf5-grantleetheme": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-incidenceeditor": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-kactivities": {
             "admin": "farchord",
@@ -69112,7 +69112,7 @@
             "fedora": "@kde-sig"
         },
         "kf5-kblog": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
@@ -69122,12 +69122,12 @@
             "fedora": "@kde-sig"
         },
         "kf5-kcalendarcore": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-kcalendarutils": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
@@ -69157,7 +69157,7 @@
             "fedora": "@kde-sig"
         },
         "kf5-kcontacts": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
@@ -69172,9 +69172,9 @@
             "fedora": "@kde-sig"
         },
         "kf5-kdav": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-kdbusaddons": {
             "admin": "farchord",
@@ -69192,22 +69192,22 @@
             "fedora": "@kde-sig"
         },
         "kf5-kdelibs4support": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-kdesignerplugin": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-kdesu": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-kdewebkit": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
@@ -69227,13 +69227,13 @@
             "fedora": "@kde-sig"
         },
         "kf5-kemoticons": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-kfilemetadata": {
-            "admin": "farchord",
-            "epel": "farchord",
+            "admin": "orphan",
+            "epel": "orphan",
             "fedora": "@kde-sig"
         },
         "kf5-kglobalaccel": {
@@ -69247,12 +69247,12 @@
             "fedora": "@kde-sig"
         },
         "kf5-kholidays": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-khtml": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
@@ -69267,12 +69267,12 @@
             "fedora": "@kde-sig"
         },
         "kf5-kidentitymanagement": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-kidletime": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
@@ -69282,7 +69282,7 @@
             "fedora": "@kde-sig"
         },
         "kf5-kimap": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
@@ -69297,14 +69297,14 @@
             "fedora": "@kde-sig"
         },
         "kf5-kipi-plugins": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-kirigami": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-kirigami2": {
             "admin": "farchord",
@@ -69317,7 +69317,7 @@
             "fedora": "thunderbirdtr"
         },
         "kf5-kitemmodels": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
@@ -69342,32 +69342,32 @@
             "fedora": "orphan"
         },
         "kf5-kjsembed": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-kldap": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-kmailtransport": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-kmbox": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-kmediaplayer": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-kmime": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
@@ -69387,7 +69387,7 @@
             "fedora": "@kde-sig"
         },
         "kf5-kontactinterface": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
@@ -69402,27 +69402,27 @@
             "fedora": "@kde-sig"
         },
         "kf5-kpeople": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-kpimtextedit": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-kpkpass": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-kplotting": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-kpty": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
@@ -69432,17 +69432,17 @@
             "fedora": "mkyral"
         },
         "kf5-kross": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-kross-interpreters": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-krunner": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
@@ -69452,9 +69452,9 @@
             "fedora": "@kde-sig"
         },
         "kf5-ksmtp": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-ksysguard": {
             "admin": "orphan",
@@ -69472,12 +69472,12 @@
             "fedora": "@kde-sig"
         },
         "kf5-ktnef": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-kunitconversion": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
@@ -69507,19 +69507,19 @@
             "fedora": "@kde-sig"
         },
         "kf5-kxmlrpcclient": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-libgravatar": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-libkcddb": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-libkcompactdisc": {
             "admin": "farchord",
@@ -69527,14 +69527,14 @@
             "fedora": "farchord"
         },
         "kf5-libkdcraw": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-libkdepim": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-libkexiv2": {
             "admin": "farchord",
@@ -69557,14 +69557,14 @@
             "fedora": "orphan"
         },
         "kf5-libkipi": {
-            "admin": "farchord",
-            "epel": "farchord",
+            "admin": "orphan",
+            "epel": "orphan",
             "fedora": "@kde-sig"
         },
         "kf5-libkleo": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-libksane": {
             "admin": "farchord",
@@ -69572,59 +69572,59 @@
             "fedora": "farchord"
         },
         "kf5-libksieve": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-libktorrent": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-mailcommon": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-mailimporter": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-messagelib": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-modemmanager-qt": {
-            "admin": "farchord",
-            "epel": "farchord",
+            "admin": "orphan",
+            "epel": "orphan",
             "fedora": "@kde-sig"
         },
         "kf5-networkmanager-qt": {
-            "admin": "farchord",
-            "epel": "farchord",
+            "admin": "orphan",
+            "epel": "orphan",
             "fedora": "@kde-sig"
         },
         "kf5-pimcommon": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-plasma": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
         "kf5-prison": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-purpose": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-qqc2-breeze-style": {
             "admin": "yselkowitz",
@@ -69657,7 +69657,7 @@
             "fedora": "farchord"
         },
         "kf5-threadweaver": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "@kde-sig",
             "fedora": "@kde-sig"
         },
@@ -71002,9 +71002,9 @@
             "fedora": "than"
         },
         "konsole5": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kontact": {
             "admin": "farchord",
@@ -71567,9 +71567,9 @@
             "fedora": "farchord"
         },
         "ktextaddons-qt5": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "ktikz": {
             "admin": "melmorabity",
@@ -75897,8 +75897,8 @@
             "fedora": "farchord"
         },
         "libkscreen-qt5": {
-            "admin": "farchord",
-            "epel": "farchord",
+            "admin": "orphan",
+            "epel": "orphan",
             "fedora": "@kde-sig"
         },
         "libksieve": {
@@ -108021,6 +108021,11 @@
             "epel": "eseyman",
             "fedora": "eseyman"
         },
+        "perl-CLI-Simple": {
+            "admin": "xavierb",
+            "epel": "xavierb",
+            "fedora": "xavierb"
+        },
         "perl-CPAN": {
             "admin": "jplesnik",
             "epel": "jplesnik",
@@ -131392,9 +131397,9 @@
             "fedora": "thunderbirdtr"
         },
         "plasma-pk-updates": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "plasma-print-manager": {
             "admin": "aleasto",
@@ -132162,9 +132167,9 @@
             "fedora": "jrybar"
         },
         "polkit-qt": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "polkit-qt-1": {
             "admin": "farchord",
@@ -154778,7 +154783,7 @@
         },
         "python-statsmodels": {
             "admin": "sergiopr",
-            "epel": "@epel-packagers-sig",
+            "epel": "jonathanspw",
             "fedora": "sergiopr"
         },
         "python-stdio-mgr": {
@@ -160232,9 +160237,9 @@
             "fedora": "ankursinha"
         },
         "qjson": {
-            "admin": "farchord",
+            "admin": "orphan",
             "epel": "orion",
-            "fedora": "farchord"
+            "fedora": "orphan"
         },
         "ql2100-firmware": {
             "admin": "orphan",
@@ -180996,6 +181001,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "rust-linktime-proc-macro": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-lino": {
             "admin": "dcavalca",
             "epel": "dcavalca",
@@ -181395,6 +181405,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "rust-macrotest": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-madvr_parse": {
             "admin": "dcavalca",
@@ -198102,9 +198117,9 @@
             "fedora": "jjames"
         },
         "soprano": {
-            "admin": "farchord",
-            "epel": "farchord",
-            "fedora": "farchord"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "sopwith": {
             "admin": "adrian",
@@ -202262,9 +202277,9 @@
             "fedora": "mtasaka"
         },
         "telepathy-gabble": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "chimosky",
+            "epel": "chimosky",
+            "fedora": "chimosky"
         },
         "telepathy-glib": {
             "admin": "mtasaka",
@@ -204035,6 +204050,11 @@
             "admin": "gotmax23",
             "epel": "gotmax23",
             "fedora": "gotmax23"
+        },
+        "toml-f": {
+            "admin": "lecris",
+            "epel": "lecris",
+            "fedora": "lecris"
         },
         "toml11": {
             "admin": "atim",
@@ -213652,9 +213672,9 @@
             "fedora": "jonathanspw"
         },
         "yarnpkg": {
-            "admin": "ngompa",
-            "epel": "ngompa",
-            "fedora": "ngompa"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "yarock": {
             "admin": "orphan",

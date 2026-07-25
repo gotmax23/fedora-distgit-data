@@ -4608,7 +4608,7 @@
         ],
         "PackageKit-Qt5": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "Pagila": [
             "orphan"
@@ -44337,7 +44337,7 @@
         ],
         "grantlee-qt5": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "grantleetheme": [
             "@kde-sig",
@@ -52939,27 +52939,27 @@
         ],
         "kf5-akonadi-calendar": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-akonadi-contacts": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-akonadi-mime": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-akonadi-notes": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-akonadi-search": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-akonadi-server": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-attica": [
             "@kde-sig",
@@ -52973,22 +52973,22 @@
         ],
         "kf5-baloo": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-bluez-qt": [
             "@kde-sig",
-            "farchord",
-            "jgrulich"
+            "jgrulich",
+            "orphan"
         ],
         "kf5-calendarsupport": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-eventviews": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-frameworkintegration": [
             "@kde-sig",
@@ -53003,11 +53003,11 @@
         ],
         "kf5-grantleetheme": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-incidenceeditor": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kactivities": [
             "@kde-sig",
@@ -53043,7 +53043,7 @@
         ],
         "kf5-kblog": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kbookmarks": [
             "@kde-sig",
@@ -53053,11 +53053,11 @@
         ],
         "kf5-kcalendarcore": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kcalendarutils": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kcmutils": [
             "@kde-sig",
@@ -53091,7 +53091,7 @@
         ],
         "kf5-kcontacts": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kcoreaddons": [
             "@kde-sig",
@@ -53107,7 +53107,7 @@
         ],
         "kf5-kdav": [
             "@kde-sig",
-            "farchord",
+            "orphan",
             "than"
         ],
         "kf5-kdbusaddons": [
@@ -53130,26 +53130,26 @@
         ],
         "kf5-kdelibs4support": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-kdesignerplugin": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-kdesu": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-kdewebkit": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-kdgantt2": [
@@ -53170,13 +53170,13 @@
         ],
         "kf5-kemoticons": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-kfilemetadata": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kglobalaccel": [
             "@kde-sig",
@@ -53192,12 +53192,12 @@
         ],
         "kf5-kholidays": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-khtml": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-ki18n": [
@@ -53214,12 +53214,12 @@
         ],
         "kf5-kidentitymanagement": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kidletime": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-kimageformats": [
@@ -53230,7 +53230,7 @@
         ],
         "kf5-kimap": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kinit": [
             "@kde-sig",
@@ -53246,11 +53246,11 @@
         ],
         "kf5-kipi-plugins": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kirigami": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kirigami2": [
             "@kde-sig",
@@ -53262,8 +53262,8 @@
         ],
         "kf5-kitemmodels": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-kitemviews": [
@@ -53290,31 +53290,31 @@
         ],
         "kf5-kjsembed": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-kldap": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kmailtransport": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kmbox": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kmediaplayer": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-kmime": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-knewstuff": [
             "@kde-sig",
@@ -53336,7 +53336,7 @@
         ],
         "kf5-kontactinterface": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kpackage": [
             "@kde-sig",
@@ -53350,26 +53350,26 @@
         ],
         "kf5-kpeople": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kpimtextedit": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kpkpass": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kplotting": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-kpty": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-kquickcharts": [
@@ -53378,18 +53378,18 @@
         ],
         "kf5-kross": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-kross-interpreters": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-krunner": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-kservice": [
@@ -53400,7 +53400,7 @@
         ],
         "kf5-ksmtp": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-ksysguard": [
             "orphan"
@@ -53419,12 +53419,12 @@
         ],
         "kf5-ktnef": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-kunitconversion": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-kwallet": [
@@ -53457,15 +53457,15 @@
         ],
         "kf5-kxmlrpcclient": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-libgravatar": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-libkcddb": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-libkcompactdisc": [
             "@kde-sig",
@@ -53473,11 +53473,11 @@
         ],
         "kf5-libkdcraw": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-libkdepim": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-libkexiv2": [
             "@kde-sig",
@@ -53495,12 +53495,12 @@
         ],
         "kf5-libkipi": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-libkleo": [
             "@kde-sig",
-            "farchord",
-            "jkucera"
+            "jkucera",
+            "orphan"
         ],
         "kf5-libksane": [
             "@kde-sig",
@@ -53508,52 +53508,52 @@
         ],
         "kf5-libksieve": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-libktorrent": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-mailcommon": [
             "@kde-sig",
-            "farchord",
-            "jkucera"
+            "jkucera",
+            "orphan"
         ],
         "kf5-mailimporter": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-messagelib": [
             "@kde-sig",
-            "farchord",
-            "jkucera"
+            "jkucera",
+            "orphan"
         ],
         "kf5-modemmanager-qt": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-networkmanager-qt": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-pimcommon": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-plasma": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf5-prison": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "kf5-purpose": [
             "@kde-sig",
-            "farchord",
-            "nucleo"
+            "nucleo",
+            "orphan"
         ],
         "kf5-qqc2-breeze-style": [
             "@kde-sig",
@@ -53585,8 +53585,8 @@
         ],
         "kf5-threadweaver": [
             "@kde-sig",
-            "farchord",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kf6": [
@@ -54658,7 +54658,7 @@
         ],
         "konsole5": [
             "@kde-sig",
-            "farchord",
+            "orphan",
             "than"
         ],
         "kontact": [
@@ -55112,7 +55112,7 @@
         ],
         "ktextaddons-qt5": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "ktikz": [
             "melmorabity"
@@ -58628,7 +58628,7 @@
         ],
         "libkscreen-qt5": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "libksieve": [
             "@kde-sig",
@@ -62589,7 +62589,8 @@
         ],
         "lsp-plugins": [
             "brunovernay",
-            "vascom"
+            "vascom",
+            "wfp"
         ],
         "lsscsi": [
             "pevans",
@@ -82315,6 +82316,9 @@
         "perl-CLI-Osprey": [
             "eseyman"
         ],
+        "perl-CLI-Simple": [
+            "xavierb"
+        ],
         "perl-CPAN": [
             "mspacek",
             "perl-sig",
@@ -100986,8 +100990,8 @@
         ],
         "plasma-pk-updates": [
             "@kde-sig",
-            "farchord",
-            "kkofler"
+            "kkofler",
+            "orphan"
         ],
         "plasma-print-manager": [
             "@kde-sig",
@@ -101631,7 +101635,7 @@
         ],
         "polkit-qt": [
             "@kde-sig",
-            "farchord",
+            "orphan",
             "than"
         ],
         "polkit-qt-1": [
@@ -119021,7 +119025,6 @@
             "tdecacqu"
         ],
         "python-statsmodels": [
-            "@epel-packagers-sig",
             "jonathanspw",
             "sergiopr"
         ],
@@ -123098,9 +123101,9 @@
             "pampelmuse"
         ],
         "qjson": [
-            "farchord",
             "jgrulich",
-            "orion"
+            "orion",
+            "orphan"
         ],
         "ql2100-firmware": [
             "orphan",
@@ -139206,6 +139209,10 @@
         "rust-linkify": [
             "orphan"
         ],
+        "rust-linktime-proc-macro": [
+            "@rust-sig",
+            "salimma"
+        ],
         "rust-lino": [
             "@rust-sig",
             "dcavalca"
@@ -139521,6 +139528,10 @@
         ],
         "rust-macroquad_macro": [
             "orphan"
+        ],
+        "rust-macrotest": [
+            "@rust-sig",
+            "salimma"
         ],
         "rust-madvr_parse": [
             "@rust-sig",
@@ -152538,7 +152549,7 @@
         ],
         "soprano": [
             "@kde-sig",
-            "farchord"
+            "orphan"
         ],
         "sopwith": [
             "adrian",
@@ -155656,7 +155667,7 @@
             "tjikkun"
         ],
         "telepathy-gabble": [
-            "orphan",
+            "chimosky",
             "tjikkun"
         ],
         "telepathy-glib": [
@@ -156937,6 +156948,10 @@
         ],
         "tomcli": [
             "gotmax23"
+        ],
+        "toml-f": [
+            "@scitech_sig",
+            "lecris"
         ],
         "toml11": [
             "@epel-packagers-sig",
@@ -164073,8 +164088,7 @@
         ],
         "yarnpkg": [
             "@epel-packagers-sig",
-            "ngompa",
-            "smani"
+            "orphan"
         ],
         "yarock": [
             "orphan"
