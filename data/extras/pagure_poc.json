@@ -8572,9 +8572,9 @@
             "fedora": "orphan"
         },
         "SoQt": {
-            "admin": "orphan",
+            "admin": "smani",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "smani"
         },
         "SoapySDR": {
             "admin": "hobbes1069",
