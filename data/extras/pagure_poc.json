@@ -25737,9 +25737,9 @@
             "fedora": "topazus"
         },
         "dtk6gui": {
-            "admin": "topazus",
-            "epel": "topazus",
-            "fedora": "topazus"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "dtk6log": {
             "admin": "topazus",
@@ -66731,6 +66731,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "jonquil": {
+            "admin": "lecris",
+            "epel": "lecris",
+            "fedora": "lecris"
+        },
         "jopt-simple": {
             "admin": "mbooth",
             "epel": "mbooth",
@@ -102716,6 +102721,11 @@
             "epel": "orphan",
             "fedora": "sergesanspaille"
         },
+        "offpunk": {
+            "admin": "salimma",
+            "epel": "salimma",
+            "fedora": "salimma"
+        },
         "offtrac": {
             "admin": "orphan",
             "epel": "orphan",
@@ -105442,9 +105452,9 @@
             "fedora": "jjames"
         },
         "pam": {
-            "admin": "ipedrosa",
-            "epel": "ipedrosa",
-            "fedora": "ipedrosa"
+            "admin": "thalman",
+            "epel": "thalman",
+            "fedora": "thalman"
         },
         "pam-cryptsetup": {
             "admin": "salimma",
@@ -144072,9 +144082,9 @@
             "fedora": "gui1ty"
         },
         "python-imbalanced-learn": {
-            "admin": "iztokf",
-            "epel": "iztokf",
-            "fedora": "iztokf"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-imdb": {
             "admin": "orphan",
@@ -168662,9 +168672,9 @@
             "fedora": "vondruch"
         },
         "rubygem-uuid": {
-            "admin": "valtri",
-            "epel": "valtri",
-            "fedora": "valtri"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-uuidtools": {
             "admin": "orphan",
@@ -170100,6 +170110,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-async-rs": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
         },
         "rust-async-session": {
             "admin": "pbrobinson",
@@ -179822,6 +179837,11 @@
             "fedora": "orphan"
         },
         "rust-jiff": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "rust-jiff-core": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"
@@ -196502,9 +196522,9 @@
             "fedora": "orphan"
         },
         "sherlock-project": {
-            "admin": "ppfeister",
-            "epel": "ppfeister",
-            "fedora": "ppfeister"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "shflags": {
             "admin": "orphan",

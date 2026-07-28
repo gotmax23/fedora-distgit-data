@@ -16943,6 +16943,7 @@
             "orphan"
         ],
         "dbcsr": [
+            "@scitech_sig",
             "lecris",
             "orion"
         ],
@@ -17808,6 +17809,7 @@
             "orphan"
         ],
         "dftd4": [
+            "@scitech_sig",
             "jussilehtola"
         ],
         "dfu-programmer": [
@@ -19917,7 +19919,7 @@
             "topazus"
         ],
         "dtk6gui": [
-            "topazus"
+            "orphan"
         ],
         "dtk6log": [
             "@deepinde-sig",
@@ -51174,6 +51176,10 @@
         "joni": [
             "orphan"
         ],
+        "jonquil": [
+            "@scitech_sig",
+            "lecris"
+        ],
         "jopt-simple": [
             "mbooth",
             "mizdebsk",
@@ -64916,6 +64922,7 @@
             "plautrba"
         ],
         "mctc-lib": [
+            "@scitech_sig",
             "jussilehtola"
         ],
         "mcu8051ide": [
@@ -78127,6 +78134,9 @@
             "sergesanspaille",
             "teuf"
         ],
+        "offpunk": [
+            "salimma"
+        ],
         "offtrac": [
             "orphan"
         ],
@@ -80241,6 +80251,7 @@
         "pam": [
             "besser82",
             "ipedrosa",
+            "thalman",
             "tmraz"
         ],
         "pam-cryptsetup": [
@@ -110713,7 +110724,7 @@
         ],
         "python-imbalanced-learn": [
             "@neuro-sig",
-            "iztokf"
+            "orphan"
         ],
         "python-imdb": [
             "orphan"
@@ -114947,6 +114958,7 @@
             "mhayden"
         ],
         "python-protobuf": [
+            "khwarizmi",
             "msuchy"
         ],
         "python-protocols": [
@@ -129382,6 +129394,7 @@
             "vondruch"
         ],
         "rubygem-uuid": [
+            "orphan",
             "valtri"
         ],
         "rubygem-uuidtools": [
@@ -130540,6 +130553,9 @@
         "rust-async-recursion": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-async-rs": [
+            "jcline"
         ],
         "rust-async-session": [
             "@rust-sig",
@@ -138244,6 +138260,10 @@
         "rust-jiff": [
             "@rust-sig",
             "jwass3",
+            "music"
+        ],
+        "rust-jiff-core": [
+            "@rust-sig",
             "music"
         ],
         "rust-jiff-icu": [
@@ -151356,7 +151376,7 @@
             "orphan"
         ],
         "sherlock-project": [
-            "ppfeister"
+            "orphan"
         ],
         "shflags": [
             "orphan"
@@ -166065,6 +166085,7 @@
             "pkubat"
         ],
         "zlib-ng": [
+            "@db-sig",
             "aekoroglu",
             "ljavorsk",
             "tuliom"
