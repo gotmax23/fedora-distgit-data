@@ -452,6 +452,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "amule": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "anagramarama": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -2902,6 +2907,11 @@
             "epel": "fnux",
             "fedora": "fnux"
         },
+        "qview": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "rawtherapee": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -3193,6 +3203,11 @@
             "fedora": "limb"
         },
         "torcs": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
+        "torrent-file-editor": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
@@ -13690,6 +13705,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "bazel-remote": {
+            "admin": "luk1337",
+            "epel": "luk1337",
+            "fedora": "luk1337"
         },
         "bazelisk": {
             "admin": "blinxen",
@@ -30170,6 +30190,11 @@
             "admin": "odintsov",
             "epel": "odintsov",
             "fedora": "odintsov"
+        },
+        "fastrpc": {
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
         },
         "fasttext": {
             "admin": "dchen",
@@ -59986,6 +60011,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "hexagon-dsp-binaries": {
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
+        },
         "hexalate": {
             "admin": "orphan",
             "epel": "orphan",
@@ -74630,6 +74660,11 @@
             "admin": "aleasto",
             "epel": "aleasto",
             "fedora": "aleasto"
+        },
+        "libgbm-msm": {
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
         },
         "libgcal": {
             "admin": "orphan",
@@ -119432,9 +119467,9 @@
             "fedora": "ppisar"
         },
         "perl-Signal-Mask": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "eseyman",
+            "epel": "eseyman",
+            "fedora": "eseyman"
         },
         "perl-Smart-Comments": {
             "admin": "jplesnik",
@@ -121887,9 +121922,9 @@
             "fedora": "jplesnik"
         },
         "perl-Thread-SigMask": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "eseyman",
+            "epel": "eseyman",
+            "fedora": "eseyman"
         },
         "perl-Throwable": {
             "admin": "jplesnik",
@@ -151672,9 +151707,9 @@
             "fedora": "orphan"
         },
         "python-pytest-tornado": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-pytest-trio": {
             "admin": "romaingeissler1a",
@@ -160050,6 +160085,11 @@
             "admin": "jwrdegoede",
             "epel": "jwrdegoede",
             "fedora": "jwrdegoede"
+        },
+        "qcom-ptool": {
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
         },
         "qcomicbook": {
             "admin": "orphan",
@@ -180191,7 +180231,32 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "rust-kurbu5-derive": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
+        "rust-kurbu5-kadm5-derive": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
         "rust-kurbu5-kadm5-sys": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
+        "rust-kurbu5-kdb-derive": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
+        "rust-kurbu5-kdb-sys": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
+        "rust-kurbu5-rs": {
             "admin": "asn",
             "epel": "asn",
             "fedora": "asn"
@@ -201807,9 +201872,9 @@
             "fedora": "vascom"
         },
         "task2": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "taskcoach": {
             "admin": "orphan",
@@ -201817,9 +201882,9 @@
             "fedora": "orphan"
         },
         "taskd": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "taskflow": {
             "admin": "troycurtisjr",

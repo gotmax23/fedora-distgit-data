@@ -374,6 +374,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "amule": [
+            "yselkowitz"
+        ],
         "anagramarama": [
             "@flatpak-sig",
             "yselkowitz"
@@ -2358,6 +2361,9 @@
             "@flatpak-sig",
             "fnux"
         ],
+        "qview": [
+            "yselkowitz"
+        ],
         "rawtherapee": [
             "@flatpak-sig",
             "yselkowitz"
@@ -2595,6 +2601,9 @@
         ],
         "torcs": [
             "@flatpak-sig",
+            "yselkowitz"
+        ],
+        "torrent-file-editor": [
             "yselkowitz"
         ],
         "totem": [
@@ -10721,6 +10730,9 @@
         "bazaar": [
             "opohorel",
             "orphan"
+        ],
+        "bazel-remote": [
+            "luk1337"
         ],
         "bazelisk": [
             "@go-sig",
@@ -23180,6 +23192,10 @@
             "dbelyavs",
             "music",
             "odintsov"
+        ],
+        "fastrpc": [
+            "aekoroglu",
+            "jwrdegoede"
         ],
         "fasttext": [
             "dchen"
@@ -44368,8 +44384,7 @@
         ],
         "graphite2": [
             "kalev",
-            "mclasen",
-            "moceap"
+            "mclasen"
         ],
         "graphlcd-base": [
             "martinkg"
@@ -46093,6 +46108,10 @@
         ],
         "hex-a-hop": [
             "orphan"
+        ],
+        "hexagon-dsp-binaries": [
+            "aekoroglu",
+            "jwrdegoede"
         ],
         "hexalate": [
             "orphan"
@@ -57632,6 +57651,10 @@
             "aleasto",
             "frostyx"
         ],
+        "libgbm-msm": [
+            "aekoroglu",
+            "jwrdegoede"
+        ],
         "libgcal": [
             "orphan"
         ],
@@ -59952,8 +59975,7 @@
         ],
         "libratbag": [
             "bentiss",
-            "skitt",
-            "whot"
+            "skitt"
         ],
         "libraw1394": [
             "nphilipp",
@@ -92238,7 +92260,7 @@
             "ppisar"
         ],
         "perl-Signal-Mask": [
-            "orphan",
+            "eseyman",
             "perl-sig"
         ],
         "perl-Smart-Comments": [
@@ -94373,7 +94395,7 @@
         ],
         "perl-Thread-SigMask": [
             "corsepiu",
-            "orphan",
+            "eseyman",
             "perl-sig"
         ],
         "perl-Throwable": [
@@ -116615,7 +116637,7 @@
         ],
         "python-pytest-tornado": [
             "@python-packagers-sig",
-            "orphan"
+            "filiperosset"
         ],
         "python-pytest-trio": [
             "romaingeissler1a"
@@ -122962,6 +122984,10 @@
             "orphan"
         ],
         "qcom-firmware-extract": [
+            "jwrdegoede"
+        ],
+        "qcom-ptool": [
+            "aekoroglu",
             "jwrdegoede"
         ],
         "qcomicbook": [
@@ -130555,6 +130581,7 @@
             "decathorpe"
         ],
         "rust-async-rs": [
+            "@rust-sig",
             "jcline"
         ],
         "rust-async-session": [
@@ -138553,8 +138580,23 @@
         "rust-kurbo": [
             "orphan"
         ],
+        "rust-kurbu5-derive": [
+            "asn"
+        ],
+        "rust-kurbu5-kadm5-derive": [
+            "asn"
+        ],
         "rust-kurbu5-kadm5-sys": [
             "@rust-sig",
+            "asn"
+        ],
+        "rust-kurbu5-kdb-derive": [
+            "asn"
+        ],
+        "rust-kurbu5-kdb-sys": [
+            "asn"
+        ],
+        "rust-kurbu5-rs": [
             "asn"
         ],
         "rust-kurbu5-sys": [
@@ -155329,14 +155371,14 @@
             "vascom"
         ],
         "task2": [
-            "ankursinha"
+            "orphan"
         ],
         "taskcoach": [
             "orphan"
         ],
         "taskd": [
-            "ankursinha",
-            "ignatenkobrain"
+            "ignatenkobrain",
+            "orphan"
         ],
         "taskflow": [
             "troycurtisjr"
