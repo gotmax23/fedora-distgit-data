@@ -13282,9 +13282,9 @@
             "fedora": "orphan"
         },
         "axel": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "moceap",
+            "epel": "moceap",
+            "fedora": "moceap"
         },
         "axiom": {
             "admin": "orphan",
@@ -156307,9 +156307,9 @@
             "fedora": "limb"
         },
         "python-types-docutils": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-types-enum34": {
             "admin": "salimma",

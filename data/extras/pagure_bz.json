@@ -375,6 +375,7 @@
             "yselkowitz"
         ],
         "amule": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "anagramarama": [
@@ -2362,6 +2363,7 @@
             "fnux"
         ],
         "qview": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "rawtherapee": [
@@ -2604,6 +2606,7 @@
             "yselkowitz"
         ],
         "torrent-file-editor": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "totem": [
@@ -10411,7 +10414,7 @@
             "orphan"
         ],
         "axel": [
-            "orphan"
+            "moceap"
         ],
         "axiom": [
             "orphan"
@@ -10732,6 +10735,7 @@
             "orphan"
         ],
         "bazel-remote": [
+            "@go-sig",
             "luk1337"
         ],
         "bazelisk": [
@@ -106716,6 +106720,7 @@
         ],
         "python-commoncode": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -106821,6 +106826,7 @@
         ],
         "python-container-inspector": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -107182,6 +107188,7 @@
             "orphan"
         ],
         "python-cyseq": [
+            "@sca-tools-sig",
             "gotmax23"
         ],
         "python-cysignals": [
@@ -107380,6 +107387,7 @@
         ],
         "python-debian-inspector": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -108279,6 +108287,7 @@
         ],
         "python-dparse2": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -108711,16 +108720,19 @@
         ],
         "python-extractcode": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
         "python-extractcode-7z": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
         "python-extractcode-libarchive": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -108936,6 +108948,7 @@
         ],
         "python-fingerprints": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -109468,6 +109481,7 @@
         ],
         "python-ftfy": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -109598,6 +109612,7 @@
         ],
         "python-gemfileparser2": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -110872,6 +110887,7 @@
         ],
         "python-intbitset": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -111369,6 +111385,7 @@
         ],
         "python-jsonstreams": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -112966,6 +112983,7 @@
             "orphan"
         ],
         "python-multiregex": [
+            "@sca-tools-sig",
             "gotmax23"
         ],
         "python-multitasking": [
@@ -113407,6 +113425,7 @@
         ],
         "python-normality": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -114104,6 +114123,7 @@
         ],
         "python-packageurl-python": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -114192,6 +114212,7 @@
         ],
         "python-parameter-expansion-patched": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -115552,6 +115573,7 @@
         ],
         "python-pygmars": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -115755,6 +115777,7 @@
         ],
         "python-pymaven-patch": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -117743,6 +117766,7 @@
         ],
         "python-saneyaml": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -118467,6 +118491,7 @@
         ],
         "python-spdx-tools": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23",
             "khwarizmi"
@@ -120149,11 +120174,13 @@
         ],
         "python-typecode": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
         "python-typecode-libmagic": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -120199,8 +120226,8 @@
         ],
         "python-types-docutils": [
             "@epel-packagers-sig",
-            "kkeithle",
-            "orphan"
+            "filiperosset",
+            "kkeithle"
         ],
         "python-types-enum34": [
             "@epel-packagers-sig",
@@ -120454,6 +120481,7 @@
         ],
         "python-uritools": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23",
             "khwarizmi"
@@ -120496,6 +120524,7 @@
         ],
         "python-urlpy": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -138581,9 +138610,11 @@
             "orphan"
         ],
         "rust-kurbu5-derive": [
+            "@rust-sig",
             "asn"
         ],
         "rust-kurbu5-kadm5-derive": [
+            "@rust-sig",
             "asn"
         ],
         "rust-kurbu5-kadm5-sys": [
@@ -138591,12 +138622,15 @@
             "asn"
         ],
         "rust-kurbu5-kdb-derive": [
+            "@rust-sig",
             "asn"
         ],
         "rust-kurbu5-kdb-sys": [
+            "@rust-sig",
             "asn"
         ],
         "rust-kurbu5-rs": [
+            "@rust-sig",
             "asn"
         ],
         "rust-kurbu5-sys": [
@@ -150413,6 +150447,7 @@
         ],
         "scancode-toolkit": [
             "@python-packagers-sig",
+            "@sca-tools-sig",
             "eclipseo",
             "gotmax23"
         ],
@@ -153904,7 +153939,6 @@
             "spot"
         ],
         "strongswan": [
-            "carlosrodrifernandez",
             "dcavalca",
             "pemensik",
             "pwouters",
@@ -157659,6 +157693,7 @@
         ],
         "trivy": [
             "@go-sig",
+            "@sca-tools-sig",
             "gotmax23",
             "mikelo2"
         ],
