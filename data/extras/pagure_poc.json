@@ -31831,6 +31831,11 @@
             "epel": "bytehackr",
             "fedora": "bytehackr"
         },
+        "flare-im": {
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
+        },
         "flashrom": {
             "admin": "peter",
             "epel": "robert",
@@ -160336,6 +160341,11 @@
             "epel": "tieugene",
             "fedora": "tieugene"
         },
+        "qlog": {
+            "admin": "fale",
+            "epel": "fale",
+            "fedora": "fale"
+        },
         "qm": {
             "admin": "dougsland",
             "epel": "dougsland",
@@ -161305,6 +161315,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "qtox": {
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
         },
         "qtparted": {
             "admin": "orphan",
@@ -164670,6 +164685,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "rubygem-action_text-trix": {
+            "admin": "vondruch",
+            "epel": "vondruch",
+            "fedora": "vondruch"
         },
         "rubygem-actioncable": {
             "admin": "vondruch",
@@ -170135,6 +170155,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-async-openssl": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
         },
         "rust-async-process": {
             "admin": "decathorpe",
@@ -177066,7 +177091,22 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-glycin-builtin": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-glycin-common": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
+        "rust-glycin-core": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
+        "rust-glycin-external": {
             "admin": "decathorpe",
             "epel": "decathorpe",
             "fedora": "decathorpe"
@@ -178205,6 +178245,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-gufo-svg": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-gufo-tiff": {
             "admin": "decathorpe",
@@ -180790,6 +180835,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-liblzma-sys": {
+            "admin": "zbyszek",
+            "epel": "zbyszek",
+            "fedora": "zbyszek"
         },
         "rust-libm": {
             "admin": "decathorpe",
@@ -189910,6 +189960,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-syn2": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-sync_wrapper": {
             "admin": "decathorpe",

@@ -24488,6 +24488,9 @@
             "bytehackr",
             "gui1ty"
         ],
+        "flare-im": [
+            "rathann"
+        ],
         "flashrom": [
             "mrnuke",
             "peter",
@@ -57770,6 +57773,7 @@
         ],
         "libgit2": [
             "@infra-sig",
+            "ahsauge",
             "cicku",
             "decathorpe",
             "sgallagh"
@@ -66353,8 +66357,7 @@
             "elmarco",
             "etrunko",
             "kalev",
-            "rjones",
-            "smani"
+            "rjones"
         ],
         "mingw-libspatialite": [
             "orphan"
@@ -70862,6 +70865,7 @@
             "cathay4t",
             "ffmancera",
             "ihuguet",
+            "josie",
             "jvaclav",
             "till"
         ],
@@ -123203,6 +123207,9 @@
         "qlipper": [
             "tieugene"
         ],
+        "qlog": [
+            "fale"
+        ],
         "qm": [
             "dougsland",
             "dwalsh",
@@ -123984,6 +123991,10 @@
         ],
         "qtools": [
             "orphan"
+        ],
+        "qtox": [
+            "eclipseo",
+            "rathann"
         ],
         "qtparted": [
             "orphan"
@@ -126495,6 +126506,9 @@
         ],
         "rubygem-abstract": [
             "orphan"
+        ],
+        "rubygem-action_text-trix": [
+            "vondruch"
         ],
         "rubygem-actioncable": [
             "@ruby-packagers-sig",
@@ -130596,6 +130610,9 @@
         "rust-async-net": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-async-openssl": [
+            "jcline"
         ],
         "rust-async-process": [
             "@rust-sig",
@@ -136077,8 +136094,17 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-glycin-builtin": [
+            "decathorpe"
+        ],
         "rust-glycin-common": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-glycin-core": [
+            "decathorpe"
+        ],
+        "rust-glycin-external": [
             "decathorpe"
         ],
         "rust-glycin-utils": [
@@ -136981,6 +137007,9 @@
         ],
         "rust-gufo-png0.2": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-gufo-svg": [
             "decathorpe"
         ],
         "rust-gufo-tiff": [
@@ -139072,6 +139101,9 @@
         "rust-libloading0.8": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-liblzma-sys": [
+            "zbyszek"
         ],
         "rust-libm": [
             "@rust-sig",
@@ -146254,6 +146286,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-syn2": [
+            "decathorpe"
+        ],
         "rust-sync_wrapper": [
             "@rust-sig",
             "decathorpe"
@@ -152008,7 +152043,6 @@
             "@kde-sig",
             "orion",
             "slankes",
-            "smani",
             "tdawson"
         ],
         "skanpage": [
