@@ -2867,6 +2867,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "qtox": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "qtractor": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -46522,9 +46527,9 @@
             "fedora": "orphan"
         },
         "golang-github-docopt": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-docopt-docopt-go": {
             "admin": "orphan",
@@ -51047,9 +51052,9 @@
             "fedora": "orphan"
         },
         "golang-github-mitchellh-homedir": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-mitchellh-mapstructure": {
             "admin": "mikelo2",
@@ -51197,9 +51202,9 @@
             "fedora": "orphan"
         },
         "golang-github-mreiferson-httpclient": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-mroach-rom64": {
             "admin": "orphan",
@@ -51752,9 +51757,9 @@
             "fedora": "orphan"
         },
         "golang-github-op-logging": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-openapi-analysis": {
             "admin": "alexsaezm",
@@ -55222,9 +55227,9 @@
             "fedora": "@go-sig"
         },
         "golang-github-zmap-rc2": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-zmap-zcertificate": {
             "admin": "orphan",
@@ -170938,8 +170943,8 @@
         },
         "rust-bitvec_helpers": {
             "admin": "rathann",
-            "epel": "rathann",
-            "fedora": "rathann"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-blake2": {
             "admin": "decathorpe",
@@ -178466,6 +178471,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-hax-lib-macros": {
+            "admin": "rathann",
+            "epel": "rathann",
+            "fedora": "rathann"
+        },
         "rust-hayro-jpeg2000": {
             "admin": "dcavalca",
             "epel": "@rust-sig",
@@ -180282,6 +180292,11 @@
             "fedora": "asn"
         },
         "rust-kurbu5-kadm5-derive": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
+        "rust-kurbu5-kadm5-rs": {
             "admin": "asn",
             "epel": "asn",
             "fedora": "asn"
@@ -187601,6 +187616,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "rust-rustdoc-types0.60": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-rustfft": {
             "admin": "orion",
             "epel": "orion",
@@ -189963,8 +189983,8 @@
         },
         "rust-syn2": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-sync_wrapper": {
             "admin": "decathorpe",
@@ -191797,6 +191817,11 @@
             "fedora": "music"
         },
         "rust-trustfall-rustdoc-adapter57": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "rust-trustfall-rustdoc-adapter60": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"
@@ -195572,9 +195597,9 @@
             "fedora": "slaanesh"
         },
         "scipy": {
-            "admin": "nforro",
+            "admin": "svashisht",
             "epel": "orphan",
-            "fedora": "nforro"
+            "fedora": "svashisht"
         },
         "scirenderer": {
             "admin": "orphan",
@@ -210260,6 +210285,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "wprof": {
+            "admin": "salimma",
+            "epel": "salimma",
+            "fedora": "salimma"
         },
         "wput": {
             "admin": "orphan",

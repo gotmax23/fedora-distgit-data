@@ -2330,6 +2330,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "qtox": [
+            "yselkowitz"
+        ],
         "qtractor": [
             "@flatpak-sig",
             "yselkowitz"
@@ -35773,7 +35776,7 @@
         ],
         "golang-github-docopt": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-docopt-docopt-go": [
             "orphan"
@@ -39211,7 +39214,7 @@
         ],
         "golang-github-mitchellh-homedir": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-mitchellh-mapstructure": [
             "@go-sig",
@@ -39331,7 +39334,7 @@
         ],
         "golang-github-mreiferson-httpclient": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-mroach-rom64": [
             "@go-sig",
@@ -39770,7 +39773,7 @@
         ],
         "golang-github-op-logging": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-openapi-analysis": [
             "@go-sig",
@@ -42430,7 +42433,7 @@
         ],
         "golang-github-zmap-rc2": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-zmap-zcertificate": [
             "@go-sig",
@@ -69067,6 +69070,7 @@
             "slaanesh"
         ],
         "mstore": [
+            "@scitech_sig",
             "jussilehtola"
         ],
         "msv": [
@@ -69182,6 +69186,7 @@
             "kwizart"
         ],
         "multicharge": [
+            "@scitech_sig",
             "jussilehtola"
         ],
         "multiget": [
@@ -102388,6 +102393,7 @@
             "tredaell"
         ],
         "proftpd": [
+            "kwm83",
             "pghmcfc"
         ],
         "progman": [
@@ -102640,6 +102646,7 @@
             "raphgro"
         ],
         "psi4": [
+            "@scitech_sig",
             "jussilehtola"
         ],
         "psiconv": [
@@ -130612,6 +130619,7 @@
             "decathorpe"
         ],
         "rust-async-openssl": [
+            "@rust-sig",
             "jcline"
         ],
         "rust-async-process": [
@@ -136095,6 +136103,7 @@
             "decathorpe"
         ],
         "rust-glycin-builtin": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-glycin-common": [
@@ -136102,9 +136111,11 @@
             "decathorpe"
         ],
         "rust-glycin-core": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-glycin-external": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-glycin-utils": [
@@ -137010,6 +137021,7 @@
             "decathorpe"
         ],
         "rust-gufo-svg": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-gufo-tiff": [
@@ -137182,6 +137194,10 @@
         "rust-hashlink0.9": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-hax-lib-macros": [
+            "@rust-sig",
+            "rathann"
         ],
         "rust-hayro-jpeg2000": [
             "@rust-sig",
@@ -138646,6 +138662,9 @@
             "@rust-sig",
             "asn"
         ],
+        "rust-kurbu5-kadm5-rs": [
+            "asn"
+        ],
         "rust-kurbu5-kadm5-sys": [
             "@rust-sig",
             "asn"
@@ -139103,6 +139122,7 @@
             "decathorpe"
         ],
         "rust-liblzma-sys": [
+            "@rust-sig",
             "zbyszek"
         ],
         "rust-libm": [
@@ -144410,6 +144430,9 @@
             "@rust-sig",
             "music"
         ],
+        "rust-rustdoc-types0.60": [
+            "music"
+        ],
         "rust-rustfft": [
             "@rust-sig",
             "limb",
@@ -146287,6 +146310,7 @@
             "decathorpe"
         ],
         "rust-syn2": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-sync_wrapper": [
@@ -147734,6 +147758,9 @@
         ],
         "rust-trustfall-rustdoc-adapter57": [
             "@rust-sig",
+            "music"
+        ],
+        "rust-trustfall-rustdoc-adapter60": [
             "music"
         ],
         "rust-trustfall_core": [
@@ -150681,7 +150708,8 @@
             "cstratak",
             "davidsch",
             "nforro",
-            "psimovec"
+            "psimovec",
+            "svashisht"
         ],
         "scirenderer": [
             "orphan"
@@ -156012,6 +156040,7 @@
             "splitline"
         ],
         "test-drive": [
+            "@scitech_sig",
             "jussilehtola"
         ],
         "test-interface": [
@@ -161519,6 +161548,9 @@
         ],
         "wpewebkit": [
             "orphan"
+        ],
+        "wprof": [
+            "salimma"
         ],
         "wput": [
             "lbazan",
