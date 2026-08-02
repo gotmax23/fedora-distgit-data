@@ -14577,8 +14577,8 @@
             "fedora": "jjames"
         },
         "blitz": {
-            "admin": "sergiopr",
-            "epel": "sergiopr",
+            "admin": "orphan",
+            "epel": "orphan",
             "fedora": "sergiopr"
         },
         "blivet-gui": {

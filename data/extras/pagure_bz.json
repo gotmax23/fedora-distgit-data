@@ -2331,6 +2331,7 @@
             "yselkowitz"
         ],
         "qtox": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "qtractor": [
@@ -11403,7 +11404,7 @@
             "jjames"
         ],
         "blitz": [
-            "sergiopr"
+            "orphan"
         ],
         "blivet-gui": [
             "m4rtink",
@@ -13579,6 +13580,7 @@
             "orphan"
         ],
         "chromium": [
+            "@go-sig",
             "ghishadow",
             "spot",
             "than",
@@ -138663,6 +138665,7 @@
             "asn"
         ],
         "rust-kurbu5-kadm5-rs": [
+            "@rust-sig",
             "asn"
         ],
         "rust-kurbu5-kadm5-sys": [
@@ -144431,6 +144434,7 @@
             "music"
         ],
         "rust-rustdoc-types0.60": [
+            "@rust-sig",
             "music"
         ],
         "rust-rustfft": [
@@ -147761,6 +147765,7 @@
             "music"
         ],
         "rust-trustfall-rustdoc-adapter60": [
+            "@rust-sig",
             "music"
         ],
         "rust-trustfall_core": [
