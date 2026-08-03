@@ -172456,6 +172456,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-compact_str0.9": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-compare": {
             "admin": "salimma",
             "epel": "@rust-sig",

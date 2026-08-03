@@ -132432,6 +132432,9 @@
             "@rust-sig",
             "gotmax23"
         ],
+        "rust-compact_str0.9": [
+            "music"
+        ],
         "rust-compare": [
             "@rust-sig",
             "salimma"
