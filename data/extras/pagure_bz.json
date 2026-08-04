@@ -6696,8 +6696,8 @@
         ],
         "SIMVoleon": [
             "corsepiu",
-            "hobbes1069",
-            "orphan"
+            "fed500",
+            "hobbes1069"
         ],
         "SLOF": [
             "@epel-packagers-sig",
@@ -11391,7 +11391,7 @@
             "tpokorra"
         ],
         "bletchmame": [
-            "dcavalca"
+            "orphan"
         ],
         "blinken": [
             "@kde-sig",
@@ -11643,8 +11643,8 @@
         ],
         "bodhi-server": [
             "abompard",
-            "humaton",
-            "lenkaseg"
+            "lenkaseg",
+            "orphan"
         ],
         "bodhi3": [
             "orphan"
@@ -13257,7 +13257,8 @@
             "@certbot-sig",
             "ammdispose",
             "lukc",
-            "nb"
+            "nb",
+            "orphan"
         ],
         "certmaster": [
             "orphan"
@@ -21368,7 +21369,7 @@
         ],
         "elpa": [
             "@scitech_sig",
-            "orphan"
+            "growl"
         ],
         "elph": [
             "c4chris"
@@ -21755,6 +21756,7 @@
         "enki": [
             "@kde-sig",
             "@python-packagers-sig",
+            "orphan",
             "raphgro"
         ],
         "enkiTS": [
@@ -32977,6 +32979,7 @@
         ],
         "gnulib": [
             "moceap",
+            "orphan",
             "salimma",
             "zbyszek"
         ],
@@ -38042,7 +38045,7 @@
         ],
         "golang-github-jose-3": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-jose4": [
             "@go-sig",
@@ -39249,7 +39252,7 @@
         ],
         "golang-github-mmarkdown-mmark": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-mmcloughlin-avo": [
             "@go-sig",
@@ -39570,7 +39573,7 @@
         ],
         "golang-github-nicksnyder-i18n-2": [
             "@go-sig",
-            "qulogic"
+            "orphan"
         ],
         "golang-github-nightlyone-lockfile": [
             "@go-sig",
@@ -49222,7 +49225,8 @@
         ],
         "jabberd": [
             "benniej",
-            "dmaphy"
+            "dmaphy",
+            "orphan"
         ],
         "jabberpy": [
             "jhutar",
@@ -52756,6 +52760,9 @@
         ],
         "kdocker": [
             "orphan"
+        ],
+        "kdominate": [
+            "py0xc3"
         ],
         "kdsingleapplication": [
             "omos"
@@ -56412,6 +56419,7 @@
         "libabigail": [
             "dodji",
             "mcermak",
+            "mkolar",
             "sinnykumari"
         ],
         "libabw": [
@@ -64255,7 +64263,7 @@
             "dcallagh",
             "jonathanspw",
             "js",
-            "v02460"
+            "orphan"
         ],
         "matterbridge": [
             "@go-sig",
@@ -65634,7 +65642,7 @@
         ],
         "migrate": [
             "@go-sig",
-            "linkdupont"
+            "orphan"
         ],
         "migrationtools": [
             "than"
@@ -68409,7 +68417,7 @@
         ],
         "monkeytype": [
             "dcavalca",
-            "salimma"
+            "orphan"
         ],
         "mono": [
             "bubeck",
@@ -69332,6 +69340,7 @@
             "fmuellner",
             "jadahl",
             "kathenas",
+            "mdaenzer",
             "otaylor",
             "walters"
         ],
@@ -76230,7 +76239,7 @@
         "noggin": [
             "@infra-sig",
             "jonathanspw",
-            "ngompa"
+            "orphan"
         ],
         "noggit": [
             "java-sig",
@@ -77936,7 +77945,7 @@
         ],
         "ocrmypdf": [
             "@python-packagers-sig",
-            "qulogic"
+            "orphan"
         ],
         "ocserv": [
             "dwmw2",
@@ -103117,6 +103126,7 @@
         "pychess": [
             "bruno",
             "dcavalca",
+            "orphan",
             "raphgro",
             "tolland"
         ],
@@ -103425,8 +103435,8 @@
         ],
         "pyp2rpm": [
             "@python-packagers-sig",
-            "gordonmessmer",
-            "kevin"
+            "kevin",
+            "orphan"
         ],
         "pyp2spec": [
             "ksurma"
@@ -103902,10 +103912,10 @@
             "rdopiera"
         ],
         "python-XStatic-Angular-UUID": [
-            "rdopiera"
+            "orphan"
         ],
         "python-XStatic-Angular-Vis": [
-            "rdopiera"
+            "orphan"
         ],
         "python-XStatic-Angular-lrdragndrop": [
             "@epel-packagers-sig",
@@ -103931,10 +103941,11 @@
             "rdopiera"
         ],
         "python-XStatic-DataTables": [
-            "dmsimard"
+            "dmsimard",
+            "orphan"
         ],
         "python-XStatic-FileSaver": [
-            "rdopiera"
+            "orphan"
         ],
         "python-XStatic-Font-Awesome": [
             "@epel-packagers-sig",
@@ -103959,7 +103970,7 @@
             "rdopiera"
         ],
         "python-XStatic-JS-Yaml": [
-            "rdopiera"
+            "orphan"
         ],
         "python-XStatic-JSEncrypt": [
             "orphan",
@@ -103970,17 +103981,19 @@
             "rdopiera"
         ],
         "python-XStatic-Json2yaml": [
-            "rdopiera"
+            "orphan"
         ],
         "python-XStatic-Magic-Search": [
             "orphan",
             "rdopiera"
         ],
         "python-XStatic-Patternfly": [
-            "dmsimard"
+            "dmsimard",
+            "orphan"
         ],
         "python-XStatic-Patternfly-Bootstrap-Treeview": [
-            "dmsimard"
+            "dmsimard",
+            "orphan"
         ],
         "python-XStatic-QUnit": [
             "orphan",
@@ -104738,7 +104751,7 @@
             "orphan"
         ],
         "python-ast-monitor": [
-            "gui1ty"
+            "orphan"
         ],
         "python-astdoc": [
             "@mkdocs-sig",
@@ -104953,7 +104966,8 @@
             "neurowinter"
         ],
         "python-avocado": [
-            "cleber"
+            "cleber",
+            "orphan"
         ],
         "python-avro": [
             "neurowinter"
@@ -105397,7 +105411,7 @@
             "jcline"
         ],
         "python-azure-mgmt-support": [
-            "pwouters",
+            "orphan",
             "rominf",
             "rommell"
         ],
@@ -105687,7 +105701,7 @@
             "pjp"
         ],
         "python-binary-manager": [
-            "dcavalca"
+            "orphan"
         ],
         "python-binary-memcached": [
             "@openstack-sig",
@@ -105964,7 +105978,7 @@
             "orphan"
         ],
         "python-bytecode": [
-            "fed500"
+            "orphan"
         ],
         "python-bz2file": [
             "orphan"
@@ -106088,6 +106102,7 @@
             "@robotics-sig",
             "ankursinha",
             "cottsay",
+            "orphan",
             "rmattes"
         ],
         "python-cattrs": [
@@ -106182,7 +106197,7 @@
         ],
         "python-certbot-dns-luadns": [
             "@certbot-sig",
-            "nb"
+            "orphan"
         ],
         "python-certbot-dns-nsone": [
             "@certbot-sig",
@@ -106250,7 +106265,7 @@
         ],
         "python-chaospy": [
             "@neuro-sig",
-            "lbazan"
+            "orphan"
         ],
         "python-characteristic": [
             "orphan"
@@ -106543,115 +106558,115 @@
             "jonathanspw"
         ],
         "python-colcon-alias": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-argcomplete": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-bash": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-bazel": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-bundle": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-cd": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-cmake": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-common-extensions": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-core": [
             "cottsay"
         ],
         "python-colcon-coveragepy-result": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-defaults": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-devtools": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-ed": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-installed-package-information": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-lcov-result": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-library-path": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-meson": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-metadata": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-mixin": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-notification": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-output": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-override-check": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-package-information": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-package-selection": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-parallel-executor": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-pkg-config": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-powershell": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-python-setup-py": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-recursive-crawl": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-rerun": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-ros": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-ros-bazel": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-ros-bundle": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-ros-domain-id-coordinator": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-spawn-shell": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-test-result": [
-            "cottsay"
+            "orphan"
         ],
         "python-colcon-zsh": [
-            "cottsay"
+            "orphan"
         ],
         "python-collada": [
             "hobbes1069"
@@ -108341,7 +108356,7 @@
             "orphan"
         ],
         "python-dtoc": [
-            "dcavalca"
+            "orphan"
         ],
         "python-dtopt": [
             "jonathanspw",
@@ -108600,7 +108615,7 @@
         ],
         "python-etcd": [
             "mbarnes",
-            "neil"
+            "orphan"
         ],
         "python-etcd3": [
             "vascom"
@@ -108846,7 +108861,7 @@
             "thrnciar"
         ],
         "python-fastmcp": [
-            "r0x0d"
+            "orphan"
         ],
         "python-fastprogress": [
             "sergiopr"
@@ -108943,7 +108958,7 @@
             "orion"
         ],
         "python-fields": [
-            "cottsay"
+            "orphan"
         ],
         "python-filecheck": [
             "rathann"
@@ -110247,7 +110262,7 @@
         ],
         "python-grpc-google-iam-v1": [
             "@python-packagers-sig",
-            "jonathanspw"
+            "orphan"
         ],
         "python-grpcio": [
             "orphan"
@@ -110683,7 +110698,7 @@
         "python-hypothesmith": [
             "@python-packagers-sig",
             "dcavalca",
-            "salimma"
+            "orphan"
         ],
         "python-i3ipc": [
             "alebastr"
@@ -110881,7 +110896,7 @@
             "praiskup"
         ],
         "python-inquirer": [
-            "dcavalca"
+            "orphan"
         ],
         "python-inspyred": [
             "@neuro-sig",
@@ -111578,7 +111593,8 @@
         ],
         "python-kaptan": [
             "@epel-packagers-sig",
-            "dcavalca"
+            "dcavalca",
+            "orphan"
         ],
         "python-kazoo": [
             "@openstack-sig",
@@ -112335,7 +112351,7 @@
             "thm"
         ],
         "python-markdown-callouts": [
-            "dcavalca"
+            "orphan"
         ],
         "python-markdown-exec": [
             "dcavalca"
@@ -112390,10 +112406,10 @@
             "orphan"
         ],
         "python-mathics-pygments": [
-            "dcavalca"
+            "orphan"
         ],
         "python-mathics-scanner": [
-            "dcavalca"
+            "orphan"
         ],
         "python-mathics3": [
             "orphan"
@@ -112541,7 +112557,7 @@
         ],
         "python-meshio": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-meson-python": [
             "@neuro-sig",
@@ -112698,7 +112714,7 @@
         ],
         "python-mkdocs-git-revision-date-localized-plugin": [
             "@mkdocs-sig",
-            "dcavalca"
+            "orphan"
         ],
         "python-mkdocs-include-markdown-plugin": [
             "@mkdocs-sig",
@@ -112709,7 +112725,7 @@
             "dcavalca"
         ],
         "python-mkdocs-macros-plugin": [
-            "dcavalca"
+            "orphan"
         ],
         "python-mkdocs-macros-test": [
             "@mkdocs-sig",
@@ -112740,7 +112756,7 @@
             "dcavalca"
         ],
         "python-mkdocs-test": [
-            "dcavalca"
+            "orphan"
         ],
         "python-ml-dtypes": [
             "dherrera"
@@ -113128,7 +113144,7 @@
             "orphan"
         ],
         "python-nashpy": [
-            "iztokf"
+            "orphan"
         ],
         "python-natlas-libnmap": [
             "orphan"
@@ -113599,7 +113615,7 @@
         ],
         "python-numpoly": [
             "@neuro-sig",
-            "lbazan"
+            "orphan"
         ],
         "python-numpy-stl": [
             "@python-packagers-sig",
@@ -113916,7 +113932,7 @@
             "orphan"
         ],
         "python-opfunu": [
-            "iztokf"
+            "orphan"
         ],
         "python-opnsense": [
             "jonathanspw"
@@ -115644,7 +115660,7 @@
             "orphan"
         ],
         "python-pygtkspellcheck": [
-            "fed500"
+            "orphan"
         ],
         "python-pyhcl": [
             "@python-packagers-sig",
@@ -115914,7 +115930,7 @@
             "qulogic"
         ],
         "python-pyone": [
-            "siddharthvipul1"
+            "orphan"
         ],
         "python-pyongc": [
             "@astro-sig",
@@ -116179,7 +116195,7 @@
         ],
         "python-pysdl2": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-pyshacl": [
             "@python-packagers-sig",
@@ -116666,7 +116682,7 @@
             "swt2c"
         ],
         "python-pytest-tldr": [
-            "dcavalca"
+            "orphan"
         ],
         "python-pytest-toolbox": [
             "orphan"
@@ -116823,6 +116839,7 @@
         "python-pyvmomi": [
             "@python-packagers-sig",
             "fale",
+            "orphan",
             "rcallicotte"
         ],
         "python-pyvo": [
@@ -116969,7 +116986,7 @@
             "thunderbirdtr"
         ],
         "python-questionary": [
-            "fed500"
+            "orphan"
         ],
         "python-queuelib": [
             "echevemaster",
@@ -118911,7 +118928,8 @@
             "carlwgeorge"
         ],
         "python-sport-activities-features": [
-            "gui1ty"
+            "gui1ty",
+            "orphan"
         ],
         "python-spotipy": [
             "wfp"
@@ -119661,7 +119679,8 @@
             "salimma"
         ],
         "python-tilestache": [
-            "cottsay"
+            "cottsay",
+            "orphan"
         ],
         "python-time-machine": [
             "@python-packagers-sig",
@@ -119754,7 +119773,7 @@
         ],
         "python-toml-cli": [
             "@mkdocs-sig",
-            "dcavalca"
+            "orphan"
         ],
         "python-tomli": [
             "@python-packagers-sig",
@@ -119918,7 +119937,7 @@
             "@infra-sig",
             "@python-packagers-sig",
             "jonathanspw",
-            "ngompa"
+            "orphan"
         ],
         "python-tree-format": [
             "orphan"
@@ -120653,7 +120672,7 @@
         ],
         "python-vcstool": [
             "@robotics-sig",
-            "cottsay"
+            "orphan"
         ],
         "python-vcstools": [
             "@robotics-sig",
@@ -120831,7 +120850,7 @@
             "orphan"
         ],
         "python-vulture": [
-            "fab"
+            "orphan"
         ],
         "python-vvm": [
             "peter"
@@ -123305,7 +123324,7 @@
             "orphan"
         ],
         "qownnotes": [
-            "atim"
+            "orphan"
         ],
         "qpackagekit": [
             "kkofler",
@@ -123965,11 +123984,11 @@
         "qtile": [
             "akdev",
             "dannycolin",
-            "frostyx"
+            "orphan"
         ],
         "qtile-extras": [
             "dannycolin",
-            "frostyx"
+            "orphan"
         ],
         "qtilitools": [
             "@lxqt-sig",
@@ -125464,7 +125483,6 @@
         ],
         "rizin": [
             "asn",
-            "mavit",
             "rebus",
             "ret2libc"
         ],
@@ -125587,7 +125605,7 @@
             "jskarvad"
         ],
         "roca-detect": [
-            "sdgathman"
+            "orphan"
         ],
         "rocal": [
             "@rocm-packagers-sig",
@@ -132281,6 +132299,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-clock-bound": [
+            "shamchak"
+        ],
         "rust-clock-steering": [
             "@rust-sig",
             "decathorpe"
@@ -132433,6 +132454,7 @@
             "gotmax23"
         ],
         "rust-compact_str0.9": [
+            "@rust-sig",
             "music"
         ],
         "rust-compare": [
@@ -156450,7 +156472,7 @@
         "thefuck": [
             "@epel-packagers-sig",
             "delete",
-            "principis"
+            "orphan"
         ],
         "theme-switcher": [
             "atim"
@@ -157164,7 +157186,7 @@
             "orphan"
         ],
         "toot": [
-            "alciregi"
+            "orphan"
         ],
         "toot2": [
             "orphan"
@@ -158357,7 +158379,7 @@
             "stevetraylen"
         ],
         "ubertooth": [
-            "dcavalca"
+            "orphan"
         ],
         "ubloxcfg": [
             "dcavalca",

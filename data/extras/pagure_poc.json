@@ -8507,9 +8507,9 @@
             "fedora": "jwrdegoede"
         },
         "SIMVoleon": {
-            "admin": "orphan",
+            "admin": "fed500",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "fed500"
         },
         "SLOF": {
             "admin": "bonzini",
@@ -14557,9 +14557,9 @@
             "fedora": "tpokorra"
         },
         "bletchmame": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "blinken": {
             "admin": "than",
@@ -14872,9 +14872,9 @@
             "fedora": "humaton"
         },
         "bodhi-server": {
-            "admin": "humaton",
-            "epel": "humaton",
-            "fedora": "humaton"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "bodhi3": {
             "admin": "orphan",
@@ -16987,9 +16987,9 @@
             "fedora": "orphan"
         },
         "certbot": {
-            "admin": "nb",
-            "epel": "nb",
-            "fedora": "nb"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "certmaster": {
             "admin": "orphan",
@@ -27722,9 +27722,9 @@
             "fedora": "orphan"
         },
         "elpa": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "growl",
+            "epel": "growl",
+            "fedora": "growl"
         },
         "elph": {
             "admin": "c4chris",
@@ -28277,9 +28277,9 @@
             "fedora": "zbyszek"
         },
         "enki": {
-            "admin": "raphgro",
-            "epel": "raphgro",
-            "fedora": "raphgro"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "enkiTS": {
             "admin": "fed500",
@@ -42852,9 +42852,9 @@
             "fedora": "limb"
         },
         "gnulib": {
-            "admin": "moceap",
-            "epel": "moceap",
-            "fedora": "moceap"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "gnulib-l10n": {
             "admin": "lzaoral",
@@ -49527,9 +49527,9 @@
             "fedora": "orphan"
         },
         "golang-github-jose-3": {
-            "admin": "eclipseo",
-            "epel": "eclipseo",
-            "fedora": "eclipseo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-jose4": {
             "admin": "orphan",
@@ -51092,9 +51092,9 @@
             "fedora": "orphan"
         },
         "golang-github-mmarkdown-mmark": {
-            "admin": "eclipseo",
-            "epel": "eclipseo",
-            "fedora": "eclipseo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-mmcloughlin-avo": {
             "admin": "mikelo2",
@@ -51502,9 +51502,9 @@
             "fedora": "qulogic"
         },
         "golang-github-nicksnyder-i18n-2": {
-            "admin": "qulogic",
-            "epel": "qulogic",
-            "fedora": "qulogic"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-nightlyone-lockfile": {
             "admin": "eclipseo",
@@ -64192,9 +64192,9 @@
             "fedora": "orphan"
         },
         "jabberd": {
-            "admin": "dmaphy",
-            "epel": "dmaphy",
-            "fedora": "dmaphy"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "jabberpy": {
             "admin": "orphan",
@@ -68795,6 +68795,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "kdominate": {
+            "admin": "py0xc3",
+            "epel": "py0xc3",
+            "fedora": "py0xc3"
         },
         "kdsingleapplication": {
             "admin": "omos",
@@ -83107,9 +83112,9 @@
             "fedora": "orphan"
         },
         "matrix-synapse": {
-            "admin": "v02460",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "v02460"
+            "fedora": "orphan"
         },
         "matterbridge": {
             "admin": "jonathanspw",
@@ -84817,9 +84822,9 @@
             "fedora": "trix"
         },
         "migrate": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "migrationtools": {
             "admin": "than",
@@ -88642,9 +88647,9 @@
             "fedora": "orphan"
         },
         "monkeytype": {
-            "admin": "salimma",
+            "admin": "orphan",
             "epel": "salimma",
-            "fedora": "salimma"
+            "fedora": "orphan"
         },
         "mono": {
             "admin": "laxathom",
@@ -100127,9 +100132,9 @@
             "fedora": "orphan"
         },
         "noggin": {
-            "admin": "ngompa",
-            "epel": "ngompa",
-            "fedora": "ngompa"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "noggit": {
             "admin": "orphan",
@@ -102472,9 +102477,9 @@
             "fedora": "tsmetana"
         },
         "ocrmypdf": {
-            "admin": "qulogic",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "qulogic"
+            "fedora": "orphan"
         },
         "ocserv": {
             "admin": "nmav",
@@ -134137,9 +134142,9 @@
             "fedora": "orphan"
         },
         "pychess": {
-            "admin": "bruno",
-            "epel": "bruno",
-            "fedora": "bruno"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "pychromecast": {
             "admin": "pbrobinson",
@@ -134557,9 +134562,9 @@
             "fedora": "pwhalen"
         },
         "pyp2rpm": {
-            "admin": "gordonmessmer",
+            "admin": "orphan",
             "epel": "kevin",
-            "fedora": "gordonmessmer"
+            "fedora": "orphan"
         },
         "pyp2spec": {
             "admin": "ksurma",
@@ -135192,14 +135197,14 @@
             "fedora": "orphan"
         },
         "python-XStatic-Angular-UUID": {
-            "admin": "rdopiera",
-            "epel": "rdopiera",
-            "fedora": "rdopiera"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-XStatic-Angular-Vis": {
-            "admin": "rdopiera",
-            "epel": "rdopiera",
-            "fedora": "rdopiera"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-XStatic-Angular-lrdragndrop": {
             "admin": "orphan",
@@ -135222,14 +135227,14 @@
             "fedora": "orphan"
         },
         "python-XStatic-DataTables": {
-            "admin": "dmsimard",
-            "epel": "dmsimard",
-            "fedora": "dmsimard"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-XStatic-FileSaver": {
-            "admin": "rdopiera",
+            "admin": "orphan",
             "epel": "rdopiera",
-            "fedora": "rdopiera"
+            "fedora": "orphan"
         },
         "python-XStatic-Font-Awesome": {
             "admin": "orphan",
@@ -135257,9 +135262,9 @@
             "fedora": "orphan"
         },
         "python-XStatic-JS-Yaml": {
-            "admin": "rdopiera",
-            "epel": "rdopiera",
-            "fedora": "rdopiera"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-XStatic-JSEncrypt": {
             "admin": "orphan",
@@ -135272,9 +135277,9 @@
             "fedora": "orphan"
         },
         "python-XStatic-Json2yaml": {
-            "admin": "rdopiera",
-            "epel": "rdopiera",
-            "fedora": "rdopiera"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-XStatic-Magic-Search": {
             "admin": "orphan",
@@ -135282,14 +135287,14 @@
             "fedora": "orphan"
         },
         "python-XStatic-Patternfly": {
-            "admin": "dmsimard",
-            "epel": "dmsimard",
-            "fedora": "dmsimard"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-XStatic-Patternfly-Bootstrap-Treeview": {
-            "admin": "dmsimard",
-            "epel": "dmsimard",
-            "fedora": "dmsimard"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-XStatic-QUnit": {
             "admin": "orphan",
@@ -136327,9 +136332,9 @@
             "fedora": "orphan"
         },
         "python-ast-monitor": {
-            "admin": "gui1ty",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "gui1ty"
+            "fedora": "orphan"
         },
         "python-astdoc": {
             "admin": "dcavalca",
@@ -136597,9 +136602,9 @@
             "fedora": "neurowinter"
         },
         "python-avocado": {
-            "admin": "cleber",
+            "admin": "orphan",
             "epel": "cleber",
-            "fedora": "cleber"
+            "fedora": "orphan"
         },
         "python-avro": {
             "admin": "neurowinter",
@@ -137182,9 +137187,9 @@
             "fedora": "jcline"
         },
         "python-azure-mgmt-support": {
-            "admin": "pwouters",
-            "epel": "pwouters",
-            "fedora": "pwouters"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-azure-mgmt-synapse": {
             "admin": "jcline",
@@ -137562,9 +137567,9 @@
             "fedora": "frantisekz"
         },
         "python-binary-manager": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-binary-memcached": {
             "admin": "amoralej",
@@ -137912,9 +137917,9 @@
             "fedora": "orphan"
         },
         "python-bytecode": {
-            "admin": "fed500",
-            "epel": "fed500",
-            "fedora": "fed500"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-bz2file": {
             "admin": "orphan",
@@ -138067,9 +138072,9 @@
             "fedora": "ankursinha"
         },
         "python-catkin_tools": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-cattrs": {
             "admin": "ankursinha",
@@ -138187,9 +138192,9 @@
             "fedora": "@certbot-sig"
         },
         "python-certbot-dns-luadns": {
-            "admin": "nb",
+            "admin": "orphan",
             "epel": "@certbot-sig",
-            "fedora": "@certbot-sig"
+            "fedora": "orphan"
         },
         "python-certbot-dns-nsone": {
             "admin": "nb",
@@ -138267,9 +138272,9 @@
             "fedora": "@infra-sig"
         },
         "python-chaospy": {
-            "admin": "lbazan",
-            "epel": "lbazan",
-            "fedora": "lbazan"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-characteristic": {
             "admin": "orphan",
@@ -138642,44 +138647,44 @@
             "fedora": "jonathanspw"
         },
         "python-colcon-alias": {
-            "admin": "cottsay",
+            "admin": "orphan",
             "epel": "cottsay",
-            "fedora": "cottsay"
+            "fedora": "orphan"
         },
         "python-colcon-argcomplete": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-bash": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-bazel": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-bundle": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-cd": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-cmake": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-common-extensions": {
-            "admin": "cottsay",
+            "admin": "orphan",
             "epel": "cottsay",
-            "fedora": "cottsay"
+            "fedora": "orphan"
         },
         "python-colcon-core": {
             "admin": "cottsay",
@@ -138687,144 +138692,144 @@
             "fedora": "cottsay"
         },
         "python-colcon-coveragepy-result": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-defaults": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-devtools": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-ed": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-installed-package-information": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-lcov-result": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-library-path": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-meson": {
-            "admin": "cottsay",
+            "admin": "orphan",
             "epel": "cottsay",
-            "fedora": "cottsay"
+            "fedora": "orphan"
         },
         "python-colcon-metadata": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-mixin": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-notification": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-output": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-override-check": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-package-information": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-package-selection": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-parallel-executor": {
-            "admin": "cottsay",
+            "admin": "orphan",
             "epel": "cottsay",
-            "fedora": "cottsay"
+            "fedora": "orphan"
         },
         "python-colcon-pkg-config": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-powershell": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-python-setup-py": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-recursive-crawl": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-rerun": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-ros": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-ros-bazel": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-ros-bundle": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-ros-domain-id-coordinator": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-spawn-shell": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-test-result": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-colcon-zsh": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-collada": {
             "admin": "hobbes1069",
@@ -141012,9 +141017,9 @@
             "fedora": "orphan"
         },
         "python-dtoc": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-dtopt": {
             "admin": "jonathanspw",
@@ -141372,9 +141377,9 @@
             "fedora": "jujens"
         },
         "python-etcd": {
-            "admin": "neil",
-            "epel": "neil",
-            "fedora": "neil"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-etcd3": {
             "admin": "vascom",
@@ -141687,9 +141692,9 @@
             "fedora": "thrnciar"
         },
         "python-fastmcp": {
-            "admin": "r0x0d",
-            "epel": "r0x0d",
-            "fedora": "r0x0d"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-fastprogress": {
             "admin": "sergiopr",
@@ -141827,9 +141832,9 @@
             "fedora": "orion"
         },
         "python-fields": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-filecheck": {
             "admin": "rathann",
@@ -143447,9 +143452,9 @@
             "fedora": "kevin"
         },
         "python-grpc-google-iam-v1": {
-            "admin": "jonathanspw",
-            "epel": "jonathanspw",
-            "fedora": "jonathanspw"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-grpcio": {
             "admin": "orphan",
@@ -144007,9 +144012,9 @@
             "fedora": "orphan"
         },
         "python-hypothesmith": {
-            "admin": "salimma",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "salimma"
+            "fedora": "orphan"
         },
         "python-i3ipc": {
             "admin": "alebastr",
@@ -144272,9 +144277,9 @@
             "fedora": "praiskup"
         },
         "python-inquirer": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-inspyred": {
             "admin": "ankursinha",
@@ -145162,9 +145167,9 @@
             "fedora": "netvor"
         },
         "python-kaptan": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-kazoo": {
             "admin": "jcapitao",
@@ -146117,9 +146122,9 @@
             "fedora": "thm"
         },
         "python-markdown-callouts": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-markdown-exec": {
             "admin": "dcavalca",
@@ -146192,14 +146197,14 @@
             "fedora": "orphan"
         },
         "python-mathics-pygments": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-mathics-scanner": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-mathics3": {
             "admin": "orphan",
@@ -146372,9 +146377,9 @@
             "fedora": "smani"
         },
         "python-meshio": {
-            "admin": "gui1ty",
-            "epel": "gui1ty",
-            "fedora": "gui1ty"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-meson-python": {
             "admin": "music",
@@ -146577,9 +146582,9 @@
             "fedora": "dcavalca"
         },
         "python-mkdocs-git-revision-date-localized-plugin": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-mkdocs-include-markdown-plugin": {
             "admin": "dcavalca",
@@ -146592,9 +146597,9 @@
             "fedora": "dcavalca"
         },
         "python-mkdocs-macros-plugin": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-mkdocs-macros-test": {
             "admin": "dcavalca",
@@ -146632,9 +146637,9 @@
             "fedora": "dcavalca"
         },
         "python-mkdocs-test": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-ml-dtypes": {
             "admin": "dherrera",
@@ -147157,9 +147162,9 @@
             "fedora": "orphan"
         },
         "python-nashpy": {
-            "admin": "iztokf",
-            "epel": "iztokf",
-            "fedora": "iztokf"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-natlas-libnmap": {
             "admin": "orphan",
@@ -147782,9 +147787,9 @@
             "fedora": "jonathanspw"
         },
         "python-numpoly": {
-            "admin": "lbazan",
-            "epel": "lbazan",
-            "fedora": "lbazan"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-numpy-stl": {
             "admin": "churchyard",
@@ -148182,9 +148187,9 @@
             "fedora": "orphan"
         },
         "python-opfunu": {
-            "admin": "iztokf",
-            "epel": "iztokf",
-            "fedora": "iztokf"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-opnsense": {
             "admin": "jonathanspw",
@@ -150392,9 +150397,9 @@
             "fedora": "orphan"
         },
         "python-pygtkspellcheck": {
-            "admin": "fed500",
-            "epel": "fed500",
-            "fedora": "fed500"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pyhcl": {
             "admin": "ngompa",
@@ -150747,9 +150752,9 @@
             "fedora": "qulogic"
         },
         "python-pyone": {
-            "admin": "siddharthvipul1",
-            "epel": "siddharthvipul1",
-            "fedora": "siddharthvipul1"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pyongc": {
             "admin": "mattia",
@@ -151077,9 +151082,9 @@
             "fedora": "orphan"
         },
         "python-pysdl2": {
-            "admin": "gui1ty",
-            "epel": "gui1ty",
-            "fedora": "gui1ty"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pyshacl": {
             "admin": "mikelo2",
@@ -151707,9 +151712,9 @@
             "fedora": "swt2c"
         },
         "python-pytest-tldr": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pytest-toolbox": {
             "admin": "orphan",
@@ -151922,9 +151927,9 @@
             "fedora": "fab"
         },
         "python-pyvmomi": {
-            "admin": "rcallicotte",
-            "epel": "rcallicotte",
-            "fedora": "rcallicotte"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pyvo": {
             "admin": "sergiopr",
@@ -152117,9 +152122,9 @@
             "fedora": "thunderbirdtr"
         },
         "python-questionary": {
-            "admin": "fed500",
-            "epel": "fed500",
-            "fedora": "fed500"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-queuelib": {
             "admin": "echevemaster",
@@ -154577,9 +154582,9 @@
             "fedora": "carlwgeorge"
         },
         "python-sport-activities-features": {
-            "admin": "gui1ty",
+            "admin": "orphan",
             "epel": "gui1ty",
-            "fedora": "gui1ty"
+            "fedora": "orphan"
         },
         "python-spotipy": {
             "admin": "wfp",
@@ -155582,9 +155587,9 @@
             "fedora": "orphan"
         },
         "python-tilestache": {
-            "admin": "cottsay",
-            "epel": "cottsay",
-            "fedora": "cottsay"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-time-machine": {
             "admin": "churchyard",
@@ -155702,9 +155707,9 @@
             "fedora": "orphan"
         },
         "python-toml-cli": {
-            "admin": "dcavalca",
-            "epel": "dcavalca",
-            "fedora": "dcavalca"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-tomli": {
             "admin": "churchyard",
@@ -155892,9 +155897,9 @@
             "fedora": "@infra-sig"
         },
         "python-translitcodec": {
-            "admin": "ngompa",
-            "epel": "ngompa",
-            "fedora": "ngompa"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-tree-format": {
             "admin": "orphan",
@@ -156832,9 +156837,9 @@
             "fedora": "cottsay"
         },
         "python-vcstool": {
-            "admin": "cottsay",
+            "admin": "orphan",
             "epel": "cottsay",
-            "fedora": "cottsay"
+            "fedora": "orphan"
         },
         "python-vcstools": {
             "admin": "orphan",
@@ -157062,9 +157067,9 @@
             "fedora": "orphan"
         },
         "python-vulture": {
-            "admin": "fab",
-            "epel": "fab",
-            "fedora": "fab"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-vvm": {
             "admin": "peter",
@@ -160472,9 +160477,9 @@
             "fedora": "orphan"
         },
         "qownnotes": {
-            "admin": "atim",
+            "admin": "orphan",
             "epel": "@epel-packagers-sig",
-            "fedora": "atim"
+            "fedora": "orphan"
         },
         "qpackagekit": {
             "admin": "orphan",
@@ -161272,14 +161277,14 @@
             "fedora": "fed500"
         },
         "qtile": {
-            "admin": "frostyx",
+            "admin": "orphan",
             "epel": "frostyx",
-            "fedora": "frostyx"
+            "fedora": "orphan"
         },
         "qtile-extras": {
-            "admin": "frostyx",
-            "epel": "frostyx",
-            "fedora": "frostyx"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "qtilitools": {
             "admin": "farchord",
@@ -163452,9 +163457,9 @@
             "fedora": "jskarvad"
         },
         "roca-detect": {
-            "admin": "sdgathman",
-            "epel": "sdgathman",
-            "fedora": "sdgathman"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rocal": {
             "admin": "trix",
@@ -172265,6 +172270,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-clock-bound": {
+            "admin": "shamchak",
+            "epel": "shamchak",
+            "fedora": "shamchak"
         },
         "rust-clock-steering": {
             "admin": "decathorpe",
@@ -203327,9 +203337,9 @@
             "fedora": "orphan"
         },
         "thefuck": {
-            "admin": "principis",
-            "epel": "principis",
-            "fedora": "principis"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "theme-switcher": {
             "admin": "atim",
@@ -204272,9 +204282,9 @@
             "fedora": "orphan"
         },
         "toot": {
-            "admin": "alciregi",
-            "epel": "alciregi",
-            "fedora": "alciregi"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "toot2": {
             "admin": "orphan",
@@ -205967,9 +205977,9 @@
             "fedora": "stevetraylen"
         },
         "ubertooth": {
-            "admin": "dcavalca",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "dcavalca"
+            "fedora": "orphan"
         },
         "ubloxcfg": {
             "admin": "dcavalca",
