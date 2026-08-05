@@ -4927,9 +4927,9 @@
             "fedora": "peter"
         },
         "Charliecloud": {
-            "admin": "jogas",
-            "epel": "jogas",
-            "fedora": "jogas"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "CheMPS2": {
             "admin": "jussilehtola",
@@ -12947,7 +12947,7 @@
             "fedora": "jonathanspw"
         },
         "autolink-java": {
-            "admin": "jjames",
+            "admin": "orphan",
             "epel": "kkeithle",
             "fedora": "jjames"
         },
@@ -16987,9 +16987,9 @@
             "fedora": "orphan"
         },
         "certbot": {
-            "admin": "orphan",
+            "admin": "nb",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "nb"
         },
         "certmaster": {
             "admin": "orphan",
@@ -31997,7 +31997,7 @@
             "fedora": "orphan"
         },
         "flexmark-java": {
-            "admin": "jjames",
+            "admin": "orphan",
             "epel": "kkeithle",
             "fedora": "jjames"
         },
@@ -33572,9 +33572,9 @@
             "fedora": "solopasha"
         },
         "g4music": {
-            "admin": "jjames",
-            "epel": "jjames",
-            "fedora": "jjames"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "ga": {
             "admin": "marcindulak",
@@ -65102,9 +65102,9 @@
             "fedora": "jwrdegoede"
         },
         "javacc-maven-plugin": {
-            "admin": "jjames",
-            "epel": "jjames",
-            "fedora": "jjames"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "javacsv": {
             "admin": "orphan",
@@ -66217,7 +66217,7 @@
             "fedora": "orphan"
         },
         "jetbrains-annotations": {
-            "admin": "jjames",
+            "admin": "orphan",
             "epel": "kkeithle",
             "fedora": "jjames"
         },
@@ -79461,6 +79461,11 @@
             "epel": "kanitha",
             "fedora": "kanitha"
         },
+        "libxs": {
+            "admin": "growl",
+            "epel": "growl",
+            "fedora": "growl"
+        },
         "libxshmfence": {
             "admin": "ajax",
             "epel": "ajax",
@@ -83327,14 +83332,14 @@
             "fedora": "orphan"
         },
         "maven-doxia": {
-            "admin": "jjames",
+            "admin": "orphan",
             "epel": "salimma",
             "fedora": "jjames"
         },
         "maven-doxia-sitetools": {
-            "admin": "jjames",
-            "epel": "jjames",
-            "fedora": "jjames"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "maven-doxia-tools": {
             "admin": "orphan",
@@ -83567,9 +83572,9 @@
             "fedora": "mkoncek"
         },
         "maven-reporting-api": {
-            "admin": "jjames",
-            "epel": "jjames",
-            "fedora": "jjames"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "maven-reporting-exec": {
             "admin": "kathenas",
@@ -83577,9 +83582,9 @@
             "fedora": "kathenas"
         },
         "maven-reporting-impl": {
-            "admin": "jjames",
-            "epel": "jjames",
-            "fedora": "jjames"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "maven-repository-builder": {
             "admin": "orphan",
@@ -84592,9 +84597,9 @@
             "fedora": "orphan"
         },
         "metamath": {
-            "admin": "jjames",
-            "epel": "jjames",
-            "fedora": "jjames"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "metamonitor": {
             "admin": "orphan",
@@ -102477,9 +102482,9 @@
             "fedora": "tsmetana"
         },
         "ocrmypdf": {
-            "admin": "orphan",
+            "admin": "qulogic",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "qulogic"
         },
         "ocserv": {
             "admin": "nmav",
@@ -110075,6 +110080,11 @@
             "admin": "dfateyev",
             "epel": "dfateyev",
             "fedora": "dfateyev"
+        },
+        "perl-DBIx-QuickDB": {
+            "admin": "ppisar",
+            "epel": "ppisar",
+            "fedora": "ppisar"
         },
         "perl-DBIx-RunSQL": {
             "admin": "dfateyev",
@@ -134142,9 +134152,9 @@
             "fedora": "orphan"
         },
         "pychess": {
-            "admin": "orphan",
+            "admin": "yselkowitz",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "yselkowitz"
         },
         "pychromecast": {
             "admin": "pbrobinson",
@@ -134877,9 +134887,9 @@
             "fedora": "orphan"
         },
         "python-CommonMark": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "nmontero",
+            "epel": "nmontero",
+            "fedora": "nmontero"
         },
         "python-ECPy": {
             "admin": "orphan",
@@ -137917,9 +137927,9 @@
             "fedora": "orphan"
         },
         "python-bytecode": {
-            "admin": "orphan",
+            "admin": "fed500",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "fed500"
         },
         "python-bz2file": {
             "admin": "orphan",
@@ -150397,9 +150407,9 @@
             "fedora": "orphan"
         },
         "python-pygtkspellcheck": {
-            "admin": "orphan",
+            "admin": "fed500",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "fed500"
         },
         "python-pyhcl": {
             "admin": "ngompa",
@@ -152122,9 +152132,9 @@
             "fedora": "thunderbirdtr"
         },
         "python-questionary": {
-            "admin": "orphan",
+            "admin": "fed500",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "fed500"
         },
         "python-queuelib": {
             "admin": "echevemaster",
@@ -152322,9 +152332,9 @@
             "fedora": "fed500"
         },
         "python-recommonmark": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "nmontero",
+            "epel": "nmontero",
+            "fedora": "nmontero"
         },
         "python-recordclass": {
             "admin": "orphan",
@@ -160477,9 +160487,9 @@
             "fedora": "orphan"
         },
         "qownnotes": {
-            "admin": "orphan",
+            "admin": "yselkowitz",
             "epel": "@epel-packagers-sig",
-            "fedora": "orphan"
+            "fedora": "yselkowitz"
         },
         "qpackagekit": {
             "admin": "orphan",
@@ -170566,6 +170576,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-base16ct0.2": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-base2048": {
             "admin": "dcavalca",
             "epel": "@rust-sig",
@@ -170615,6 +170630,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-base64_0.22": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-base64ct": {
             "admin": "decathorpe",
@@ -173231,6 +173251,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-crypto-bigint0.5": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-crypto-common": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -175326,6 +175351,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-ff0.13": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-ffsend": {
             "admin": "orphan",
             "epel": "orphan",
@@ -177405,6 +177435,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-group0.13": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-groupable": {
             "admin": "orphan",
@@ -180326,6 +180361,11 @@
             "epel": "asn",
             "fedora": "asn"
         },
+        "rust-kurbu5-kdb-rs": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
         "rust-kurbu5-kdb-sys": {
             "admin": "asn",
             "epel": "asn",
@@ -181155,6 +181195,11 @@
             "admin": "jstanek",
             "epel": "jstanek",
             "fedora": "jstanek"
+        },
+        "rust-link-section": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-linked-hash-map": {
             "admin": "decathorpe",
@@ -188616,6 +188661,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-serdect0.2": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-serial-core": {
             "admin": "orphan",
             "epel": "orphan",
@@ -189385,6 +189435,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-spki0.7": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-spm_precompiled": {
             "admin": "xanderlent",
@@ -190235,6 +190290,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "rust-tcp-stream": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
         },
         "rust-tealdeer": {
             "admin": "orphan",
@@ -196170,6 +196230,11 @@
             "admin": "plautrba",
             "epel": "plautrba",
             "fedora": "plautrba"
+        },
+        "semacro": {
+            "admin": "jjanasek",
+            "epel": "jjanasek",
+            "fedora": "jjanasek"
         },
         "semantik": {
             "admin": "orphan",
@@ -203447,9 +203512,9 @@
             "fedora": "orphan"
         },
         "thrift": {
-            "admin": "ctubbsii",
-            "epel": "ctubbsii",
-            "fedora": "ctubbsii"
+            "admin": "kkeithle",
+            "epel": "kkeithle",
+            "fedora": "kkeithle"
         },
         "throttle": {
             "admin": "orphan",

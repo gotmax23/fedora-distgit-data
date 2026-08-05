@@ -3893,7 +3893,7 @@
             "tdawson"
         ],
         "Charliecloud": [
-            "jogas"
+            "orphan"
         ],
         "CheMPS2": [
             "jussilehtola",
@@ -10161,8 +10161,8 @@
         ],
         "autolink-java": [
             "@java-maint-sig",
-            "jjames",
-            "kkeithle"
+            "kkeithle",
+            "orphan"
         ],
         "automake": [
             "fberat",
@@ -13257,8 +13257,7 @@
             "@certbot-sig",
             "ammdispose",
             "lukc",
-            "nb",
-            "orphan"
+            "nb"
         ],
         "certmaster": [
             "orphan"
@@ -13826,7 +13825,6 @@
             "tstellar"
         ],
         "clang15": [
-            "@epel-packagers-sig",
             "@fedora-llvm-team",
             "frantisekz",
             "salimma",
@@ -24627,8 +24625,8 @@
         ],
         "flexmark-java": [
             "@java-maint-sig",
-            "jjames",
-            "kkeithle"
+            "kkeithle",
+            "orphan"
         ],
         "flickcurl": [
             "mjg"
@@ -25824,7 +25822,7 @@
             "solopasha"
         ],
         "g4music": [
-            "jjames"
+            "orphan"
         ],
         "ga": [
             "dmlb2000",
@@ -49940,7 +49938,6 @@
         "javacc": [
             "@epel-packagers-sig",
             "java-sig",
-            "jjames",
             "jwrdegoede",
             "mizdebsk",
             "mkoncek",
@@ -49948,9 +49945,9 @@
         ],
         "javacc-maven-plugin": [
             "java-sig",
-            "jjames",
             "mizdebsk",
-            "mkoncek"
+            "mkoncek",
+            "orphan"
         ],
         "javacsv": [
             "orphan"
@@ -50815,8 +50812,8 @@
         "jetbrains-annotations": [
             "@java-maint-sig",
             "java-sig",
-            "jjames",
-            "kkeithle"
+            "kkeithle",
+            "orphan"
         ],
         "jetbrains-mono-fonts": [
             "aekoroglu",
@@ -52762,6 +52759,7 @@
             "orphan"
         ],
         "kdominate": [
+            "@kde-sig",
             "py0xc3"
         ],
         "kdsingleapplication": [
@@ -53918,6 +53916,7 @@
             "aleasto"
         ],
         "kf6-oxygen-icons": [
+            "@kde-sig",
             "farchord"
         ],
         "kf6-plasma": [
@@ -55780,7 +55779,6 @@
             "jwrdegoede"
         ],
         "lbzip2": [
-            "@epel-packagers-sig",
             "lzap",
             "mizdebsk",
             "rathann",
@@ -61435,6 +61433,9 @@
         "libxo": [
             "kanitha"
         ],
+        "libxs": [
+            "growl"
+        ],
         "libxshmfence": [
             "ajax",
             "jexposit"
@@ -62085,7 +62086,6 @@
             "tstellar"
         ],
         "llvm15": [
-            "@epel-packagers-sig",
             "@fedora-llvm-team",
             "frantisekz",
             "salimma",
@@ -64258,7 +64258,6 @@
             "orphan"
         ],
         "matrix-synapse": [
-            "@epel-packagers-sig",
             "aem",
             "dcallagh",
             "jonathanspw",
@@ -64455,16 +64454,16 @@
         "maven-doxia": [
             "@epel-packagers-sig",
             "java-sig",
-            "jjames",
             "mizdebsk",
             "mkoncek",
+            "orphan",
             "salimma"
         ],
         "maven-doxia-sitetools": [
             "java-sig",
-            "jjames",
             "mizdebsk",
-            "mkoncek"
+            "mkoncek",
+            "orphan"
         ],
         "maven-doxia-tools": [
             "orphan"
@@ -64674,18 +64673,18 @@
         ],
         "maven-reporting-api": [
             "java-sig",
-            "jjames",
             "mizdebsk",
-            "mkoncek"
+            "mkoncek",
+            "orphan"
         ],
         "maven-reporting-exec": [
             "kathenas"
         ],
         "maven-reporting-impl": [
             "java-sig",
-            "jjames",
             "mizdebsk",
-            "mkoncek"
+            "mkoncek",
+            "orphan"
         ],
         "maven-repository-builder": [
             "java-sig",
@@ -65477,7 +65476,7 @@
             "orphan"
         ],
         "metamath": [
-            "jjames"
+            "orphan"
         ],
         "metamonitor": [
             "orphan"
@@ -77945,7 +77944,7 @@
         ],
         "ocrmypdf": [
             "@python-packagers-sig",
-            "orphan"
+            "qulogic"
         ],
         "ocserv": [
             "dwmw2",
@@ -84106,6 +84105,10 @@
             "dfateyev",
             "perl-sig"
         ],
+        "perl-DBIx-QuickDB": [
+            "@perl-maint-sig",
+            "ppisar"
+        ],
         "perl-DBIx-RunSQL": [
             "dfateyev",
             "perl-sig"
@@ -88554,6 +88557,7 @@
             "perl-sig"
         ],
         "perl-Mail-DMARC": [
+            "@perl-maint-sig",
             "ppisar"
         ],
         "perl-Mail-GnuPG": [
@@ -90843,6 +90847,7 @@
             "perl-sig"
         ],
         "perl-POSIX-2008": [
+            "@perl-maint-sig",
             "ppisar"
         ],
         "perl-POSIX-AtFork": [
@@ -103126,9 +103131,9 @@
         "pychess": [
             "bruno",
             "dcavalca",
-            "orphan",
             "raphgro",
-            "tolland"
+            "tolland",
+            "yselkowitz"
         ],
         "pychromecast": [
             "pbrobinson"
@@ -103671,7 +103676,7 @@
             "orphan"
         ],
         "python-CommonMark": [
-            "orphan"
+            "nmontero"
         ],
         "python-ECPy": [
             "orphan"
@@ -105978,7 +105983,7 @@
             "orphan"
         ],
         "python-bytecode": [
-            "orphan"
+            "fed500"
         ],
         "python-bz2file": [
             "orphan"
@@ -111592,7 +111597,6 @@
             "netvor"
         ],
         "python-kaptan": [
-            "@epel-packagers-sig",
             "dcavalca",
             "orphan"
         ],
@@ -115660,7 +115664,7 @@
             "orphan"
         ],
         "python-pygtkspellcheck": [
-            "orphan"
+            "fed500"
         ],
         "python-pyhcl": [
             "@python-packagers-sig",
@@ -116986,7 +116990,7 @@
             "thunderbirdtr"
         ],
         "python-questionary": [
-            "orphan"
+            "fed500"
         ],
         "python-queuelib": [
             "echevemaster",
@@ -117138,7 +117142,7 @@
             "fed500"
         ],
         "python-recommonmark": [
-            "orphan"
+            "nmontero"
         ],
         "python-recordclass": [
             "orphan"
@@ -118775,7 +118779,6 @@
             "orphan"
         ],
         "python-sphinxcontrib-apidoc": [
-            "@epel-packagers-sig",
             "@openstack-sig",
             "@python-packagers-sig",
             "lbalhar"
@@ -123324,7 +123327,7 @@
             "orphan"
         ],
         "qownnotes": [
-            "orphan"
+            "yselkowitz"
         ],
         "qpackagekit": [
             "kkofler",
@@ -130959,6 +130962,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-base16ct0.2": [
+            "music"
+        ],
         "rust-base2048": [
             "@rust-sig",
             "dcavalca"
@@ -130996,6 +131002,9 @@
         "rust-base64_0.21": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-base64_0.22": [
+            "music"
         ],
         "rust-base64ct": [
             "@rust-sig",
@@ -132300,6 +132309,7 @@
             "decathorpe"
         ],
         "rust-clock-bound": [
+            "@rust-sig",
             "shamchak"
         ],
         "rust-clock-steering": [
@@ -133039,6 +133049,9 @@
         "rust-crypto-bigint0.2": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-crypto-bigint0.5": [
+            "music"
         ],
         "rust-crypto-common": [
             "@rust-sig",
@@ -134717,6 +134730,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-ff0.13": [
+            "music"
+        ],
         "rust-ffsend": [
             "orphan"
         ],
@@ -136360,6 +136376,9 @@
         "rust-group": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-group0.13": [
+            "music"
         ],
         "rust-groupable": [
             "orphan"
@@ -138701,6 +138720,9 @@
             "@rust-sig",
             "asn"
         ],
+        "rust-kurbu5-kdb-rs": [
+            "asn"
+        ],
         "rust-kurbu5-kdb-sys": [
             "@rust-sig",
             "asn"
@@ -139376,6 +139398,10 @@
         "rust-link-cplusplus": [
             "@rust-sig",
             "jstanek"
+        ],
+        "rust-link-section": [
+            "@rust-sig",
+            "salimma"
         ],
         "rust-linked-hash-map": [
             "@rust-sig",
@@ -145240,6 +145266,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-serdect0.2": [
+            "music"
+        ],
         "rust-serial-core": [
             "orphan"
         ],
@@ -145855,6 +145884,9 @@
         "rust-spki0.4": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-spki0.7": [
+            "music"
         ],
         "rust-spm_precompiled": [
             "@ai-packagers-sig",
@@ -146520,6 +146552,9 @@
         "rust-taskchampion": [
             "@rust-sig",
             "orphan"
+        ],
+        "rust-tcp-stream": [
+            "jcline"
         ],
         "rust-tealdeer": [
             "@rust-sig",
@@ -151173,6 +151208,9 @@
             "plautrba",
             "vmojzis",
             "zpytela"
+        ],
+        "semacro": [
+            "jjanasek"
         ],
         "semantik": [
             "orphan"
@@ -156470,7 +156508,6 @@
             "orphan"
         ],
         "thefuck": [
-            "@epel-packagers-sig",
             "delete",
             "orphan"
         ],
@@ -164279,7 +164316,6 @@
             "jonathanspw"
         ],
         "yarnpkg": [
-            "@epel-packagers-sig",
             "orphan"
         ],
         "yarock": [
