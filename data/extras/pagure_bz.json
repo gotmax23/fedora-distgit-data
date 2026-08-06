@@ -32976,8 +32976,9 @@
             "limb"
         ],
         "gnulib": [
+            "filiperosset",
             "moceap",
-            "orphan",
+            "peter",
             "salimma",
             "zbyszek"
         ],
@@ -49680,6 +49681,7 @@
         ],
         "jansi-native": [
             "didiksupriadi41",
+            "kkeithle",
             "mizdebsk",
             "mkoncek"
         ],
@@ -49946,8 +49948,7 @@
         "javacc-maven-plugin": [
             "java-sig",
             "mizdebsk",
-            "mkoncek",
-            "orphan"
+            "mkoncek"
         ],
         "javacsv": [
             "orphan"
@@ -78988,7 +78989,8 @@
         "openmpi": [
             "jhladky",
             "jonathanspw",
-            "orion"
+            "orion",
+            "rcallicotte"
         ],
         "openms": [
             "sagitter"
@@ -104756,7 +104758,7 @@
             "orphan"
         ],
         "python-ast-monitor": [
-            "orphan"
+            "filiperosset"
         ],
         "python-astdoc": [
             "@mkdocs-sig",
@@ -106107,7 +106109,7 @@
             "@robotics-sig",
             "ankursinha",
             "cottsay",
-            "orphan",
+            "filiperosset",
             "rmattes"
         ],
         "python-cattrs": [
@@ -106270,7 +106272,7 @@
         ],
         "python-chaospy": [
             "@neuro-sig",
-            "orphan"
+            "filiperosset"
         ],
         "python-characteristic": [
             "orphan"
@@ -111598,7 +111600,7 @@
         ],
         "python-kaptan": [
             "dcavalca",
-            "orphan"
+            "filiperosset"
         ],
         "python-kazoo": [
             "@openstack-sig",
@@ -112760,7 +112762,7 @@
             "dcavalca"
         ],
         "python-mkdocs-test": [
-            "orphan"
+            "filiperosset"
         ],
         "python-ml-dtypes": [
             "dherrera"
@@ -112860,7 +112862,7 @@
             "orphan"
         ],
         "python-more-executors": [
-            "orphan"
+            "phsmoura"
         ],
         "python-more-itertools": [
             "@python-packagers-sig",
@@ -113148,7 +113150,7 @@
             "orphan"
         ],
         "python-nashpy": [
-            "orphan"
+            "filiperosset"
         ],
         "python-natlas-libnmap": [
             "orphan"
@@ -113619,7 +113621,7 @@
         ],
         "python-numpoly": [
             "@neuro-sig",
-            "orphan"
+            "filiperosset"
         ],
         "python-numpy-stl": [
             "@python-packagers-sig",
@@ -113936,7 +113938,7 @@
             "orphan"
         ],
         "python-opfunu": [
-            "orphan"
+            "filiperosset"
         ],
         "python-opnsense": [
             "jonathanspw"
@@ -115059,7 +115061,8 @@
             "jonathanspw"
         ],
         "python-pskc": [
-            "gbcox"
+            "gbcox",
+            "orion"
         ],
         "python-psphere": [
             "clalance",
@@ -115934,7 +115937,7 @@
             "qulogic"
         ],
         "python-pyone": [
-            "orphan"
+            "filiperosset"
         ],
         "python-pyongc": [
             "@astro-sig",
@@ -116843,7 +116846,7 @@
         "python-pyvmomi": [
             "@python-packagers-sig",
             "fale",
-            "orphan",
+            "filiperosset",
             "rcallicotte"
         ],
         "python-pyvo": [
@@ -118931,8 +118934,8 @@
             "carlwgeorge"
         ],
         "python-sport-activities-features": [
-            "gui1ty",
-            "orphan"
+            "filiperosset",
+            "gui1ty"
         ],
         "python-spotipy": [
             "wfp"
@@ -119683,7 +119686,7 @@
         ],
         "python-tilestache": [
             "cottsay",
-            "orphan"
+            "filiperosset"
         ],
         "python-time-machine": [
             "@python-packagers-sig",
@@ -119776,7 +119779,7 @@
         ],
         "python-toml-cli": [
             "@mkdocs-sig",
-            "orphan"
+            "filiperosset"
         ],
         "python-tomli": [
             "@python-packagers-sig",
@@ -120675,7 +120678,7 @@
         ],
         "python-vcstool": [
             "@robotics-sig",
-            "orphan"
+            "filiperosset"
         ],
         "python-vcstools": [
             "@robotics-sig",
@@ -120853,7 +120856,7 @@
             "orphan"
         ],
         "python-vulture": [
-            "orphan"
+            "filiperosset"
         ],
         "python-vvm": [
             "peter"
@@ -130963,6 +130966,7 @@
             "decathorpe"
         ],
         "rust-base16ct0.2": [
+            "@rust-sig",
             "music"
         ],
         "rust-base2048": [
@@ -131004,6 +131008,7 @@
             "decathorpe"
         ],
         "rust-base64_0.22": [
+            "@rust-sig",
             "music"
         ],
         "rust-base64ct": [
@@ -133051,6 +133056,7 @@
             "decathorpe"
         ],
         "rust-crypto-bigint0.5": [
+            "@rust-sig",
             "music"
         ],
         "rust-crypto-common": [
@@ -133656,6 +133662,9 @@
         "rust-des0.7": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-des0.8": [
+            "music"
         ],
         "rust-desed": [
             "@rust-sig",
@@ -134731,6 +134740,7 @@
             "decathorpe"
         ],
         "rust-ff0.13": [
+            "@rust-sig",
             "music"
         ],
         "rust-ffsend": [
@@ -136378,6 +136388,7 @@
             "decathorpe"
         ],
         "rust-group0.13": [
+            "@rust-sig",
             "music"
         ],
         "rust-groupable": [
@@ -138721,6 +138732,7 @@
             "asn"
         ],
         "rust-kurbu5-kdb-rs": [
+            "@rust-sig",
             "asn"
         ],
         "rust-kurbu5-kdb-sys": [
@@ -145267,6 +145279,7 @@
             "decathorpe"
         ],
         "rust-serdect0.2": [
+            "@rust-sig",
             "music"
         ],
         "rust-serial-core": [
@@ -145886,6 +145899,7 @@
             "decathorpe"
         ],
         "rust-spki0.7": [
+            "@rust-sig",
             "music"
         ],
         "rust-spm_precompiled": [
@@ -146554,6 +146568,7 @@
             "orphan"
         ],
         "rust-tcp-stream": [
+            "@rust-sig",
             "jcline"
         ],
         "rust-tealdeer": [
@@ -152498,12 +152513,14 @@
         ],
         "snapd": [
             "@go-sig",
+            "aleasto",
             "bboozzoo",
             "ngompa",
             "zyga"
         ],
         "snapd-glib": [
             "@kde-sig",
+            "aleasto",
             "ngompa",
             "zyga"
         ],
@@ -157223,7 +157240,7 @@
             "orphan"
         ],
         "toot": [
-            "orphan"
+            "filiperosset"
         ],
         "toot2": [
             "orphan"

@@ -42852,9 +42852,9 @@
             "fedora": "limb"
         },
         "gnulib": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "gnulib-l10n": {
             "admin": "lzaoral",
@@ -64803,7 +64803,7 @@
         },
         "jansi-native": {
             "admin": "didiksupriadi41",
-            "epel": "didiksupriadi41",
+            "epel": "kkeithle",
             "fedora": "didiksupriadi41"
         },
         "jansi1": {
@@ -65102,9 +65102,9 @@
             "fedora": "jwrdegoede"
         },
         "javacc-maven-plugin": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "mkoncek",
+            "epel": "mkoncek",
+            "fedora": "mkoncek"
         },
         "javacsv": {
             "admin": "orphan",
@@ -136342,9 +136342,9 @@
             "fedora": "orphan"
         },
         "python-ast-monitor": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-astdoc": {
             "admin": "dcavalca",
@@ -138082,9 +138082,9 @@
             "fedora": "ankursinha"
         },
         "python-catkin_tools": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-cattrs": {
             "admin": "ankursinha",
@@ -138282,9 +138282,9 @@
             "fedora": "@infra-sig"
         },
         "python-chaospy": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-characteristic": {
             "admin": "orphan",
@@ -145177,9 +145177,9 @@
             "fedora": "netvor"
         },
         "python-kaptan": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-kazoo": {
             "admin": "jcapitao",
@@ -146647,9 +146647,9 @@
             "fedora": "dcavalca"
         },
         "python-mkdocs-test": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-ml-dtypes": {
             "admin": "dherrera",
@@ -146792,9 +146792,9 @@
             "fedora": "orphan"
         },
         "python-more-executors": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "phsmoura",
+            "epel": "phsmoura",
+            "fedora": "phsmoura"
         },
         "python-more-itertools": {
             "admin": "aarem",
@@ -147172,9 +147172,9 @@
             "fedora": "orphan"
         },
         "python-nashpy": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-natlas-libnmap": {
             "admin": "orphan",
@@ -147797,9 +147797,9 @@
             "fedora": "jonathanspw"
         },
         "python-numpoly": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-numpy-stl": {
             "admin": "churchyard",
@@ -148197,9 +148197,9 @@
             "fedora": "orphan"
         },
         "python-opfunu": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-opnsense": {
             "admin": "jonathanspw",
@@ -149618,7 +149618,7 @@
         },
         "python-pskc": {
             "admin": "gbcox",
-            "epel": "gbcox",
+            "epel": "orion",
             "fedora": "gbcox"
         },
         "python-psphere": {
@@ -150762,9 +150762,9 @@
             "fedora": "qulogic"
         },
         "python-pyone": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-pyongc": {
             "admin": "mattia",
@@ -151937,9 +151937,9 @@
             "fedora": "fab"
         },
         "python-pyvmomi": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-pyvo": {
             "admin": "sergiopr",
@@ -154592,9 +154592,9 @@
             "fedora": "carlwgeorge"
         },
         "python-sport-activities-features": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "gui1ty",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-spotipy": {
             "admin": "wfp",
@@ -155597,9 +155597,9 @@
             "fedora": "orphan"
         },
         "python-tilestache": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-time-machine": {
             "admin": "churchyard",
@@ -155717,9 +155717,9 @@
             "fedora": "orphan"
         },
         "python-toml-cli": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-tomli": {
             "admin": "churchyard",
@@ -156847,9 +156847,9 @@
             "fedora": "cottsay"
         },
         "python-vcstool": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "cottsay",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-vcstools": {
             "admin": "orphan",
@@ -157077,9 +157077,9 @@
             "fedora": "orphan"
         },
         "python-vulture": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-vvm": {
             "admin": "peter",
@@ -174011,6 +174011,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-des0.8": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-desed": {
             "admin": "suve",
             "epel": "@rust-sig",
@@ -176678,8 +176683,8 @@
         },
         "rust-gix-archive": {
             "admin": "blinxen",
-            "epel": "blinxen",
-            "fedora": "blinxen"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-gix-attributes": {
             "admin": "blinxen",
@@ -204347,9 +204352,9 @@
             "fedora": "orphan"
         },
         "toot": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "toot2": {
             "admin": "orphan",
@@ -214163,7 +214168,7 @@
         },
         "yubikey-manager": {
             "admin": "gbcox",
-            "epel": "gbcox",
+            "epel": "orion",
             "fedora": "gbcox"
         },
         "yubikey-manager-qt": {
