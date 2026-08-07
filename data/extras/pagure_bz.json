@@ -1500,6 +1500,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "kdominate": [
+            "yselkowitz"
+        ],
         "keepass": [
             "@flatpak-sig",
             "yselkowitz"
@@ -9022,8 +9025,8 @@
             "tsmetana"
         ],
         "arch-install-scripts": [
-            "@epel-packagers-sig",
             "cicku",
+            "jonathanspw",
             "zbyszek"
         ],
         "arch-test": [
@@ -9044,7 +9047,7 @@
             "devos"
         ],
         "archlinux-keyring": [
-            "@epel-packagers-sig",
+            "jonathanspw",
             "mrc0mmand",
             "zbyszek"
         ],
@@ -12326,8 +12329,7 @@
             "tlbueno"
         ],
         "butt": [
-            "carlwgeorge",
-            "jrichardson"
+            "carlwgeorge"
         ],
         "buttermanager": [
             "@btrfs-sig",
@@ -18480,7 +18482,6 @@
         ],
         "dmidiplayer": [
             "@kde-sig",
-            "jrichardson",
             "yselkowitz"
         ],
         "dmlite": [
@@ -19249,7 +19250,6 @@
             "tartina"
         ],
         "drumstick": [
-            "jrichardson",
             "yanqiyu",
             "ycollet"
         ],
@@ -54431,7 +54431,6 @@
         ],
         "kmidimon": [
             "@kde-sig",
-            "jrichardson",
             "yselkowitz"
         ],
         "kmime": [
@@ -65642,7 +65641,7 @@
         ],
         "migrate": [
             "@go-sig",
-            "orphan"
+            "linkdupont"
         ],
         "migrationtools": [
             "than"
@@ -76238,8 +76237,9 @@
         ],
         "noggin": [
             "@infra-sig",
+            "filiperosset",
             "jonathanspw",
-            "orphan"
+            "kevin"
         ],
         "noggit": [
             "java-sig",
@@ -80155,10 +80155,10 @@
             "jussilehtola"
         ],
         "pacman": [
-            "@epel-packagers-sig",
             "cicku",
             "daandemeyer",
             "imbev",
+            "jonathanspw",
             "zbyszek"
         ],
         "pacmanager": [
@@ -92026,7 +92026,8 @@
             "ignatenkobrain",
             "jplesnik",
             "perl-sig",
-            "spot"
+            "spot",
+            "stevetraylen"
         ],
         "perl-SQL-Abstract-Classic": [
             "jplesnik"
@@ -108363,7 +108364,7 @@
             "orphan"
         ],
         "python-dtoc": [
-            "orphan"
+            "filiperosset"
         ],
         "python-dtopt": [
             "jonathanspw",
@@ -110903,7 +110904,7 @@
             "praiskup"
         ],
         "python-inquirer": [
-            "orphan"
+            "filiperosset"
         ],
         "python-inspyred": [
             "@neuro-sig",
@@ -112357,7 +112358,7 @@
             "thm"
         ],
         "python-markdown-callouts": [
-            "orphan"
+            "filiperosset"
         ],
         "python-markdown-exec": [
             "dcavalca"
@@ -112412,10 +112413,10 @@
             "orphan"
         ],
         "python-mathics-pygments": [
-            "orphan"
+            "filiperosset"
         ],
         "python-mathics-scanner": [
-            "orphan"
+            "filiperosset"
         ],
         "python-mathics3": [
             "orphan"
@@ -112720,7 +112721,7 @@
         ],
         "python-mkdocs-git-revision-date-localized-plugin": [
             "@mkdocs-sig",
-            "orphan"
+            "filiperosset"
         ],
         "python-mkdocs-include-markdown-plugin": [
             "@mkdocs-sig",
@@ -112731,7 +112732,7 @@
             "dcavalca"
         ],
         "python-mkdocs-macros-plugin": [
-            "orphan"
+            "filiperosset"
         ],
         "python-mkdocs-macros-test": [
             "@mkdocs-sig",
@@ -116689,7 +116690,7 @@
             "swt2c"
         ],
         "python-pytest-tldr": [
-            "orphan"
+            "filiperosset"
         ],
         "python-pytest-toolbox": [
             "orphan"
@@ -118950,8 +118951,8 @@
         ],
         "python-spyder-kernels": [
             "@neuro-sig",
-            "jonathanspw",
-            "orphan"
+            "filiperosset",
+            "jonathanspw"
         ],
         "python-spyking-circus": [
             "@neuro-sig",
@@ -119797,6 +119798,9 @@
             "@python-packagers-sig",
             "churchyard",
             "gotmax23"
+        ],
+        "python-tomllint": [
+            "limb"
         ],
         "python-toolz": [
             "orion"
@@ -124028,6 +124032,7 @@
         ],
         "qtox": [
             "eclipseo",
+            "nick974",
             "rathann"
         ],
         "qtparted": [
@@ -130009,6 +130014,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-amq-protocol-tcp": [
+            "jcline"
+        ],
         "rust-amq-protocol-types": [
             "@rust-sig",
             "jcline"
@@ -131374,6 +131382,9 @@
             "@rust-sig",
             "smani"
         ],
+        "rust-blowfish0.9": [
+            "decathorpe"
+        ],
         "rust-blsctl": [
             "@rust-sig",
             "orphan"
@@ -131982,6 +131993,9 @@
         ],
         "rust-cbc": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-cbc0.1": [
             "decathorpe"
         ],
         "rust-cbindgen": [
@@ -133664,6 +133678,7 @@
             "decathorpe"
         ],
         "rust-des0.8": [
+            "@rust-sig",
             "music"
         ],
         "rust-desed": [
@@ -134068,6 +134083,9 @@
         ],
         "rust-ecb": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-ecb0.1": [
             "decathorpe"
         ],
         "rust-ecdsa": [
@@ -137414,6 +137432,9 @@
         ],
         "rust-hkdf0.11": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-hkdf0.12": [
             "decathorpe"
         ],
         "rust-hmac": [
@@ -140825,6 +140846,9 @@
         "rust-num-bigint-dig": [
             "@rust-sig",
             "pbrobinson"
+        ],
+        "rust-num-bigint-dig0.8": [
+            "decathorpe"
         ],
         "rust-num-bigint0.3": [
             "@rust-sig",
@@ -151599,7 +151623,7 @@
             "orphan"
         ],
         "sherlock-project": [
-            "orphan"
+            "filiperosset"
         ],
         "shflags": [
             "orphan"
@@ -153423,9 +153447,9 @@
         ],
         "spyder": [
             "@neuro-sig",
+            "filiperosset",
             "gui1ty",
             "jonathanspw",
-            "orphan",
             "prgutier"
         ],
         "spymemcached": [
@@ -165706,6 +165730,9 @@
             "omejzlik"
         ],
         "libzfcphbaapi": [
+            "sharkcz"
+        ],
+        "libzpc": [
             "sharkcz"
         ],
         "lld": [

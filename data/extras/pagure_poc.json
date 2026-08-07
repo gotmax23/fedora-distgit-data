@@ -1832,6 +1832,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "kdominate": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "keepass": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -84827,9 +84832,9 @@
             "fedora": "trix"
         },
         "migrate": {
-            "admin": "orphan",
+            "admin": "linkdupont",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "linkdupont"
         },
         "migrationtools": {
             "admin": "than",
@@ -100137,9 +100142,9 @@
             "fedora": "orphan"
         },
         "noggin": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "noggit": {
             "admin": "orphan",
@@ -119188,7 +119193,7 @@
         },
         "perl-SQL-Abstract": {
             "admin": "spot",
-            "epel": "spot",
+            "epel": "stevetraylen",
             "fedora": "spot"
         },
         "perl-SQL-Abstract-Classic": {
@@ -141027,9 +141032,9 @@
             "fedora": "orphan"
         },
         "python-dtoc": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-dtopt": {
             "admin": "jonathanspw",
@@ -144287,9 +144292,9 @@
             "fedora": "praiskup"
         },
         "python-inquirer": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-inspyred": {
             "admin": "ankursinha",
@@ -146132,9 +146137,9 @@
             "fedora": "thm"
         },
         "python-markdown-callouts": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-markdown-exec": {
             "admin": "dcavalca",
@@ -146207,14 +146212,14 @@
             "fedora": "orphan"
         },
         "python-mathics-pygments": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-mathics-scanner": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-mathics3": {
             "admin": "orphan",
@@ -146592,9 +146597,9 @@
             "fedora": "dcavalca"
         },
         "python-mkdocs-git-revision-date-localized-plugin": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-mkdocs-include-markdown-plugin": {
             "admin": "dcavalca",
@@ -146607,9 +146612,9 @@
             "fedora": "dcavalca"
         },
         "python-mkdocs-macros-plugin": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-mkdocs-macros-test": {
             "admin": "dcavalca",
@@ -151722,9 +151727,9 @@
             "fedora": "swt2c"
         },
         "python-pytest-tldr": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-pytest-toolbox": {
             "admin": "orphan",
@@ -154612,9 +154617,9 @@
             "fedora": "orion"
         },
         "python-spyder-kernels": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-spyking-circus": {
             "admin": "ankursinha",
@@ -155735,6 +155740,11 @@
             "admin": "churchyard",
             "epel": "gotmax23",
             "fedora": "churchyard"
+        },
+        "python-tomllint": {
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "python-toolz": {
             "admin": "orion",
@@ -161339,7 +161349,7 @@
         "qtox": {
             "admin": "rathann",
             "epel": "rathann",
-            "fedora": "rathann"
+            "fedora": "nick974"
         },
         "qtparted": {
             "admin": "orphan",
@@ -169386,6 +169396,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-amq-protocol-tcp": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
+        },
         "rust-amq-protocol-types": {
             "admin": "jcline",
             "epel": "jcline",
@@ -171086,6 +171101,11 @@
             "epel": "smani",
             "fedora": "smani"
         },
+        "rust-blowfish0.9": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-blsctl": {
             "admin": "orphan",
             "epel": "orphan",
@@ -171865,6 +171885,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-cbc0.1": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-cbindgen": {
             "admin": "decathorpe",
@@ -174515,6 +174540,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-ecb0.1": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-ecdsa": {
             "admin": "decathorpe",
@@ -178725,6 +178755,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-hkdf0.12": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-hmac": {
             "admin": "decathorpe",
@@ -182990,6 +183025,11 @@
             "admin": "pbrobinson",
             "epel": "pbrobinson",
             "fedora": "pbrobinson"
+        },
+        "rust-num-bigint-dig0.8": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-num-bigint0.3": {
             "admin": "decathorpe",
@@ -196752,9 +196792,9 @@
             "fedora": "orphan"
         },
         "sherlock-project": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "shflags": {
             "admin": "orphan",
@@ -199172,9 +199212,9 @@
             "fedora": "orphan"
         },
         "spyder": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "spymemcached": {
             "admin": "orphan",
@@ -215609,6 +215649,11 @@
             "fedora": "omejzlik"
         },
         "libzfcphbaapi": {
+            "admin": "sharkcz",
+            "epel": "sharkcz",
+            "fedora": "sharkcz"
+        },
+        "libzpc": {
             "admin": "sharkcz",
             "epel": "sharkcz",
             "fedora": "sharkcz"
