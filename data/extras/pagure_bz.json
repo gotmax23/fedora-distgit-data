@@ -1501,6 +1501,7 @@
             "yselkowitz"
         ],
         "kdominate": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "keepass": [
@@ -9369,6 +9370,11 @@
             "@asahi-sig",
             "ngompa"
         ],
+        "asahi-fix27": [
+            "@asahi-sig",
+            "@rust-sig",
+            "music"
+        ],
         "asahi-installer": [
             "@asahi-sig",
             "dcavalca"
@@ -13257,6 +13263,7 @@
         ],
         "certbot": [
             "@certbot-sig",
+            "ahaupt",
             "ammdispose",
             "lukc",
             "nb"
@@ -13659,7 +13666,7 @@
             "yselkowitz"
         ],
         "cinnamon-screensaver": [
-            "leigh123linux",
+            "orphan",
             "yselkowitz"
         ],
         "cinnamon-session": [
@@ -15691,6 +15698,9 @@
         ],
         "covered": [
             "orphan"
+        ],
+        "cow": [
+            "mcermak"
         ],
         "cowbell": [
             "orphan"
@@ -56977,6 +56987,9 @@
         "libcroco": [
             "orphan"
         ],
+        "libcryptsetup-token-kbs": [
+            "matiasv"
+        ],
         "libcryptui": [
             "raveit65",
             "stefw"
@@ -70885,8 +70898,7 @@
             "till"
         ],
         "nng": [
-            "jan-ruzicka-c",
-            "stevenfalco"
+            "jan-ruzicka-c"
         ],
         "nnn": [
             "eclipseo",
@@ -105709,7 +105721,7 @@
             "pjp"
         ],
         "python-binary-manager": [
-            "orphan"
+            "filiperosset"
         ],
         "python-binary-memcached": [
             "@openstack-sig",
@@ -106566,115 +106578,115 @@
             "jonathanspw"
         ],
         "python-colcon-alias": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-argcomplete": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-bash": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-bazel": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-bundle": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-cd": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-cmake": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-common-extensions": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-core": [
             "cottsay"
         ],
         "python-colcon-coveragepy-result": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-defaults": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-devtools": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-ed": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-installed-package-information": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-lcov-result": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-library-path": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-meson": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-metadata": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-mixin": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-notification": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-output": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-override-check": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-package-information": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-package-selection": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-parallel-executor": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-pkg-config": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-powershell": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-python-setup-py": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-recursive-crawl": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-rerun": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-ros": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-ros-bazel": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-ros-bundle": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-ros-domain-id-coordinator": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-spawn-shell": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-test-result": [
-            "orphan"
+            "cottsay"
         ],
         "python-colcon-zsh": [
-            "orphan"
+            "cottsay"
         ],
         "python-collada": [
             "hobbes1069"
@@ -119946,8 +119958,8 @@
         "python-translitcodec": [
             "@infra-sig",
             "@python-packagers-sig",
-            "jonathanspw",
-            "orphan"
+            "filiperosset",
+            "jonathanspw"
         ],
         "python-tree-format": [
             "orphan"
@@ -124032,8 +124044,7 @@
         ],
         "qtox": [
             "eclipseo",
-            "nick974",
-            "rathann"
+            "nick974"
         ],
         "qtparted": [
             "orphan"
@@ -130015,6 +130026,7 @@
             "decathorpe"
         ],
         "rust-amq-protocol-tcp": [
+            "@rust-sig",
             "jcline"
         ],
         "rust-amq-protocol-types": [
@@ -131383,6 +131395,7 @@
             "smani"
         ],
         "rust-blowfish0.9": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-blsctl": [
@@ -131968,6 +131981,9 @@
             "@rust-sig",
             "music"
         ],
+        "rust-cargo_toml_edit": [
+            "decathorpe"
+        ],
         "rust-cascade": [
             "@rust-sig",
             "linkdupont"
@@ -131996,6 +132012,7 @@
             "decathorpe"
         ],
         "rust-cbc0.1": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-cbindgen": [
@@ -134086,6 +134103,7 @@
             "decathorpe"
         ],
         "rust-ecb0.1": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-ecdsa": [
@@ -136189,6 +136207,12 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-glycin-image-rs": [
+            "decathorpe"
+        ],
+        "rust-glycin-test": [
+            "decathorpe"
+        ],
         "rust-glycin-utils": [
             "@rust-sig",
             "decathorpe"
@@ -137435,6 +137459,7 @@
             "decathorpe"
         ],
         "rust-hkdf0.12": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-hmac": [
@@ -140848,6 +140873,7 @@
             "pbrobinson"
         ],
         "rust-num-bigint-dig0.8": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-num-bigint0.3": [
@@ -158457,7 +158483,7 @@
             "stevetraylen"
         ],
         "ubertooth": [
-            "orphan"
+            "filiperosset"
         ],
         "ubloxcfg": [
             "dcavalca",
@@ -160021,7 +160047,7 @@
             "fed500"
         ],
         "vimiv": [
-            "ankursinha"
+            "orphan"
         ],
         "vimiv-qt": [
             "ankursinha"

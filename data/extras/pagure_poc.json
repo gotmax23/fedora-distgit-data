@@ -11961,6 +11961,11 @@
             "epel": "ngompa",
             "fedora": "ngompa"
         },
+        "asahi-fix27": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "asahi-installer": {
             "admin": "dcavalca",
             "epel": "dcavalca",
@@ -16993,7 +16998,7 @@
         },
         "certbot": {
             "admin": "nb",
-            "epel": "orphan",
+            "epel": "nb",
             "fedora": "nb"
         },
         "certmaster": {
@@ -17512,7 +17517,7 @@
             "fedora": "leigh123linux"
         },
         "cinnamon-screensaver": {
-            "admin": "leigh123linux",
+            "admin": "orphan",
             "epel": "yselkowitz",
             "fedora": "leigh123linux"
         },
@@ -20160,6 +20165,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "cow": {
+            "admin": "mcermak",
+            "epel": "mcermak",
+            "fedora": "mcermak"
         },
         "cowbell": {
             "admin": "orphan",
@@ -73810,6 +73820,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "libcryptsetup-token-kbs": {
+            "admin": "matiasv",
+            "epel": "matiasv",
+            "fedora": "matiasv"
         },
         "libcryptui": {
             "admin": "raveit65",
@@ -137582,9 +137597,9 @@
             "fedora": "frantisekz"
         },
         "python-binary-manager": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-binary-memcached": {
             "admin": "amoralej",
@@ -138662,44 +138677,44 @@
             "fedora": "jonathanspw"
         },
         "python-colcon-alias": {
-            "admin": "orphan",
+            "admin": "cottsay",
             "epel": "cottsay",
-            "fedora": "orphan"
+            "fedora": "cottsay"
         },
         "python-colcon-argcomplete": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-bash": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-bazel": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-bundle": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-cd": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-cmake": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-common-extensions": {
-            "admin": "orphan",
+            "admin": "cottsay",
             "epel": "cottsay",
-            "fedora": "orphan"
+            "fedora": "cottsay"
         },
         "python-colcon-core": {
             "admin": "cottsay",
@@ -138707,144 +138722,144 @@
             "fedora": "cottsay"
         },
         "python-colcon-coveragepy-result": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-defaults": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-devtools": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-ed": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-installed-package-information": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-lcov-result": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-library-path": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-meson": {
-            "admin": "orphan",
+            "admin": "cottsay",
             "epel": "cottsay",
-            "fedora": "orphan"
+            "fedora": "cottsay"
         },
         "python-colcon-metadata": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-mixin": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-notification": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-output": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-override-check": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-package-information": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-package-selection": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-parallel-executor": {
-            "admin": "orphan",
+            "admin": "cottsay",
             "epel": "cottsay",
-            "fedora": "orphan"
+            "fedora": "cottsay"
         },
         "python-colcon-pkg-config": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-powershell": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-python-setup-py": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-recursive-crawl": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-rerun": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-ros": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-ros-bazel": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-ros-bundle": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-ros-domain-id-coordinator": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-spawn-shell": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-test-result": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-colcon-zsh": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "cottsay",
+            "epel": "cottsay",
+            "fedora": "cottsay"
         },
         "python-collada": {
             "admin": "hobbes1069",
@@ -155917,9 +155932,9 @@
             "fedora": "@infra-sig"
         },
         "python-translitcodec": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-tree-format": {
             "admin": "orphan",
@@ -161347,8 +161362,8 @@
             "fedora": "orphan"
         },
         "qtox": {
-            "admin": "rathann",
-            "epel": "rathann",
+            "admin": "nick974",
+            "epel": "nick974",
             "fedora": "nick974"
         },
         "qtparted": {
@@ -171103,8 +171118,8 @@
         },
         "rust-blowfish0.9": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-blsctl": {
             "admin": "orphan",
@@ -171851,6 +171866,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "rust-cargo_toml_edit": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-cascade": {
             "admin": "linkdupont",
             "epel": "linkdupont",
@@ -171888,8 +171908,8 @@
         },
         "rust-cbc0.1": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-cbindgen": {
             "admin": "decathorpe",
@@ -174543,8 +174563,8 @@
         },
         "rust-ecb0.1": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-ecdsa": {
             "admin": "decathorpe",
@@ -177196,6 +177216,16 @@
             "epel": "decathorpe",
             "fedora": "decathorpe"
         },
+        "rust-glycin-image-rs": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
+        "rust-glycin-test": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-glycin-utils": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -178758,8 +178788,8 @@
         },
         "rust-hkdf0.12": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-hmac": {
             "admin": "decathorpe",
@@ -183028,8 +183058,8 @@
         },
         "rust-num-bigint-dig0.8": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-num-bigint0.3": {
             "admin": "decathorpe",
@@ -206087,9 +206117,9 @@
             "fedora": "stevetraylen"
         },
         "ubertooth": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "ubloxcfg": {
             "admin": "dcavalca",
@@ -208187,9 +208217,9 @@
             "fedora": "fed500"
         },
         "vimiv": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "vimiv-qt": {
             "admin": "ankursinha",
