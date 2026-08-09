@@ -161586,6 +161586,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "quickjs-ng": {
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
+        },
         "quickshell": {
             "admin": "ngompa",
             "epel": "ngompa",

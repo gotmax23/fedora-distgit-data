@@ -19170,6 +19170,7 @@
             "orphan"
         ],
         "drawy": [
+            "@kde-sig",
             "carlwgeorge"
         ],
         "drbd": [
@@ -25191,6 +25192,7 @@
         ],
         "fprintd": [
             "benzea",
+            "ngompa",
             "smallorange"
         ],
         "fprobe-ulog": [
@@ -25776,7 +25778,8 @@
             "orphan"
         ],
         "fwts": [
-            "benzea"
+            "benzea",
+            "ngompa"
         ],
         "fwupd": [
             "renner",
@@ -57616,6 +57619,7 @@
         ],
         "libfprint": [
             "benzea",
+            "ngompa",
             "smallorange"
         ],
         "libfreebob": [
@@ -124208,6 +124212,9 @@
             "mtasaka",
             "orphan"
         ],
+        "quickjs-ng": [
+            "suve"
+        ],
         "quickshell": [
             "@miracle-sig",
             "errornointernet",
@@ -131982,6 +131989,7 @@
             "music"
         ],
         "rust-cargo_toml_edit": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-cascade": [
@@ -136208,9 +136216,11 @@
             "decathorpe"
         ],
         "rust-glycin-image-rs": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-glycin-test": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-glycin-utils": [
@@ -156622,6 +156632,7 @@
         "thermald": [
             "benzea",
             "besser82",
+            "ngompa",
             "xanderlent"
         ],
         "thermostat": [
