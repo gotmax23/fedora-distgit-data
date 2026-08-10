@@ -16500,7 +16500,7 @@
             "yanqiyu"
         ],
         "drumstick0": [
-            "kkofler",
+            "orphan",
             "yanqiyu"
         ],
         "drupal": [
@@ -30925,7 +30925,7 @@
             "salimma"
         ],
         "golang-github-facebookincubator-go2chef": [
-            "dcavalca",
+            "orphan",
             "salimma"
         ],
         "golang-github-facebookincubator-ntp": [
@@ -32375,7 +32375,7 @@
             "mikelo2"
         ],
         "golang-github-jedib0t-pretty-6": [
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-jedisct1-clocksmith": [
             "orphan",
@@ -32669,7 +32669,7 @@
             "orphan"
         ],
         "golang-github-kit": [
-            "alexsaezm"
+            "orphan"
         ],
         "golang-github-kit-log": [
             "alexsaezm"
@@ -37301,7 +37301,7 @@
             "orphan"
         ],
         "gotun": [
-            "kushal"
+            "orphan"
         ],
         "gource": [
             "limb"
@@ -50177,7 +50177,8 @@
             "ellert"
         ],
         "libmad": [
-            "rathann"
+            "rathann",
+            "valtri"
         ],
         "libmal": [
             "orphan"
@@ -84842,7 +84843,7 @@
             "remi"
         ],
         "php-mtdowling-jmespath-php": [
-            "siwinski"
+            "orphan"
         ],
         "php-mtdowling-transducers": [
             "orphan"
@@ -88127,7 +88128,7 @@
             "nphilipp"
         ],
         "plotnetcfg": [
-            "jbenc"
+            "orphan"
         ],
         "plotutils": [
             "limb",
@@ -107266,6 +107267,9 @@
         ],
         "qrq": [
             "orphan"
+        ],
+        "qrtfreader": [
+            "farchord"
         ],
         "qrtr": [
             "dcavalca",
@@ -133472,7 +133476,7 @@
             "renep"
         ],
         "tcl-pgtcl": [
-            "fjanus",
+            "orphan",
             "praiskup"
         ],
         "tcl-signal": [
@@ -133491,7 +133495,7 @@
             "robert"
         ],
         "tcl-tcludp": [
-            "spot"
+            "orphan"
         ],
         "tcl-tclvfs": [
             "spot"
@@ -133506,13 +133510,13 @@
             "orphan"
         ],
         "tcl-tileqt": [
-            "spot"
+            "orphan"
         ],
         "tcl-tkpng": [
-            "spot"
+            "orphan"
         ],
         "tcl-tktreectrl": [
-            "spot"
+            "orphan"
         ],
         "tcl-togl": [
             "orphan"

@@ -19265,7 +19265,7 @@
             "ycollet"
         ],
         "drumstick0": [
-            "kkofler",
+            "orphan",
             "yanqiyu"
         ],
         "drupal": [
@@ -36158,7 +36158,7 @@
         ],
         "golang-github-facebookincubator-go2chef": [
             "@go-sig",
-            "dcavalca",
+            "orphan",
             "salimma"
         ],
         "golang-github-facebookincubator-ntp": [
@@ -37920,7 +37920,7 @@
         ],
         "golang-github-jedib0t-pretty-6": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-jedisct1-clocksmith": [
             "@go-sig",
@@ -38288,7 +38288,7 @@
         ],
         "golang-github-kit": [
             "@go-sig",
-            "alexsaezm"
+            "orphan"
         ],
         "golang-github-kit-log": [
             "@go-sig",
@@ -44053,7 +44053,8 @@
         ],
         "gotun": [
             "@go-sig",
-            "kushal"
+            "kushal",
+            "orphan"
         ],
         "gource": [
             "limb",
@@ -58843,7 +58844,8 @@
         ],
         "libmad": [
             "@multimedia-sig",
-            "rathann"
+            "rathann",
+            "valtri"
         ],
         "libmal": [
             "orphan"
@@ -97901,6 +97903,7 @@
             "remi"
         ],
         "php-mtdowling-jmespath-php": [
+            "orphan",
             "siwinski"
         ],
         "php-mtdowling-transducers": [
@@ -101420,7 +101423,8 @@
             "nphilipp"
         ],
         "plotnetcfg": [
-            "jbenc"
+            "jbenc",
+            "orphan"
         ],
         "plotutils": [
             "branto",
@@ -123465,6 +123469,9 @@
         ],
         "qrq": [
             "orphan"
+        ],
+        "qrtfreader": [
+            "farchord"
         ],
         "qrtr": [
             "dcavalca",
@@ -155703,8 +155710,8 @@
         ],
         "tcl-pgtcl": [
             "@db-sig",
-            "fjanus",
             "hhorak",
+            "orphan",
             "praiskup"
         ],
         "tcl-signal": [
@@ -155724,6 +155731,7 @@
             "robert"
         ],
         "tcl-tcludp": [
+            "orphan",
             "spot"
         ],
         "tcl-tclvfs": [
@@ -155743,12 +155751,15 @@
             "spot"
         ],
         "tcl-tileqt": [
+            "orphan",
             "spot"
         ],
         "tcl-tkpng": [
+            "orphan",
             "spot"
         ],
         "tcl-tktreectrl": [
+            "orphan",
             "spot",
             "wart"
         ],

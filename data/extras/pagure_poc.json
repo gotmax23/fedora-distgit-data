@@ -24747,9 +24747,9 @@
             "fedora": "ycollet"
         },
         "drumstick0": {
-            "admin": "kkofler",
-            "epel": "kkofler",
-            "fedora": "kkofler"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "drupal": {
             "admin": "orphan",
@@ -47017,9 +47017,9 @@
             "fedora": "@go-sig"
         },
         "golang-github-facebookincubator-go2chef": {
-            "admin": "dcavalca",
+            "admin": "orphan",
             "epel": "@go-sig",
-            "fedora": "@go-sig"
+            "fedora": "orphan"
         },
         "golang-github-facebookincubator-ntp": {
             "admin": "orphan",
@@ -49367,9 +49367,9 @@
             "fedora": "mikelo2"
         },
         "golang-github-jedib0t-pretty-6": {
-            "admin": "eclipseo",
-            "epel": "eclipseo",
-            "fedora": "eclipseo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-jedisct1-clocksmith": {
             "admin": "orphan",
@@ -49832,9 +49832,9 @@
             "fedora": "orphan"
         },
         "golang-github-kit": {
-            "admin": "alexsaezm",
-            "epel": "alexsaezm",
-            "fedora": "alexsaezm"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-kit-log": {
             "admin": "alexsaezm",
@@ -57307,9 +57307,9 @@
             "fedora": "orphan"
         },
         "gotun": {
-            "admin": "kushal",
-            "epel": "kushal",
-            "fedora": "kushal"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "gource": {
             "admin": "limb",
@@ -126627,9 +126627,9 @@
             "fedora": "remi"
         },
         "php-mtdowling-jmespath-php": {
-            "admin": "siwinski",
-            "epel": "siwinski",
-            "fedora": "siwinski"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "php-mtdowling-transducers": {
             "admin": "orphan",
@@ -131887,9 +131887,9 @@
             "fedora": "nphilipp"
         },
         "plotnetcfg": {
-            "admin": "jbenc",
-            "epel": "jbenc",
-            "fedora": "jbenc"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "plotutils": {
             "admin": "limb",
@@ -160665,6 +160665,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "qrtfreader": {
+            "admin": "farchord",
+            "epel": "farchord",
+            "fedora": "farchord"
         },
         "qrtr": {
             "admin": "dcavalca",
@@ -202237,9 +202242,9 @@
             "fedora": "renep"
         },
         "tcl-pgtcl": {
-            "admin": "fjanus",
-            "epel": "fjanus",
-            "fedora": "fjanus"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "tcl-signal": {
             "admin": "orphan",
@@ -202267,9 +202272,9 @@
             "fedora": "robert"
         },
         "tcl-tcludp": {
-            "admin": "spot",
-            "epel": "spot",
-            "fedora": "spot"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "tcl-tclvfs": {
             "admin": "spot",
@@ -202292,19 +202297,19 @@
             "fedora": "orphan"
         },
         "tcl-tileqt": {
-            "admin": "spot",
-            "epel": "spot",
-            "fedora": "spot"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "tcl-tkpng": {
-            "admin": "spot",
-            "epel": "spot",
-            "fedora": "spot"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "tcl-tktreectrl": {
-            "admin": "spot",
-            "epel": "spot",
-            "fedora": "spot"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "tcl-togl": {
             "admin": "orphan",
