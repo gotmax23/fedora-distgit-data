@@ -731,6 +731,10 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "drawy": [
+            "@flatpak-sig",
+            "yselkowitz"
+        ],
         "dreamchess": [
             "@flatpak-sig",
             "yselkowitz"
@@ -10170,8 +10174,8 @@
         ],
         "autolink-java": [
             "@java-maint-sig",
-            "kkeithle",
-            "orphan"
+            "filiperosset",
+            "kkeithle"
         ],
         "automake": [
             "fberat",
@@ -12376,7 +12380,6 @@
         ],
         "byacc": [
             "pfrankli",
-            "pmachata",
             "submachine",
             "thomas-dickey"
         ],
@@ -13571,7 +13574,7 @@
         ],
         "choqok": [
             "@kde-sig",
-            "gbcox",
+            "orphan",
             "slankes",
             "tejas"
         ],
@@ -13693,6 +13696,7 @@
             "orphan"
         ],
         "civetweb": [
+            "ellert",
             "kkeithle"
         ],
         "cjdns": [
@@ -36848,7 +36852,7 @@
         ],
         "golang-github-google-martian": [
             "@go-sig",
-            "alexsaezm"
+            "orphan"
         ],
         "golang-github-google-monologue": [
             "orphan"
@@ -55993,6 +55997,7 @@
             "u2fsdgvkx1"
         ],
         "lemonade-server": [
+            "@rocm-packagers-sig",
             "kmarinos"
         ],
         "lemonldap-ng": [
@@ -64281,7 +64286,7 @@
             "dcallagh",
             "jonathanspw",
             "js",
-            "orphan"
+            "limb"
         ],
         "matterbridge": [
             "@go-sig",
@@ -64472,17 +64477,17 @@
         ],
         "maven-doxia": [
             "@epel-packagers-sig",
+            "filiperosset",
             "java-sig",
             "mizdebsk",
             "mkoncek",
-            "orphan",
             "salimma"
         ],
         "maven-doxia-sitetools": [
+            "filiperosset",
             "java-sig",
             "mizdebsk",
-            "mkoncek",
-            "orphan"
+            "mkoncek"
         ],
         "maven-doxia-tools": [
             "orphan"
@@ -64700,10 +64705,10 @@
             "kathenas"
         ],
         "maven-reporting-impl": [
+            "filiperosset",
             "java-sig",
             "mizdebsk",
-            "mkoncek",
-            "orphan"
+            "mkoncek"
         ],
         "maven-repository-builder": [
             "java-sig",
@@ -68435,7 +68440,7 @@
         ],
         "monkeytype": [
             "dcavalca",
-            "orphan"
+            "filiperosset"
         ],
         "mono": [
             "bubeck",
@@ -90177,6 +90182,9 @@
             "perl-sig",
             "ppisar"
         ],
+        "perl-Net-HTTPS-NB": [
+            "mavit"
+        ],
         "perl-Net-IDN-Encode": [
             "eseyman",
             "jplesnik",
@@ -94252,6 +94260,9 @@
             "lkundrak",
             "mspacek",
             "perl-sig"
+        ],
+        "perl-Text-Markdown-Discount": [
+            "xavierb"
         ],
         "perl-Text-MultiMarkdown": [
             "eseyman",
@@ -108889,7 +108900,7 @@
             "thrnciar"
         ],
         "python-fastmcp": [
-            "orphan"
+            "peter"
         ],
         "python-fastprogress": [
             "sergiopr"
@@ -112282,10 +112293,9 @@
             "orphan"
         ],
         "python-magnumclient": [
-            "@epel-packagers-sig",
             "@openstack-sig",
             "apevec",
-            "orphan"
+            "stevetraylen"
         ],
         "python-mailer": [
             "aekoroglu"
@@ -124017,11 +124027,14 @@
         "qtile": [
             "akdev",
             "dannycolin",
-            "orphan"
+            "filiperosset",
+            "frostyx",
+            "yselkowitz"
         ],
         "qtile-extras": [
             "dannycolin",
-            "orphan"
+            "filiperosset",
+            "frostyx"
         ],
         "qtilitools": [
             "@lxqt-sig",
@@ -130039,6 +130052,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-amq-protocol": [
+            "@rust-sig",
+            "jcline"
+        ],
         "rust-amq-protocol-tcp": [
             "@rust-sig",
             "jcline"
@@ -130239,6 +130256,9 @@
         "rust-ar": [
             "@rust-sig",
             "asn"
+        ],
+        "rust-ar_archive_writer": [
+            "decathorpe"
         ],
         "rust-arbitrary": [
             "@rust-sig",
@@ -137885,6 +137905,9 @@
             "@rust-sig",
             "music"
         ],
+        "rust-if-addrs": [
+            "luk1337"
+        ],
         "rust-if_chain": [
             "@rust-sig",
             "bgilbert"
@@ -141020,6 +141043,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-object0.38": [
+            "decathorpe"
+        ],
         "rust-objekt": [
             "orphan"
         ],
@@ -142282,6 +142308,11 @@
         ],
         "rust-polyval": [
             "@rust-sig",
+            "pbrobinson"
+        ],
+        "rust-polyval0.6": [
+            "@rust-sig",
+            "music",
             "pbrobinson"
         ],
         "rust-pom": [
@@ -144770,6 +144801,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-salsa20_0.10": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-salsa20_0.9": [
             "@rust-sig",
             "decathorpe"
@@ -144904,6 +144939,10 @@
         "rust-scrypt": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-scrypt0.11": [
+            "@rust-sig",
+            "music"
         ],
         "rust-scrypt0.8": [
             "@rust-sig",
@@ -145500,6 +145539,10 @@
             "@rust-sig",
             "atim"
         ],
+        "rust-shake": [
+            "@rust-sig",
+            "salimma"
+        ],
         "rust-sharded-slab": [
             "@rust-sig",
             "decathorpe"
@@ -145633,6 +145676,9 @@
         "rust-similar2": [
             "@rust-sig",
             "music"
+        ],
+        "rust-simple-dns": [
+            "luk1337"
         ],
         "rust-simple-error": [
             "orphan"
@@ -145976,6 +146022,10 @@
         ],
         "rust-spmc": [
             "orphan"
+        ],
+        "rust-sponge-cursor": [
+            "@rust-sig",
+            "salimma"
         ],
         "rust-sptr": [
             "@rust-sig",
@@ -146640,7 +146690,7 @@
         ],
         "rust-tealdeer": [
             "@rust-sig",
-            "orphan",
+            "dreua",
             "vonmorgen"
         ],
         "rust-teloxide": [
@@ -148360,6 +148410,11 @@
             "@rust-sig",
             "pbrobinson"
         ],
+        "rust-universal-hash0.5": [
+            "@rust-sig",
+            "music",
+            "pbrobinson"
+        ],
         "rust-unix_socket": [
             "@rust-sig",
             "orphan"
@@ -150039,6 +150094,9 @@
         ],
         "rust-zlink-core": [
             "@rust-sig",
+            "asn"
+        ],
+        "rust-zlink-idl": [
             "asn"
         ],
         "rust-zlink-macros": [
@@ -156597,7 +156655,7 @@
         ],
         "thefuck": [
             "delete",
-            "orphan"
+            "filiperosset"
         ],
         "theme-switcher": [
             "atim"
@@ -158495,7 +158553,6 @@
             "fed500"
         ],
         "ubdsrv": [
-            "minlei",
             "rjones"
         ],
         "uberftp": [
