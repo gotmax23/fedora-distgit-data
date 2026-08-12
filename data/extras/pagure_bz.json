@@ -11219,7 +11219,7 @@
         "binwalk": [
             "ajax",
             "ghishadow",
-            "pbrobinson"
+            "orphan"
         ],
         "bio2jack": [
             "dtimms"
@@ -52848,7 +52848,7 @@
             "farchord"
         ],
         "kefir": [
-            "fed500"
+            "orphan"
         ],
         "kelbt": [
             "ignatenkobrain",
@@ -110828,7 +110828,7 @@
         ],
         "python-imbalanced-learn": [
             "@neuro-sig",
-            "orphan"
+            "jamatos"
         ],
         "python-imdb": [
             "orphan"
@@ -130258,6 +130258,7 @@
             "asn"
         ],
         "rust-ar_archive_writer": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-arbitrary": [
@@ -137906,6 +137907,7 @@
             "music"
         ],
         "rust-if-addrs": [
+            "@rust-sig",
             "luk1337"
         ],
         "rust-if_chain": [
@@ -138878,6 +138880,9 @@
         ],
         "rust-language-tags0.2": [
             "orphan"
+        ],
+        "rust-lapin": [
+            "jcline"
         ],
         "rust-lapp": [
             "@rust-sig",
@@ -141044,6 +141049,7 @@
             "decathorpe"
         ],
         "rust-object0.38": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-objekt": [
@@ -145678,6 +145684,7 @@
             "music"
         ],
         "rust-simple-dns": [
+            "@rust-sig",
             "luk1337"
         ],
         "rust-simple-error": [
@@ -150097,6 +150104,7 @@
             "asn"
         ],
         "rust-zlink-idl": [
+            "@rust-sig",
             "asn"
         ],
         "rust-zlink-macros": [

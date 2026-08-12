@@ -14332,9 +14332,9 @@
             "fedora": "nickc"
         },
         "binwalk": {
-            "admin": "pbrobinson",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "pbrobinson"
+            "fedora": "orphan"
         },
         "bio2jack": {
             "admin": "dtimms",
@@ -68897,9 +68897,9 @@
             "fedora": "farchord"
         },
         "kefir": {
-            "admin": "fed500",
-            "epel": "fed500",
-            "fedora": "fed500"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kelbt": {
             "admin": "orphan",
@@ -144177,9 +144177,9 @@
             "fedora": "gui1ty"
         },
         "python-imbalanced-learn": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "jamatos",
+            "epel": "jamatos",
+            "fedora": "jamatos"
         },
         "python-imdb": {
             "admin": "orphan",
@@ -177228,8 +177228,8 @@
         },
         "rust-glycin": {
             "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-glycin-builtin": {
             "admin": "decathorpe",
@@ -177263,8 +177263,8 @@
         },
         "rust-glycin-utils": {
             "admin": "decathorpe",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-glycin-utils1": {
             "admin": "decathorpe",
@@ -180545,6 +180545,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "rust-lapin": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
         },
         "rust-lapp": {
             "admin": "salimma",
