@@ -3530,9 +3530,9 @@
             "fedora": "ppisar"
         },
         "avocado": {
-            "admin": "cleber",
-            "epel": "cleber",
-            "fedora": "cleber"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "avocado-vt": {
             "admin": "lnie",
@@ -32017,7 +32017,7 @@
             "fedora": "orphan"
         },
         "flexmark-java": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "kkeithle",
             "fedora": "jjames"
         },
@@ -66237,7 +66237,7 @@
             "fedora": "orphan"
         },
         "jetbrains-annotations": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "kkeithle",
             "fedora": "jjames"
         },
@@ -83597,9 +83597,9 @@
             "fedora": "mkoncek"
         },
         "maven-reporting-api": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "maven-reporting-exec": {
             "admin": "kathenas",
@@ -135562,9 +135562,9 @@
             "fedora": "fedepell"
         },
         "python-aexpect": {
-            "admin": "cleber",
-            "epel": "cleber",
-            "fedora": "cleber"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-affine": {
             "admin": "qulogic",
@@ -136648,7 +136648,7 @@
         },
         "python-avocado": {
             "admin": "orphan",
-            "epel": "cleber",
+            "epel": "orphan",
             "fedora": "orphan"
         },
         "python-avro": {
@@ -149167,9 +149167,9 @@
             "fedora": "mjg"
         },
         "python-pipdeptree": {
-            "admin": "lbalhar",
-            "epel": "lbalhar",
-            "fedora": "lbalhar"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-piper-tts": {
             "admin": "trix",
@@ -179411,6 +179411,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-imageproc": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-imagequant": {
             "admin": "blinxen",
             "epel": "blinxen",
@@ -206412,9 +206417,9 @@
             "fedora": "orphan"
         },
         "ufraw": {
-            "admin": "nphilipp",
-            "epel": "nphilipp",
-            "fedora": "nphilipp"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "ufs-utils": {
             "admin": "pbrobinson",

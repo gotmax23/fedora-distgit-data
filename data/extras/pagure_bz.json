@@ -2862,8 +2862,8 @@
             "ppisar"
         ],
         "avocado": [
-            "cleber",
-            "mcondotta"
+            "mcondotta",
+            "orphan"
         ],
         "avocado-vt": [
             "lnie"
@@ -23764,6 +23764,7 @@
         ],
         "fedora-repos": [
             "cyberpear",
+            "gotmax23",
             "humaton",
             "jnsamyak",
             "kevin",
@@ -24640,8 +24641,8 @@
         ],
         "flexmark-java": [
             "@java-maint-sig",
-            "kkeithle",
-            "orphan"
+            "filiperosset",
+            "kkeithle"
         ],
         "flickcurl": [
             "mjg"
@@ -50830,9 +50831,9 @@
         ],
         "jetbrains-annotations": [
             "@java-maint-sig",
+            "filiperosset",
             "java-sig",
-            "kkeithle",
-            "orphan"
+            "kkeithle"
         ],
         "jetbrains-mono-fonts": [
             "aekoroglu",
@@ -64696,10 +64697,10 @@
             "mkoncek"
         ],
         "maven-reporting-api": [
+            "filiperosset",
             "java-sig",
             "mizdebsk",
-            "mkoncek",
-            "orphan"
+            "mkoncek"
         ],
         "maven-reporting-exec": [
             "kathenas"
@@ -104196,7 +104197,7 @@
             "fedepell"
         ],
         "python-aexpect": [
-            "cleber"
+            "orphan"
         ],
         "python-affine": [
             "@epel-packagers-sig",
@@ -104660,7 +104661,6 @@
             "ogajduse"
         ],
         "python-arc": [
-            "cleber",
             "orphan"
         ],
         "python-archinfo": [
@@ -105005,7 +105005,6 @@
             "neurowinter"
         ],
         "python-avocado": [
-            "cleber",
             "orphan"
         ],
         "python-avro": [
@@ -114721,7 +114720,7 @@
         ],
         "python-pipdeptree": [
             "@python-packagers-sig",
-            "lbalhar"
+            "orphan"
         ],
         "python-piper-tts": [
             "trix"
@@ -137967,6 +137966,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-imageproc": [
+            "decathorpe"
+        ],
         "rust-imagequant": [
             "@rust-sig",
             "blinxen"
@@ -138882,6 +138884,7 @@
             "orphan"
         ],
         "rust-lapin": [
+            "@rust-sig",
             "jcline"
         ],
         "rust-lapp": [
@@ -158740,7 +158743,7 @@
             "orphan"
         ],
         "ufraw": [
-            "nphilipp"
+            "orphan"
         ],
         "ufs-utils": [
             "pbrobinson"
