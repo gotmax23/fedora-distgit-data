@@ -7298,7 +7298,8 @@
             "tagoh"
         ],
         "adobe-source-han-sans-cn-fonts": [
-            "pwu"
+            "pwu",
+            "tagoh"
         ],
         "adobe-source-han-sans-jp-fonts": [
             "tagoh"
@@ -7310,13 +7311,15 @@
             "fonts-sig",
             "i18n-team",
             "petersen",
-            "pwu"
+            "pwu",
+            "tagoh"
         ],
         "adobe-source-han-sans-twhk-fonts": [
             "orphan"
         ],
         "adobe-source-han-serif-cn-fonts": [
-            "pwu"
+            "pwu",
+            "tagoh"
         ],
         "adobe-source-han-serif-jp-fonts": [
             "tagoh"
@@ -7325,7 +7328,8 @@
             "tagoh"
         ],
         "adobe-source-han-serif-tw-fonts": [
-            "pwu"
+            "pwu",
+            "tagoh"
         ],
         "adobe-source-libraries": [
             "orphan"
@@ -10560,13 +10564,15 @@
             "fonts-sig",
             "i18n-team",
             "petersen",
-            "pwu"
+            "pwu",
+            "tagoh"
         ],
         "baekmuk-ttf-fonts": [
             "fonts-sig",
             "i18n-team",
             "petersen",
-            "pwu"
+            "pwu",
+            "tagoh"
         ],
         "bakefile": [
             "orphan"
@@ -11320,7 +11326,8 @@
             "fonts-sig",
             "petersen",
             "pnemade",
-            "pwu"
+            "pwu",
+            "tagoh"
         ],
         "bitstower-markets": [
             "orphan"
@@ -13716,12 +13723,14 @@
         "cjkuni-ukai-fonts": [
             "i18n-team",
             "petersen",
-            "pwu"
+            "pwu",
+            "tagoh"
         ],
         "cjkuni-uming-fonts": [
             "i18n-team",
             "petersen",
-            "pwu"
+            "pwu",
+            "tagoh"
         ],
         "cjkunifonts": [
             "fonts-sig",
@@ -22666,7 +22675,7 @@
         ],
         "evemu": [
             "bentiss",
-            "whot"
+            "orphan"
         ],
         "eventlog": [
             "czanik",
@@ -22755,7 +22764,7 @@
         ],
         "evtest": [
             "bentiss",
-            "whot"
+            "orphan"
         ],
         "evtgen": [
             "ellert",
@@ -44346,6 +44355,7 @@
             "@go-sig",
             "agerstmayr",
             "jkurik",
+            "lchilton",
             "nathans",
             "samfeifer",
             "wcohen"
@@ -61459,6 +61469,7 @@
             "kanitha"
         ],
         "libxs": [
+            "@scitech_sig",
             "growl"
         ],
         "libxshmfence": [
@@ -67593,6 +67604,10 @@
         ],
         "minizip1.2": [
             "spot"
+        ],
+        "mink-idl-compiler": [
+            "aekoroglu",
+            "jwrdegoede"
         ],
         "minlog": [
             "java-sig",
@@ -123313,6 +123328,10 @@
             "jussilehtola",
             "orphan"
         ],
+        "qmi-framework": [
+            "aekoroglu",
+            "jwrdegoede"
+        ],
         "qmic": [
             "dcavalca"
         ],
@@ -125594,8 +125613,10 @@
             "lecris"
         ],
         "rmtfs": [
+            "aekoroglu",
             "gmanka",
-            "javierm"
+            "javierm",
+            "jwrdegoede"
         ],
         "rnetclient": [
             "orphan"
@@ -137967,6 +137988,7 @@
             "decathorpe"
         ],
         "rust-imageproc": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-imagequant": [
@@ -138759,6 +138781,11 @@
         "rust-kirmes": [
             "@rust-sig",
             "asn"
+        ],
+        "rust-kisd": [
+            "@asahi-sig",
+            "@rust-sig",
+            "dcavalca"
         ],
         "rust-konst": [
             "@rust-sig",
@@ -141022,6 +141049,11 @@
         "rust-nuon": [
             "@rust-sig",
             "salimma"
+        ],
+        "rust-nusb": [
+            "@asahi-sig",
+            "@rust-sig",
+            "dcavalca"
         ],
         "rust-oauth2": [
             "orphan"
@@ -151494,8 +151526,7 @@
         "sessreg": [
             "@epel-packagers-sig",
             "ajax",
-            "ofourdan",
-            "whot"
+            "ofourdan"
         ],
         "setBfree": [
             "tartina"
@@ -156627,7 +156658,8 @@
         "thai-arundina-fonts": [
             "fonts-sig",
             "i18n-team",
-            "pwu"
+            "pwu",
+            "tagoh"
         ],
         "thai-scalable-fonts": [
             "i18n-team",
@@ -157181,7 +157213,8 @@
             "orphan"
         ],
         "tlwg-fonts": [
-            "pwu"
+            "pwu",
+            "tagoh"
         ],
         "tlx": [
             "topazus"
@@ -157546,6 +157579,8 @@
             "orphan"
         ],
         "tqftpserv": [
+            "aekoroglu",
+            "jwrdegoede",
             "samcday"
         ],
         "tqsllib": [
@@ -158818,7 +158853,8 @@
         "ukij-tuz-fonts": [
             "i18n-team",
             "petersen",
-            "pwu"
+            "pwu",
+            "tagoh"
         ],
         "ularn": [
             "wart"
@@ -158882,12 +158918,14 @@
             "i18n-team",
             "petersen",
             "pwu",
-            "smallvil"
+            "smallvil",
+            "tagoh"
         ],
         "un-extra-fonts": [
             "i18n-team",
             "pwu",
-            "smallvil"
+            "smallvil",
+            "tagoh"
         ],
         "unalz": [
             "orphan",
@@ -161788,7 +161826,8 @@
         ],
         "wqy-microhei-fonts": [
             "petersen",
-            "pwu"
+            "pwu",
+            "tagoh"
         ],
         "wqy-unibit-fonts": [
             "fangq",
@@ -161982,7 +162021,7 @@
         "x11perf": [
             "ajax",
             "ofourdan",
-            "whot"
+            "orphan"
         ],
         "x11trace": [
             "dhowells"
@@ -162299,8 +162338,7 @@
         ],
         "xcursorgen": [
             "ajax",
-            "ofourdan",
-            "whot"
+            "ofourdan"
         ],
         "xdaliclock": [
             "rjones"
@@ -162540,7 +162578,7 @@
         "xeyes": [
             "ajax",
             "ofourdan",
-            "whot"
+            "orphan"
         ],
         "xfbib": [
             "orphan"
@@ -163032,7 +163070,7 @@
         "xkill": [
             "ajax",
             "ofourdan",
-            "whot"
+            "orphan"
         ],
         "xl2tpd": [
             "orphan",
@@ -164130,7 +164168,7 @@
         "xsetroot": [
             "ajax",
             "ofourdan",
-            "whot"
+            "orphan"
         ],
         "xsettings-kde": [
             "orphan"
@@ -164270,7 +164308,7 @@
         "xvidtune": [
             "ajax",
             "ofourdan",
-            "whot"
+            "orphan"
         ],
         "xviewer": [
             "leigh123linux",
@@ -164309,7 +164347,7 @@
             "@epel-packagers-sig",
             "ajax",
             "ofourdan",
-            "whot"
+            "orphan"
         ],
         "xwininfo": [
             "@graphics-sig",

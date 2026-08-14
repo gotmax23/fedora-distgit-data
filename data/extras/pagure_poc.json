@@ -9302,9 +9302,9 @@
             "fedora": "tagoh"
         },
         "adobe-source-han-sans-cn-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "adobe-source-han-sans-jp-fonts": {
             "admin": "tagoh",
@@ -9317,9 +9317,9 @@
             "fedora": "tagoh"
         },
         "adobe-source-han-sans-tw-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "adobe-source-han-sans-twhk-fonts": {
             "admin": "orphan",
@@ -9327,9 +9327,9 @@
             "fedora": "orphan"
         },
         "adobe-source-han-serif-cn-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "adobe-source-han-serif-jp-fonts": {
             "admin": "tagoh",
@@ -9342,9 +9342,9 @@
             "fedora": "tagoh"
         },
         "adobe-source-han-serif-tw-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "adobe-source-libraries": {
             "admin": "orphan",
@@ -13467,14 +13467,14 @@
             "fedora": "orphan"
         },
         "baekmuk-bdf-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "baekmuk-ttf-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "bakefile": {
             "admin": "orphan",
@@ -14462,9 +14462,9 @@
             "fedora": "stevetraylen"
         },
         "bitmap-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "bitstower-markets": {
             "admin": "orphan",
@@ -17577,14 +17577,14 @@
             "fedora": "orphan"
         },
         "cjkuni-ukai-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "cjkuni-uming-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "cjkunifonts": {
             "admin": "orphan",
@@ -29502,9 +29502,9 @@
             "fedora": "orphan"
         },
         "evemu": {
-            "admin": "whot",
+            "admin": "orphan",
             "epel": "bentiss",
-            "fedora": "whot"
+            "fedora": "orphan"
         },
         "eventlog": {
             "admin": "czanik",
@@ -29617,9 +29617,9 @@
             "fedora": "orphan"
         },
         "evtest": {
-            "admin": "whot",
-            "epel": "whot",
-            "fedora": "whot"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "evtgen": {
             "admin": "yanqiyu",
@@ -87555,6 +87555,11 @@
             "admin": "spot",
             "epel": "spot",
             "fedora": "spot"
+        },
+        "mink-idl-compiler": {
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
         },
         "minlog": {
             "admin": "orphan",
@@ -160451,6 +160456,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "qmi-framework": {
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
+        },
         "qmic": {
             "admin": "dcavalca",
             "epel": "dcavalca",
@@ -180401,6 +180411,11 @@
             "epel": "asn",
             "fedora": "asn"
         },
+        "rust-kisd": {
+            "admin": "dcavalca",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-konst": {
             "admin": "dcavalca",
             "epel": "@rust-sig",
@@ -183233,6 +183248,11 @@
         },
         "rust-nuon": {
             "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-nusb": {
+            "admin": "dcavalca",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -203522,9 +203542,9 @@
             "fedora": "mtasaka"
         },
         "thai-arundina-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "thai-scalable-fonts": {
             "admin": "orphan",
@@ -204272,9 +204292,9 @@
             "fedora": "orphan"
         },
         "tlwg-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "tlx": {
             "admin": "topazus",
@@ -206527,9 +206547,9 @@
             "fedora": "javierm"
         },
         "ukij-tuz-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "ularn": {
             "admin": "wart",
@@ -206612,14 +206632,14 @@
             "fedora": "mystro256"
         },
         "un-core-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "un-extra-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "unalz": {
             "admin": "orphan",
@@ -210552,9 +210572,9 @@
             "fedora": "fangq"
         },
         "wqy-microhei-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "wqy-unibit-fonts": {
             "admin": "fangq",
@@ -210812,9 +210832,9 @@
             "fedora": "dcavalca"
         },
         "x11perf": {
-            "admin": "whot",
-            "epel": "whot",
-            "fedora": "whot"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "x11trace": {
             "admin": "dhowells",
@@ -211532,9 +211552,9 @@
             "fedora": "ngompa"
         },
         "xeyes": {
-            "admin": "whot",
-            "epel": "whot",
-            "fedora": "whot"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "xfbib": {
             "admin": "orphan",
@@ -212217,9 +212237,9 @@
             "fedora": "spot"
         },
         "xkill": {
-            "admin": "whot",
-            "epel": "whot",
-            "fedora": "whot"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "xl2tpd": {
             "admin": "orphan",
@@ -213642,9 +213662,9 @@
             "fedora": "ajax"
         },
         "xsetroot": {
-            "admin": "whot",
-            "epel": "whot",
-            "fedora": "whot"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "xsettings-kde": {
             "admin": "orphan",
@@ -213832,9 +213852,9 @@
             "fedora": "ngompa"
         },
         "xvidtune": {
-            "admin": "whot",
-            "epel": "whot",
-            "fedora": "whot"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "xviewer": {
             "admin": "orphan",
@@ -213877,9 +213897,9 @@
             "fedora": "ngompa"
         },
         "xwd": {
-            "admin": "whot",
-            "epel": "whot",
-            "fedora": "whot"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "xwininfo": {
             "admin": "ajax",
