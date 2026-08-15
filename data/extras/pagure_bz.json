@@ -16085,6 +16085,7 @@
         ],
         "criu": [
             "adrian",
+            "ckalina",
             "rstoyanov"
         ],
         "crlfuzz": [
@@ -23394,6 +23395,7 @@
             "cheeselee",
             "i18n-team",
             "liangsuilong",
+            "petersen",
             "pwu",
             "yanqiyu"
         ],
@@ -32533,6 +32535,7 @@
             "orphan"
         ],
         "gnome-shell-extension-ibus-font": [
+            "petersen",
             "pwu"
         ],
         "gnome-shell-extension-icon-manager": [
@@ -47763,6 +47766,7 @@
         "ibus-pinyin": [
             "fujiwara",
             "i18n-team",
+            "petersen",
             "pwu"
         ],
         "ibus-qt": [
@@ -47896,6 +47900,7 @@
             "mfabian"
         ],
         "ibus-uniemoji": [
+            "petersen",
             "pwu"
         ],
         "ibus-unikey": [
@@ -63784,6 +63789,7 @@
             "@db-sig",
             "dchen",
             "i18n-team",
+            "petersen",
             "pwu"
         ],
         "man-pages-l10n": [
@@ -63803,6 +63809,7 @@
         ],
         "man-pages-zh-CN": [
             "dchen",
+            "petersen",
             "pwu"
         ],
         "man2html": [
@@ -63837,7 +63844,8 @@
         "manchu-fonts": [
             "i18n-team",
             "petersen",
-            "pwu"
+            "pwu",
+            "tagoh"
         ],
         "mandelbulber": [
             "orphan"
@@ -63980,6 +63988,7 @@
             "mschorm"
         ],
         "marisa": [
+            "petersen",
             "pwu",
             "ueno"
         ],
@@ -69982,10 +69991,12 @@
             "jjames"
         ],
         "naver-nanum-fonts": [
-            "pwu"
+            "pwu",
+            "tagoh"
         ],
         "naver-nanum-gothic-coding-fonts": [
-            "pwu"
+            "pwu",
+            "tagoh"
         ],
         "navilu-fonts": [
             "i18n-team",
@@ -76426,6 +76437,7 @@
         ],
         "nototools": [
             "mfabian",
+            "petersen",
             "pwu"
         ],
         "nova-agent": [
@@ -114735,7 +114747,7 @@
         ],
         "python-pipdeptree": [
             "@python-packagers-sig",
-            "orphan"
+            "yselkowitz"
         ],
         "python-piper-tts": [
             "trix"
@@ -150901,6 +150913,7 @@
         ],
         "scim-pinyin": [
             "i18n-team",
+            "petersen",
             "pwu"
         ],
         "scim-python": [
@@ -152499,6 +152512,7 @@
         "slurm": [
             "adrian",
             "dklein",
+            "kannon92",
             "neil",
             "pillose",
             "salimma"
@@ -154680,6 +154694,7 @@
             "cicku",
             "fujiwara",
             "liangsuilong",
+            "petersen",
             "pwu"
         ],
         "sunwait": [
@@ -162020,8 +162035,8 @@
         ],
         "x11perf": [
             "ajax",
-            "ofourdan",
-            "orphan"
+            "filiperosset",
+            "ofourdan"
         ],
         "x11trace": [
             "dhowells"
@@ -162577,8 +162592,8 @@
         ],
         "xeyes": [
             "ajax",
-            "ofourdan",
-            "orphan"
+            "filiperosset",
+            "ofourdan"
         ],
         "xfbib": [
             "orphan"
@@ -163070,7 +163085,7 @@
         "xkill": [
             "ajax",
             "ofourdan",
-            "orphan"
+            "suve"
         ],
         "xl2tpd": [
             "orphan",

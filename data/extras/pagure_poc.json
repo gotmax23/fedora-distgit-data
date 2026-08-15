@@ -15362,9 +15362,9 @@
             "fedora": "orphan"
         },
         "brise": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "bristol": {
             "admin": "limb",
@@ -30427,9 +30427,9 @@
             "fedora": "ueno"
         },
         "fcitx-libpinyin": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "fcitx-m17n": {
             "admin": "yanqiyu",
@@ -42212,9 +42212,9 @@
             "fedora": "orphan"
         },
         "gnome-shell-extension-ibus-font": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "gnome-shell-extension-icon-manager": {
             "admin": "orphan",
@@ -62227,9 +62227,9 @@
             "fedora": "orphan"
         },
         "ibus-handwrite": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "ibus-hangul": {
             "admin": "fujiwara",
@@ -62277,9 +62277,9 @@
             "fedora": "orphan"
         },
         "ibus-pinyin": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "fujiwara",
+            "epel": "fujiwara",
+            "fedora": "fujiwara"
         },
         "ibus-qt": {
             "admin": "fujiwara",
@@ -62292,9 +62292,9 @@
             "fedora": "orphan"
         },
         "ibus-rime": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "ibus-sayura": {
             "admin": "fujiwara",
@@ -62417,9 +62417,9 @@
             "fedora": "mfabian"
         },
         "ibus-uniemoji": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "ibus-unikey": {
             "admin": "fujiwara",
@@ -82452,9 +82452,9 @@
             "fedora": "tagoh"
         },
         "man-pages-ko": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "man-pages-l10n": {
             "admin": "nforro",
@@ -82477,9 +82477,9 @@
             "fedora": "orphan"
         },
         "man-pages-zh-CN": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "man2html": {
             "admin": "ngompa",
@@ -82512,9 +82512,9 @@
             "fedora": "orphan"
         },
         "manchu-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "mandelbulber": {
             "admin": "orphan",
@@ -82707,9 +82707,9 @@
             "fedora": "mschorm"
         },
         "marisa": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "markdownpart": {
             "admin": "yselkowitz",
@@ -90747,14 +90747,14 @@
             "fedora": "jjames"
         },
         "naver-nanum-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "naver-nanum-gothic-coding-fonts": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "tagoh",
+            "epel": "tagoh",
+            "fedora": "tagoh"
         },
         "navilu-fonts": {
             "admin": "pnemade",
@@ -100382,9 +100382,9 @@
             "fedora": "mjg"
         },
         "nototools": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "nova-agent": {
             "admin": "orphan",
@@ -149172,9 +149172,9 @@
             "fedora": "mjg"
         },
         "python-pipdeptree": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
         },
         "python-piper-tts": {
             "admin": "trix",
@@ -159962,9 +159962,9 @@
             "fedora": "ixs"
         },
         "pyzy": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "q": {
             "admin": "orphan",
@@ -195752,9 +195752,9 @@
             "fedora": "orphan"
         },
         "scim": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "scim-anthy": {
             "admin": "orphan",
@@ -195782,14 +195782,14 @@
             "fedora": "orphan"
         },
         "scim-fcitx": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "scim-hangul": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "scim-input-pad": {
             "admin": "orphan",
@@ -195802,9 +195802,9 @@
             "fedora": "pnemade"
         },
         "scim-pinyin": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "scim-python": {
             "admin": "orphan",
@@ -195837,9 +195837,9 @@
             "fedora": "orphan"
         },
         "scim-thai": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "scim-tomoe": {
             "admin": "orphan",
@@ -200822,9 +200822,9 @@
             "fedora": "orphan"
         },
         "sunpinyin": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "sunwait": {
             "admin": "fed500",
@@ -204502,9 +204502,9 @@
             "fedora": "topazus"
         },
         "tomoe": {
-            "admin": "pwu",
-            "epel": "pwu",
-            "fedora": "pwu"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "tomoe-gtk": {
             "admin": "fujiwara",
@@ -210832,9 +210832,9 @@
             "fedora": "dcavalca"
         },
         "x11perf": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "x11trace": {
             "admin": "dhowells",
@@ -211552,9 +211552,9 @@
             "fedora": "ngompa"
         },
         "xeyes": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "xfbib": {
             "admin": "orphan",
@@ -212237,9 +212237,9 @@
             "fedora": "spot"
         },
         "xkill": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
         },
         "xl2tpd": {
             "admin": "orphan",
@@ -214882,9 +214882,9 @@
             "fedora": "orphan"
         },
         "zinnia": {
-            "admin": "pwu",
+            "admin": "petersen",
             "epel": "pwu",
-            "fedora": "pwu"
+            "fedora": "petersen"
         },
         "zint": {
             "admin": "mgieseki",
