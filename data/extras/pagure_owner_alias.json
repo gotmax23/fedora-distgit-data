@@ -14122,7 +14122,7 @@
             "orphan"
         ],
         "cutter-re": [
-            "orphan",
+            "filiperosset",
             "rebus",
             "ret2libc"
         ],
@@ -19565,7 +19565,7 @@
             "orphan"
         ],
         "evemu": [
-            "orphan",
+            "filiperosset",
             "bentiss"
         ],
         "eventlog": [
@@ -19648,7 +19648,7 @@
             "orphan"
         ],
         "evtest": [
-            "orphan",
+            "filiperosset",
             "bentiss"
         ],
         "evtgen": [
@@ -40759,7 +40759,7 @@
             "orphan"
         ],
         "icestorm": [
-            "orphan",
+            "xanderlent",
             "lkundrak"
         ],
         "icewm": [
@@ -97901,7 +97901,7 @@
             "orphan"
         ],
         "python-migen": [
-            "orphan"
+            "xanderlent"
         ],
         "python-migrate": [
             "orphan"
@@ -135531,7 +135531,7 @@
             "limb"
         ],
         "trellis": [
-            "orphan",
+            "xanderlent",
             "lkundrak"
         ],
         "tremfusion": [
@@ -141195,7 +141195,7 @@
             "ajax"
         ],
         "xsetroot": [
-            "orphan",
+            "filiperosset",
             "ajax",
             "ofourdan"
         ],
@@ -141320,7 +141320,7 @@
             "orion"
         ],
         "xvidtune": [
-            "orphan",
+            "filiperosset",
             "ajax",
             "ofourdan"
         ],
@@ -141350,7 +141350,7 @@
             "ngompa"
         ],
         "xwd": [
-            "orphan",
+            "filiperosset",
             "ajax",
             "ofourdan"
         ],
@@ -141604,11 +141604,11 @@
             "verdurin"
         ],
         "yosys": [
-            "orphan",
+            "xanderlent",
             "lkundrak"
         ],
         "yosyshq-abc": [
-            "orphan"
+            "xanderlent"
         ],
         "yourls": [
             "orphan"

@@ -16583,7 +16583,7 @@
             "orphan"
         ],
         "cutter-re": [
-            "orphan",
+            "filiperosset",
             "rebus",
             "ret2libc"
         ],
@@ -22676,7 +22676,7 @@
         ],
         "evemu": [
             "bentiss",
-            "orphan"
+            "filiperosset"
         ],
         "eventlog": [
             "czanik",
@@ -22765,7 +22765,7 @@
         ],
         "evtest": [
             "bentiss",
-            "orphan"
+            "filiperosset"
         ],
         "evtgen": [
             "ellert",
@@ -43893,6 +43893,7 @@
             "java-sig",
             "jerboaa",
             "jvanek",
+            "kkeithle",
             "mbooth",
             "mizdebsk",
             "mkoncek"
@@ -47978,7 +47979,7 @@
         ],
         "icestorm": [
             "lkundrak",
-            "orphan"
+            "xanderlent"
         ],
         "icewm": [
             "atim",
@@ -112670,7 +112671,7 @@
             "orphan"
         ],
         "python-migen": [
-            "orphan"
+            "xanderlent"
         ],
         "python-migrate": [
             "@openstack-sig",
@@ -157976,7 +157977,7 @@
         ],
         "trellis": [
             "lkundrak",
-            "orphan"
+            "xanderlent"
         ],
         "tremfusion": [
             "orphan"
@@ -159772,6 +159773,7 @@
             "kwizart"
         ],
         "vdr": [
+            "dnehring",
             "martinkg",
             "vpv"
         ],
@@ -164182,8 +164184,8 @@
         ],
         "xsetroot": [
             "ajax",
-            "ofourdan",
-            "orphan"
+            "filiperosset",
+            "ofourdan"
         ],
         "xsettings-kde": [
             "orphan"
@@ -164322,8 +164324,8 @@
         ],
         "xvidtune": [
             "ajax",
-            "ofourdan",
-            "orphan"
+            "filiperosset",
+            "ofourdan"
         ],
         "xviewer": [
             "leigh123linux",
@@ -164361,8 +164363,8 @@
         "xwd": [
             "@epel-packagers-sig",
             "ajax",
-            "ofourdan",
-            "orphan"
+            "filiperosset",
+            "ofourdan"
         ],
         "xwininfo": [
             "@graphics-sig",
@@ -164643,10 +164645,10 @@
         "yosys": [
             "brouhaha",
             "lkundrak",
-            "orphan"
+            "xanderlent"
         ],
         "yosyshq-abc": [
-            "orphan"
+            "xanderlent"
         ],
         "yourls": [
             "mkrizek",

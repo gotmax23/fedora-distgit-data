@@ -21307,9 +21307,9 @@
             "fedora": "orphan"
         },
         "cutter-re": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "cv": {
             "admin": "orphan",
@@ -29502,9 +29502,9 @@
             "fedora": "orphan"
         },
         "evemu": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "bentiss",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "eventlog": {
             "admin": "czanik",
@@ -29617,9 +29617,9 @@
             "fedora": "orphan"
         },
         "evtest": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "evtgen": {
             "admin": "yanqiyu",
@@ -62512,9 +62512,9 @@
             "fedora": "orphan"
         },
         "icestorm": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "xanderlent",
+            "epel": "xanderlent",
+            "fedora": "xanderlent"
         },
         "icewm": {
             "admin": "atim",
@@ -146497,9 +146497,9 @@
             "fedora": "orphan"
         },
         "python-migen": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "xanderlent",
+            "epel": "xanderlent",
+            "fedora": "xanderlent"
         },
         "python-migrate": {
             "admin": "orphan",
@@ -205307,9 +205307,9 @@
             "fedora": "limb"
         },
         "trellis": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "xanderlent",
+            "epel": "xanderlent",
+            "fedora": "xanderlent"
         },
         "tremfusion": {
             "admin": "orphan",
@@ -213662,9 +213662,9 @@
             "fedora": "ajax"
         },
         "xsetroot": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "xsettings-kde": {
             "admin": "orphan",
@@ -213852,9 +213852,9 @@
             "fedora": "ngompa"
         },
         "xvidtune": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "xviewer": {
             "admin": "orphan",
@@ -213897,9 +213897,9 @@
             "fedora": "ngompa"
         },
         "xwd": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "xwininfo": {
             "admin": "ajax",
@@ -214267,14 +214267,14 @@
             "fedora": "verdurin"
         },
         "yosys": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "xanderlent",
+            "epel": "xanderlent",
+            "fedora": "xanderlent"
         },
         "yosyshq-abc": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "xanderlent",
+            "epel": "xanderlent",
+            "fedora": "xanderlent"
         },
         "yourls": {
             "admin": "orphan",
