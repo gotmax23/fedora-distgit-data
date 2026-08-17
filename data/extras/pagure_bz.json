@@ -13591,6 +13591,9 @@
         "chordpro": [
             "sciurius"
         ],
+        "chroma": [
+            "suve"
+        ],
         "chromaprint": [
             "kni",
             "olea"
@@ -141907,6 +141910,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-pem3": [
+            "decathorpe"
+        ],
         "rust-pep440": [
             "@rust-sig",
             "lbalhar"
@@ -145137,6 +145143,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-seq-macro": [
+            "@rust-sig",
+            "jsteffan"
+        ],
         "rust-sequoia-autocrypt": [
             "@rust-sig",
             "decathorpe"
@@ -146745,7 +146755,7 @@
         ],
         "rust-tealdeer": [
             "@rust-sig",
-            "dreua",
+            "orphan",
             "vonmorgen"
         ],
         "rust-teloxide": [
@@ -149201,7 +149211,7 @@
         ],
         "rust-vergen-lib": [
             "@rust-sig",
-            "jsteffan"
+            "orphan"
         ],
         "rust-vergen3": [
             "@rust-sig",
@@ -157534,6 +157544,7 @@
         ],
         "toxcore": [
             "eclipseo",
+            "nick974",
             "topazus"
         ],
         "tpb": [

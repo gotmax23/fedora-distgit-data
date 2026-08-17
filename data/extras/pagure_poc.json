@@ -17411,6 +17411,11 @@
             "epel": "sciurius",
             "fedora": "sciurius"
         },
+        "chroma": {
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
+        },
         "chromaprint": {
             "admin": "olea",
             "epel": "olea",
@@ -184331,6 +184336,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-pem3": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-pep440": {
             "admin": "lbalhar",
             "epel": "lbalhar",
@@ -188446,6 +188456,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-seq-macro": {
+            "admin": "jsteffan",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-sequoia-autocrypt": {
             "admin": "decathorpe",
             "epel": "decathorpe",
@@ -190477,7 +190492,7 @@
             "fedora": "jcline"
         },
         "rust-tealdeer": {
-            "admin": "dreua",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -193582,7 +193597,7 @@
             "fedora": "@rust-sig"
         },
         "rust-vergen-lib": {
-            "admin": "jsteffan",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
