@@ -57113,7 +57113,7 @@
         },
         "google-gson": {
             "admin": "mbooth",
-            "epel": "mbooth",
+            "epel": "kkeithle",
             "fedora": "mbooth"
         },
         "google-guest-agent": {
@@ -110678,7 +110678,7 @@
         },
         "perl-DateTime-Calendar-Julian": {
             "admin": "spot",
-            "epel": "spot",
+            "epel": "orion",
             "fedora": "spot"
         },
         "perl-DateTime-Calendar-Mayan": {
@@ -160166,6 +160166,16 @@
             "epel": "aekoroglu",
             "fedora": "aekoroglu"
         },
+        "qcom-sensinghub": {
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
+        },
+        "qcom-time-services": {
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
+        },
         "qcomicbook": {
             "admin": "orphan",
             "epel": "orphan",
@@ -169952,9 +169962,9 @@
             "fedora": "@rust-sig"
         },
         "rust-ashpd0.11": {
-            "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "admin": "orphan",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-ashpd0.12": {
             "admin": "decathorpe",
@@ -181187,7 +181197,7 @@
             "fedora": "@rust-sig"
         },
         "rust-libspa-sys0.8": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -181197,7 +181207,7 @@
             "fedora": "@rust-sig"
         },
         "rust-libspa0.8": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -184667,7 +184677,7 @@
             "fedora": "@rust-sig"
         },
         "rust-pipewire-sys0.8": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -184677,7 +184687,7 @@
             "fedora": "@rust-sig"
         },
         "rust-pipewire0.8": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -190367,7 +190377,7 @@
             "fedora": "orphan"
         },
         "rust-system-deps6": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },

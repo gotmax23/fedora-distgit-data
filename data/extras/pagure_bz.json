@@ -15908,7 +15908,8 @@
             "orphan"
         ],
         "cqrlog": [
-            "hobbes1069"
+            "hobbes1069",
+            "stevenfalco"
         ],
         "cr-marcstevens-snippets": [
             "jjames",
@@ -123121,6 +123122,14 @@
             "aekoroglu",
             "jwrdegoede"
         ],
+        "qcom-sensinghub": [
+            "aekoroglu",
+            "jwrdegoede"
+        ],
+        "qcom-time-services": [
+            "aekoroglu",
+            "jwrdegoede"
+        ],
         "qcomicbook": [
             "orphan"
         ],
@@ -130490,7 +130499,7 @@
         ],
         "rust-ashpd0.11": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-ashpd0.12": [
             "@rust-sig",
@@ -139434,7 +139443,7 @@
         ],
         "rust-libspa-sys0.8": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-libspa0.7": [
             "@rust-sig",
@@ -139442,7 +139451,7 @@
         ],
         "rust-libspa0.8": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-libsqlite3-sys": [
             "@rust-sig",
@@ -141911,6 +141920,7 @@
             "decathorpe"
         ],
         "rust-pem3": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-pep440": [
@@ -142174,7 +142184,7 @@
         ],
         "rust-pipewire-sys0.8": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-pipewire0.7": [
             "@rust-sig",
@@ -142182,7 +142192,7 @@
         ],
         "rust-pipewire0.8": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-piston": [
             "orphan"
@@ -146659,7 +146669,7 @@
         ],
         "rust-system-deps6": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-system-interface": [
             "orphan"
