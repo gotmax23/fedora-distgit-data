@@ -11663,8 +11663,8 @@
         ],
         "bodhi-server": [
             "abompard",
-            "lenkaseg",
-            "orphan"
+            "adamwill",
+            "lenkaseg"
         ],
         "bodhi3": [
             "orphan"
@@ -21611,6 +21611,9 @@
         "emacs-popup": [
             "melmorabity"
         ],
+        "emacs-posframe": [
+            "jjames"
+        ],
         "emacs-pymacs": [
             "orphan"
         ],
@@ -21879,9 +21882,11 @@
         ],
         "epel-rpm-macros": [
             "carlwgeorge",
+            "dherrera",
             "gotmax23",
             "kevin",
             "ngompa",
+            "phsmoura",
             "tibbs"
         ],
         "ephemeral": [
@@ -78539,6 +78544,9 @@
             "dherrera",
             "xanderlent"
         ],
+        "oo7": [
+            "decathorpe"
+        ],
         "oomd": [
             "dcavalca",
             "salimma"
@@ -79129,6 +79137,9 @@
         ],
         "openpgpkey-milter": [
             "orphan"
+        ],
+        "openpgpverify": [
+            "jjelen"
         ],
         "openprops": [
             "dchen",
@@ -119740,7 +119751,7 @@
             "sergiopr"
         ],
         "python-tiktoken": [
-            "lbalhar"
+            "filiperosset"
         ],
         "python-tilecache": [
             "orphan",
@@ -124264,6 +124275,10 @@
         ],
         "queuegraph": [
             "orphan"
+        ],
+        "quic-teec": [
+            "aekoroglu",
+            "jwrdegoede"
         ],
         "quick-usb-formatter": [
             "orphan"
@@ -136508,6 +136523,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-griddle": [
+            "jcline"
+        ],
         "rust-group": [
             "@rust-sig",
             "decathorpe"
@@ -137846,6 +137864,10 @@
             "music",
             "v02460"
         ],
+        "rust-icu_locale_fallback_data": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-icu_locid": [
             "@rust-sig",
             "music"
@@ -138978,6 +139000,9 @@
             "@rust-sig",
             "limb",
             "orion"
+        ],
+        "rust-left-right": [
+            "jcline"
         ],
         "rust-letter-avatar": [
             "orphan"
@@ -143750,6 +143775,12 @@
         "rust-rangemap": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-rapidhash": [
+            "jcline"
+        ],
+        "rust-rapidrand": [
+            "jcline"
         ],
         "rust-ratatui": [
             "@rust-sig",
@@ -151894,9 +151925,8 @@
             "orphan"
         ],
         "showtime": [
-            "@gnome-sig",
-            "kathenas",
-            "ngompa"
+            "decathorpe",
+            "kathenas"
         ],
         "shrinkpdf": [
             "raphgro"
@@ -161520,7 +161550,8 @@
             "music"
         ],
         "wlmaker": [
-            "dcavalca"
+            "dcavalca",
+            "salimma"
         ],
         "wlmproxy": [
             "orphan",

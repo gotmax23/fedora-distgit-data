@@ -14887,9 +14887,9 @@
             "fedora": "humaton"
         },
         "bodhi-server": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "adamwill",
+            "epel": "adamwill",
+            "fedora": "adamwill"
         },
         "bodhi3": {
             "admin": "orphan",
@@ -28060,6 +28060,11 @@
             "admin": "melmorabity",
             "epel": "melmorabity",
             "fedora": "melmorabity"
+        },
+        "emacs-posframe": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
         },
         "emacs-pymacs": {
             "admin": "orphan",
@@ -103191,6 +103196,11 @@
             "epel": "dherrera",
             "fedora": "dherrera"
         },
+        "oo7": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "oomd": {
             "admin": "dcavalca",
             "epel": "dcavalca",
@@ -103965,6 +103975,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "openpgpverify": {
+            "admin": "jjelen",
+            "epel": "jjelen",
+            "fedora": "jjelen"
         },
         "openprops": {
             "admin": "orphan",
@@ -155632,9 +155647,9 @@
             "fedora": "sergiopr"
         },
         "python-tiktoken": {
-            "admin": "lbalhar",
-            "epel": "lbalhar",
-            "fedora": "lbalhar"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-tilecache": {
             "admin": "orphan",
@@ -161615,6 +161630,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "quic-teec": {
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
         },
         "quick-usb-formatter": {
             "admin": "orphan",
@@ -177556,6 +177576,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-griddle": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
+        },
         "rust-group": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -179236,6 +179261,11 @@
             "epel": "v02460",
             "fedora": "v02460"
         },
+        "rust-icu_locale_fallback_data": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-icu_locid": {
             "admin": "music",
             "epel": "music",
@@ -180635,6 +180665,11 @@
             "admin": "orion",
             "epel": "orion",
             "fedora": "orion"
+        },
+        "rust-left-right": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
         },
         "rust-letter-avatar": {
             "admin": "orphan",
@@ -186665,6 +186700,16 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-rapidhash": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
+        },
+        "rust-rapidrand": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
         },
         "rust-ratatui": {
             "admin": "salimma",
@@ -197092,9 +197137,9 @@
             "fedora": "orphan"
         },
         "showtime": {
-            "admin": "ngompa",
-            "epel": "@gnome-sig",
-            "fedora": "@gnome-sig"
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "shrinkpdf": {
             "admin": "raphgro",
