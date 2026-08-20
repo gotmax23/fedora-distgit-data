@@ -14143,7 +14143,7 @@
         },
         "biber": {
             "admin": "ppisar",
-            "epel": "orphan",
+            "epel": "ppisar",
             "fedora": "ppisar"
         },
         "bibexport": {
@@ -20437,9 +20437,9 @@
             "fedora": "orphan"
         },
         "cqrlog": {
-            "admin": "hobbes1069",
-            "epel": "hobbes1069",
-            "fedora": "hobbes1069"
+            "admin": "stevenfalco",
+            "epel": "stevenfalco",
+            "fedora": "stevenfalco"
         },
         "cr-marcstevens-snippets": {
             "admin": "music",
@@ -31410,6 +31410,11 @@
             "admin": "asn",
             "epel": "@multimedia-sig",
             "fedora": "@multimedia-sig"
+        },
+        "ffmpeg5": {
+            "admin": "tdawson",
+            "epel": "tdawson",
+            "fedora": "tdawson"
         },
         "ffmpegthumbnailer": {
             "admin": "topazus",
@@ -57156,6 +57161,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "google-noto-color-emoji-fonts": {
+            "admin": "mfabian",
+            "epel": "mfabian",
+            "fedora": "mfabian"
+        },
         "google-noto-emoji-fonts": {
             "admin": "tagoh",
             "epel": "tagoh",
@@ -74046,6 +74056,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "libdial": {
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
+        },
         "libdicom": {
             "admin": "bgilbert",
             "epel": "bgilbert",
@@ -77805,6 +77820,11 @@
             "admin": "imcinerney",
             "epel": "imcinerney",
             "fedora": "imcinerney"
+        },
+        "libreoffice-dictionaries": {
+            "admin": "pnemade",
+            "epel": "pnemade",
+            "fedora": "pnemade"
         },
         "libreoffice-gallery-vrt-network-equipment": {
             "admin": "dtardon",
@@ -149012,9 +149032,9 @@
             "fedora": "sagitter"
         },
         "python-perky": {
-            "admin": "gotmax23",
-            "epel": "gotmax23",
-            "fedora": "gotmax23"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-persist-queue": {
             "admin": "wojnilowicz",
@@ -178606,6 +178626,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-hashbag": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
+        },
         "rust-hashbrown": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -185206,6 +185231,11 @@
             "epel": "orion",
             "fedora": "@rust-sig"
         },
+        "rust-primefield": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-primeorder": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -185275,6 +185305,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-proc-macro-error-attr3": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-proc-macro-error2": {
             "admin": "decathorpe",
@@ -187940,6 +187975,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-rustix-linux-procfs": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-rustix-openpty": {
             "admin": "alebastr",
@@ -194370,6 +194410,11 @@
             "admin": "dcavalca",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-wnaf": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-write16": {
             "admin": "music",

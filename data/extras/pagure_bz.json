@@ -24175,6 +24175,9 @@
             "ngompa",
             "rathann"
         ],
+        "ffmpeg5": [
+            "tdawson"
+        ],
         "ffmpegthumbnailer": [
             "@multimedia-sig",
             "topazus"
@@ -30389,7 +30392,8 @@
         ],
         "ghdl": [
             "sailer",
-            "sharkcz"
+            "sharkcz",
+            "tollsimy"
         ],
         "ghemical": [
             "cicku",
@@ -43937,6 +43941,9 @@
         "google-noto-cjk-fonts": [
             "orphan"
         ],
+        "google-noto-color-emoji-fonts": [
+            "mfabian"
+        ],
         "google-noto-emoji-fonts": [
             "mfabian",
             "petersen",
@@ -57195,6 +57202,10 @@
         "libdhcp": [
             "orphan"
         ],
+        "libdial": [
+            "mtasaka",
+            "suve"
+        ],
         "libdicom": [
             "bgilbert"
         ],
@@ -60111,6 +60122,9 @@
             "@libreoffice-sig",
             "imcinerney",
             "orion"
+        ],
+        "libreoffice-dictionaries": [
+            "pnemade"
         ],
         "libreoffice-gallery-vrt-network-equipment": [
             "dtardon"
@@ -114616,7 +114630,7 @@
         ],
         "python-perky": [
             "@python-packagers-sig",
-            "gotmax23"
+            "orphan"
         ],
         "python-persist-queue": [
             "eharney",
@@ -136524,6 +136538,7 @@
             "decathorpe"
         ],
         "rust-griddle": [
+            "@rust-sig",
             "jcline"
         ],
         "rust-group": [
@@ -137342,6 +137357,9 @@
         "rust-hash32_0.2": [
             "@rust-sig",
             "salimma"
+        ],
+        "rust-hashbag": [
+            "jcline"
         ],
         "rust-hashbrown": [
             "@rust-sig",
@@ -139002,6 +139020,7 @@
             "orion"
         ],
         "rust-left-right": [
+            "@rust-sig",
             "jcline"
         ],
         "rust-letter-avatar": [
@@ -142596,6 +142615,10 @@
             "@rust-sig",
             "orion"
         ],
+        "rust-primefield": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-primeorder": [
             "@rust-sig",
             "decathorpe"
@@ -142652,6 +142675,9 @@
         "rust-proc-macro-error-attr2": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-proc-macro-error-attr3": [
+            "music"
         ],
         "rust-proc-macro-error2": [
             "@rust-sig",
@@ -143777,9 +143803,11 @@
             "decathorpe"
         ],
         "rust-rapidhash": [
+            "@rust-sig",
             "jcline"
         ],
         "rust-rapidrand": [
+            "@rust-sig",
             "jcline"
         ],
         "rust-ratatui": [
@@ -144728,6 +144756,10 @@
         "rust-rustix": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-rustix-linux-procfs": [
+            "@rust-sig",
+            "music"
         ],
         "rust-rustix-openpty": [
             "@rust-sig",
@@ -149793,6 +149825,10 @@
         "rust-wmidi": [
             "@rust-sig",
             "dcavalca"
+        ],
+        "rust-wnaf": [
+            "@rust-sig",
+            "music"
         ],
         "rust-write16": [
             "@rust-sig",
