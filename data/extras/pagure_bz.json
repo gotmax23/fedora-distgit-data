@@ -14466,7 +14466,8 @@
             "kkoukiou",
             "martinpitt",
             "patux",
-            "stefw"
+            "stefw",
+            "tmatus"
         ],
         "cockpit-composer": [
             "@osbuild-sig",
@@ -14479,7 +14480,8 @@
             "jelly",
             "kkoukiou",
             "martinpitt",
-            "mmarusak"
+            "mmarusak",
+            "tmatus"
         ],
         "cockpit-image-builder": [
             "@osbuild-sig",
@@ -14490,7 +14492,8 @@
             "jelly",
             "kkoukiou",
             "martinpitt",
-            "mmarusak"
+            "mmarusak",
+            "tmatus"
         ],
         "cockpit-navigator": [
             "sgallagh"
@@ -14504,7 +14507,8 @@
             "jelly",
             "kkoukiou",
             "martinpitt",
-            "mmarusak"
+            "mmarusak",
+            "tmatus"
         ],
         "cockpit-session-recording": [
             "jstephen"
@@ -24586,6 +24590,7 @@
         ],
         "flatpak-module-tools": [
             "kalev",
+            "lpavan",
             "otaylor",
             "yselkowitz"
         ],
@@ -55658,6 +55663,7 @@
             "orphan"
         ],
         "lame": [
+            "@multimedia-sig",
             "robert",
             "yselkowitz"
         ],
@@ -108956,6 +108962,7 @@
             "thrnciar"
         ],
         "python-fastmcp": [
+            "otaylor",
             "peter"
         ],
         "python-fastprogress": [
@@ -130116,7 +130123,8 @@
             "dcavalca"
         ],
         "rust-ambient-authority": [
-            "orphan"
+            "@rust-sig",
+            "music"
         ],
         "rust-ambient-id": [
             "@rust-sig",
@@ -130220,6 +130228,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-anstyle-hyperlink": [
+            "decathorpe"
+        ],
         "rust-anstyle-lossy": [
             "@rust-sig",
             "decathorpe"
@@ -130230,6 +130241,9 @@
         ],
         "rust-anstyle-parse0.2": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-anstyle-progress": [
             "decathorpe"
         ],
         "rust-anstyle-query": [
@@ -132053,6 +132067,9 @@
         ],
         "rust-cargo-util-schemas": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-cargo-util-terminal": [
             "decathorpe"
         ],
         "rust-cargo-vendor-filterer": [
@@ -134642,6 +134659,9 @@
         "rust-event-manager": [
             "@rust-sig",
             "dm0"
+        ],
+        "rust-evmap": [
+            "jcline"
         ],
         "rust-exa": [
             "@rust-sig",
@@ -137359,6 +137379,7 @@
             "salimma"
         ],
         "rust-hashbag": [
+            "@rust-sig",
             "jcline"
         ],
         "rust-hashbrown": [
@@ -140046,7 +140067,8 @@
             "blinxen"
         ],
         "rust-maybe-owned": [
-            "orphan"
+            "@rust-sig",
+            "music"
         ],
         "rust-maybe-rayon": [
             "@rust-sig",
@@ -142677,6 +142699,7 @@
             "decathorpe"
         ],
         "rust-proc-macro-error-attr3": [
+            "@rust-sig",
             "music"
         ],
         "rust-proc-macro-error2": [
@@ -154340,6 +154363,7 @@
             "jjames"
         ],
         "stringtemplate": [
+            "kkeithle",
             "walters"
         ],
         "stringtemplate4": [
@@ -156847,6 +156871,7 @@
             "benzea",
             "besser82",
             "ngompa",
+            "smallorange",
             "xanderlent"
         ],
         "thermostat": [

@@ -32747,9 +32747,9 @@
             "fedora": "orphan"
         },
         "fprintd": {
-            "admin": "benzea",
-            "epel": "benzea",
-            "fedora": "benzea"
+            "admin": "smallorange",
+            "epel": "smallorange",
+            "fedora": "smallorange"
         },
         "fprobe-ulog": {
             "admin": "orphan",
@@ -74627,9 +74627,9 @@
             "fedora": "music"
         },
         "libfprint": {
-            "admin": "benzea",
-            "epel": "benzea",
-            "fedora": "benzea"
+            "admin": "smallorange",
+            "epel": "smallorange",
+            "fedora": "smallorange"
         },
         "libfreebob": {
             "admin": "orphan",
@@ -169487,9 +169487,9 @@
             "fedora": "@rust-sig"
         },
         "rust-ambient-authority": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-ambient-id": {
             "admin": "music",
@@ -169621,6 +169621,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-anstyle-hyperlink": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-anstyle-lossy": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -169632,6 +169637,11 @@
             "fedora": "@rust-sig"
         },
         "rust-anstyle-parse0.2": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-anstyle-progress": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -171917,6 +171927,11 @@
             "fedora": "@rust-sig"
         },
         "rust-cargo-util-schemas": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-cargo-util-terminal": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -175195,6 +175210,11 @@
             "admin": "dm0",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-evmap": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
         },
         "rust-exa": {
             "admin": "decathorpe",
@@ -181967,9 +181987,9 @@
             "fedora": "blinxen"
         },
         "rust-maybe-owned": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-maybe-rayon": {
             "admin": "decathorpe",
@@ -200323,7 +200343,7 @@
         },
         "stringtemplate": {
             "admin": "walters",
-            "epel": "walters",
+            "epel": "kkeithle",
             "fedora": "walters"
         },
         "stringtemplate4": {
@@ -203762,9 +203782,9 @@
             "fedora": "orphan"
         },
         "thermald": {
-            "admin": "benzea",
-            "epel": "benzea",
-            "fedora": "benzea"
+            "admin": "smallorange",
+            "epel": "smallorange",
+            "fedora": "smallorange"
         },
         "thermostat": {
             "admin": "orphan",
@@ -206298,7 +206318,7 @@
         },
         "tzclock": {
             "admin": "mtasaka",
-            "epel": "mtasaka",
+            "epel": "orphan",
             "fedora": "mtasaka"
         },
         "tzdata": {
