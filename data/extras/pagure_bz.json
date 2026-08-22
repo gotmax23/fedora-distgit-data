@@ -48460,7 +48460,8 @@
         ],
         "ini2toml": [
             "@python-packagers-sig",
-            "cstratak"
+            "cstratak",
+            "salimma"
         ],
         "ini4j": [
             "orphan"
@@ -54243,6 +54244,9 @@
             "@kde-sig",
             "vascom",
             "wolnei"
+        ],
+        "kio-snapshot": [
+            "farchord"
         ],
         "kio-upnp-ms": [
             "jgrulich",
@@ -105868,6 +105872,9 @@
         "python-blackbird": [
             "orphan"
         ],
+        "python-blazarclient": [
+            "stevetraylen"
+        ],
         "python-bleach": [
             "@epel-packagers-sig",
             "ignatenkobrain",
@@ -125726,6 +125733,9 @@
         "robotfindskitten": [
             "wwoods"
         ],
+        "robotraconteur": [
+            "wasontech"
+        ],
         "robust-http-client": [
             "java-sig",
             "msrb",
@@ -130229,6 +130239,7 @@
             "decathorpe"
         ],
         "rust-anstyle-hyperlink": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-anstyle-lossy": [
@@ -130244,6 +130255,7 @@
             "decathorpe"
         ],
         "rust-anstyle-progress": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-anstyle-query": [
@@ -132070,6 +132082,7 @@
             "decathorpe"
         ],
         "rust-cargo-util-terminal": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-cargo-vendor-filterer": [
@@ -134661,6 +134674,7 @@
             "dm0"
         ],
         "rust-evmap": [
+            "@rust-sig",
             "jcline"
         ],
         "rust-exa": [
@@ -141438,7 +141452,8 @@
         ],
         "rust-ossl": [
             "@rust-sig",
-            "decathorpe"
+            "decathorpe",
+            "jjelen"
         ],
         "rust-osstrtools": [
             "orphan"
@@ -161612,7 +161627,8 @@
         ],
         "wlmaker": [
             "dcavalca",
-            "salimma"
+            "salimma",
+            "sfaulken"
         ],
         "wlmproxy": [
             "orphan",

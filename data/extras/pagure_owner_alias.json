@@ -46116,6 +46116,9 @@
         "kio-gdrive": [
             "vascom"
         ],
+        "kio-snapshot": [
+            "farchord"
+        ],
         "kio-upnp-ms": [
             "orphan",
             "jgrulich"
@@ -60010,7 +60013,8 @@
         "nagios-plugins": [
             "tartina",
             "nb",
-            "ignatenkobrain"
+            "ignatenkobrain",
+            "ondrejj"
         ],
         "nagios-plugins-bdii": [
             "orphan"
@@ -92036,6 +92040,9 @@
         "python-blackbird": [
             "orphan"
         ],
+        "python-blazarclient": [
+            "stevetraylen"
+        ],
         "python-bleach": [
             "trix",
             "salimma",
@@ -109267,6 +109274,9 @@
         ],
         "robotfindskitten": [
             "wwoods"
+        ],
+        "robotraconteur": [
+            "wasontech"
         ],
         "robust-http-client": [
             "orphan"
@@ -138815,7 +138825,8 @@
         ],
         "wlmaker": [
             "dcavalca",
-            "salimma"
+            "salimma",
+            "sfaulken"
         ],
         "wlmproxy": [
             "orphan"

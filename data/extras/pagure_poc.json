@@ -63148,7 +63148,7 @@
         },
         "ini2toml": {
             "admin": "cstratak",
-            "epel": "cstratak",
+            "epel": "salimma",
             "fedora": "cstratak"
         },
         "ini4j": {
@@ -70450,6 +70450,11 @@
             "admin": "vascom",
             "epel": "vascom",
             "fedora": "vascom"
+        },
+        "kio-snapshot": {
+            "admin": "farchord",
+            "epel": "farchord",
+            "fedora": "farchord"
         },
         "kio-upnp-ms": {
             "admin": "orphan",
@@ -137741,6 +137746,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-blazarclient": {
+            "admin": "stevetraylen",
+            "epel": "stevetraylen",
+            "fedora": "stevetraylen"
+        },
         "python-bleach": {
             "admin": "trix",
             "epel": "trix",
@@ -163570,6 +163580,11 @@
             "admin": "wwoods",
             "epel": "wwoods",
             "fedora": "wwoods"
+        },
+        "robotraconteur": {
+            "admin": "wasontech",
+            "epel": "wasontech",
+            "fedora": "wasontech"
         },
         "robust-http-client": {
             "admin": "orphan",
