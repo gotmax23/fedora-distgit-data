@@ -10706,6 +10706,9 @@
             "anvil",
             "jonathanspw"
         ],
+        "bash-color-prompt": [
+            "petersen"
+        ],
         "bash-completion": [
             "mrunge",
             "svashisht"
@@ -20911,8 +20914,7 @@
             "sandeen"
         ],
         "ed": [
-            "mikelo2",
-            "music"
+            "mikelo2"
         ],
         "ed25519-java": [
             "java-sig",
@@ -54719,6 +54721,10 @@
             "@kde-sig",
             "vascom"
         ],
+        "komodo": [
+            "@kde-sig",
+            "thunderbirdtr"
+        ],
         "komparator": [
             "nbecker",
             "orphan"
@@ -69349,7 +69355,7 @@
             "orphan"
         ],
         "muon": [
-            "linkdupont"
+            "orphan"
         ],
         "muon-meson": [
             "daandemeyer",
@@ -80017,6 +80023,7 @@
             "jlebon",
             "jmarrero",
             "miabbott",
+            "renner",
             "runcom",
             "siosm",
             "tlbueno",
@@ -132126,7 +132133,7 @@
         ],
         "rust-cascade": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-case": [
             "orphan"
@@ -134974,7 +134981,7 @@
         ],
         "rust-find-crate": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-find-msvc-tools": [
             "@rust-sig",
@@ -135047,19 +135054,19 @@
         ],
         "rust-fluent": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-fluent-bundle": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-fluent-langneg": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-fluent-syntax": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-fluent-uri": [
             "@rust-sig",
@@ -137592,8 +137599,8 @@
         ],
         "rust-hidapi": [
             "@rust-sig",
-            "linkdupont",
-            "music"
+            "music",
+            "orphan"
         ],
         "rust-hidpipe": [
             "@asahi-sig",
@@ -137833,19 +137840,19 @@
         ],
         "rust-i18n-config": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-i18n-embed": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-i18n-embed-fl": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-i18n-embed-impl": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-i3ipc": [
             "@rust-sig",
@@ -137856,7 +137863,7 @@
         ],
         "rust-iai": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-iana-time-zone": [
             "@rust-sig",
@@ -138329,11 +138336,11 @@
         ],
         "rust-intl-memoizer": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-intl_pluralrules": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-intrusive-collections": [
             "@rust-sig",
@@ -139965,7 +139972,7 @@
             "xanderlent"
         ],
         "rust-macroquad_macro": [
-            "orphan"
+            "jsteffan"
         ],
         "rust-macrotest": [
             "@rust-sig",
@@ -142815,6 +142822,10 @@
             "@rust-sig",
             "blinxen"
         ],
+        "rust-profiling-procmacros": [
+            "@rust-sig",
+            "jsteffan"
+        ],
         "rust-progpool": [
             "@rust-sig",
             "salimma"
@@ -143462,7 +143473,7 @@
             "jbtrystram"
         ],
         "rust-quad-rand": [
-            "orphan"
+            "jsteffan"
         ],
         "rust-quad-url": [
             "@rust-sig",
@@ -145210,7 +145221,7 @@
         ],
         "rust-self_cell": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-selinux": [
             "@rust-sig",
@@ -146777,7 +146788,7 @@
         ],
         "rust-system76_ectool": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-systemd": [
             "orphan"
@@ -147267,7 +147278,7 @@
         ],
         "rust-tinystr": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-tinytemplate": [
             "@rust-sig",
@@ -148262,7 +148273,7 @@
         ],
         "rust-type-map": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-typeable": [
             "orphan"
@@ -148414,35 +148425,35 @@
         ],
         "rust-unic-langid": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-unic-langid-impl": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-unic-langid-macros": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-unic-langid-macros-impl": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-unic-locale": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-unic-locale-impl": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-unic-locale-macros": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-unic-locale-macros-impl": [
             "@rust-sig",
-            "linkdupont"
+            "orphan"
         ],
         "rust-unic-normal": [
             "@rust-sig",
@@ -159536,7 +159547,7 @@
             "topazus"
         ],
         "utest": [
-            "music"
+            "orphan"
         ],
         "utf8cpp": [
             "orion",

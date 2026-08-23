@@ -13656,6 +13656,11 @@
             "epel": "jonathanspw",
             "fedora": "jonathanspw"
         },
+        "bash-color-prompt": {
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
+        },
         "bash-completion": {
             "admin": "svashisht",
             "epel": "mrunge",
@@ -71051,6 +71056,11 @@
             "epel": "vascom",
             "fedora": "vascom"
         },
+        "komodo": {
+            "admin": "thunderbirdtr",
+            "epel": "thunderbirdtr",
+            "fedora": "thunderbirdtr"
+        },
         "komparator": {
             "admin": "orphan",
             "epel": "orphan",
@@ -89857,9 +89867,9 @@
             "fedora": "orphan"
         },
         "muon": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "muon-meson": {
             "admin": "fed500",
@@ -172002,9 +172012,9 @@
             "fedora": "@rust-sig"
         },
         "rust-cascade": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-case": {
             "admin": "orphan",
@@ -175612,9 +175622,9 @@
             "fedora": "@rust-sig"
         },
         "rust-find-crate": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-find-msvc-tools": {
             "admin": "decathorpe",
@@ -175707,24 +175717,24 @@
             "fedora": "music"
         },
         "rust-fluent": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-fluent-bundle": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-fluent-langneg": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-fluent-syntax": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-fluent-uri": {
             "admin": "music",
@@ -175788,8 +175798,8 @@
         },
         "rust-fontdue": {
             "admin": "jsteffan",
-            "epel": "jsteffan",
-            "fedora": "jsteffan"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-foreign-types": {
             "admin": "decathorpe",
@@ -178907,9 +178917,9 @@
             "fedora": "@rust-sig"
         },
         "rust-hidapi": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-hidpipe": {
             "admin": "orphan",
@@ -179217,24 +179227,24 @@
             "fedora": "@rust-sig"
         },
         "rust-i18n-config": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-i18n-embed": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-i18n-embed-fl": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-i18n-embed-impl": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-i3ipc": {
             "admin": "atim",
@@ -179247,9 +179257,9 @@
             "fedora": "orphan"
         },
         "rust-iai": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-iana-time-zone": {
             "admin": "decathorpe",
@@ -179827,14 +179837,14 @@
             "fedora": "@rust-sig"
         },
         "rust-intl-memoizer": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-intl_pluralrules": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-intrusive-collections": {
             "admin": "osteffen",
@@ -181857,9 +181867,9 @@
             "fedora": "xanderlent"
         },
         "rust-macroquad_macro": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "jsteffan",
+            "epel": "jsteffan",
+            "fedora": "jsteffan"
         },
         "rust-macrotest": {
             "admin": "salimma",
@@ -185476,6 +185486,11 @@
             "epel": "blinxen",
             "fedora": "blinxen"
         },
+        "rust-profiling-procmacros": {
+            "admin": "jsteffan",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-progpool": {
             "admin": "salimma",
             "epel": "@rust-sig",
@@ -186287,9 +186302,9 @@
             "fedora": "ctron"
         },
         "rust-quad-rand": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "jsteffan",
+            "epel": "jsteffan",
+            "fedora": "jsteffan"
         },
         "rust-quad-url": {
             "admin": "jsteffan",
@@ -188527,9 +188542,9 @@
             "fedora": "@rust-sig"
         },
         "rust-self_cell": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-selinux": {
             "admin": "salimma",
@@ -190507,9 +190522,9 @@
             "fedora": "orphan"
         },
         "rust-system76_ectool": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-systemd": {
             "admin": "orphan",
@@ -191122,9 +191137,9 @@
             "fedora": "orphan"
         },
         "rust-tinystr": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-tinytemplate": {
             "admin": "mclasen",
@@ -192387,9 +192402,9 @@
             "fedora": "@rust-sig"
         },
         "rust-type-map": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-typeable": {
             "admin": "orphan",
@@ -192582,44 +192597,44 @@
             "fedora": "@rust-sig"
         },
         "rust-unic-langid": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-unic-langid-impl": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-unic-langid-macros": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-unic-langid-macros-impl": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-unic-locale": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-unic-locale-impl": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-unic-locale-macros": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-unic-locale-macros-impl": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-unic-normal": {
             "admin": "blinxen",
@@ -207417,9 +207432,9 @@
             "fedora": "topazus"
         },
         "utest": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "utf8cpp": {
             "admin": "rathann",
