@@ -139972,6 +139972,7 @@
             "xanderlent"
         ],
         "rust-macroquad_macro": [
+            "@rust-sig",
             "jsteffan"
         ],
         "rust-macrotest": [
@@ -143473,6 +143474,7 @@
             "jbtrystram"
         ],
         "rust-quad-rand": [
+            "@rust-sig",
             "jsteffan"
         ],
         "rust-quad-url": [

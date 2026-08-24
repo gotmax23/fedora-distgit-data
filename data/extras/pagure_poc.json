@@ -141803,7 +141803,7 @@
         },
         "python-fastmcp": {
             "admin": "peter",
-            "epel": "orphan",
+            "epel": "peter",
             "fedora": "peter"
         },
         "python-fastprogress": {
@@ -176868,8 +176868,8 @@
         },
         "rust-gix": {
             "admin": "blinxen",
-            "epel": "blinxen",
-            "fedora": "blinxen"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-gix-actor": {
             "admin": "blinxen",
@@ -181868,8 +181868,8 @@
         },
         "rust-macroquad_macro": {
             "admin": "jsteffan",
-            "epel": "jsteffan",
-            "fedora": "jsteffan"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-macrotest": {
             "admin": "salimma",
@@ -186303,8 +186303,8 @@
         },
         "rust-quad-rand": {
             "admin": "jsteffan",
-            "epel": "jsteffan",
-            "fedora": "jsteffan"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-quad-url": {
             "admin": "jsteffan",
