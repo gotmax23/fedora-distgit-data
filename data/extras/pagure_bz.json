@@ -4438,7 +4438,6 @@
             "vbenes"
         ],
         "NetworkManager-fortisslvpn": [
-            "bengal",
             "lkundrak",
             "pjgeorg",
             "slaanesh",
@@ -4474,11 +4473,9 @@
             "lkundrak",
             "steve",
             "tdawson",
-            "thaller",
-            "till"
+            "thaller"
         ],
         "NetworkManager-pptp": [
-            "bengal",
             "lkundrak",
             "tdawson",
             "thaller"
@@ -4495,7 +4492,6 @@
             "pemensik"
         ],
         "NetworkManager-vpnc": [
-            "bengal",
             "huzaifas",
             "lkundrak",
             "thaller"
@@ -7942,6 +7938,9 @@
         "ambdec": [
             "orphan"
         ],
+        "amdgpu_top": [
+            "kmarinos"
+        ],
         "amdsmi": [
             "@rocm-packagers-sig",
             "trix"
@@ -8161,6 +8160,7 @@
             "sharkcz"
         ],
         "annobin": [
+            "dmalcolm",
             "fweimer",
             "jakub",
             "josmyers",
@@ -10960,6 +10960,11 @@
         "belle-sip": [
             "orphan",
             "sdgathman"
+        ],
+        "below": [
+            "@rust-sig",
+            "dcavalca",
+            "salimma"
         ],
         "belr": [
             "orphan"
@@ -25634,7 +25639,7 @@
             "orphan"
         ],
         "fts-rest-client": [
-            "mipatras"
+            "orphan"
         ],
         "ftxui": [
             "topazus"
@@ -25929,7 +25934,6 @@
             "salimma"
         ],
         "gajim": [
-            "@epel-packagers-sig",
             "michich",
             "peter",
             "suraia"
@@ -68075,6 +68079,9 @@
             "msuchy",
             "praiskup"
         ],
+        "mockery": [
+            "buckaroogeek"
+        ],
         "mockito": [
             "java-sig",
             "jerboaa",
@@ -79043,7 +79050,8 @@
         ],
         "openldap": [
             "spichugi",
-            "vashirov"
+            "vashirov",
+            "xavierb"
         ],
         "openldap-epel": [
             "ellert"
@@ -109433,6 +109441,11 @@
             "churchyard",
             "gotmax23"
         ],
+        "python-flit-core3": [
+            "@python-packagers-sig",
+            "churchyard",
+            "gotmax23"
+        ],
         "python-flit-scm": [
             "@neuro-sig",
             "ankursinha"
@@ -113303,7 +113316,6 @@
             "lbalhar"
         ],
         "python-nbxmpp": [
-            "@epel-packagers-sig",
             "michich",
             "suraia"
         ],
@@ -113846,7 +113858,8 @@
             "orphan"
         ],
         "python-omemo-dr": [
-            "fed500"
+            "fed500",
+            "suraia"
         ],
         "python-omlmd": [
             "smooge"
@@ -132956,6 +132969,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-cpu-time": [
+            "@rust-sig",
+            "jjames"
+        ],
         "rust-cpubits": [
             "@rust-sig",
             "music"
@@ -137923,6 +137940,9 @@
             "@rust-sig",
             "music",
             "v02460"
+        ],
+        "rust-icu_locale_fallback": [
+            "music"
         ],
         "rust-icu_locale_fallback_data": [
             "@rust-sig",
@@ -145223,7 +145243,7 @@
         ],
         "rust-self_cell": [
             "@rust-sig",
-            "orphan"
+            "filiperosset"
         ],
         "rust-selinux": [
             "@rust-sig",
@@ -154539,8 +154559,7 @@
             "orphan"
         ],
         "sugar-artwork": [
-            "chimosky",
-            "orphan"
+            "chimosky"
         ],
         "sugar-base": [
             "orphan"

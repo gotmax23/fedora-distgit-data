@@ -10166,6 +10166,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "amdgpu_top": {
+            "admin": "kmarinos",
+            "epel": "kmarinos",
+            "fedora": "kmarinos"
+        },
         "amdsmi": {
             "admin": "trix",
             "epel": "@rocm-packagers-sig",
@@ -13995,6 +14000,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "below": {
+            "admin": "salimma",
+            "epel": "salimma",
+            "fedora": "salimma"
         },
         "belr": {
             "admin": "orphan",
@@ -23187,9 +23197,9 @@
             "fedora": "sgallagh"
         },
         "dino": {
-            "admin": "bowlofeggs",
-            "epel": "bowlofeggs",
-            "fedora": "bowlofeggs"
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
         },
         "dinotrace": {
             "admin": "orphan",
@@ -33287,9 +33297,9 @@
             "fedora": "orphan"
         },
         "fts-rest-client": {
-            "admin": "mipatras",
-            "epel": "mipatras",
-            "fedora": "mipatras"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "ftxui": {
             "admin": "topazus",
@@ -33698,7 +33708,7 @@
         },
         "gajim": {
             "admin": "suraia",
-            "epel": "robert",
+            "epel": "suraia",
             "fedora": "suraia"
         },
         "gala": {
@@ -88151,6 +88161,11 @@
             "epel": "@copr-sig",
             "fedora": "@copr-sig"
         },
+        "mockery": {
+            "admin": "buckaroogeek",
+            "epel": "buckaroogeek",
+            "fedora": "buckaroogeek"
+        },
         "mockito": {
             "admin": "sdgathman",
             "epel": "sdgathman",
@@ -142396,6 +142411,11 @@
             "epel": "gotmax23",
             "fedora": "gotmax23"
         },
+        "python-flit-core3": {
+            "admin": "churchyard",
+            "epel": "churchyard",
+            "fedora": "churchyard"
+        },
         "python-flit-scm": {
             "admin": "ankursinha",
             "epel": "ankursinha",
@@ -147323,7 +147343,7 @@
         },
         "python-nbxmpp": {
             "admin": "suraia",
-            "epel": "@epel-packagers-sig",
+            "epel": "suraia",
             "fedora": "suraia"
         },
         "python-ncclient": {
@@ -173061,6 +173081,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-cpu-time": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
         "rust-cpubits": {
             "admin": "music",
             "epel": "music",
@@ -179330,6 +179355,11 @@
             "admin": "v02460",
             "epel": "v02460",
             "fedora": "v02460"
+        },
+        "rust-icu_locale_fallback": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-icu_locale_fallback_data": {
             "admin": "music",
@@ -188542,9 +188572,9 @@
             "fedora": "@rust-sig"
         },
         "rust-self_cell": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "rust-selinux": {
             "admin": "salimma",
@@ -200562,9 +200592,9 @@
             "fedora": "orphan"
         },
         "sugar-artwork": {
-            "admin": "orphan",
-            "epel": "pbrobinson",
-            "fedora": "orphan"
+            "admin": "chimosky",
+            "epel": "chimosky",
+            "fedora": "chimosky"
         },
         "sugar-base": {
             "admin": "orphan",
