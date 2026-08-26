@@ -15097,6 +15097,7 @@
         ],
         "complyctl": [
             "@go-sig",
+            "hbraswel",
             "marcusburghardt"
         ],
         "composable_kernel": [
@@ -24891,6 +24892,9 @@
         "fntsample": [
             "i18n-team",
             "pnemade"
+        ],
+        "focus-timer": [
+            "ankursinha"
         ],
         "focuswriter": [
             "ryanlerch",
@@ -60881,6 +60885,7 @@
         ],
         "libtool": [
             "@db-sig",
+            "dmalcolm",
             "fberat",
             "fjanus",
             "fweimer",
@@ -62204,6 +62209,9 @@
             "@fedora-llvm-team",
             "carlwgeorge",
             "tuliom"
+        ],
+        "llvm22": [
+            "tbaeder"
         ],
         "llvm3.7": [
             "orphan"
@@ -64035,6 +64043,9 @@
             "petersen",
             "pwu",
             "ueno"
+        ],
+        "markdownlint-cli2": [
+            "fabio"
         ],
         "markdownpart": [
             "@kde-sig",
@@ -85244,7 +85255,8 @@
             "mspacek"
         ],
         "perl-Dist-Build": [
-            "cra"
+            "cra",
+            "jplesnik"
         ],
         "perl-Dist-CheckConflicts": [
             "perl-sig",
@@ -85715,10 +85727,12 @@
             "perl-sig"
         ],
         "perl-ExtUtils-Builder": [
-            "cra"
+            "cra",
+            "jplesnik"
         ],
         "perl-ExtUtils-Builder-Compiler": [
-            "cra"
+            "cra",
+            "jplesnik"
         ],
         "perl-ExtUtils-CBuilder": [
             "jplesnik",
@@ -97213,6 +97227,9 @@
         "php-hamcrest2": [
             "remi"
         ],
+        "php-hamcrest3": [
+            "remi"
+        ],
         "php-henrikbjorn-lurker": [
             "orphan"
         ],
@@ -107297,6 +107314,9 @@
         "python-cvelib": [
             "pwouters"
         ],
+        "python-cvmutils": [
+            "vittyvk"
+        ],
         "python-cvss": [
             "ignatenkobrain",
             "vkrizan"
@@ -115171,7 +115191,7 @@
             "fed500"
         ],
         "python-proton-vpn-api-core": [
-            "fed500"
+            "orphan"
         ],
         "python-proton-vpn-network-manager": [
             "calexandru2018",
@@ -131980,13 +132000,15 @@
             "orphan"
         ],
         "rust-cap-primitives": [
-            "orphan"
+            "@rust-sig",
+            "music"
         ],
         "rust-cap-rand": [
             "orphan"
         ],
         "rust-cap-std": [
-            "orphan"
+            "@rust-sig",
+            "music"
         ],
         "rust-cap-tempfile": [
             "orphan"
@@ -137942,6 +137964,7 @@
             "v02460"
         ],
         "rust-icu_locale_fallback": [
+            "@rust-sig",
             "music"
         ],
         "rust-icu_locale_fallback_data": [
@@ -145243,6 +145266,7 @@
         ],
         "rust-self_cell": [
             "@rust-sig",
+            "decathorpe",
             "filiperosset"
         ],
         "rust-selinux": [
@@ -156915,6 +156939,7 @@
             "orphan"
         ],
         "thermald": [
+            "aekoroglu",
             "benzea",
             "besser82",
             "ngompa",

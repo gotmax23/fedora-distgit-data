@@ -18188,8 +18188,8 @@
         },
         "clpeak": {
             "admin": "rathann",
-            "epel": "rathann",
-            "fedora": "rathann"
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "clthreads": {
             "admin": "tartina",
@@ -32340,6 +32340,11 @@
             "admin": "pnemade",
             "epel": "pnemade",
             "fedora": "pnemade"
+        },
+        "focus-timer": {
+            "admin": "ankursinha",
+            "epel": "ankursinha",
+            "fedora": "ankursinha"
         },
         "focuswriter": {
             "admin": "vtrefny",
@@ -80386,6 +80391,11 @@
             "epel": "carlwgeorge",
             "fedora": "tuliom"
         },
+        "llvm22": {
+            "admin": "tbaeder",
+            "epel": "tbaeder",
+            "fedora": "tbaeder"
+        },
         "llvm3.7": {
             "admin": "orphan",
             "epel": "orphan",
@@ -82765,6 +82775,11 @@
             "admin": "petersen",
             "epel": "petersen",
             "fedora": "petersen"
+        },
+        "markdownlint-cli2": {
+            "admin": "fabio",
+            "epel": "fabio",
+            "fedora": "fabio"
         },
         "markdownpart": {
             "admin": "yselkowitz",
@@ -111358,7 +111373,7 @@
         },
         "perl-Dist-Build": {
             "admin": "cra",
-            "epel": "cra",
+            "epel": "jplesnik",
             "fedora": "cra"
         },
         "perl-Dist-CheckConflicts": {
@@ -111888,12 +111903,12 @@
         },
         "perl-ExtUtils-Builder": {
             "admin": "cra",
-            "epel": "cra",
+            "epel": "jplesnik",
             "fedora": "cra"
         },
         "perl-ExtUtils-Builder-Compiler": {
             "admin": "cra",
-            "epel": "cra",
+            "epel": "jplesnik",
             "fedora": "cra"
         },
         "perl-ExtUtils-CBuilder": {
@@ -125422,6 +125437,11 @@
             "fedora": "orphan"
         },
         "php-hamcrest2": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
+        "php-hamcrest3": {
             "admin": "remi",
             "epel": "remi",
             "fedora": "remi"
@@ -139616,6 +139636,11 @@
             "epel": "pwouters",
             "fedora": "pwouters"
         },
+        "python-cvmutils": {
+            "admin": "vittyvk",
+            "epel": "vittyvk",
+            "fedora": "vittyvk"
+        },
         "python-cvss": {
             "admin": "pjp",
             "epel": "pjp",
@@ -149722,9 +149747,9 @@
             "fedora": "fed500"
         },
         "python-proton-vpn-api-core": {
-            "admin": "fed500",
-            "epel": "fed500",
-            "fedora": "fed500"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-proton-vpn-network-manager": {
             "admin": "fed500",
@@ -171817,9 +171842,9 @@
             "fedora": "orphan"
         },
         "rust-cap-primitives": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-cap-rand": {
             "admin": "orphan",
@@ -171827,9 +171852,9 @@
             "fedora": "orphan"
         },
         "rust-cap-std": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-cap-tempfile": {
             "admin": "orphan",
