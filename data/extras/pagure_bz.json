@@ -11233,7 +11233,7 @@
         "binwalk": [
             "ajax",
             "ghishadow",
-            "orphan"
+            "infraw"
         ],
         "bio2jack": [
             "dtimms"
@@ -25879,7 +25879,7 @@
             "solopasha"
         ],
         "g4music": [
-            "orphan"
+            "yselkowitz"
         ],
         "ga": [
             "dmlb2000",
@@ -32542,6 +32542,9 @@
         "gnome-shell-extension-fedmsg": [
             "orphan"
         ],
+        "gnome-shell-extension-focus-timer": [
+            "ankursinha"
+        ],
         "gnome-shell-extension-forge": [
             "carlwgeorge"
         ],
@@ -33971,7 +33974,7 @@
         ],
         "golang-github-aliyun-oss-sdk": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-aliyun-ossutil": [
             "@go-sig",
@@ -35246,7 +35249,7 @@
         ],
         "golang-github-containernetworking-cni": [
             "@go-sig",
-            "alexsaezm"
+            "orphan"
         ],
         "golang-github-containernetworking-plugins": [
             "@go-sig",
@@ -37837,7 +37840,7 @@
         ],
         "golang-github-jackc-pgx": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-jackc-pgx-3": [
             "orphan"
@@ -39638,7 +39641,7 @@
         ],
         "golang-github-niklasfasching-org": [
             "@go-sig",
-            "qulogic"
+            "orphan"
         ],
         "golang-github-nilslice-protolock": [
             "@go-sig",
@@ -39839,7 +39842,7 @@
         ],
         "golang-github-openapi-analysis": [
             "@go-sig",
-            "alexsaezm"
+            "orphan"
         ],
         "golang-github-openapi-errors": [
             "@go-sig",
@@ -39851,7 +39854,7 @@
         ],
         "golang-github-openapi-jsonpointer": [
             "@go-sig",
-            "alexsaezm"
+            "orphan"
         ],
         "golang-github-openapi-jsonreference": [
             "@go-sig",
@@ -39867,7 +39870,7 @@
         ],
         "golang-github-openapi-spec": [
             "@go-sig",
-            "alexsaezm"
+            "orphan"
         ],
         "golang-github-openapi-strfmt": [
             "@go-sig",
@@ -43238,11 +43241,11 @@
         ],
         "golang-mau-util": [
             "@go-sig",
-            "v02460"
+            "orphan"
         ],
         "golang-mau-zeroconfig": [
             "@go-sig",
-            "v02460"
+            "orphan"
         ],
         "golang-maunium-mauflag": [
             "@go-sig",
@@ -43474,7 +43477,7 @@
         ],
         "golang-oras-2": [
             "@go-sig",
-            "dcavalca"
+            "orphan"
         ],
         "golang-pack-amqp": [
             "orphan"
@@ -49753,7 +49756,8 @@
             "mkoncek"
         ],
         "jansi1": [
-            "didiksupriadi41"
+            "didiksupriadi41",
+            "kkeithle"
         ],
         "jansson": [],
         "janus": [
@@ -62211,6 +62215,7 @@
             "tuliom"
         ],
         "llvm22": [
+            "@fedora-llvm-team",
             "tbaeder"
         ],
         "llvm3.7": [
@@ -107155,6 +107160,10 @@
             "@python-packagers-sig",
             "thrnciar"
         ],
+        "python-crate-ingredients": [
+            "@rust-sig",
+            "decathorpe"
+        ],
         "python-crayons": [
             "lbalhar"
         ],
@@ -110400,6 +110409,9 @@
             "kevin",
             "salimma",
             "terjeros"
+        ],
+        "python-griffelib": [
+            "chihlee"
         ],
         "python-grip": [
             "gui1ty"
@@ -130422,6 +130434,10 @@
             "@rust-sig",
             "mattia"
         ],
+        "rust-archive-trait": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-arcstr": [
             "@rust-sig",
             "music"
@@ -135020,7 +135036,7 @@
         ],
         "rust-find-crate": [
             "@rust-sig",
-            "orphan"
+            "music"
         ],
         "rust-find-msvc-tools": [
             "@rust-sig",
@@ -135093,19 +135109,19 @@
         ],
         "rust-fluent": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-fluent-bundle": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-fluent-langneg": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-fluent-syntax": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-fluent-uri": [
             "@rust-sig",
@@ -137638,8 +137654,7 @@
         ],
         "rust-hidapi": [
             "@rust-sig",
-            "music",
-            "orphan"
+            "music"
         ],
         "rust-hidpipe": [
             "@asahi-sig",
@@ -137879,19 +137894,19 @@
         ],
         "rust-i18n-config": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-i18n-embed": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-i18n-embed-fl": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-i18n-embed-impl": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-i3ipc": [
             "@rust-sig",
@@ -138379,11 +138394,11 @@
         ],
         "rust-intl-memoizer": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-intl_pluralrules": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-intrusive-collections": [
             "@rust-sig",
@@ -146896,6 +146911,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-tar-framing": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-target": [
             "@rust-sig",
             "orphan"
@@ -147324,7 +147343,7 @@
         ],
         "rust-tinystr": [
             "@rust-sig",
-            "orphan"
+            "music"
         ],
         "rust-tinytemplate": [
             "@rust-sig",
@@ -148319,7 +148338,7 @@
         ],
         "rust-type-map": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-typeable": [
             "orphan"
@@ -148471,35 +148490,35 @@
         ],
         "rust-unic-langid": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-unic-langid-impl": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-unic-langid-macros": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-unic-langid-macros-impl": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-unic-locale": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-unic-locale-impl": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-unic-locale-macros": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-unic-locale-macros-impl": [
             "@rust-sig",
-            "orphan"
+            "salimma"
         ],
         "rust-unic-normal": [
             "@rust-sig",
@@ -151632,6 +151651,9 @@
         "senna": [
             "orphan"
         ],
+        "senpai": [
+            "salimma"
+        ],
         "sensible-utils": [
             "loveshack",
             "smani"
@@ -153208,7 +153230,7 @@
         ],
         "soundkonverter": [
             "besser82",
-            "yselkowitz"
+            "orphan"
         ],
         "soundmodem": [
             "fed500",
