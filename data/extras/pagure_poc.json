@@ -83218,7 +83218,7 @@
         },
         "matrix-synapse": {
             "admin": "limb",
-            "epel": "orphan",
+            "epel": "limb",
             "fedora": "limb"
         },
         "matterbridge": {
@@ -111065,6 +111065,11 @@
             "admin": "jplesnik",
             "epel": "jplesnik",
             "fedora": "jplesnik"
+        },
+        "perl-Devel-Deprecate": {
+            "admin": "eseyman",
+            "epel": "eseyman",
+            "fedora": "eseyman"
         },
         "perl-Devel-Dumpvar": {
             "admin": "jplesnik",
@@ -152307,9 +152312,9 @@
             "fedora": "orphan"
         },
         "python-qutepart": {
-            "admin": "raphgro",
-            "epel": "raphgro",
-            "fedora": "raphgro"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-r128gain": {
             "admin": "orphan",
@@ -179643,8 +179648,8 @@
         },
         "rust-imgref": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-imgui": {
             "admin": "orphan",

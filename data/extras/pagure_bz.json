@@ -55397,6 +55397,7 @@
             "buckaroogeek"
         ],
         "kubernetes1.37": [
+            "@go-sig",
             "buckaroogeek"
         ],
         "kubrick": [
@@ -68096,6 +68097,7 @@
             "praiskup"
         ],
         "mockery": [
+            "@go-sig",
             "buckaroogeek"
         ],
         "mockito": [
@@ -84982,6 +84984,9 @@
         "perl-Devel-Declare-Parser": [
             "jplesnik",
             "perl-sig"
+        ],
+        "perl-Devel-Deprecate": [
+            "eseyman"
         ],
         "perl-Devel-Dumpvar": [
             "jplesnik",
@@ -117159,7 +117164,7 @@
         "python-qutepart": [
             "@kde-sig",
             "@python-packagers-sig",
-            "raphgro"
+            "orphan"
         ],
         "python-r128gain": [
             "orphan"
@@ -123618,7 +123623,9 @@
             "farchord"
         ],
         "qrtr": [
+            "aekoroglu",
             "dcavalca",
+            "jwrdegoede",
             "samcday"
         ],
         "qrupdate": [
@@ -151652,6 +151659,7 @@
             "orphan"
         ],
         "senpai": [
+            "@go-sig",
             "salimma"
         ],
         "sensible-utils": [
