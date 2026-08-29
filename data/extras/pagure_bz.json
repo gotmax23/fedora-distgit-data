@@ -15509,6 +15509,9 @@
         "copydeps": [
             "orphan"
         ],
+        "copyparty": [
+            "supakeen"
+        ],
         "copyq": [
             "@kde-sig",
             "gbcox",
@@ -130075,6 +130078,10 @@
             "@rust-sig",
             "pbrobinson"
         ],
+        "rust-aead0.5": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-aes": [
             "@rust-sig",
             "decathorpe"
@@ -130082,6 +130089,10 @@
         "rust-aes-gcm": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-aes-gcm0.10": [
+            "@rust-sig",
+            "music"
         ],
         "rust-aes-kw": [
             "@rust-sig",
@@ -133420,6 +133431,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-ctr0.9": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-ctrlc": [
             "@rust-sig",
             "decathorpe"
@@ -134319,6 +134334,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-ecdsa0.16": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-ed25519": [
             "@rust-sig",
             "decathorpe"
@@ -134379,6 +134398,10 @@
         "rust-elliptic-curve": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-elliptic-curve0.13": [
+            "@rust-sig",
+            "music"
         ],
         "rust-email-encoding": [
             "@rust-sig",
@@ -135847,6 +135870,10 @@
         "rust-ghash": [
             "@rust-sig",
             "pbrobinson"
+        ],
+        "rust-ghash0.5": [
+            "@rust-sig",
+            "music"
         ],
         "rust-ghost": [
             "@rust-sig",
@@ -138926,6 +138953,10 @@
         "rust-keccak": [
             "@rust-sig",
             "pbrobinson"
+        ],
+        "rust-keccak0.1": [
+            "@rust-sig",
+            "music"
         ],
         "rust-keyframe": [
             "@rust-sig",
@@ -142256,6 +142287,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-picky-asn1-x509_0.14": [
+            "decathorpe"
+        ],
         "rust-picky-asn1_0.8": [
             "@rust-sig",
             "decathorpe"
@@ -142392,9 +142426,17 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-pkcs5_0.7": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-pkcs8": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-pkcs8_0.10": [
+            "@rust-sig",
+            "music"
         ],
         "rust-pkcs8_0.7": [
             "@rust-sig",
@@ -142732,6 +142774,10 @@
         "rust-primeorder": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-primeorder0.13": [
+            "@rust-sig",
+            "music"
         ],
         "rust-primes": [
             "@rust-sig",
@@ -144393,6 +144439,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-rfc6979_0.4": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-rfd": [
             "@rust-sig",
             "dcavalca"
@@ -145258,6 +145308,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-sec1_0.7": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-secrecy": [
             "@rust-sig",
             "pbrobinson"
@@ -145877,6 +145931,10 @@
         "rust-signature1": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-signature2": [
+            "@rust-sig",
+            "music"
         ],
         "rust-signature_derive": [
             "@rust-sig",

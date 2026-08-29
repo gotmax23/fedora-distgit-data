@@ -19941,6 +19941,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "copyparty": {
+            "admin": "supakeen",
+            "epel": "supakeen",
+            "fedora": "supakeen"
+        },
         "copyq": {
             "admin": "gbcox",
             "epel": "gbcox",
@@ -169436,6 +169441,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-aead0.5": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-aes": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -169445,6 +169455,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-aes-gcm0.10": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-aes-kw": {
             "admin": "elmarco",
@@ -173671,6 +173686,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-ctr0.9": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-ctrlc": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -174786,6 +174806,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-ecdsa0.16": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-ed25519": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -174860,6 +174885,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-elliptic-curve0.13": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-email-encoding": {
             "admin": "saluki",
@@ -176730,6 +176760,11 @@
             "admin": "pbrobinson",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-ghash0.5": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-ghost": {
             "admin": "decathorpe",
@@ -180570,6 +180605,11 @@
             "admin": "pbrobinson",
             "epel": "pbrobinson",
             "fedora": "pbrobinson"
+        },
+        "rust-keccak0.1": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-keyframe": {
             "admin": "errornointernet",
@@ -184766,6 +184806,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-picky-asn1-x509_0.14": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-picky-asn1_0.8": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -184941,10 +184986,20 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-pkcs5_0.7": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-pkcs8": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-pkcs8_0.10": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-pkcs8_0.7": {
             "admin": "decathorpe",
@@ -185365,6 +185420,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-primeorder0.13": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-primes": {
             "admin": "lecris",
@@ -187471,6 +187531,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-rfc6979_0.4": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-rfd": {
             "admin": "dcavalca",
             "epel": "@rust-sig",
@@ -188586,6 +188651,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-sec1_0.7": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-secrecy": {
             "admin": "pbrobinson",
             "epel": "pbrobinson",
@@ -189355,6 +189425,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-signature2": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-signature_derive": {
             "admin": "sdgathman",
