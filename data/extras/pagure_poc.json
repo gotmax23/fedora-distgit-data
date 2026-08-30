@@ -20626,6 +20626,11 @@
             "epel": "buckaroogeek",
             "fedora": "buckaroogeek"
         },
+        "cri-o1.37": {
+            "admin": "buckaroogeek",
+            "epel": "buckaroogeek",
+            "fedora": "buckaroogeek"
+        },
         "cri-tools": {
             "admin": "haircommander",
             "epel": "haircommander",
@@ -20667,6 +20672,11 @@
             "fedora": "buckaroogeek"
         },
         "cri-tools1.36": {
+            "admin": "buckaroogeek",
+            "epel": "buckaroogeek",
+            "fedora": "buckaroogeek"
+        },
+        "cri-tools1.37": {
             "admin": "buckaroogeek",
             "epel": "buckaroogeek",
             "fedora": "buckaroogeek"
@@ -135716,6 +135726,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-agent-detector": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "python-ailment": {
             "admin": "fab",
             "epel": "fab",
@@ -185501,6 +185516,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-proc-macro-error3": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-proc-macro-hack": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -189657,7 +189677,7 @@
             "fedora": "@rust-sig"
         },
         "rust-sluice": {
-            "admin": "orphan",
+            "admin": "sundaram",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -190760,6 +190780,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-tar-codec": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-tar-framing": {
             "admin": "music",
@@ -192410,6 +192435,11 @@
             "admin": "salimma",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-trustfall_rustdoc": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-try-lock": {
             "admin": "decathorpe",
@@ -204320,6 +204350,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "tinyalsa": {
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
         },
         "tinyca2": {
             "admin": "orphan",

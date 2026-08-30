@@ -6829,6 +6829,7 @@
             "orphan"
         ],
         "Thunar": [
+            "filiperosset",
             "kevin",
             "nixuser",
             "nonamedotc"
@@ -16055,6 +16056,9 @@
             "@go-sig",
             "buckaroogeek"
         ],
+        "cri-o1.37": [
+            "buckaroogeek"
+        ],
         "cri-tools": [
             "@go-sig",
             "buckaroogeek",
@@ -16092,6 +16096,9 @@
         ],
         "cri-tools1.36": [
             "@go-sig",
+            "buckaroogeek"
+        ],
+        "cri-tools1.37": [
             "buckaroogeek"
         ],
         "cricscore-applet": [
@@ -24897,7 +24904,8 @@
             "pnemade"
         ],
         "focus-timer": [
-            "ankursinha"
+            "ankursinha",
+            "devalex"
         ],
         "focuswriter": [
             "ryanlerch",
@@ -30504,6 +30512,7 @@
             "orphan"
         ],
         "gigolo": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
@@ -61450,12 +61459,14 @@
             "orphan"
         ],
         "libxfce4ui": [
+            "filiperosset",
             "kevin",
             "nonamedotc",
             "orion",
             "raphgro"
         ],
         "libxfce4util": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
@@ -80778,6 +80789,7 @@
             "than"
         ],
         "parole": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
@@ -104337,6 +104349,11 @@
         ],
         "python-agate-sql": [
             "orphan"
+        ],
+        "python-agent-detector": [
+            "music",
+            "pwouters",
+            "rominf"
         ],
         "python-ailment": [
             "fab",
@@ -142288,6 +142305,7 @@
             "decathorpe"
         ],
         "rust-picky-asn1-x509_0.14": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-picky-asn1_0.8": [
@@ -142839,6 +142857,9 @@
         "rust-proc-macro-error2": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-proc-macro-error3": [
+            "music"
         ],
         "rust-proc-macro-hack": [
             "@rust-sig",
@@ -146115,7 +146136,7 @@
             "decathorpe"
         ],
         "rust-sluice": [
-            "orphan"
+            "sundaram"
         ],
         "rust-sm3": [
             "@rust-sig",
@@ -146975,6 +146996,9 @@
         "rust-tar": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-tar-codec": [
+            "music"
         ],
         "rust-tar-framing": [
             "@rust-sig",
@@ -148284,6 +148308,9 @@
         "rust-trustfall_derive": [
             "@rust-sig",
             "salimma"
+        ],
+        "rust-trustfall_rustdoc": [
+            "music"
         ],
         "rust-try-lock": [
             "@rust-sig",
@@ -157083,9 +157110,11 @@
             "sdgathman"
         ],
         "thunar-archive-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "thunar-media-tags-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "thunar-sendto-clamtk": [
@@ -157101,6 +157130,7 @@
             "orphan"
         ],
         "thunar-vcs-plugin": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
@@ -157108,6 +157138,7 @@
             "orphan"
         ],
         "thunar-volman": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
@@ -157284,6 +157315,10 @@
         ],
         "tiny-dnn": [
             "orphan"
+        ],
+        "tinyalsa": [
+            "aekoroglu",
+            "jwrdegoede"
         ],
         "tinyca2": [
             "ensc",
@@ -158624,6 +158659,7 @@
             "kevin"
         ],
         "tumbler": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
@@ -162904,6 +162940,7 @@
             "orphan"
         ],
         "xfce-polkit": [
+            "filiperosset",
             "kevin",
             "nonamedotc",
             "raphgro"
@@ -162915,13 +162952,16 @@
             "orphan"
         ],
         "xfce4-appfinder": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
         "xfce4-battery-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-calculator-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-cddrive-plugin": [
@@ -162931,14 +162971,17 @@
             "orphan"
         ],
         "xfce4-clipman-plugin": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
         "xfce4-cpufreq-plugin": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
         "xfce4-cpugraph-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-datetime-plugin": [
@@ -162946,10 +162989,12 @@
             "nonamedotc"
         ],
         "xfce4-dev-tools": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
         "xfce4-dict": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-dict-plugin": [
@@ -162957,6 +163002,7 @@
         ],
         "xfce4-diskperf-plugin": [
             "aekoroglu",
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-docklike-plugin": [
@@ -162971,12 +163017,15 @@
             "orphan"
         ],
         "xfce4-eyes-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-fsguard-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-genmon-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-gsynaptics-mcs-plugin": [
@@ -163001,6 +163050,7 @@
             "orphan"
         ],
         "xfce4-mailwatch-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-minicmd-plugin": [
@@ -163013,38 +163063,48 @@
             "orphan"
         ],
         "xfce4-mount-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-mpc-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-netload-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-notes-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-notifyd": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
         "xfce4-panel": [
+            "filiperosset",
             "kevin",
             "nixuser",
             "nonamedotc"
         ],
         "xfce4-panel-profiles": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-places-plugin": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
         "xfce4-power-manager": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
         "xfce4-pulseaudio-plugin": [
+            "filiperosset",
             "maxamillion",
             "nonamedotc"
         ],
@@ -163059,9 +163119,11 @@
         ],
         "xfce4-screensaver": [
             "aekoroglu",
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-screenshooter": [
+            "filiperosset",
             "kevin"
         ],
         "xfce4-screenshooter-plugin": [
@@ -163069,13 +163131,16 @@
             "orphan"
         ],
         "xfce4-sensors-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-session": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
         "xfce4-settings": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
@@ -163083,6 +163148,7 @@
             "orphan"
         ],
         "xfce4-smartbookmark-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-soundmenu-plugin": [
@@ -163096,6 +163162,7 @@
             "orphan"
         ],
         "xfce4-systemload-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-systray": [
@@ -163107,16 +163174,20 @@
         ],
         "xfce4-taskmanager": [
             "aekoroglu",
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-terminal": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
         "xfce4-time-out-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-timer-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-toys": [
@@ -163132,6 +163203,7 @@
             "raphgro"
         ],
         "xfce4-verve-plugin": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
@@ -163139,11 +163211,15 @@
             "kevin",
             "orphan"
         ],
-        "xfce4-volumed": [],
+        "xfce4-volumed": [
+            "filiperosset"
+        ],
         "xfce4-wavelan-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-weather-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-websearch-plugin": [
@@ -163167,12 +163243,14 @@
             "orphan"
         ],
         "xfce4-xkb-plugin": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfce4-xmms-plugin": [
             "orphan"
         ],
         "xfconf": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
@@ -163181,10 +163259,12 @@
         ],
         "xfdashboard": [
             "aekoroglu",
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
         "xfdesktop": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
@@ -163221,6 +163301,7 @@
             "robert"
         ],
         "xfpanel-switch": [
+            "filiperosset",
             "nonamedotc"
         ],
         "xfprint": [
@@ -163236,6 +163317,7 @@
             "sandeen"
         ],
         "xfwm4": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
@@ -163243,6 +163325,7 @@
             "orphan"
         ],
         "xfwm4-themes": [
+            "filiperosset",
             "kevin",
             "nonamedotc"
         ],
