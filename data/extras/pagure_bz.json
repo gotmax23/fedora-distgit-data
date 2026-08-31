@@ -13137,7 +13137,8 @@
             "orphan"
         ],
         "cdogs-sdl": [
-            "jwrdegoede"
+            "jwrdegoede",
+            "suve"
         ],
         "cdparanoia": [
             "ajax",
@@ -105740,7 +105741,7 @@
             "@openstack-sig",
             "apevec",
             "jruzicka",
-            "orphan"
+            "stevetraylen"
         ],
         "python-base58": [
             "peter"
@@ -120469,6 +120470,7 @@
             "limb"
         ],
         "python-types-pygments": [
+            "@python-packagers-sig",
             "topazus"
         ],
         "python-types-pyopenssl": [
@@ -142859,6 +142861,7 @@
             "decathorpe"
         ],
         "rust-proc-macro-error3": [
+            "@rust-sig",
             "music"
         ],
         "rust-proc-macro-hack": [
@@ -146136,6 +146139,7 @@
             "decathorpe"
         ],
         "rust-sluice": [
+            "@rust-sig",
             "sundaram"
         ],
         "rust-sm3": [
@@ -146998,6 +147002,7 @@
             "decathorpe"
         ],
         "rust-tar-codec": [
+            "@rust-sig",
             "music"
         ],
         "rust-tar-framing": [
@@ -148310,6 +148315,7 @@
             "salimma"
         ],
         "rust-trustfall_rustdoc": [
+            "@rust-sig",
             "music"
         ],
         "rust-try-lock": [
@@ -161623,7 +161629,8 @@
         ],
         "wildmidi": [
             "jwrdegoede",
-            "kvolny"
+            "kvolny",
+            "suve"
         ],
         "will-crash": [
             "@abrt-sig",
@@ -164750,7 +164757,7 @@
             "ofourdan"
         ],
         "xwxapt": [
-            "hobbes1069"
+            "orphan"
         ],
         "xxdiff": [
             "orphan"

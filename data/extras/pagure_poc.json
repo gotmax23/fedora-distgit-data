@@ -137562,9 +137562,9 @@
             "fedora": "eclipseo"
         },
         "python-barbicanclient": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "stevetraylen",
+            "epel": "stevetraylen",
+            "fedora": "stevetraylen"
         },
         "python-base58": {
             "admin": "peter",
@@ -214302,9 +214302,9 @@
             "fedora": "aekoroglu"
         },
         "xwxapt": {
-            "admin": "hobbes1069",
-            "epel": "hobbes1069",
-            "fedora": "hobbes1069"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "xxdiff": {
             "admin": "orphan",
