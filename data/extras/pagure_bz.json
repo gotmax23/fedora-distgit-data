@@ -58568,6 +58568,7 @@
         "libjaylink": [
             "dreua",
             "jkastner",
+            "joxzes",
             "mrnuke"
         ],
         "libjcat": [
@@ -84228,7 +84229,8 @@
         "perl-DBIx-ContextualFetch": [
             "ignatenkobrain",
             "perl-sig",
-            "spot"
+            "spot",
+            "stevetraylen"
         ],
         "perl-DBIx-DBSchema": [
             "corsepiu",
@@ -114367,7 +114369,8 @@
             "pingou"
         ],
         "python-paho-mqtt": [
-            "fab"
+            "fab",
+            "orion"
         ],
         "python-paida": [
             "orphan"
@@ -117172,7 +117175,8 @@
             "thunderbirdtr"
         ],
         "python-questionary": [
-            "fed500"
+            "fed500",
+            "orion"
         ],
         "python-queuelib": [
             "echevemaster",
@@ -139052,34 +139056,42 @@
         ],
         "rust-kurbu5-derive": [
             "@rust-sig",
+            "abbra",
             "asn"
         ],
         "rust-kurbu5-kadm5-derive": [
             "@rust-sig",
+            "abbra",
             "asn"
         ],
         "rust-kurbu5-kadm5-rs": [
             "@rust-sig",
+            "abbra",
             "asn"
         ],
         "rust-kurbu5-kadm5-sys": [
             "@rust-sig",
+            "abbra",
             "asn"
         ],
         "rust-kurbu5-kdb-derive": [
             "@rust-sig",
+            "abbra",
             "asn"
         ],
         "rust-kurbu5-kdb-rs": [
             "@rust-sig",
+            "abbra",
             "asn"
         ],
         "rust-kurbu5-kdb-sys": [
             "@rust-sig",
+            "abbra",
             "asn"
         ],
         "rust-kurbu5-rs": [
             "@rust-sig",
+            "abbra",
             "asn"
         ],
         "rust-kurbu5-sys": [
@@ -145975,6 +145987,9 @@
         ],
         "rust-siguldry": [
             "@rust-sig",
+            "jcline"
+        ],
+        "rust-siguldry-fedora-autopen": [
             "jcline"
         ],
         "rust-siguldry-pkcs11": [

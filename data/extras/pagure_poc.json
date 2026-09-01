@@ -75798,8 +75798,8 @@
         },
         "libjaylink": {
             "admin": "dreua",
-            "epel": "dreua",
-            "fedora": "dreua"
+            "epel": "joxzes",
+            "fedora": "joxzes"
         },
         "libjcat": {
             "admin": "rhughes",
@@ -110193,7 +110193,7 @@
         },
         "perl-DBIx-ContextualFetch": {
             "admin": "spot",
-            "epel": "spot",
+            "epel": "stevetraylen",
             "fedora": "spot"
         },
         "perl-DBIx-DBSchema": {
@@ -148703,7 +148703,7 @@
         },
         "python-paho-mqtt": {
             "admin": "fab",
-            "epel": "fab",
+            "epel": "orion",
             "fedora": "fab"
         },
         "python-paida": {
@@ -152318,7 +152318,7 @@
         },
         "python-questionary": {
             "admin": "fed500",
-            "epel": "orphan",
+            "epel": "orion",
             "fedora": "fed500"
         },
         "python-queuelib": {
@@ -189470,6 +189470,11 @@
             "admin": "jcline",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-siguldry-fedora-autopen": {
+            "admin": "jcline",
+            "epel": "jcline",
+            "fedora": "jcline"
         },
         "rust-siguldry-pkcs11": {
             "admin": "jcline",
