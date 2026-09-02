@@ -34256,6 +34256,11 @@
             "epel": "jjames",
             "fedora": "jjames"
         },
+        "gap-pkg-orbitalgraphs": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
         "gap-pkg-packagemanager": {
             "admin": "jjames",
             "epel": "jjames",
@@ -73800,6 +73805,11 @@
             "admin": "tstellar",
             "epel": "orphan",
             "fedora": "tstellar"
+        },
+        "libclc22": {
+            "admin": "kkleine",
+            "epel": "kkleine",
+            "fedora": "kkleine"
         },
         "libcli": {
             "admin": "limb",
@@ -130027,9 +130037,9 @@
             "fedora": "orphan"
         },
         "php-webimpress-http-middleware-compatibility": {
-            "admin": "remi",
-            "epel": "remi",
-            "fedora": "remi"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "php-webimpress-safe-writer": {
             "admin": "siwinski",
@@ -143795,6 +143805,11 @@
             "admin": "lbalhar",
             "epel": "lbalhar",
             "fedora": "lbalhar"
+        },
+        "python-hatch-mypyc": {
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "python-hatch-nodejs-version": {
             "admin": "dcavalca",
@@ -170512,7 +170527,7 @@
             "fedora": "orphan"
         },
         "rust-async_zip": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -171177,7 +171192,7 @@
             "fedora": "@rust-sig"
         },
         "rust-bitfield0.14": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -173557,7 +173572,7 @@
             "fedora": "@rust-sig"
         },
         "rust-crypto-hash": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -173677,7 +173692,7 @@
             "fedora": "@rust-sig"
         },
         "rust-ctor-proc-macro": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -174447,7 +174462,7 @@
             "fedora": "orphan"
         },
         "rust-dir-test": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -174732,12 +174747,12 @@
             "fedora": "@rust-sig"
         },
         "rust-dtor": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-dtor-proc-macro": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -175462,7 +175477,7 @@
             "fedora": "@rust-sig"
         },
         "rust-fake": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -176692,7 +176707,7 @@
             "fedora": "orphan"
         },
         "rust-geo-types": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -180927,7 +180942,7 @@
             "fedora": "@rust-sig"
         },
         "rust-lexiclean": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -184512,7 +184527,7 @@
             "fedora": "@rust-sig"
         },
         "rust-peeking_take_while": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -188282,7 +188297,7 @@
             "fedora": "@rust-sig"
         },
         "rust-rustsec": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -190061,6 +190076,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-ssh2": {
+            "admin": "sundaram123krishnan",
+            "epel": "sundaram123krishnan",
+            "fedora": "sundaram123krishnan"
+        },
         "rust-sspi": {
             "admin": "elmarco",
             "epel": "@rust-sig",
@@ -190886,6 +190906,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-tera1": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-term": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -191152,7 +191177,7 @@
             "fedora": "errornointernet"
         },
         "rust-thread-id": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -192837,7 +192862,7 @@
             "fedora": "blinxen"
         },
         "rust-unic-segment": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -194892,7 +194917,7 @@
             "fedora": "@rust-sig"
         },
         "rust-yansi-term": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -195165,6 +195190,11 @@
             "admin": "asn",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-zlink-codegen": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
         },
         "rust-zlink-core": {
             "admin": "asn",

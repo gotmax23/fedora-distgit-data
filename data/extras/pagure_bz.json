@@ -6612,7 +6612,8 @@
         "SDL2_net": [
             "ignatenkobrain",
             "jonathanspw",
-            "ngompa"
+            "ngompa",
+            "suve"
         ],
         "SDL2_sound": [
             "@multimedia-sig",
@@ -26291,6 +26292,9 @@
         "gap-pkg-orb": [
             "jjames"
         ],
+        "gap-pkg-orbitalgraphs": [
+            "jjames"
+        ],
         "gap-pkg-packagemanager": [
             "jjames"
         ],
@@ -32556,7 +32560,8 @@
             "orphan"
         ],
         "gnome-shell-extension-focus-timer": [
-            "ankursinha"
+            "ankursinha",
+            "devalex"
         ],
         "gnome-shell-extension-forge": [
             "carlwgeorge"
@@ -56998,6 +57003,9 @@
             "tstellar",
             "tuliom"
         ],
+        "libclc22": [
+            "kkleine"
+        ],
         "libcli": [
             "jtaylor",
             "limb"
@@ -57142,8 +57150,9 @@
         ],
         "libdatachannel": [
             "@multimedia-sig",
-            "mroche",
-            "ngompa"
+            "dherrera",
+            "ngompa",
+            "suve"
         ],
         "libdatovka": [
             "jskarvad"
@@ -100114,7 +100123,7 @@
             "orphan"
         ],
         "php-webimpress-http-middleware-compatibility": [
-            "remi"
+            "orphan"
         ],
         "php-webimpress-safe-writer": [
             "remi",
@@ -110563,6 +110572,9 @@
         "python-hatch-jupyter-builder": [
             "lbalhar",
             "romaingeissler1a"
+        ],
+        "python-hatch-mypyc": [
+            "limb"
         ],
         "python-hatch-nodejs-version": [
             "@mkdocs-sig",
@@ -130954,7 +130966,7 @@
         ],
         "rust-async_zip": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-async_zip0.0.15": [
             "@rust-sig",
@@ -131492,7 +131504,7 @@
         ],
         "rust-bitfield0.14": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-bitflags": [
             "@rust-sig",
@@ -133343,7 +133355,7 @@
         ],
         "rust-crypto-hash": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-crypto-mac": [
             "@rust-sig",
@@ -133436,7 +133448,7 @@
         ],
         "rust-ctor-proc-macro": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-ctor0.1": [
             "@rust-sig",
@@ -134058,7 +134070,7 @@
         ],
         "rust-dir-test": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-dir-test-macros": [
             "@rust-sig",
@@ -134287,11 +134299,11 @@
         ],
         "rust-dtor": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-dtor-proc-macro": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-dtparse": [
             "@rust-sig",
@@ -134873,7 +134885,7 @@
         ],
         "rust-fake": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-fake-simd": [
             "orphan"
@@ -135826,8 +135838,8 @@
         ],
         "rust-geo-types": [
             "@rust-sig",
-            "decathorpe",
-            "mcrha"
+            "mcrha",
+            "orphan"
         ],
         "rust-get-size-derive2": [
             "@rust-sig",
@@ -139231,7 +139243,7 @@
         ],
         "rust-lexiclean": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-lexopt": [
             "@rust-sig",
@@ -142077,7 +142089,7 @@
         ],
         "rust-peeking_take_while": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-peg": [
             "@rust-sig",
@@ -145033,7 +145045,7 @@
         ],
         "rust-rustsec": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-rusttype": [
             "@rust-sig",
@@ -145990,6 +146002,7 @@
             "jcline"
         ],
         "rust-siguldry-fedora-autopen": [
+            "@rust-sig",
             "jcline"
         ],
         "rust-siguldry-pkcs11": [
@@ -146458,6 +146471,9 @@
             "jlebon",
             "siosm",
             "tlbueno"
+        ],
+        "rust-ssh2": [
+            "sundaram123krishnan"
         ],
         "rust-sspi": [
             "@rust-sig",
@@ -147095,6 +147111,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-tera1": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-term": [
             "@rust-sig",
             "decathorpe"
@@ -147310,7 +147330,7 @@
         ],
         "rust-thread-id": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-thread-scoped": [
             "orphan"
@@ -148639,7 +148659,7 @@
         ],
         "rust-unic-segment": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-unic-ucd-category": [
             "@rust-sig",
@@ -150241,7 +150261,7 @@
         ],
         "rust-yansi-term": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-yansi0.5": [
             "@rust-sig",
@@ -150459,6 +150479,9 @@
         ],
         "rust-zlink": [
             "@rust-sig",
+            "asn"
+        ],
+        "rust-zlink-codegen": [
             "asn"
         ],
         "rust-zlink-core": [
@@ -152771,7 +152794,8 @@
             "tkorbar"
         ],
         "slibtool": [
-            "ngompa"
+            "ngompa",
+            "suve"
         ],
         "slic3r": [
             "churchyard",
@@ -155522,7 +155546,8 @@
         "syncthing": [
             "@go-sig",
             "decathorpe",
-            "gotmax23"
+            "gotmax23",
+            "limb"
         ],
         "syncthing-gtk": [
             "orphan"
