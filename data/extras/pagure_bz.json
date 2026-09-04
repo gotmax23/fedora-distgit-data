@@ -874,6 +874,7 @@
         "flatpak-runtime": [
             "@flatpak-sig",
             "kalev",
+            "lpavan",
             "otaylor",
             "tpopela",
             "yselkowitz"
@@ -885,6 +886,7 @@
         "flatpak-sdk": [
             "@flatpak-sig",
             "kalev",
+            "lpavan",
             "otaylor",
             "tpopela",
             "yselkowitz"
@@ -12085,8 +12087,7 @@
             "didiksupriadi41",
             "kkeithle",
             "mizdebsk",
-            "mkoncek",
-            "salimma"
+            "mkoncek"
         ],
         "bsp": [
             "limb"
@@ -13858,13 +13859,11 @@
         "clang15": [
             "@fedora-llvm-team",
             "frantisekz",
-            "salimma",
             "tuliom"
         ],
         "clang16": [
             "@epel-packagers-sig",
             "@fedora-llvm-team",
-            "salimma",
             "tuliom"
         ],
         "clang17": [
@@ -20127,6 +20126,7 @@
         ],
         "duo_unix": [
             "dcavalca",
+            "jaredmarcuccilli-lhx",
             "ralston",
             "salimma"
         ],
@@ -23244,8 +23244,7 @@
             "ckelley",
             "edewata",
             "java-sig",
-            "mfargett",
-            "salimma"
+            "mfargett"
         ],
         "fastfetch": [
             "jonathanspw"
@@ -26102,6 +26101,9 @@
         "gap-pkg-autpgrp": [
             "jjames"
         ],
+        "gap-pkg-backtrackkit": [
+            "jjames"
+        ],
         "gap-pkg-browse": [
             "jjames"
         ],
@@ -26319,6 +26321,9 @@
             "jjames"
         ],
         "gap-pkg-quagroup": [
+            "jjames"
+        ],
+        "gap-pkg-quickcheck": [
             "jjames"
         ],
         "gap-pkg-radiroot": [
@@ -44204,8 +44209,7 @@
         "gpgme2": [
             "@kde-sig",
             "mhlavink",
-            "ngompa",
-            "salimma"
+            "ngompa"
         ],
         "gpgmepp": [
             "mhlavink"
@@ -48489,8 +48493,7 @@
         ],
         "ini2toml": [
             "@python-packagers-sig",
-            "cstratak",
-            "salimma"
+            "cstratak"
         ],
         "ini4j": [
             "orphan"
@@ -49378,31 +49381,27 @@
             "ckelley",
             "edewata",
             "java-sig",
-            "mfargett",
-            "salimma"
+            "mfargett"
         ],
         "jackson-bom": [
             "@epel-packagers-sig",
             "ckelley",
             "edewata",
-            "mfargett",
-            "salimma"
+            "mfargett"
         ],
         "jackson-core": [
             "@epel-packagers-sig",
             "ckelley",
             "edewata",
             "java-sig",
-            "mfargett",
-            "salimma"
+            "mfargett"
         ],
         "jackson-databind": [
             "@epel-packagers-sig",
             "ckelley",
             "edewata",
             "java-sig",
-            "mfargett",
-            "salimma"
+            "mfargett"
         ],
         "jackson-dataformat-cbor": [
             "orphan"
@@ -49479,8 +49478,7 @@
             "ckelley",
             "edewata",
             "java-sig",
-            "mfargett",
-            "salimma"
+            "mfargett"
         ],
         "jackson2-annotations": [
             "java-sig",
@@ -49539,8 +49537,7 @@
         ],
         "jakarta-activation1": [
             "mizdebsk",
-            "mkoncek",
-            "salimma"
+            "mkoncek"
         ],
         "jakarta-annotations": [
             "mizdebsk",
@@ -54378,8 +54375,7 @@
         "kiwi": [
             "aalepp",
             "dcavalca",
-            "ngompa",
-            "salimma"
+            "ngompa"
         ],
         "kiwi-boxed-plugin": [
             "ngompa"
@@ -61005,8 +61001,7 @@
         "libucontext": [
             "daandemeyer",
             "dcavalca",
-            "ngompa",
-            "salimma"
+            "ngompa"
         ],
         "libudfread": [
             "xavierb"
@@ -62204,13 +62199,11 @@
         "llvm15": [
             "@fedora-llvm-team",
             "frantisekz",
-            "salimma",
             "tuliom"
         ],
         "llvm16": [
             "@epel-packagers-sig",
             "@fedora-llvm-team",
-            "salimma",
             "tuliom"
         ],
         "llvm17": [
@@ -68528,8 +68521,7 @@
             "mochaa"
         ],
         "monit": [
-            "firewing",
-            "salimma"
+            "firewing"
         ],
         "monitor-edid": [
             "jcpunk"
@@ -76516,8 +76508,7 @@
             "tpokorra"
         ],
         "notmuch": [
-            "mjg",
-            "salimma"
+            "mjg"
         ],
         "nototools": [
             "mfabian",
@@ -77530,7 +77521,6 @@
         "ocaml-lwt": [
             "dchen",
             "rjones",
-            "salimma",
             "scottt"
         ],
         "ocaml-lwt-log": [
@@ -77835,8 +77825,7 @@
         ],
         "ocaml-react": [
             "dchen",
-            "rjones",
-            "salimma"
+            "rjones"
         ],
         "ocaml-reins": [
             "orphan"
@@ -80564,8 +80553,7 @@
         ],
         "pandoc": [
             "castedo",
-            "petersen",
-            "salimma"
+            "petersen"
         ],
         "pandoc-citeproc": [
             "orphan"
@@ -81922,6 +81910,9 @@
             "hpejakle",
             "orphan",
             "perl-sig"
+        ],
+        "perl-Audio-Scan": [
+            "mavit"
         ],
         "perl-Auth-Yubikey_WebClient": [
             "xavierb"
@@ -101421,8 +101412,7 @@
             "@epel-packagers-sig",
             "java-sig",
             "mizdebsk",
-            "mkoncek",
-            "salimma"
+            "mkoncek"
         ],
         "plexus-container-default": [
             "java-sig",
@@ -105057,8 +105047,7 @@
         "python-atomicwrites": [
             "@epel-packagers-sig",
             "mathstuf",
-            "mbaldessari",
-            "salimma"
+            "mbaldessari"
         ],
         "python-atpublic": [
             "@epel-packagers-sig",
@@ -105678,8 +105667,7 @@
             "@epel-packagers-sig",
             "@python-packagers-sig",
             "fed500",
-            "orion",
-            "salimma"
+            "orion"
         ],
         "python-backlash": [
             "@infra-sig",
@@ -105728,8 +105716,7 @@
         "python-backrefs": [
             "@mkdocs-sig",
             "@python-packagers-sig",
-            "pnemade",
-            "salimma"
+            "pnemade"
         ],
         "python-baker": [
             "orphan"
@@ -107985,8 +107972,7 @@
         "python-django-filter": [
             "aekoroglu",
             "bkabrda",
-            "lbazan",
-            "salimma"
+            "lbazan"
         ],
         "python-django-flash": [
             "lbazan",
@@ -111187,8 +111173,7 @@
             "orphan"
         ],
         "python-ipuz": [
-            "dcavalca",
-            "salimma"
+            "dcavalca"
         ],
         "python-ipykernel": [
             "@python-packagers-sig",
@@ -111449,6 +111434,7 @@
         ],
         "python-jiter": [
             "@python-packagers-sig",
+            "@rust-sig",
             "music"
         ],
         "python-jmespath": [
@@ -116695,7 +116681,6 @@
         ],
         "python-pytest-home": [
             "@python-packagers-sig",
-            "salimma",
             "thrnciar"
         ],
         "python-pytest-httpbin": [
@@ -117417,8 +117402,7 @@
         "python-repoze-sphinx-autointerface": [
             "@epel-packagers-sig",
             "jjames",
-            "lbalhar",
-            "salimma"
+            "lbalhar"
         ],
         "python-repoze-tm2": [
             "cverna",
@@ -118807,8 +118791,7 @@
             "@python-packagers-sig",
             "churchyard",
             "jcapitao",
-            "opohorel",
-            "salimma"
+            "opohorel"
         ],
         "python-sphinx-favicon": [
             "orion"
@@ -119671,8 +119654,7 @@
             "dminer",
             "fedepell",
             "mrunge",
-            "ngompa",
-            "salimma"
+            "ngompa"
         ],
         "python-tensile": [
             "@rocm-packagers-sig",
@@ -120314,8 +120296,7 @@
             "@epel-packagers-sig",
             "@python-packagers-sig",
             "cstratak",
-            "romaingeissler1a",
-            "salimma"
+            "romaingeissler1a"
         ],
         "python-twisted": [
             "@python-packagers-sig",
@@ -123550,7 +123531,6 @@
             "dcavalca",
             "honli",
             "michich",
-            "salimma",
             "slaanesh"
         ],
         "qpid-cpp": [
@@ -124713,8 +124693,7 @@
             "thunderbirdtr"
         ],
         "ranger": [
-            "mathstuf",
-            "salimma"
+            "mathstuf"
         ],
         "ranpwd": [
             "orphan"
@@ -137500,6 +137479,10 @@
             "@rust-sig",
             "music"
         ],
+        "rust-hash2curve": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-hash32": [
             "@rust-sig",
             "salimma"
@@ -140792,6 +140775,10 @@
             "ffmancera",
             "orphan"
         ],
+        "rust-netlink-packet-wireguard": [
+            "@rust-sig",
+            "cathay4t"
+        ],
         "rust-netlink-proto": [
             "@rust-sig",
             "cathay4t",
@@ -141686,6 +141673,10 @@
         "rust-p256": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-p256_0.13": [
+            "@rust-sig",
+            "music"
         ],
         "rust-p384": [
             "@rust-sig",
@@ -143615,6 +143606,14 @@
         ],
         "rust-qrcode": [
             "orphan"
+        ],
+        "rust-qrcodegen": [
+            "@rust-sig",
+            "salimma"
+        ],
+        "rust-qrcodegen-image": [
+            "@rust-sig",
+            "salimma"
         ],
         "rust-qstring": [
             "@rust-sig",
@@ -147815,6 +147814,10 @@
             "decathorpe"
         ],
         "rust-totp-lite": [
+            "@rust-sig",
+            "salimma"
+        ],
+        "rust-totp-rs": [
             "@rust-sig",
             "salimma"
         ],
@@ -154606,8 +154609,7 @@
         "strongswan": [
             "dcavalca",
             "pemensik",
-            "pwouters",
-            "salimma"
+            "pwouters"
         ],
         "struts": [
             "java-sig",
@@ -161607,8 +161609,7 @@
         ],
         "wiggle": [
             "@epel-packagers-sig",
-            "orphan",
-            "salimma"
+            "orphan"
         ],
         "wiiuse": [
             "kalev",
@@ -162534,8 +162535,7 @@
             "@epel-packagers-sig",
             "java-sig",
             "mizdebsk",
-            "mkoncek",
-            "salimma"
+            "mkoncek"
         ],
         "xbg": [
             "dcavalca"
@@ -163588,7 +163588,6 @@
             "orphan"
         ],
         "xml2": [
-            "salimma",
             "thm"
         ],
         "xml2dict": [
@@ -163671,8 +163670,7 @@
             "dcavalca",
             "dminer",
             "ngompa",
-            "pfrields",
-            "salimma"
+            "pfrields"
         ],
         "xmlstreambuffer": [
             "didiksupriadi41",

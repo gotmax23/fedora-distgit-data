@@ -33946,6 +33946,11 @@
             "epel": "jjames",
             "fedora": "jjames"
         },
+        "gap-pkg-backtrackkit": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
         "gap-pkg-browse": {
             "admin": "jjames",
             "epel": "jjames",
@@ -34307,6 +34312,11 @@
             "fedora": "jjames"
         },
         "gap-pkg-quagroup": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
+        "gap-pkg-quickcheck": {
             "admin": "jjames",
             "epel": "jjames",
             "fedora": "jjames"
@@ -107556,6 +107566,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "perl-Audio-Scan": {
+            "admin": "mavit",
+            "epel": "mavit",
+            "fedora": "mavit"
+        },
         "perl-Auth-Yubikey_WebClient": {
             "admin": "xavierb",
             "epel": "xavierb",
@@ -178806,6 +178821,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "rust-hash2curve": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-hash32": {
             "admin": "salimma",
             "epel": "@rust-sig",
@@ -182901,6 +182921,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "rust-netlink-packet-wireguard": {
+            "admin": "cathay4t",
+            "epel": "cathay4t",
+            "fedora": "cathay4t"
+        },
         "rust-netlink-proto": {
             "admin": "cathay4t",
             "epel": "cathay4t",
@@ -184045,6 +184070,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-p256_0.13": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-p384": {
             "admin": "decathorpe",
@@ -186480,6 +186510,16 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "rust-qrcodegen": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-qrcodegen-image": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-qstring": {
             "admin": "ctron",
@@ -191817,6 +191857,11 @@
             "fedora": "@rust-sig"
         },
         "rust-totp-lite": {
+            "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-totp-rs": {
             "admin": "salimma",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -203937,7 +203982,7 @@
             "fedora": "orphan"
         },
         "tftp": {
-            "admin": "rathann",
+            "admin": "lzaoral",
             "epel": "lzaoral",
             "fedora": "lzaoral"
         },
