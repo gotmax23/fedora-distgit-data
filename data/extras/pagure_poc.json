@@ -19436,6 +19436,11 @@
             "epel": "marcusburghardt",
             "fedora": "marcusburghardt"
         },
+        "complytime-providers": {
+            "admin": "marcusburghardt",
+            "epel": "marcusburghardt",
+            "fedora": "marcusburghardt"
+        },
         "composable_kernel": {
             "admin": "trix",
             "epel": "trix",
@@ -94296,6 +94301,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "nodejs-electron": {
+            "admin": "gordonmessmer",
+            "epel": "gordonmessmer",
+            "fedora": "gordonmessmer"
+        },
         "nodejs-emojione": {
             "admin": "orphan",
             "epel": "orphan",
@@ -135422,9 +135432,9 @@
             "fedora": "orphan"
         },
         "python-XStatic-DataTables": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "frostyx",
+            "epel": "frostyx",
+            "fedora": "frostyx"
         },
         "python-XStatic-FileSaver": {
             "admin": "orphan",
@@ -135482,9 +135492,9 @@
             "fedora": "orphan"
         },
         "python-XStatic-Patternfly": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "frostyx",
+            "epel": "frostyx",
+            "fedora": "frostyx"
         },
         "python-XStatic-Patternfly-Bootstrap-Treeview": {
             "admin": "orphan",
@@ -145917,9 +145927,9 @@
             "fedora": "orphan"
         },
         "python-linecache2": {
-            "admin": "salimma",
-            "epel": "salimma",
-            "fedora": "salimma"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-linetable": {
             "admin": "ondrejj",
@@ -146762,9 +146772,9 @@
             "fedora": "churchyard"
         },
         "python-mistune08": {
-            "admin": "salimma",
-            "epel": "salimma",
-            "fedora": "salimma"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-mitogen": {
             "admin": "fab",
@@ -151877,9 +151887,9 @@
             "fedora": "orphan"
         },
         "python-pytest-services": {
-            "admin": "salimma",
-            "epel": "salimma",
-            "fedora": "salimma"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pytest-shutil": {
             "admin": "kevin",
@@ -211777,9 +211787,9 @@
             "fedora": "amigadave"
         },
         "xdg-desktop-portal-hyprland": {
-            "admin": "orphan",
+            "admin": "nikromen",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "nikromen"
         },
         "xdg-desktop-portal-kde": {
             "admin": "mkyral",

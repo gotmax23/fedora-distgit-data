@@ -13289,6 +13289,7 @@
             "orphan"
         ],
         "certmonger": [
+            "ftweedal",
             "rcritten"
         ],
         "certwatch": [
@@ -15093,6 +15094,10 @@
         ],
         "complyctl": [
             "@go-sig",
+            "hbraswel",
+            "marcusburghardt"
+        ],
+        "complytime-providers": [
             "hbraswel",
             "marcusburghardt"
         ],
@@ -24621,6 +24626,7 @@
         "flatpak-runtime-config": [
             "amigadave",
             "kalev",
+            "lpavan",
             "otaylor",
             "tpopela",
             "yselkowitz"
@@ -63931,7 +63937,8 @@
             "pali"
         ],
         "mangohud": [
-            "atim"
+            "atim",
+            "febley"
         ],
         "maniadrive": [
             "orphan"
@@ -67945,6 +67952,7 @@
         "mlt": [
             "@kde-sig",
             "@multimedia-sig",
+            "gbcox",
             "martinkg",
             "ngompa"
         ],
@@ -72443,6 +72451,9 @@
         ],
         "nodejs-ejs": [
             "orphan"
+        ],
+        "nodejs-electron": [
+            "gordonmessmer"
         ],
         "nodejs-emojione": [
             "i18n-team",
@@ -104101,8 +104112,9 @@
             "rdopiera"
         ],
         "python-XStatic-DataTables": [
+            "@copr-sig",
             "dmsimard",
-            "orphan"
+            "frostyx"
         ],
         "python-XStatic-FileSaver": [
             "orphan"
@@ -104148,8 +104160,9 @@
             "rdopiera"
         ],
         "python-XStatic-Patternfly": [
+            "@copr-sig",
             "dmsimard",
-            "orphan"
+            "frostyx"
         ],
         "python-XStatic-Patternfly-Bootstrap-Treeview": [
             "dmsimard",
@@ -112177,6 +112190,7 @@
             "orphan"
         ],
         "python-linecache2": [
+            "orphan",
             "salimma"
         ],
         "python-linetable": [
@@ -112851,7 +112865,7 @@
             "@epel-packagers-sig",
             "@python-packagers-sig",
             "neil",
-            "salimma"
+            "orphan"
         ],
         "python-mitogen": [
             "@python-packagers-sig",
@@ -116798,7 +116812,6 @@
             "@epel-packagers-sig",
             "dherrera",
             "jonathanspw",
-            "salimma",
             "vrutkovs"
         ],
         "python-pytest-sanic": [
@@ -116809,7 +116822,7 @@
             "@infra-sig",
             "@python-packagers-sig",
             "ngompa",
-            "salimma"
+            "orphan"
         ],
         "python-pytest-shutil": [
             "@python-packagers-sig",
@@ -120761,8 +120774,7 @@
             "music"
         ],
         "python-usort": [
-            "orphan",
-            "salimma"
+            "orphan"
         ],
         "python-uswid": [
             "rhughes"
@@ -125101,6 +125113,7 @@
             "torsava"
         ],
         "redhat-systemd-presets": [
+            "gotmax23",
             "kevin",
             "ngompa",
             "sgallagh",
@@ -162758,7 +162771,7 @@
             "rishi"
         ],
         "xdg-desktop-portal-hyprland": [
-            "orphan"
+            "nikromen"
         ],
         "xdg-desktop-portal-kde": [
             "@kde-sig",
