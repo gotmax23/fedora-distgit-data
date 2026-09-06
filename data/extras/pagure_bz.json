@@ -15098,6 +15098,7 @@
             "marcusburghardt"
         ],
         "complytime-providers": [
+            "@go-sig",
             "hbraswel",
             "marcusburghardt"
         ],
@@ -16099,6 +16100,7 @@
             "buckaroogeek"
         ],
         "cri-tools1.37": [
+            "@go-sig",
             "buckaroogeek"
         ],
         "cricscore-applet": [
@@ -17215,6 +17217,7 @@
         "ddiskit": [
             "ckalina",
             "esyr",
+            "oleksii",
             "vmalik",
             "zsun"
         ],
@@ -30737,6 +30740,9 @@
         ],
         "git-crypt": [
             "jstanek"
+        ],
+        "git-dumper": [
+            "luk1337"
         ],
         "git-evtag": [
             "ignatenkobrain",
@@ -108661,6 +108667,9 @@
         "python-elasticsearch6": [
             "stevetraylen"
         ],
+        "python-electrum-ecc": [
+            "js"
+        ],
         "python-elementpath": [
             "@python-packagers-sig",
             "churchyard",
@@ -115768,7 +115777,7 @@
         ],
         "python-pyghmi": [
             "@openstack-sig",
-            "divius"
+            "stevetraylen"
         ],
         "python-pygiftiio": [
             "@neuro-sig",
@@ -119462,7 +119471,7 @@
         "python-sushy": [
             "@openstack-sig",
             "amoralej",
-            "divius"
+            "stevetraylen"
         ],
         "python-svg": [
             "limb"
@@ -127831,6 +127840,9 @@
         ],
         "rubygem-gruff": [
             "orphan"
+        ],
+        "rubygem-gsk4": [
+            "mtasaka"
         ],
         "rubygem-gssapi": [
             "abbra",

@@ -39866,6 +39866,11 @@
             "epel": "jstanek",
             "fedora": "jstanek"
         },
+        "git-dumper": {
+            "admin": "luk1337",
+            "epel": "luk1337",
+            "fedora": "luk1337"
+        },
         "git-evtag": {
             "admin": "walters",
             "epel": "walters",
@@ -141421,6 +141426,11 @@
             "epel": "stevetraylen",
             "fedora": "stevetraylen"
         },
+        "python-electrum-ecc": {
+            "admin": "js",
+            "epel": "js",
+            "fedora": "js"
+        },
         "python-elementpath": {
             "admin": "churchyard",
             "epel": "churchyard",
@@ -150542,7 +150552,7 @@
             "fedora": "orphan"
         },
         "python-pyghmi": {
-            "admin": "divius",
+            "admin": "stevetraylen",
             "epel": "divius",
             "fedora": "divius"
         },
@@ -166460,6 +166470,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "rubygem-gsk4": {
+            "admin": "mtasaka",
+            "epel": "mtasaka",
+            "fedora": "mtasaka"
         },
         "rubygem-gssapi": {
             "admin": "abbra",
