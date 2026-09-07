@@ -21272,7 +21272,7 @@
             "orphan"
         ],
         "elementary-icon-theme": [
-            "hannes"
+            "orphan"
         ],
         "elementary-mail": [
             "@pantheon-sig",
@@ -56969,6 +56969,7 @@
             "martinkg"
         ],
         "libchewing": [
+            "@rust-sig",
             "cheeselee",
             "dchen",
             "i18n-team",
@@ -108667,6 +108668,9 @@
         "python-elasticsearch6": [
             "stevetraylen"
         ],
+        "python-electrum-aionostr": [
+            "js"
+        ],
         "python-electrum-ecc": [
             "js"
         ],
@@ -139989,6 +139993,9 @@
         ],
         "rust-lru0.13": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-lru0.16": [
             "decathorpe"
         ],
         "rust-lru_time_cache": [

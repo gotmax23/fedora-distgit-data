@@ -27582,9 +27582,9 @@
             "fedora": "orphan"
         },
         "elementary-icon-theme": {
-            "admin": "hannes",
-            "epel": "hannes",
-            "fedora": "hannes"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "elementary-mail": {
             "admin": "orphan",
@@ -141426,6 +141426,11 @@
             "epel": "stevetraylen",
             "fedora": "stevetraylen"
         },
+        "python-electrum-aionostr": {
+            "admin": "js",
+            "epel": "js",
+            "fedora": "js"
+        },
         "python-electrum-ecc": {
             "admin": "js",
             "epel": "js",
@@ -181922,6 +181927,11 @@
             "fedora": "@rust-sig"
         },
         "rust-lru0.13": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-lru0.16": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
