@@ -10718,6 +10718,9 @@
             "jperrin",
             "orphan"
         ],
+        "bash-preexec": [
+            "lecris"
+        ],
         "bashdb": [
             "orphan"
         ],
@@ -42042,7 +42045,7 @@
         "golang-github-vbatts-tar-split": [
             "@go-sig",
             "jchaloup",
-            "runcom"
+            "orphan"
         ],
         "golang-github-vbauerster-mpb-5": [
             "orphan"
@@ -57575,6 +57578,7 @@
             "wef"
         ],
         "libevent": [
+            "fvorobev",
             "jorton",
             "pzacik",
             "steved"
@@ -111640,6 +111644,9 @@
         "python-jupymake": [
             "jjames"
         ],
+        "python-jupyter-builder": [
+            "lbalhar"
+        ],
         "python-jupyter-c-kernel": [
             "@python-packagers-sig",
             "orphan"
@@ -121515,6 +121522,9 @@
         "python-xmlbuilder": [
             "orphan"
         ],
+        "python-xmldiff": [
+            "terjeros"
+        ],
         "python-xmlrunner": [
             "orphan"
         ],
@@ -127862,6 +127872,9 @@
         "rubygem-gtk3": [
             "mtasaka"
         ],
+        "rubygem-gtk4": [
+            "mtasaka"
+        ],
         "rubygem-gtksourceview2": [
             "mtasaka"
         ],
@@ -128828,6 +128841,9 @@
         ],
         "rubygem-pry-nav": [
             "orphan"
+        ],
+        "rubygem-psych-comments": [
+            "luk1337"
         ],
         "rubygem-public_suffix": [
             "@ruby-packagers-sig",
@@ -130968,6 +130984,10 @@
         "rust-async_zip0.0.15": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-asyncband": [
+            "@rust-sig",
+            "music"
         ],
         "rust-asyncgit": [
             "@rust-sig",
@@ -139996,6 +140016,7 @@
             "decathorpe"
         ],
         "rust-lru0.16": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-lru_time_cache": [

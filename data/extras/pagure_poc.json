@@ -13676,6 +13676,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "bash-preexec": {
+            "admin": "lecris",
+            "epel": "lecris",
+            "fedora": "lecris"
+        },
         "bashdb": {
             "admin": "orphan",
             "epel": "orphan",
@@ -54692,9 +54697,9 @@
             "fedora": "orphan"
         },
         "golang-github-vbatts-tar-split": {
-            "admin": "runcom",
+            "admin": "orphan",
             "epel": "jchaloup",
-            "fedora": "runcom"
+            "fedora": "orphan"
         },
         "golang-github-vbauerster-mpb-5": {
             "admin": "orphan",
@@ -145226,6 +145231,11 @@
             "epel": "jjames",
             "fedora": "jjames"
         },
+        "python-jupyter-builder": {
+            "admin": "lbalhar",
+            "epel": "lbalhar",
+            "fedora": "lbalhar"
+        },
         "python-jupyter-c-kernel": {
             "admin": "orphan",
             "epel": "orphan",
@@ -157946,6 +157956,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-xmldiff": {
+            "admin": "terjeros",
+            "epel": "terjeros",
+            "fedora": "terjeros"
+        },
         "python-xmlrunner": {
             "admin": "orphan",
             "epel": "orphan",
@@ -166501,6 +166516,11 @@
             "epel": "mtasaka",
             "fedora": "mtasaka"
         },
+        "rubygem-gtk4": {
+            "admin": "mtasaka",
+            "epel": "mtasaka",
+            "fedora": "mtasaka"
+        },
         "rubygem-gtksourceview2": {
             "admin": "mtasaka",
             "epel": "mtasaka",
@@ -167825,6 +167845,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "rubygem-psych-comments": {
+            "admin": "luk1337",
+            "epel": "luk1337",
+            "fedora": "luk1337"
         },
         "rubygem-public_suffix": {
             "admin": "vondruch",
@@ -170590,6 +170615,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-asyncband": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-asyncgit": {
             "admin": "blinxen",
