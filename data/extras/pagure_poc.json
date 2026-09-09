@@ -76971,6 +76971,11 @@
             "epel": "osloup",
             "fedora": "osloup"
         },
+        "libnsm": {
+            "admin": "tfanelli",
+            "epel": "tfanelli",
+            "fedora": "tfanelli"
+        },
         "libnss-mysql": {
             "admin": "ondrejj",
             "epel": "ondrejj",
@@ -79585,6 +79590,11 @@
             "admin": "amigadave",
             "epel": "orphan",
             "fedora": "amigadave"
+        },
+        "libxml2_2.13": {
+            "admin": "zbyszek",
+            "epel": "zbyszek",
+            "fedora": "zbyszek"
         },
         "libxmlb": {
             "admin": "rhughes",
@@ -145036,6 +145046,11 @@
             "epel": "@certbot-sig",
             "fedora": "@certbot-sig"
         },
+        "python-joserfc": {
+            "admin": "chihlee",
+            "epel": "chihlee",
+            "fedora": "chihlee"
+        },
         "python-journal-brief": {
             "admin": "twaugh",
             "epel": "twaugh",
@@ -150235,6 +150250,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "python-pyclibrary": {
+            "admin": "lecris",
+            "epel": "lecris",
+            "fedora": "lecris"
         },
         "python-pyclip": {
             "admin": "aleasto",
@@ -164427,9 +164447,9 @@
             "fedora": "ngompa"
         },
         "rpmdistro-repoquery": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "rpmgrill": {
             "admin": "orphan",
@@ -172630,6 +172650,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-clap_mangen0.2": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-claxon": {
             "admin": "orphan",
@@ -189817,7 +189842,7 @@
             "fedora": "@rust-sig"
         },
         "rust-sluice": {
-            "admin": "sundaram",
+            "admin": "sundaram123krishnan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },

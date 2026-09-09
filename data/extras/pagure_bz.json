@@ -13173,6 +13173,7 @@
             "orphan"
         ],
         "cef": [
+            "@go-sig",
             "@multimedia-sig",
             "dherrera",
             "ngompa"
@@ -15366,7 +15367,6 @@
         "containerd": [
             "@go-sig",
             "buckaroogeek",
-            "casep",
             "copperi",
             "gotmax23"
         ],
@@ -59464,6 +59464,9 @@
             "orion",
             "pkubat"
         ],
+        "libnsm": [
+            "tfanelli"
+        ],
         "libnss-mysql": [
             "ondrejj"
         ],
@@ -61544,6 +61547,10 @@
         ],
         "libxml2": [
             "amigadave"
+        ],
+        "libxml2_2.13": [
+            "amigadave",
+            "zbyszek"
         ],
         "libxmlb": [
             "rhughes"
@@ -111494,6 +111501,9 @@
             "nb",
             "turboben"
         ],
+        "python-joserfc": [
+            "chihlee"
+        ],
         "python-journal-brief": [
             "twaugh"
         ],
@@ -115533,6 +115543,9 @@
         ],
         "python-pycha": [
             "orphan"
+        ],
+        "python-pyclibrary": [
+            "lecris"
         ],
         "python-pyclip": [
             "aleasto",
@@ -126358,8 +126371,7 @@
         ],
         "rpmdistro-repoquery": [
             "dcavalca",
-            "ngompa",
-            "orphan"
+            "ngompa"
         ],
         "rpmgrill": [
             "orphan",
@@ -132577,6 +132589,10 @@
         "rust-clap_mangen": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-clap_mangen0.2": [
+            "@rust-sig",
+            "music"
         ],
         "rust-claxon": [
             "orphan"
@@ -146213,7 +146229,7 @@
         ],
         "rust-sluice": [
             "@rust-sig",
-            "sundaram"
+            "sundaram123krishnan"
         ],
         "rust-sm3": [
             "@rust-sig",
