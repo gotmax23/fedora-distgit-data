@@ -4756,6 +4756,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "ArborX": {
+            "admin": "junghans",
+            "epel": "junghans",
+            "fedora": "junghans"
+        },
         "ArpON": {
             "admin": "sagarun",
             "epel": "sagarun",
@@ -34122,6 +34127,11 @@
             "fedora": "orphan"
         },
         "gap-pkg-grape": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
+        "gap-pkg-graphbacktracking": {
             "admin": "jjames",
             "epel": "jjames",
             "fedora": "jjames"
@@ -102146,6 +102156,11 @@
             "epel": "jjames",
             "fedora": "jjames"
         },
+        "ocaml-ppx-bin-prot": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
         "ocaml-ppx-cold": {
             "admin": "jjames",
             "epel": "jjames",
@@ -111825,6 +111840,11 @@
             "admin": "jplesnik",
             "epel": "jplesnik",
             "fedora": "jplesnik"
+        },
+        "perl-Encoding-FixLatin": {
+            "admin": "xavierb",
+            "epel": "xavierb",
+            "fedora": "xavierb"
         },
         "perl-End": {
             "admin": "jplesnik",

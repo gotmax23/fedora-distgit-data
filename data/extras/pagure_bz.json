@@ -3773,6 +3773,9 @@
             "dmlb2000",
             "orphan"
         ],
+        "ArborX": [
+            "junghans"
+        ],
         "ArpON": [
             "sagarun"
         ],
@@ -26213,6 +26216,9 @@
             "orphan"
         ],
         "gap-pkg-grape": [
+            "jjames"
+        ],
+        "gap-pkg-graphbacktracking": [
             "jjames"
         ],
         "gap-pkg-groupoids": [
@@ -57102,6 +57108,7 @@
             "dtardon"
         ],
         "libcsv": [
+            "@kde-sig",
             "music"
         ],
         "libctl": [
@@ -57615,6 +57622,7 @@
             "orphan"
         ],
         "libfakekey": [
+            "@kde-sig",
             "music",
             "pbrobinson"
         ],
@@ -77728,6 +77736,9 @@
         "ocaml-ppx-bench": [
             "jjames"
         ],
+        "ocaml-ppx-bin-prot": [
+            "jjames"
+        ],
         "ocaml-ppx-cold": [
             "defolos",
             "jjames"
@@ -85632,6 +85643,9 @@
         "perl-Encode-Newlines": [
             "jplesnik",
             "perl-sig"
+        ],
+        "perl-Encoding-FixLatin": [
+            "xavierb"
         ],
         "perl-End": [
             "jplesnik",
