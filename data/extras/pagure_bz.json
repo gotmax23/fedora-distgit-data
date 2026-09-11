@@ -4364,7 +4364,7 @@
             "jjames"
         ],
         "Maelstrom": [
-            "gui1ty"
+            "orphan"
         ],
         "MagicPoint": [
             "jwrdegoede"
@@ -6947,7 +6947,6 @@
             "slaanesh"
         ],
         "Zim": [
-            "gui1ty",
             "jdekloe",
             "nixuser"
         ],
@@ -10478,6 +10477,9 @@
         "azure-nvme-utils": [
             "cjp256"
         ],
+        "azure-protected-vm-secrets": [
+            "jcline"
+        ],
         "azure-vm-utils": [
             "cjp256",
             "jcline"
@@ -11841,8 +11843,8 @@
         ],
         "boswars": [
             "bruno",
-            "gui1ty",
-            "jwrdegoede"
+            "jwrdegoede",
+            "orphan"
         ],
         "boswars-addons": [
             "bruno"
@@ -11862,8 +11864,8 @@
         ],
         "bottles": [
             "atim",
-            "gui1ty",
             "masalafrancesco",
+            "orphan",
             "thunderbirdtr"
         ],
         "bouml": [
@@ -12011,7 +12013,7 @@
         ],
         "brewtarget": [
             "athoscr",
-            "gui1ty"
+            "orphan"
         ],
         "brial": [
             "orphan"
@@ -15447,7 +15449,7 @@
             "orphan"
         ],
         "coolreader": [
-            "gui1ty"
+            "orphan"
         ],
         "coot": [
             "orphan"
@@ -23316,7 +23318,7 @@
             "orphan"
         ],
         "fawltydeps": [
-            "gui1ty"
+            "orphan"
         ],
         "fb303": [
             "dcavalca",
@@ -24522,7 +24524,7 @@
             "orphan"
         ],
         "flam3": [
-            "gui1ty"
+            "orphan"
         ],
         "flamegraph": [
             "jjames",
@@ -24559,13 +24561,11 @@
         ],
         "flare": [
             "ablu",
-            "bytehackr",
-            "gui1ty"
+            "bytehackr"
         ],
         "flare-engine": [
             "ablu",
-            "bytehackr",
-            "gui1ty"
+            "bytehackr"
         ],
         "flare-im": [
             "rathann"
@@ -46802,7 +46802,6 @@
         ],
         "http-parser": [
             "duck",
-            "gui1ty",
             "ignatenkobrain",
             "lkundrak",
             "mrunge",
@@ -48334,7 +48333,7 @@
         "imapfilter": [
             "averi",
             "cicku",
-            "gui1ty"
+            "orphan"
         ],
         "imapsync": [
             "jonathanspw",
@@ -48693,6 +48692,7 @@
         ],
         "intel-lpmd": [
             "aekoroglu",
+            "ngompa",
             "xanderlent"
         ],
         "intel-media-driver-free": [
@@ -56062,8 +56062,8 @@
             "mikelo2"
         ],
         "legofy": [
-            "gui1ty",
-            "lkf"
+            "lkf",
+            "orphan"
         ],
         "leiningen": [
             "orphan",
@@ -57018,6 +57018,7 @@
             "tuliom"
         ],
         "libclc22": [
+            "@fedora-llvm-team",
             "kkleine"
         ],
         "libcli": [
@@ -61050,7 +61051,7 @@
             "atim"
         ],
         "libunibreak": [
-            "gui1ty"
+            "orphan"
         ],
         "libunicap": [
             "kdudka",
@@ -63758,7 +63759,7 @@
             "orphan"
         ],
         "mailprocessing": [
-            "gui1ty"
+            "orphan"
         ],
         "mailx": [
             "buc",
@@ -70981,7 +70982,8 @@
             "ihuguet"
         ],
         "nitrogen": [
-            "jamesnz"
+            "jamesnz",
+            "orphan"
         ],
         "nitrokey-app": [
             "aekoroglu",
@@ -72103,6 +72105,9 @@
         "nodejs-core-util-is": [
             "orphan",
             "pnemade"
+        ],
+        "nodejs-corepack": [
+            "luk1337"
         ],
         "nodejs-cors": [
             "orphan"
@@ -80959,7 +80964,7 @@
             "orphan"
         ],
         "patool": [
-            "gui1ty"
+            "orphan"
         ],
         "patricia-trie": [
             "lkundrak",
@@ -96507,6 +96512,7 @@
             "orphan"
         ],
         "phoronix-test-suite": [
+            "angelonord",
             "hxunbanned",
             "jonathanspw",
             "salimma"
@@ -103266,6 +103272,9 @@
         "pyactivemq": [
             "orphan"
         ],
+        "pyatem": [
+            "suve"
+        ],
         "pyatspi": [
             "@gnome-sig",
             "mclasen",
@@ -103970,7 +103979,6 @@
         "python-PyGithub": [
             "@python-packagers-sig",
             "carlwgeorge",
-            "gui1ty",
             "jpopelka"
         ],
         "python-PyLEMS": [
@@ -103985,7 +103993,7 @@
             "mjg"
         ],
         "python-PyMunin3": [
-            "gui1ty"
+            "orphan"
         ],
         "python-PyMySQL": [
             "carlwgeorge",
@@ -104686,7 +104694,7 @@
         ],
         "python-annarchy": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-annexremote": [
             "@neuro-sig",
@@ -104848,9 +104856,9 @@
             "canderson9",
             "churchyard",
             "gotmax23",
-            "gui1ty",
             "ignatenkobrain",
             "msrb",
+            "orphan",
             "stevetraylen"
         ],
         "python-argh": [
@@ -105164,8 +105172,7 @@
         ],
         "python-autopep8": [
             "@neuro-sig",
-            "canderson9",
-            "gui1ty"
+            "canderson9"
         ],
         "python-autoprop": [
             "orphan"
@@ -106705,7 +106712,7 @@
         ],
         "python-cmap": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-cmarkgfm": [
             "dcavalca",
@@ -107246,7 +107253,7 @@
         "python-crick": [
             "@epel-packagers-sig",
             "@python-packagers-sig",
-            "gui1ty",
+            "orphan",
             "qulogic"
         ],
         "python-cro": [
@@ -107499,7 +107506,7 @@
             "qulogic"
         ],
         "python-dask-expr": [
-            "gui1ty",
+            "orphan",
             "qulogic"
         ],
         "python-databases": [
@@ -107773,7 +107780,7 @@
         ],
         "python-diff-match-patch": [
             "amigadave",
-            "gui1ty"
+            "orphan"
         ],
         "python-digitalocean": [
             "@certbot-sig",
@@ -108465,7 +108472,7 @@
         ],
         "python-docstring-to-markdown": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-docutils": [
             "@python-packagers-sig",
@@ -108734,7 +108741,7 @@
             "sergiopr"
         ],
         "python-emoji": [
-            "gui1ty"
+            "orphan"
         ],
         "python-empy": [
             "filiperosset"
@@ -108804,7 +108811,7 @@
         ],
         "python-ephyviewer": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-epi": [
             "@openstack-sig",
@@ -109794,7 +109801,7 @@
             "orphan"
         ],
         "python-fvs": [
-            "gui1ty"
+            "orphan"
         ],
         "python-fypp": [
             "rathann"
@@ -110064,8 +110071,8 @@
         ],
         "python-glfw": [
             "@neuro-sig",
-            "gui1ty",
-            "neelc"
+            "neelc",
+            "orphan"
         ],
         "python-glob2": [
             "jujens"
@@ -110456,7 +110463,7 @@
             "orphan"
         ],
         "python-graphql-core": [
-            "gui1ty",
+            "orphan",
             "stevetraylen"
         ],
         "python-graphql-relay": [
@@ -110483,7 +110490,7 @@
             "chihlee"
         ],
         "python-grip": [
-            "gui1ty"
+            "orphan"
         ],
         "python-grokmirror": [
             "kevin",
@@ -110575,7 +110582,6 @@
         ],
         "python-hamcrest": [
             "aekoroglu",
-            "gui1ty",
             "ignatenkobrain",
             "romaingeissler1a"
         ],
@@ -111001,7 +111007,6 @@
             "v02460"
         ],
         "python-imagecodecs": [
-            "gui1ty",
             "orion"
         ],
         "python-imagehash": [
@@ -111018,7 +111023,7 @@
             "orphan"
         ],
         "python-imapclient": [
-            "gui1ty"
+            "orphan"
         ],
         "python-imbalanced-learn": [
             "@neuro-sig",
@@ -111236,7 +111241,7 @@
             "ellert"
         ],
         "python-ipython-pygments-lexers": [
-            "gui1ty"
+            "orphan"
         ],
         "python-ipython_genutils": [
             "@python-packagers-sig",
@@ -111427,7 +111432,6 @@
             "@epel-packagers-sig",
             "@python-packagers-sig",
             "carlwgeorge",
-            "gui1ty",
             "lbalhar",
             "phracek",
             "rcallicotte",
@@ -112398,23 +112402,23 @@
         ],
         "python-lsp-black": [
             "@neuro-sig",
-            "gui1ty",
-            "jonathanspw"
+            "jonathanspw",
+            "orphan"
         ],
         "python-lsp-jsonrpc": [
             "@neuro-sig",
-            "gui1ty",
-            "jonathanspw"
+            "jonathanspw",
+            "orphan"
         ],
         "python-lsp-ruff": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-lsp-server": [
             "@neuro-sig",
             "@python-packagers-sig",
-            "gui1ty",
-            "jonathanspw"
+            "jonathanspw",
+            "orphan"
         ],
         "python-lsprotocol": [
             "@python-packagers-sig",
@@ -112544,7 +112548,7 @@
             "orphan"
         ],
         "python-managesieve": [
-            "gui1ty"
+            "orphan"
         ],
         "python-manatools": [
             "jonathanspw",
@@ -112746,7 +112750,7 @@
             "mbaldessari"
         ],
         "python-medimages4tests": [
-            "gui1ty"
+            "orphan"
         ],
         "python-meh": [
             "clumens",
@@ -112799,7 +112803,6 @@
         "python-meson-python": [
             "@neuro-sig",
             "@python-packagers-sig",
-            "gui1ty",
             "music"
         ],
         "python-messaging": [
@@ -113050,7 +113053,7 @@
         ],
         "python-moksha-hub": [
             "@infra-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-moksha-wsgi": [
             "orphan"
@@ -113611,7 +113614,7 @@
             "music"
         ],
         "python-nihtest": [
-            "gui1ty"
+            "orphan"
         ],
         "python-nikola": [
             "orphan"
@@ -114062,7 +114065,7 @@
         ],
         "python-openneuro": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-openoffice": [
             "sharkcz"
@@ -114385,7 +114388,7 @@
         ],
         "python-owl_rl": [
             "@neuro-sig",
-            "blinxen"
+            "orphan"
         ],
         "python-packageurl-python": [
             "@python-packagers-sig",
@@ -114427,7 +114430,7 @@
         ],
         "python-palettable": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-pam": [
             "jorti"
@@ -114626,8 +114629,8 @@
             "js"
         ],
         "python-pathvalidate": [
-            "gui1ty",
-            "jonny"
+            "jonny",
+            "orphan"
         ],
         "python-patiencediff": [
             "@python-packagers-sig",
@@ -114649,7 +114652,7 @@
             "@epel-packagers-sig",
             "@openstack-sig",
             "apevec",
-            "gui1ty"
+            "orphan"
         ],
         "python-pbs": [
             "orphan"
@@ -114749,7 +114752,7 @@
             "fab"
         ],
         "python-pep440": [
-            "gui1ty"
+            "orphan"
         ],
         "python-pep517": [
             "@python-packagers-sig",
@@ -115084,7 +115087,7 @@
         "python-pooch": [
             "@epel-packagers-sig",
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-poppler-qt4": [
             "orphan"
@@ -115388,7 +115391,7 @@
         ],
         "python-puremagic": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-puzpy": [
             "dcavalca",
@@ -115501,7 +115504,7 @@
         ],
         "python-pybbi": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-pybeam": [
             "peter"
@@ -115590,7 +115593,7 @@
         ],
         "python-pyconify": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-pycosat": [
             "orion"
@@ -115655,7 +115658,7 @@
         ],
         "python-pydapsys": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-pydaraja": [
             "fed500"
@@ -115707,7 +115710,7 @@
         ],
         "python-pydocstyle": [
             "cottsay",
-            "gui1ty",
+            "orphan",
             "tadej"
         ],
         "python-pydoctor": [
@@ -115790,7 +115793,7 @@
         "python-pyftpdlib": [
             "@epel-packagers-sig",
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-pyfzf": [
             "terjeros"
@@ -116022,8 +116025,8 @@
         ],
         "python-pyls-spyder": [
             "@neuro-sig",
-            "gui1ty",
-            "jonathanspw"
+            "jonathanspw",
+            "orphan"
         ],
         "python-pyls_black": [
             "orphan"
@@ -116075,7 +116078,7 @@
         ],
         "python-pymilter": [
             "bojan",
-            "gui1ty",
+            "orphan",
             "pwouters",
             "sdgathman"
         ],
@@ -116187,7 +116190,7 @@
         ],
         "python-pyopengltk": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-pyopenuv": [
             "orphan"
@@ -116279,7 +116282,7 @@
             "orphan"
         ],
         "python-pyqt-feedback-flow": [
-            "gui1ty"
+            "orphan"
         ],
         "python-pyqt5-sip": [
             "swt2c"
@@ -116287,7 +116290,6 @@
         "python-pyqt6": [
             "@epel-packagers-sig",
             "@kde-sig",
-            "gui1ty",
             "jonathanspw",
             "smani",
             "thunderbirdtr"
@@ -116385,7 +116387,7 @@
             "hvad"
         ],
         "python-pyroaring": [
-            "gui1ty"
+            "orphan"
         ],
         "python-pyroute2": [
             "@copr-sig",
@@ -116461,7 +116463,6 @@
         ],
         "python-pyside6": [
             "@kde-sig",
-            "gui1ty",
             "loise",
             "luk1337"
         ],
@@ -116725,7 +116726,7 @@
             "fed500"
         ],
         "python-pytest-github-actions-annotate-failures": [
-            "gui1ty"
+            "orphan"
         ],
         "python-pytest-golden": [
             "@mkdocs-sig",
@@ -116774,7 +116775,7 @@
         "python-pytest-localftpserver": [
             "@epel-packagers-sig",
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-pytest-localserver": [
             "pwouters",
@@ -116827,7 +116828,7 @@
         "python-pytest-qt": [
             "@neuro-sig",
             "fedepell",
-            "gui1ty"
+            "orphan"
         ],
         "python-pytest-randomly": [
             "@python-packagers-sig",
@@ -117021,7 +117022,7 @@
         ],
         "python-pyuca": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-pyudev": [
             "apevec",
@@ -117181,8 +117182,8 @@
         ],
         "python-qstylizer": [
             "@neuro-sig",
-            "gui1ty",
-            "jonathanspw"
+            "jonathanspw",
+            "orphan"
         ],
         "python-qt5": [
             "@kde-sig",
@@ -117195,7 +117196,6 @@
         ],
         "python-qtconsole": [
             "@python-packagers-sig",
-            "gui1ty",
             "lbalhar"
         ],
         "python-qtsass": [
@@ -117775,7 +117775,7 @@
             "pszubiak"
         ],
         "python-roman": [
-            "gui1ty",
+            "orphan",
             "rebus"
         ],
         "python-roman-numerals": [
@@ -117789,8 +117789,8 @@
         "python-rope": [
             "@neuro-sig",
             "@python-packagers-sig",
-            "gui1ty",
-            "jonathanspw"
+            "jonathanspw",
+            "orphan"
         ],
         "python-ropemacs": [
             "orphan"
@@ -118302,7 +118302,8 @@
             "mattia"
         ],
         "python-sgqlc": [
-            "@neuro-sig"
+            "@neuro-sig",
+            "orphan"
         ],
         "python-sgutils": [
             "orphan"
@@ -119159,8 +119160,7 @@
             "carlwgeorge"
         ],
         "python-sport-activities-features": [
-            "filiperosset",
-            "gui1ty"
+            "filiperosset"
         ],
         "python-spotipy": [
             "wfp"
@@ -119493,7 +119493,7 @@
         ],
         "python-superqt": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-supersmoother": [
             "@astro-sig",
@@ -119658,7 +119658,6 @@
         ],
         "python-tcx2gpx": [
             "@neuro-sig",
-            "gui1ty",
             "iztokf"
         ],
         "python-tcxparser": [
@@ -119812,8 +119811,8 @@
         ],
         "python-textdistance": [
             "@neuro-sig",
-            "gui1ty",
-            "jonathanspw"
+            "jonathanspw",
+            "orphan"
         ],
         "python-textfsm": [
             "@openstack-sig",
@@ -119886,8 +119885,8 @@
         ],
         "python-three_merge": [
             "@neuro-sig",
-            "gui1ty",
-            "jonathanspw"
+            "jonathanspw",
+            "orphan"
         ],
         "python-thriftpy": [
             "ignatenkobrain",
@@ -120244,7 +120243,7 @@
         ],
         "python-trx-python": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-ttfautohint-py": [
             "music"
@@ -120881,7 +120880,7 @@
         ],
         "python-vascpy": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-vatnumber": [
             "aekoroglu",
@@ -121029,7 +121028,7 @@
             "orphan"
         ],
         "python-vkbasalt-cli": [
-            "gui1ty"
+            "orphan"
         ],
         "python-vkontakte": [
             "orphan"
@@ -121143,7 +121142,6 @@
             "orphan"
         ],
         "python-wavio": [
-            "gui1ty",
             "orphan"
         ],
         "python-wcag-contrast-ratio": [
@@ -121269,8 +121267,8 @@
         ],
         "python-whatthepatch": [
             "@neuro-sig",
-            "gui1ty",
-            "jonathanspw"
+            "jonathanspw",
+            "orphan"
         ],
         "python-wheel": [
             "@python-packagers-sig",
@@ -121587,7 +121585,7 @@
         ],
         "python-xnat4tests": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "python-xpath-expressions": [
             "orphan"
@@ -122220,8 +122218,7 @@
             "orphan"
         ],
         "python3-cangjie": [
-            "bochecha",
-            "gui1ty"
+            "bochecha"
         ],
         "python3-cffi": [
             "orphan"
@@ -129891,6 +129888,9 @@
             "jaruga",
             "vondruch"
         ],
+        "rubygem-yalphabetize": [
+            "luk1337"
+        ],
         "rubygem-yaml-lint": [
             "stevetraylen"
         ],
@@ -134114,6 +134114,9 @@
         "rust-digest_auth": [
             "@rust-sig",
             "orphan"
+        ],
+        "rust-diligent-date-parser": [
+            "phoebeharris"
         ],
         "rust-dir-test": [
             "@rust-sig",
@@ -138892,16 +138895,16 @@
         ],
         "rust-jql": [
             "@rust-sig",
-            "blinxen",
-            "kalev"
+            "kalev",
+            "orphan"
         ],
         "rust-jql-parser": [
             "@rust-sig",
-            "blinxen"
+            "orphan"
         ],
         "rust-jql-runner": [
             "@rust-sig",
-            "blinxen"
+            "orphan"
         ],
         "rust-js-sys": [
             "orphan"
@@ -150935,7 +150938,7 @@
         ],
         "sandia-omega-h": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "sandogasa": [
             "@rust-sig",
@@ -151610,7 +151613,6 @@
             "ngompa"
         ],
         "sdl2-compat": [
-            "gui1ty",
             "ngompa",
             "suve"
         ],
@@ -154028,7 +154030,6 @@
         "spyder": [
             "@neuro-sig",
             "filiperosset",
-            "gui1ty",
             "jonathanspw",
             "prgutier"
         ],
@@ -159513,7 +159514,7 @@
         ],
         "units-llnl": [
             "@neuro-sig",
-            "gui1ty"
+            "orphan"
         ],
         "unittest": [
             "orphan"
@@ -159625,6 +159626,7 @@
         ],
         "uperf": [
             "nathans",
+            "salimma",
             "terjeros"
         ],
         "upm": [
@@ -160059,7 +160061,7 @@
             "orphan"
         ],
         "valijson": [
-            "gui1ty"
+            "orphan"
         ],
         "valkey": [
             "@db-sig",
@@ -162531,7 +162533,7 @@
         "xaos": [
             "dturner",
             "gemi",
-            "gui1ty"
+            "orphan"
         ],
         "xapian-bindings": [
             "@python-packagers-sig",
