@@ -5557,9 +5557,9 @@
             "fedora": "jjames"
         },
         "Maelstrom": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
         },
         "MagicPoint": {
             "admin": "jwrdegoede",
@@ -34297,6 +34297,11 @@
             "fedora": "jjames"
         },
         "gap-pkg-packagemanager": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
+        "gap-pkg-perfgrp": {
             "admin": "jjames",
             "epel": "jjames",
             "fedora": "jjames"
@@ -79007,9 +79012,9 @@
             "fedora": "atim"
         },
         "libunibreak": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
         },
         "libunicap": {
             "admin": "robert",
@@ -118281,6 +118286,11 @@
             "epel": "pghmcfc",
             "fedora": "pghmcfc"
         },
+        "perl-Params-SomeUtil": {
+            "admin": "pghmcfc",
+            "epel": "pghmcfc",
+            "fedora": "pghmcfc"
+        },
         "perl-Params-Util": {
             "admin": "jplesnik",
             "epel": "jplesnik",
@@ -139587,9 +139597,9 @@
             "fedora": "orphan"
         },
         "python-crick": {
-            "admin": "orphan",
+            "admin": "msuchy",
             "epel": "kkeithle",
-            "fedora": "orphan"
+            "fedora": "msuchy"
         },
         "python-cro": {
             "admin": "orphan",
@@ -144732,9 +144742,9 @@
             "fedora": "ellert"
         },
         "python-ipython-pygments-lexers": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
         },
         "python-ipython_genutils": {
             "admin": "orion",
@@ -148787,9 +148797,9 @@
             "fedora": "orphan"
         },
         "python-owl_rl": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
         },
         "python-packageurl-python": {
             "admin": "eclipseo",
@@ -149647,9 +149657,9 @@
             "fedora": "orphan"
         },
         "python-pooch": {
-            "admin": "orphan",
+            "admin": "msuchy",
             "epel": "kkeithle",
-            "fedora": "orphan"
+            "fedora": "msuchy"
         },
         "python-poppler-qt4": {
             "admin": "orphan",
@@ -151787,9 +151797,9 @@
             "fedora": "fed500"
         },
         "python-pytest-github-actions-annotate-failures": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
         },
         "python-pytest-golden": {
             "admin": "dcavalca",
@@ -151852,9 +151862,9 @@
             "fedora": "iwienand"
         },
         "python-pytest-localftpserver": {
-            "admin": "orphan",
+            "admin": "msuchy",
             "epel": "kkeithle",
-            "fedora": "orphan"
+            "fedora": "msuchy"
         },
         "python-pytest-localserver": {
             "admin": "pwouters",
@@ -173786,7 +173796,17 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-cssparser-color0.3": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-cssparser-macros": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-cssparser-macros0.6": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -173797,6 +173817,11 @@
             "fedora": "@rust-sig"
         },
         "rust-cssparser0.31": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-cssparser0.35": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -174902,7 +174927,7 @@
             "fedora": "@rust-sig"
         },
         "rust-dtor": {
-            "admin": "orphan",
+            "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -176922,6 +176947,11 @@
             "fedora": "@rust-sig"
         },
         "rust-gettext-rs": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-gettext-rs0.7": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -188907,6 +188937,11 @@
             "fedora": "@rust-sig"
         },
         "rust-selectors0.25": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-selectors0.31": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"

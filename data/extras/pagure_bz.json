@@ -4364,7 +4364,7 @@
             "jjames"
         ],
         "Maelstrom": [
-            "orphan"
+            "suve"
         ],
         "MagicPoint": [
             "jwrdegoede"
@@ -25193,7 +25193,6 @@
         ],
         "four-in-a-row": [
             "@gnome-sig",
-            "catanzaro",
             "mclasen",
             "yaneti"
         ],
@@ -26315,6 +26314,9 @@
             "jjames"
         ],
         "gap-pkg-packagemanager": [
+            "jjames"
+        ],
+        "gap-pkg-perfgrp": [
             "jjames"
         ],
         "gap-pkg-permut": [
@@ -32060,7 +32062,6 @@
         ],
         "gnome-chess": [
             "@gnome-sig",
-            "catanzaro",
             "doshitan",
             "kalev",
             "mclasen"
@@ -32277,7 +32278,6 @@
         ],
         "gnome-klotski": [
             "@gnome-sig",
-            "catanzaro",
             "doshitan",
             "kalev",
             "mclasen"
@@ -32817,7 +32817,6 @@
         ],
         "gnome-sudoku": [
             "@gnome-sig",
-            "catanzaro",
             "yaneti"
         ],
         "gnome-system-log": [
@@ -32847,7 +32846,6 @@
         ],
         "gnome-tetravex": [
             "@gnome-sig",
-            "catanzaro",
             "doshitan",
             "kalev",
             "mclasen"
@@ -61051,7 +61049,7 @@
             "atim"
         ],
         "libunibreak": [
-            "orphan"
+            "suve"
         ],
         "libunicap": [
             "kdudka",
@@ -91224,6 +91222,9 @@
             "perl-sig",
             "pghmcfc"
         ],
+        "perl-Params-SomeUtil": [
+            "pghmcfc"
+        ],
         "perl-Params-Util": [
             "jplesnik",
             "laxathom",
@@ -107253,7 +107254,7 @@
         "python-crick": [
             "@epel-packagers-sig",
             "@python-packagers-sig",
-            "orphan",
+            "msuchy",
             "qulogic"
         ],
         "python-cro": [
@@ -109086,6 +109087,7 @@
             "thrnciar"
         ],
         "python-fastmcp": [
+            "chihlee",
             "otaylor",
             "peter"
         ],
@@ -111241,7 +111243,7 @@
             "ellert"
         ],
         "python-ipython-pygments-lexers": [
-            "orphan"
+            "msuchy"
         ],
         "python-ipython_genutils": [
             "@python-packagers-sig",
@@ -114388,7 +114390,7 @@
         ],
         "python-owl_rl": [
             "@neuro-sig",
-            "orphan"
+            "msuchy"
         ],
         "python-packageurl-python": [
             "@python-packagers-sig",
@@ -115087,7 +115089,7 @@
         "python-pooch": [
             "@epel-packagers-sig",
             "@neuro-sig",
-            "orphan"
+            "msuchy"
         ],
         "python-poppler-qt4": [
             "orphan"
@@ -116726,7 +116728,7 @@
             "fed500"
         ],
         "python-pytest-github-actions-annotate-failures": [
-            "orphan"
+            "msuchy"
         ],
         "python-pytest-golden": [
             "@mkdocs-sig",
@@ -116775,7 +116777,7 @@
         "python-pytest-localftpserver": [
             "@epel-packagers-sig",
             "@neuro-sig",
-            "orphan"
+            "msuchy"
         ],
         "python-pytest-localserver": [
             "pwouters",
@@ -133450,8 +133452,14 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-cssparser-color0.3": [
+            "decathorpe"
+        ],
         "rust-cssparser-macros": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-cssparser-macros0.6": [
             "decathorpe"
         ],
         "rust-cssparser0.29": [
@@ -133460,6 +133468,9 @@
         ],
         "rust-cssparser0.31": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-cssparser0.35": [
             "decathorpe"
         ],
         "rust-cstr": [
@@ -134116,6 +134127,7 @@
             "orphan"
         ],
         "rust-diligent-date-parser": [
+            "@rust-sig",
             "phoebeharris"
         ],
         "rust-dir-test": [
@@ -134349,7 +134361,7 @@
         ],
         "rust-dtor": [
             "@rust-sig",
-            "orphan"
+            "decathorpe"
         ],
         "rust-dtor-proc-macro": [
             "@rust-sig",
@@ -135937,6 +135949,9 @@
         ],
         "rust-gettext-rs": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-gettext-rs0.7": [
             "decathorpe"
         ],
         "rust-gettext-sys": [
@@ -145460,6 +145475,9 @@
         ],
         "rust-selectors0.25": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-selectors0.31": [
             "decathorpe"
         ],
         "rust-self_cell": [
