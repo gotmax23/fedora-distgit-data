@@ -149077,9 +149077,9 @@
             "fedora": "js"
         },
         "python-pathvalidate": {
-            "admin": "orphan",
+            "admin": "msuchy",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "msuchy"
         },
         "python-patiencediff": {
             "admin": "opohorel",
@@ -151927,9 +151927,9 @@
             "fedora": "mikelo2"
         },
         "python-pytest-qt": {
-            "admin": "orphan",
+            "admin": "fedepell",
             "epel": "fedepell",
-            "fedora": "orphan"
+            "fedora": "fedepell"
         },
         "python-pytest-randomly": {
             "admin": "mikelo2",

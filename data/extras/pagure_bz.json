@@ -102917,8 +102917,8 @@
             "jwakely"
         ],
         "psutils": [
-            "@epel-packagers-sig",
             "opohorel",
+            "orion",
             "ppisar"
         ],
         "psysh": [
@@ -114632,7 +114632,7 @@
         ],
         "python-pathvalidate": [
             "jonny",
-            "orphan"
+            "msuchy"
         ],
         "python-patiencediff": [
             "@python-packagers-sig",
@@ -116829,8 +116829,7 @@
         ],
         "python-pytest-qt": [
             "@neuro-sig",
-            "fedepell",
-            "orphan"
+            "fedepell"
         ],
         "python-pytest-randomly": [
             "@python-packagers-sig",
@@ -133453,6 +133452,7 @@
             "decathorpe"
         ],
         "rust-cssparser-color0.3": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-cssparser-macros": [
@@ -133460,6 +133460,7 @@
             "decathorpe"
         ],
         "rust-cssparser-macros0.6": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-cssparser0.29": [
@@ -133471,6 +133472,7 @@
             "decathorpe"
         ],
         "rust-cssparser0.35": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-cstr": [
@@ -135952,6 +135954,7 @@
             "decathorpe"
         ],
         "rust-gettext-rs0.7": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-gettext-sys": [
@@ -145478,6 +145481,7 @@
             "decathorpe"
         ],
         "rust-selectors0.31": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-self_cell": [
