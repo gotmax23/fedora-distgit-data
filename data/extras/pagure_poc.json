@@ -22137,9 +22137,9 @@
             "fedora": "filiperosset"
         },
         "ddcutil": {
-            "admin": "yanqiyu",
-            "epel": "yanqiyu",
-            "fedora": "yanqiyu"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "ddd": {
             "admin": "limb",
@@ -106402,9 +106402,9 @@
             "fedora": "orphan"
         },
         "patool": {
-            "admin": "orphan",
+            "admin": "fedepell",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "fedepell"
         },
         "patricia-trie": {
             "admin": "orphan",
@@ -138847,9 +138847,9 @@
             "fedora": "orphan"
         },
         "python-cmap": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-cmarkgfm": {
             "admin": "salimma",
@@ -141547,9 +141547,9 @@
             "fedora": "sergiopr"
         },
         "python-emoji": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-empy": {
             "admin": "filiperosset",
@@ -147797,9 +147797,9 @@
             "fedora": "music"
         },
         "python-nihtest": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-nikola": {
             "admin": "orphan",
@@ -149102,9 +149102,9 @@
             "fedora": "jonny"
         },
         "python-pbr": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "python-pbs": {
             "admin": "orphan",
@@ -150047,9 +150047,9 @@
             "fedora": "limb"
         },
         "python-puremagic": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "python-puzpy": {
             "admin": "dcavalca",
@@ -150597,9 +150597,9 @@
             "fedora": "fedepell"
         },
         "python-pyftpdlib": {
-            "admin": "orphan",
+            "admin": "msuchy",
             "epel": "kkeithle",
-            "fedora": "orphan"
+            "fedora": "msuchy"
         },
         "python-pyfzf": {
             "admin": "terjeros",
@@ -152812,9 +152812,9 @@
             "fedora": "orphan"
         },
         "python-represent": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-reproject": {
             "admin": "sergiopr",
@@ -153167,9 +153167,9 @@
             "fedora": "ksurma"
         },
         "python-rope": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-ropemacs": {
             "admin": "orphan",
@@ -155377,9 +155377,9 @@
             "fedora": "dcavalca"
         },
         "python-superqt": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-supersmoother": {
             "admin": "sergiopr",
@@ -155762,9 +155762,9 @@
             "fedora": "mikelo2"
         },
         "python-testtools": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "python-texext": {
             "admin": "jjames",
@@ -157072,9 +157072,9 @@
             "fedora": "music"
         },
         "python-usort": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-uswid": {
             "admin": "rhughes",

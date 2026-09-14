@@ -17213,8 +17213,8 @@
         ],
         "ddcutil": [
             "kathenas",
-            "tdawson",
-            "yanqiyu"
+            "orphan",
+            "tdawson"
         ],
         "ddd": [
             "limb"
@@ -65484,7 +65484,6 @@
             "kiilerix",
             "nbecker",
             "opohorel",
-            "pstodulk",
             "sbluhm"
         ],
         "mercury": [
@@ -80962,7 +80961,7 @@
             "orphan"
         ],
         "patool": [
-            "orphan"
+            "fedepell"
         ],
         "patricia-trie": [
             "lkundrak",
@@ -106713,7 +106712,7 @@
         ],
         "python-cmap": [
             "@neuro-sig",
-            "orphan"
+            "fedepell"
         ],
         "python-cmarkgfm": [
             "dcavalca",
@@ -108742,7 +108741,7 @@
             "sergiopr"
         ],
         "python-emoji": [
-            "orphan"
+            "fedepell"
         ],
         "python-empy": [
             "filiperosset"
@@ -113616,7 +113615,7 @@
             "music"
         ],
         "python-nihtest": [
-            "orphan"
+            "fedepell"
         ],
         "python-nikola": [
             "orphan"
@@ -114654,7 +114653,7 @@
             "@epel-packagers-sig",
             "@openstack-sig",
             "apevec",
-            "orphan"
+            "limb"
         ],
         "python-pbs": [
             "orphan"
@@ -115393,7 +115392,7 @@
         ],
         "python-puremagic": [
             "@neuro-sig",
-            "orphan"
+            "limb"
         ],
         "python-puzpy": [
             "dcavalca",
@@ -115795,7 +115794,7 @@
         "python-pyftpdlib": [
             "@epel-packagers-sig",
             "@neuro-sig",
-            "orphan"
+            "msuchy"
         ],
         "python-pyfzf": [
             "terjeros"
@@ -117497,7 +117496,7 @@
             "orphan"
         ],
         "python-represent": [
-            "orphan"
+            "fedepell"
         ],
         "python-reproject": [
             "@astro-sig",
@@ -117790,8 +117789,8 @@
         "python-rope": [
             "@neuro-sig",
             "@python-packagers-sig",
-            "jonathanspw",
-            "orphan"
+            "fedepell",
+            "jonathanspw"
         ],
         "python-ropemacs": [
             "orphan"
@@ -119494,7 +119493,7 @@
         ],
         "python-superqt": [
             "@neuro-sig",
-            "orphan"
+            "fedepell"
         ],
         "python-supersmoother": [
             "@astro-sig",
@@ -119797,7 +119796,7 @@
         ],
         "python-testtools": [
             "@python-packagers-sig",
-            "orphan",
+            "limb",
             "salimma"
         ],
         "python-texext": [
@@ -120821,7 +120820,7 @@
             "music"
         ],
         "python-usort": [
-            "orphan"
+            "fedepell"
         ],
         "python-uswid": [
             "rhughes"
