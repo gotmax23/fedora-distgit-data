@@ -19301,7 +19301,7 @@
         "drpm": [
             "@rpm-software-management-sig",
             "jmracek",
-            "mcbeeffx"
+            "orphan"
         ],
         "drpython": [
             "orphan"
@@ -48331,7 +48331,7 @@
         "imapfilter": [
             "averi",
             "cicku",
-            "orphan"
+            "filiperosset"
         ],
         "imapsync": [
             "jonathanspw",
@@ -59509,8 +59509,8 @@
             "tuliom"
         ],
         "liboauth": [
-            "orphan",
-            "salimma"
+            "salimma",
+            "yselkowitz"
         ],
         "liboauth2": [
             "abbra"
@@ -62688,7 +62688,7 @@
             "than"
         ],
         "low-memory-monitor": [
-            "mcbeeffx"
+            "orphan"
         ],
         "lowdown": [
             "petersen",
@@ -77272,8 +77272,7 @@
             "jjames"
         ],
         "ocaml-atd": [
-            "jjames",
-            "orphan"
+            "jjames"
         ],
         "ocaml-augeas": [
             "rjones"
@@ -79666,6 +79665,9 @@
         "opentest4j": [
             "mizdebsk",
             "mkoncek"
+        ],
+        "opentmux": [
+            "salimma"
         ],
         "opentofu": [
             "@go-sig",
@@ -104370,7 +104372,7 @@
             "fedepell"
         ],
         "python-aexpect": [
-            "orphan"
+            "fedepell"
         ],
         "python-affine": [
             "@epel-packagers-sig",
@@ -104694,7 +104696,7 @@
         ],
         "python-annarchy": [
             "@neuro-sig",
-            "orphan"
+            "ankursinha"
         ],
         "python-annexremote": [
             "@neuro-sig",
@@ -104858,7 +104860,6 @@
             "gotmax23",
             "ignatenkobrain",
             "msrb",
-            "orphan",
             "stevetraylen"
         ],
         "python-argh": [
@@ -108811,7 +108812,7 @@
         ],
         "python-ephyviewer": [
             "@neuro-sig",
-            "orphan"
+            "ankursinha"
         ],
         "python-epi": [
             "@openstack-sig",
@@ -109005,6 +109006,9 @@
         ],
         "python-ezdxf": [
             "music"
+        ],
+        "python-ezgb": [
+            "mripard"
         ],
         "python-f5-icontrol-rest": [
             "orphan"
@@ -112180,6 +112184,9 @@
         ],
         "python-liblarch_gtk": [
             "orphan"
+        ],
+        "python-liblore": [
+            "mripard"
         ],
         "python-libnacl": [
             "jonny",
@@ -116283,7 +116290,8 @@
             "orphan"
         ],
         "python-pyqt-feedback-flow": [
-            "orphan"
+            "@neuro-sig",
+            "music"
         ],
         "python-pyqt5-sip": [
             "swt2c"
@@ -119811,8 +119819,8 @@
         ],
         "python-textdistance": [
             "@neuro-sig",
-            "jonathanspw",
-            "orphan"
+            "ankursinha",
+            "jonathanspw"
         ],
         "python-textfsm": [
             "@openstack-sig",
@@ -119977,7 +119985,7 @@
             "@epel-packagers-sig",
             "@python-packagers-sig",
             "dcavalca",
-            "orphan"
+            "filiperosset"
         ],
         "python-token-bucket": [
             "supakeen"
@@ -120243,7 +120251,7 @@
         ],
         "python-trx-python": [
             "@neuro-sig",
-            "orphan"
+            "music"
         ],
         "python-ttfautohint-py": [
             "music"
@@ -124725,6 +124733,7 @@
             "@go-sig",
             "dwalsh",
             "lsm5",
+            "owalsh",
             "smooge"
         ],
         "ramond": [
@@ -141532,6 +141541,9 @@
             "@rust-sig",
             "asn"
         ],
+        "rust-opendal-core": [
+            "asn"
+        ],
         "rust-opener": [
             "@rust-sig",
             "decathorpe"
@@ -151262,6 +151274,9 @@
             "fnux",
             "jstanek"
         ],
+        "scenefx": [
+            "damiand"
+        ],
         "schedtool": [
             "@epel-packagers-sig",
             "dcavalca",
@@ -159535,7 +159550,7 @@
         ],
         "units-llnl": [
             "@neuro-sig",
-            "orphan"
+            "ankursinha"
         ],
         "unittest": [
             "orphan"
@@ -162621,8 +162636,8 @@
             "mchehab"
         ],
         "xbacklight": [
-            "orphan",
-            "salimma"
+            "salimma",
+            "suve"
         ],
         "xbae": [
             "limb",

@@ -24782,9 +24782,9 @@
             "fedora": "liuhangbin"
         },
         "drpm": {
-            "admin": "mcbeeffx",
-            "epel": "mcbeeffx",
-            "fedora": "mcbeeffx"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "drpython": {
             "admin": "orphan",
@@ -62987,9 +62987,9 @@
             "fedora": "orphan"
         },
         "imapfilter": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "imapsync": {
             "admin": "nb",
@@ -77047,9 +77047,9 @@
             "fedora": "tuliom"
         },
         "liboauth": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
         },
         "liboauth2": {
             "admin": "abbra",
@@ -80982,9 +80982,9 @@
             "fedora": "q5sys"
         },
         "low-memory-monitor": {
-            "admin": "mcbeeffx",
-            "epel": "mcbeeffx",
-            "fedora": "mcbeeffx"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "lowdown": {
             "admin": "zbyszek",
@@ -101502,9 +101502,9 @@
             "fedora": "jjames"
         },
         "ocaml-atd": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
         },
         "ocaml-augeas": {
             "admin": "rjones",
@@ -104700,6 +104700,11 @@
             "admin": "mkoncek",
             "epel": "mkoncek",
             "fedora": "mkoncek"
+        },
+        "opentmux": {
+            "admin": "salimma",
+            "epel": "salimma",
+            "fedora": "salimma"
         },
         "opentofu": {
             "admin": "mikelo2",
@@ -135787,9 +135792,9 @@
             "fedora": "fedepell"
         },
         "python-aexpect": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-affine": {
             "admin": "qulogic",
@@ -136242,9 +136247,9 @@
             "fedora": "orphan"
         },
         "python-annarchy": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "ankursinha",
+            "epel": "ankursinha",
+            "fedora": "ankursinha"
         },
         "python-annexremote": {
             "admin": "ankursinha",
@@ -136452,9 +136457,9 @@
             "fedora": "orphan"
         },
         "python-argcomplete": {
-            "admin": "orphan",
+            "admin": "stevetraylen",
             "epel": "stevetraylen",
-            "fedora": "orphan"
+            "fedora": "stevetraylen"
         },
         "python-argh": {
             "admin": "orphan",
@@ -141637,9 +141642,9 @@
             "fedora": "smani"
         },
         "python-ephyviewer": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "ankursinha",
+            "epel": "ankursinha",
+            "fedora": "ankursinha"
         },
         "python-epi": {
             "admin": "orphan",
@@ -141890,6 +141895,11 @@
             "admin": "music",
             "epel": "music",
             "fedora": "music"
+        },
+        "python-ezgb": {
+            "admin": "mripard",
+            "epel": "mripard",
+            "fedora": "mripard"
         },
         "python-f5-icontrol-rest": {
             "admin": "orphan",
@@ -145940,6 +145950,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "python-liblore": {
+            "admin": "mripard",
+            "epel": "mripard",
+            "fedora": "mripard"
         },
         "python-libnacl": {
             "admin": "jonny",
@@ -151232,9 +151247,9 @@
             "fedora": "orphan"
         },
         "python-pyqt-feedback-flow": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "python-pyqt5-sip": {
             "admin": "swt2c",
@@ -155782,9 +155797,9 @@
             "fedora": "orphan"
         },
         "python-textdistance": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "ankursinha",
+            "epel": "ankursinha",
+            "fedora": "ankursinha"
         },
         "python-textfsm": {
             "admin": "jpena",
@@ -156012,9 +156027,9 @@
             "fedora": "thebeanogamer"
         },
         "python-tmuxp": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-token-bucket": {
             "admin": "supakeen",
@@ -156327,9 +156342,9 @@
             "fedora": "fed500"
         },
         "python-trx-python": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "python-ttfautohint-py": {
             "admin": "music",
@@ -183916,6 +183931,11 @@
             "epel": "asn",
             "fedora": "asn"
         },
+        "rust-opendal-core": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
         "rust-opener": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -196306,6 +196326,11 @@
             "epel": "fnux",
             "fedora": "fnux"
         },
+        "scenefx": {
+            "admin": "damiand",
+            "epel": "damiand",
+            "fedora": "damiand"
+        },
         "schedtool": {
             "admin": "drago01",
             "epel": "@epel-packagers-sig",
@@ -207452,9 +207477,9 @@
             "fedora": "jamacku"
         },
         "units-llnl": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "ankursinha",
+            "epel": "ankursinha",
+            "fedora": "ankursinha"
         },
         "unittest": {
             "admin": "orphan",
@@ -211622,9 +211647,9 @@
             "fedora": "buc"
         },
         "xbacklight": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
         },
         "xbae": {
             "admin": "limb",
