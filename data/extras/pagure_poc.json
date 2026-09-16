@@ -5647,9 +5647,9 @@
             "fedora": "orphan"
         },
         "NetworkManager": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "bengal",
+            "epel": "bengal",
+            "fedora": "bengal"
         },
         "NetworkManager-fortisslvpn": {
             "admin": "lkundrak",
@@ -101116,6 +101116,11 @@
             "epel": "kwizart",
             "fedora": "kwizart"
         },
+        "nv-codec-headers13.0": {
+            "admin": "kwizart",
+            "epel": "kwizart",
+            "fedora": "kwizart"
+        },
         "nvclock": {
             "admin": "orphan",
             "epel": "orphan",
@@ -161406,6 +161411,11 @@
             "epel": "tdawson",
             "fedora": "jgrulich"
         },
+        "qt6-qtcanvaspainter": {
+            "admin": "jgrulich",
+            "epel": "jgrulich",
+            "fedora": "jgrulich"
+        },
         "qt6-qtcharts": {
             "admin": "jgrulich",
             "epel": "tdawson",
@@ -211187,9 +211197,9 @@
             "fedora": "orphan"
         },
         "wpa_supplicant": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "dcaratti",
+            "epel": "dcaratti",
+            "fedora": "dcaratti"
         },
         "wpan-tools": {
             "admin": "pbrobinson",

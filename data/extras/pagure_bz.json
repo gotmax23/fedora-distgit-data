@@ -76963,6 +76963,9 @@
             "kwizart",
             "xavierb"
         ],
+        "nv-codec-headers13.0": [
+            "kwizart"
+        ],
         "nvclock": [
             "drago01",
             "orphan"
@@ -104782,6 +104785,7 @@
             "orphan"
         ],
         "python-anytree": [
+            "fedepell",
             "lkundrak"
         ],
         "python-anyvc": [
@@ -120075,7 +120079,6 @@
             "@python-packagers-sig",
             "abompard",
             "churchyard",
-            "limb",
             "orion",
             "rcallicotte"
         ],
@@ -124042,6 +124045,9 @@
         ],
         "qt6-qtbase": [
             "@kde-sig",
+            "jgrulich"
+        ],
+        "qt6-qtcanvaspainter": [
             "jgrulich"
         ],
         "qt6-qtcharts": [
@@ -141542,6 +141548,7 @@
             "asn"
         ],
         "rust-opendal-core": [
+            "@rust-sig",
             "asn"
         ],
         "rust-opener": [
