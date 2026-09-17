@@ -102270,6 +102270,10 @@
             "@db-sig",
             "fjanus"
         ],
+        "postgresql_anonymizer": [
+            "@db-sig",
+            "pkhartsk"
+        ],
         "postgresql_autodoc": [
             "devrim",
             "orphan",
@@ -131564,6 +131568,9 @@
             "@rust-sig",
             "orphan"
         ],
+        "rust-bitfield0.15": [
+            "decathorpe"
+        ],
         "rust-bitflags": [
             "@rust-sig",
             "decathorpe"
@@ -153922,6 +153929,9 @@
             "frantisekz"
         ],
         "spirv-llvm-translator17": [
+            "frantisekz"
+        ],
+        "spirv-llvm-translator22": [
             "frantisekz"
         ],
         "spirv-llvm15.0-translator": [

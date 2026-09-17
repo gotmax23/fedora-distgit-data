@@ -132961,6 +132961,11 @@
             "epel": "fjanus",
             "fedora": "fjanus"
         },
+        "postgresql_anonymizer": {
+            "admin": "pkhartsk",
+            "epel": "pkhartsk",
+            "fedora": "pkhartsk"
+        },
         "postgresql_autodoc": {
             "admin": "orphan",
             "epel": "orphan",
@@ -171376,6 +171381,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-bitfield0.15": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-bitflags": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -199827,6 +199837,11 @@
             "fedora": "frantisekz"
         },
         "spirv-llvm-translator17": {
+            "admin": "frantisekz",
+            "epel": "frantisekz",
+            "fedora": "frantisekz"
+        },
+        "spirv-llvm-translator22": {
             "admin": "frantisekz",
             "epel": "frantisekz",
             "fedora": "frantisekz"
