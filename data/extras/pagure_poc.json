@@ -44632,9 +44632,9 @@
             "fedora": "mikep"
         },
         "golang-github-azure-amqp-common": {
-            "admin": "mikep",
-            "epel": "mikep",
-            "fedora": "mikep"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-azure-ansiterm": {
             "admin": "orphan",
@@ -46492,9 +46492,9 @@
             "fedora": "orphan"
         },
         "golang-github-distribution-reference": {
-            "admin": "principis",
-            "epel": "principis",
-            "fedora": "principis"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-djherbis-atime": {
             "admin": "qulogic",
@@ -104797,9 +104797,9 @@
             "fedora": "orphan"
         },
         "openvino": {
-            "admin": "aekoroglu",
-            "epel": "aekoroglu",
-            "fedora": "aekoroglu"
+            "admin": "aanokhov",
+            "epel": "aanokhov",
+            "fedora": "aanokhov"
         },
         "openvkl": {
             "admin": "aekoroglu",
@@ -124186,6 +124186,11 @@
             "epel": "fjanus",
             "fedora": "fjanus"
         },
+        "pg_cron": {
+            "admin": "dhandzus",
+            "epel": "dhandzus",
+            "fedora": "dhandzus"
+        },
         "pg_journal": {
             "admin": "orphan",
             "epel": "orphan",
@@ -124195,6 +124200,11 @@
             "admin": "fjanus",
             "epel": "fjanus",
             "fedora": "fjanus"
+        },
+        "pg_tle": {
+            "admin": "dhandzus",
+            "epel": "dhandzus",
+            "fedora": "dhandzus"
         },
         "pg_top": {
             "admin": "mikelo2",
@@ -158337,9 +158347,9 @@
             "fedora": "gsauthof"
         },
         "python-zeroconf": {
-            "admin": "churchyard",
-            "epel": "churchyard",
-            "fedora": "churchyard"
+            "admin": "pbrobinson",
+            "epel": "pbrobinson",
+            "fedora": "pbrobinson"
         },
         "python-zfec": {
             "admin": "orphan",
@@ -208492,6 +208502,11 @@
             "fedora": "martinkg"
         },
         "vdr-skinenigmang": {
+            "admin": "martinkg",
+            "epel": "martinkg",
+            "fedora": "martinkg"
+        },
+        "vdr-skinflatplus": {
             "admin": "martinkg",
             "epel": "martinkg",
             "fedora": "martinkg"

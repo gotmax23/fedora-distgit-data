@@ -16066,6 +16066,7 @@
             "buckaroogeek"
         ],
         "cri-o1.37": [
+            "@go-sig",
             "buckaroogeek"
         ],
         "cri-tools": [
@@ -34347,7 +34348,7 @@
         ],
         "golang-github-azure-amqp-common": [
             "@go-sig",
-            "mikep"
+            "orphan"
         ],
         "golang-github-azure-ansiterm": [
             "orphan"
@@ -35755,7 +35756,7 @@
         ],
         "golang-github-distribution-reference": [
             "@go-sig",
-            "principis"
+            "orphan"
         ],
         "golang-github-djherbis-atime": [
             "@go-sig",
@@ -64153,7 +64154,6 @@
             "smani"
         ],
         "mat2": [
-            "fabio",
             "infraw"
         ],
         "matahari": [
@@ -79735,7 +79735,6 @@
         ],
         "openvino": [
             "aanokhov",
-            "aekoroglu",
             "ajax",
             "androniychuk",
             "kgiusti",
@@ -79930,7 +79929,8 @@
             "zbyszek"
         ],
         "orthanc": [
-            "orphan"
+            "orphan",
+            "retsil"
         ],
         "orthorobot": [
             "mystro256"
@@ -96360,6 +96360,10 @@
             "@db-sig",
             "fjanus"
         ],
+        "pg_cron": [
+            "@db-sig",
+            "dhandzus"
+        ],
         "pg_journal": [
             "orphan",
             "ttorcz"
@@ -96367,6 +96371,10 @@
         "pg_repack": [
             "@db-sig",
             "fjanus"
+        ],
+        "pg_tle": [
+            "@db-sig",
+            "dhandzus"
         ],
         "pg_top": [
             "filiperosset",
@@ -105867,7 +105875,6 @@
             "jonathanspw",
             "kevin",
             "mrunge",
-            "stevetraylen",
             "terjeros"
         ],
         "python-beautifultable": [
@@ -131569,6 +131576,7 @@
             "orphan"
         ],
         "rust-bitfield0.15": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-bitflags": [
@@ -153932,6 +153940,7 @@
             "frantisekz"
         ],
         "spirv-llvm-translator22": [
+            "androniychuk",
             "frantisekz"
         ],
         "spirv-llvm15.0-translator": [
@@ -160314,6 +160323,9 @@
             "martinkg"
         ],
         "vdr-skinenigmang": [
+            "martinkg"
+        ],
+        "vdr-skinflatplus": [
             "martinkg"
         ],
         "vdr-skinnopacity": [
