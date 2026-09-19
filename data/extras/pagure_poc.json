@@ -10731,6 +10731,11 @@
             "epel": "jjames",
             "fedora": "jjames"
         },
+        "antifennel": {
+            "admin": "salimma",
+            "epel": "salimma",
+            "fedora": "salimma"
+        },
         "antimicro": {
             "admin": "orphan",
             "epel": "orphan",
@@ -15722,6 +15727,11 @@
             "fedora": "jjardon"
         },
         "buildstream-plugins": {
+            "admin": "jjardon",
+            "epel": "jjardon",
+            "fedora": "jjardon"
+        },
+        "buildstream-plugins-community": {
             "admin": "jjardon",
             "epel": "jjardon",
             "fedora": "jjardon"
@@ -60975,6 +60985,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "httpdirfs": {
+            "admin": "michich",
+            "epel": "michich",
+            "fedora": "michich"
         },
         "httpdtap": {
             "admin": "orphan",
@@ -136176,6 +136191,11 @@
             "epel": "nphilipp",
             "fedora": "nphilipp"
         },
+        "python-alembic1.19": {
+            "admin": "nphilipp",
+            "epel": "nphilipp",
+            "fedora": "nphilipp"
+        },
         "python-alembic1.4": {
             "admin": "nphilipp",
             "epel": "nphilipp",
@@ -151456,6 +151476,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-pysequoia": {
+            "admin": "suraia",
+            "epel": "suraia",
+            "fedora": "suraia"
+        },
         "python-pyshacl": {
             "admin": "mikelo2",
             "epel": "mikelo2",
@@ -151880,6 +151905,11 @@
             "admin": "fedepell",
             "epel": "@epel-packagers-sig",
             "fedora": "fedepell"
+        },
+        "python-pytest-json-report": {
+            "admin": "pbrobinson",
+            "epel": "pbrobinson",
+            "fedora": "pbrobinson"
         },
         "python-pytest-jupyter": {
             "admin": "lbalhar",
@@ -156715,6 +156745,11 @@
             "admin": "ppfeister",
             "epel": "ppfeister",
             "fedora": "ppfeister"
+        },
+        "python-types-paramiko": {
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
         },
         "python-types-psutil": {
             "admin": "limb",
@@ -183352,7 +183387,7 @@
             "fedora": "@rust-sig"
         },
         "rust-nom_locate": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },

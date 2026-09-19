@@ -8389,6 +8389,9 @@
         "antic": [
             "jjames"
         ],
+        "antifennel": [
+            "salimma"
+        ],
         "antimicro": [
             "besser82",
             "orphan"
@@ -12305,6 +12308,9 @@
             "jjardon"
         ],
         "buildstream-plugins": [
+            "jjardon"
+        ],
+        "buildstream-plugins-community": [
             "jjardon"
         ],
         "buku": [
@@ -31349,7 +31355,8 @@
         "glm": [
             "@epel-packagers-sig",
             "muep",
-            "orion"
+            "orion",
+            "suve"
         ],
         "glmark2": [
             "ghishadow",
@@ -46851,6 +46858,9 @@
         "httpd-itk": [
             "hubbitus",
             "orphan"
+        ],
+        "httpdirfs": [
+            "michich"
         ],
         "httpdtap": [
             "orphan"
@@ -65807,7 +65817,8 @@
             "sergiopr"
         ],
         "milkytracker": [
-            "muep"
+            "muep",
+            "suve"
         ],
         "miller": [
             "@epel-packagers-sig",
@@ -104641,6 +104652,9 @@
             "@infra-sig",
             "nphilipp"
         ],
+        "python-alembic1.19": [
+            "nphilipp"
+        ],
         "python-alembic1.4": [
             "nphilipp"
         ],
@@ -116463,6 +116477,11 @@
             "@neuro-sig",
             "orphan"
         ],
+        "python-pysequoia": [
+            "@rust-sig",
+            "decathorpe",
+            "suraia"
+        ],
         "python-pyshacl": [
             "@python-packagers-sig",
             "mikelo2"
@@ -116783,6 +116802,9 @@
             "@epel-packagers-sig",
             "fedepell",
             "orion"
+        ],
+        "python-pytest-json-report": [
+            "pbrobinson"
         ],
         "python-pytest-jupyter": [
             "lbalhar",
@@ -120531,6 +120553,9 @@
         ],
         "python-types-mock": [
             "ppfeister"
+        ],
+        "python-types-paramiko": [
+            "fed500"
         ],
         "python-types-psutil": [
             "limb"
@@ -126606,7 +126631,8 @@
             "jskarvad"
         ],
         "rtmidi": [
-            "muep"
+            "muep",
+            "suve"
         ],
         "rtmpdump": [
             "@multimedia-sig",
@@ -141081,7 +141107,7 @@
         ],
         "rust-nom_locate": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-nonempty": [
             "@rust-sig",
