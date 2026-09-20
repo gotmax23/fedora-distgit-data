@@ -39451,6 +39451,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "ghc10.0": {
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
+        },
         "ghc8.10": {
             "admin": "orphan",
             "epel": "orphan",
@@ -41678,7 +41683,7 @@
         },
         "gnome-commander": {
             "admin": "mtasaka",
-            "epel": "mtasaka",
+            "epel": "orphan",
             "fedora": "mtasaka"
         },
         "gnome-common": {
@@ -176251,6 +176256,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-freedesktop-desktop-entry": {
+            "admin": "jsteffan",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-freedesktop-icons": {
             "admin": "dcavalca",
             "epel": "@rust-sig",
@@ -208457,6 +208467,11 @@
             "fedora": "kwizart"
         },
         "vdr": {
+            "admin": "martinkg",
+            "epel": "martinkg",
+            "fedora": "martinkg"
+        },
+        "vdr-dvbhddevice": {
             "admin": "martinkg",
             "epel": "martinkg",
             "fedora": "martinkg"

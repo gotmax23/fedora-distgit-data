@@ -4255,7 +4255,6 @@
             "rineau"
         ],
         "ImageMagick": [
-            "@epel-packagers-sig",
             "blaise",
             "dcavalca",
             "luya",
@@ -30416,6 +30415,9 @@
         ],
         "ghc-zlib-enum": [
             "orphan"
+        ],
+        "ghc10.0": [
+            "petersen"
         ],
         "ghc8.10": [
             "orphan"
@@ -63686,6 +63688,7 @@
             "mtasaka"
         ],
         "magic_enum": [
+            "@xr-sig",
             "dcavalca"
         ],
         "magicmaze": [
@@ -107617,6 +107620,7 @@
         ],
         "python-dbus-fast": [
             "@python-packagers-sig",
+            "dannycolin",
             "frostyx"
         ],
         "python-dbus-next": [
@@ -135404,6 +135408,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-freedesktop-desktop-entry": [
+            "@rust-sig",
+            "jsteffan"
+        ],
         "rust-freedesktop-icons": [
             "@rust-sig",
             "dcavalca"
@@ -160295,6 +160303,9 @@
             "dnehring",
             "martinkg",
             "vpv"
+        ],
+        "vdr-dvbhddevice": [
+            "martinkg"
         ],
         "vdr-epg-daemon": [
             "martinkg"
