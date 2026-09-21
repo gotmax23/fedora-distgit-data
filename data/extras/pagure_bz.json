@@ -51178,7 +51178,8 @@
         ],
         "jline2": [
             "didiksupriadi41",
-            "jerboaa"
+            "jerboaa",
+            "kkeithle"
         ],
         "jline3": [
             "orphan",
@@ -132287,6 +132288,10 @@
             "@rust-sig",
             "pemensik"
         ],
+        "rust-cargo-semver-checks": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-cargo-util": [
             "@rust-sig",
             "decathorpe"
@@ -144501,6 +144506,10 @@
             "music"
         ],
         "rust-reqsign-aliyun-oss": [
+            "@rust-sig",
+            "music"
+        ],
+        "rust-reqsign-aws-core": [
             "@rust-sig",
             "music"
         ],

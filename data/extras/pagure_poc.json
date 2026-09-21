@@ -172301,6 +172301,11 @@
             "epel": "pemensik",
             "fedora": "pemensik"
         },
+        "rust-cargo-semver-checks": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-cargo-util": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -187692,6 +187697,11 @@
             "fedora": "music"
         },
         "rust-reqsign-aliyun-oss": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "rust-reqsign-aws-core": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"
