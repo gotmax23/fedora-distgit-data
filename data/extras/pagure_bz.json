@@ -6988,6 +6988,7 @@
         "aardvark-dns": [
             "baude",
             "dwalsh",
+            "jkaluza",
             "jnovy",
             "lsm5",
             "luap99",
@@ -8203,6 +8204,9 @@
         ],
         "ansible-builder": [
             "gotmax23"
+        ],
+        "ansible-collection-ansible-mariadb": [
+            "orion"
         ],
         "ansible-collection-ansible-netcommon": [
             "@infra-sig",
@@ -12278,6 +12282,7 @@
             "@go-sig",
             "dwalsh",
             "haircommander",
+            "jkaluza",
             "jnovy",
             "lsm5",
             "luap99",
@@ -12949,6 +12954,7 @@
         ],
         "catatonit": [
             "haircommander",
+            "jkaluza",
             "lsm5",
             "vrothberg"
         ],
@@ -15267,6 +15273,7 @@
         "conmon": [
             "buckaroogeek",
             "haircommander",
+            "jkaluza",
             "jnovy",
             "lsm5",
             "mohanboddu"
@@ -15361,6 +15368,7 @@
             "dweomer",
             "haircommander",
             "jchaloup",
+            "jkaluza",
             "lsm5",
             "luap99",
             "lvrabec",
@@ -15396,6 +15404,7 @@
         "containers-common": [
             "baude",
             "dwalsh",
+            "jkaluza",
             "jnovy",
             "lsm5",
             "luap99",
@@ -16259,6 +16268,7 @@
         "crun": [
             "gscrivano",
             "haircommander",
+            "jkaluza",
             "lsm5",
             "luap99",
             "nsella"
@@ -16716,6 +16726,7 @@
             "jjames"
         ],
         "cxx-rust-cssparser": [
+            "@kde-sig",
             "farchord"
         ],
         "cxxopts": [
@@ -61605,6 +61616,8 @@
             "smani"
         ],
         "libxsmm": [
+            "@scitech_sig",
+            "growl",
             "loveshack"
         ],
         "libyahoo2": [
@@ -70435,6 +70448,7 @@
         "netavark": [
             "baude",
             "dwalsh",
+            "jkaluza",
             "jnovy",
             "lsm5",
             "luap99",
@@ -78087,6 +78101,7 @@
         ],
         "oci-seccomp-bpf-hook": [
             "@go-sig",
+            "jkaluza",
             "jnovy",
             "lsm5",
             "vrothberg"
@@ -78669,7 +78684,8 @@
             "xanderlent"
         ],
         "oo7": [
-            "decathorpe"
+            "decathorpe",
+            "ngompa"
         ],
         "oomd": [
             "dcavalca",
@@ -80318,6 +80334,7 @@
         ],
         "pack": [
             "@go-sig",
+            "jkaluza",
             "jnovy",
             "lsm5"
         ],
@@ -101809,6 +101826,7 @@
             "baude",
             "dwalsh",
             "ghishadow",
+            "jkaluza",
             "jnovy",
             "lsm5",
             "luap99",
@@ -115086,6 +115104,7 @@
         "python-podman": [
             "baude",
             "dwalsh",
+            "jkaluza",
             "jnovy",
             "lsm5",
             "luap99",
@@ -152899,6 +152918,7 @@
             "baude",
             "dwalsh",
             "haircommander",
+            "jkaluza",
             "jnovy",
             "kwalker",
             "lsm5",
@@ -164716,6 +164736,9 @@
         ],
         "xrotor": [
             "smani"
+        ],
+        "xrt": [
+            "stsoe"
         ],
         "xs": [
             "orphan"

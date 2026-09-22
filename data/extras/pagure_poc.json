@@ -8892,9 +8892,9 @@
             "fedora": "orphan"
         },
         "aardvark-dns": {
-            "admin": "lsm5",
-            "epel": "lsm5",
-            "fedora": "lsm5"
+            "admin": "jkaluza",
+            "epel": "jkaluza",
+            "fedora": "jkaluza"
         },
         "aasaver": {
             "admin": "orphan",
@@ -10515,6 +10515,11 @@
             "admin": "gotmax23",
             "epel": "gotmax23",
             "fedora": "gotmax23"
+        },
+        "ansible-collection-ansible-mariadb": {
+            "admin": "orion",
+            "epel": "orion",
+            "fedora": "orion"
         },
         "ansible-collection-ansible-netcommon": {
             "admin": "orion",
@@ -15702,9 +15707,9 @@
             "fedora": "mkrupcale"
         },
         "buildah": {
-            "admin": "lsm5",
-            "epel": "lsm5",
-            "fedora": "lsm5"
+            "admin": "jkaluza",
+            "epel": "jkaluza",
+            "fedora": "jkaluza"
         },
         "buildbot": {
             "admin": "limb",
@@ -19787,9 +19792,9 @@
             "fedora": "orphan"
         },
         "container-selinux": {
-            "admin": "lsm5",
-            "epel": "lsm5",
-            "fedora": "lsm5"
+            "admin": "jkaluza",
+            "epel": "jkaluza",
+            "fedora": "jkaluza"
         },
         "container-storage-setup": {
             "admin": "lsm5",
@@ -19822,9 +19827,9 @@
             "fedora": "orphan"
         },
         "containers-common": {
-            "admin": "lsm5",
-            "epel": "lsm5",
-            "fedora": "lsm5"
+            "admin": "jkaluza",
+            "epel": "jkaluza",
+            "fedora": "jkaluza"
         },
         "contextkit": {
             "admin": "orphan",
@@ -79677,9 +79682,9 @@
             "fedora": "smani"
         },
         "libxsmm": {
-            "admin": "loveshack",
-            "epel": "loveshack",
-            "fedora": "loveshack"
+            "admin": "growl",
+            "epel": "growl",
+            "fedora": "growl"
         },
         "libyahoo2": {
             "admin": "orphan",
@@ -91357,9 +91362,9 @@
             "fedora": "kni"
         },
         "netavark": {
-            "admin": "lsm5",
-            "epel": "lsm5",
-            "fedora": "lsm5"
+            "admin": "jkaluza",
+            "epel": "jkaluza",
+            "fedora": "jkaluza"
         },
         "netbeans": {
             "admin": "orphan",
@@ -105547,9 +105552,9 @@
             "fedora": "jwrdegoede"
         },
         "pack": {
-            "admin": "lsm5",
-            "epel": "lsm5",
-            "fedora": "lsm5"
+            "admin": "jkaluza",
+            "epel": "jkaluza",
+            "fedora": "jkaluza"
         },
         "packETH": {
             "admin": "rebus",
@@ -132382,9 +132387,9 @@
             "fedora": "orphan"
         },
         "podman": {
-            "admin": "lsm5",
-            "epel": "lsm5",
-            "fedora": "lsm5"
+            "admin": "jkaluza",
+            "epel": "jkaluza",
+            "fedora": "jkaluza"
         },
         "podman-compose": {
             "admin": "limb",
@@ -198482,9 +198487,9 @@
             "fedora": "yselkowitz"
         },
         "skopeo": {
-            "admin": "lsm5",
-            "epel": "lsm5",
-            "fedora": "lsm5"
+            "admin": "jkaluza",
+            "epel": "jkaluza",
+            "fedora": "jkaluza"
         },
         "skribilo": {
             "admin": "fed500",
@@ -214350,6 +214355,11 @@
             "admin": "smani",
             "epel": "smani",
             "fedora": "smani"
+        },
+        "xrt": {
+            "admin": "stsoe",
+            "epel": "stsoe",
+            "fedora": "stsoe"
         },
         "xs": {
             "admin": "orphan",
