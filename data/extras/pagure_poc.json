@@ -12791,6 +12791,11 @@
             "epel": "limb",
             "fedora": "limb"
         },
+        "audioreach-conf": {
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
+        },
         "audiotube": {
             "admin": "thunderbirdtr",
             "epel": "thunderbirdtr",
@@ -32391,6 +32396,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "fnlfmt": {
+            "admin": "salimma",
+            "epel": "salimma",
+            "fedora": "salimma"
+        },
         "fntsample": {
             "admin": "pnemade",
             "epel": "pnemade",
@@ -33442,9 +33452,9 @@
             "fedora": "orphan"
         },
         "fuse-overlayfs": {
-            "admin": "lsm5",
-            "epel": "lsm5",
-            "fedora": "lsm5"
+            "admin": "jkaluza",
+            "epel": "jkaluza",
+            "fedora": "jkaluza"
         },
         "fuse-pingfs": {
             "admin": "mikelo2",
@@ -53587,9 +53597,9 @@
             "fedora": "orphan"
         },
         "golang-github-shopify-toxiproxy": {
-            "admin": "eclipseo",
-            "epel": "eclipseo",
-            "fedora": "eclipseo"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-shopspring-decimal": {
             "admin": "alexsaezm",
@@ -58255,6 +58265,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "grub-cc": {
+            "admin": "lsandova",
+            "epel": "lsandova",
+            "fedora": "lsandova"
         },
         "grub-customizer": {
             "admin": "orphan",
@@ -69463,8 +69478,8 @@
         },
         "kf5-khtml": {
             "admin": "orphan",
-            "epel": "@kde-sig",
-            "fedora": "@kde-sig"
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-ki18n": {
             "admin": "farchord",
@@ -69553,8 +69568,8 @@
         },
         "kf5-kjsembed": {
             "admin": "orphan",
-            "epel": "@kde-sig",
-            "fedora": "@kde-sig"
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-kldap": {
             "admin": "orphan",
@@ -75458,7 +75473,7 @@
         },
         "libheif": {
             "admin": "ngompa",
-            "epel": "ngompa",
+            "epel": "salimma",
             "fedora": "ngompa"
         },
         "libheinz": {
@@ -79757,9 +79772,9 @@
             "fedora": "orphan"
         },
         "libyui-mga-ncurses": {
-            "admin": "ngompa",
-            "epel": "ngompa",
-            "fedora": "ngompa"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "libyui-mga-qt": {
             "admin": "orphan",
@@ -97901,6 +97916,16 @@
             "epel": "asn",
             "fedora": "asn"
         },
+        "nodejs-pnpm11": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
+        "nodejs-pnpm12": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
         "nodejs-portfinder": {
             "admin": "orphan",
             "epel": "orphan",
@@ -103857,9 +103882,9 @@
             "fedora": "limb"
         },
         "opengrm-ngram": {
-            "admin": "mikep",
-            "epel": "mikep",
-            "fedora": "mikep"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "opengrok": {
             "admin": "orphan",
@@ -141716,6 +141741,11 @@
             "epel": "orphan",
             "fedora": "topazus"
         },
+        "python-esp-pylib": {
+            "admin": "ksurma",
+            "epel": "ksurma",
+            "fedora": "ksurma"
+        },
         "python-espeak": {
             "admin": "orphan",
             "epel": "orphan",
@@ -154793,7 +154823,7 @@
         },
         "python-sphinxcontrib-apidoc": {
             "admin": "lbalhar",
-            "epel": "lbalhar",
+            "epel": "orphan",
             "fedora": "lbalhar"
         },
         "python-sphinxcontrib-applehelp": {

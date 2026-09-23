@@ -10042,6 +10042,9 @@
             "mclasen",
             "rstrode"
         ],
+        "audioreach-conf": [
+            "aekoroglu"
+        ],
         "audiotube": [
             "@kde-sig",
             "thunderbirdtr"
@@ -24930,6 +24933,9 @@
         "fnfx": [
             "orphan"
         ],
+        "fnlfmt": [
+            "salimma"
+        ],
         "fntsample": [
             "i18n-team",
             "pnemade"
@@ -25747,6 +25753,7 @@
         "fuse-overlayfs": [
             "@container-sig",
             "gscrivano",
+            "jkaluza",
             "lsm5",
             "mathstuf"
         ],
@@ -41198,7 +41205,7 @@
         ],
         "golang-github-shopify-toxiproxy": [
             "@go-sig",
-            "eclipseo"
+            "orphan"
         ],
         "golang-github-shopspring-decimal": [
             "@go-sig",
@@ -44762,6 +44769,9 @@
             "lkundrak",
             "orphan",
             "pjones"
+        ],
+        "grub-cc": [
+            "lsandova"
         ],
         "grub-customizer": [
             "cheese",
@@ -58292,7 +58302,8 @@
         "libheif": [
             "@multimedia-sig",
             "ngompa",
-            "rathann"
+            "rathann",
+            "salimma"
         ],
         "libheinz": [
             "shattuckite",
@@ -61683,7 +61694,7 @@
         ],
         "libyui-mga-ncurses": [
             "besser82",
-            "ngompa",
+            "orphan",
             "thunderbirdtr"
         ],
         "libyui-mga-qt": [
@@ -74812,6 +74823,12 @@
         "nodejs-pnpm": [
             "asn"
         ],
+        "nodejs-pnpm11": [
+            "asn"
+        ],
+        "nodejs-pnpm12": [
+            "asn"
+        ],
         "nodejs-portfinder": [
             "orphan"
         ],
@@ -78680,6 +78697,7 @@
             "withenoughcoffee"
         ],
         "onnxruntime": [
+            "carlwgeorge",
             "dherrera",
             "xanderlent"
         ],
@@ -79049,7 +79067,7 @@
         ],
         "opengrm-ngram": [
             "@epel-packagers-sig",
-            "mikep"
+            "orphan"
         ],
         "opengrok": [
             "orphan"
@@ -108880,6 +108898,9 @@
         "python-esbonio": [
             "@python-packagers-sig",
             "topazus"
+        ],
+        "python-esp-pylib": [
+            "ksurma"
         ],
         "python-espeak": [
             "orphan"
@@ -163029,7 +163050,8 @@
         "xdotool": [
             "ofourdan",
             "orion",
-            "slankes"
+            "slankes",
+            "suve"
         ],
         "xdp-tools": [
             "eelco",
