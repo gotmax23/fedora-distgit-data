@@ -21212,7 +21212,6 @@
             "vascom"
         ],
         "ejabberd": [
-            "orphan",
             "peter"
         ],
         "eject": [
@@ -60270,6 +60269,9 @@
         "libresample": [
             "@epel-packagers-sig",
             "jsmith"
+        ],
+        "libresidfp": [
+            "kvolny"
         ],
         "libreswan": [
             "pwouters",
@@ -103780,6 +103782,10 @@
             "churchyard"
         ],
         "pypy3.11": [
+            "@python-packagers-sig",
+            "churchyard"
+        ],
+        "pypy3.12": [
             "@python-packagers-sig",
             "churchyard"
         ],
@@ -150429,6 +150435,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-xml5ever0.35": [
+            "decathorpe"
+        ],
         "rust-xmlparser": [
             "@rust-sig",
             "orphan"
@@ -150609,6 +150618,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-zcheapstr": [
+            "decathorpe"
+        ],
         "rust-zcomponents": [
             "orphan"
         ],
@@ -150673,6 +150685,12 @@
         "rust-zerovec-derive": [
             "@rust-sig",
             "music"
+        ],
+        "rust-zgvariant": [
+            "decathorpe"
+        ],
+        "rust-zgvariant_derive": [
+            "decathorpe"
         ],
         "rust-zincati": [
             "@coreos-sig",
@@ -151532,7 +151550,6 @@
             "cstratak",
             "davidsch",
             "nforro",
-            "psimovec",
             "svashisht"
         ],
         "scirenderer": [

@@ -27492,9 +27492,9 @@
             "fedora": "vascom"
         },
         "ejabberd": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "peter",
+            "epel": "peter",
+            "fedora": "peter"
         },
         "eject": {
             "admin": "orphan",
@@ -78025,6 +78025,11 @@
             "admin": "jsmith",
             "epel": "@epel-packagers-sig",
             "fedora": "jsmith"
+        },
+        "libresidfp": {
+            "admin": "kvolny",
+            "epel": "kvolny",
+            "fedora": "kvolny"
         },
         "libreswan": {
             "admin": "pwouters",
@@ -134996,6 +135001,11 @@
             "epel": "python-maint",
             "fedora": "python-maint"
         },
+        "pypy3.12": {
+            "admin": "churchyard",
+            "epel": "python-maint",
+            "fedora": "python-maint"
+        },
         "pypy3.7": {
             "admin": "orphan",
             "epel": "orphan",
@@ -171468,8 +171478,8 @@
         },
         "rust-bitfield0.15": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-bitflags": {
             "admin": "decathorpe",
@@ -195221,6 +195231,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-xml5ever0.35": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-xmlparser": {
             "admin": "orphan",
             "epel": "@rust-sig",
@@ -195451,6 +195466,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-zcheapstr": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-zcomponents": {
             "admin": "orphan",
             "epel": "orphan",
@@ -195530,6 +195550,16 @@
             "admin": "music",
             "epel": "music",
             "fedora": "music"
+        },
+        "rust-zgvariant": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-zgvariant_derive": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-zincati": {
             "admin": "jlebon",
