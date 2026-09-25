@@ -6990,7 +6990,6 @@
             "dwalsh",
             "jkaluza",
             "jnovy",
-            "lsm5",
             "luap99",
             "mheon",
             "nsella",
@@ -12287,7 +12286,6 @@
             "haircommander",
             "jkaluza",
             "jnovy",
-            "lsm5",
             "luap99",
             "nsella",
             "rishi",
@@ -12958,7 +12956,6 @@
         "catatonit": [
             "haircommander",
             "jkaluza",
-            "lsm5",
             "vrothberg"
         ],
         "catch": [
@@ -15278,7 +15275,6 @@
             "haircommander",
             "jkaluza",
             "jnovy",
-            "lsm5",
             "mohanboddu"
         ],
         "conmon-v3": [
@@ -15372,7 +15368,6 @@
             "haircommander",
             "jchaloup",
             "jkaluza",
-            "lsm5",
             "luap99",
             "lvrabec",
             "runcom"
@@ -15409,7 +15404,6 @@
             "dwalsh",
             "jkaluza",
             "jnovy",
-            "lsm5",
             "luap99",
             "nsella"
         ],
@@ -16272,7 +16266,6 @@
             "gscrivano",
             "haircommander",
             "jkaluza",
-            "lsm5",
             "luap99",
             "nsella"
         ],
@@ -17233,7 +17226,7 @@
         ],
         "ddcutil": [
             "kathenas",
-            "orphan",
+            "sentry",
             "tdawson"
         ],
         "ddd": [
@@ -25909,6 +25902,9 @@
             "@go-sig",
             "qulogic"
         ],
+        "fzssh": [
+            "limb"
+        ],
         "g-wrap": [
             "orphan"
         ],
@@ -26442,6 +26438,9 @@
             "jjames"
         ],
         "gap-pkg-uuid": [
+            "jjames"
+        ],
+        "gap-pkg-vole": [
             "jjames"
         ],
         "gap-pkg-wpe": [
@@ -65603,6 +65602,9 @@
             "bruno",
             "orphan"
         ],
+        "meshoptimizer": [
+            "luya"
+        ],
         "meson": [
             "bonzini",
             "carlwgeorge",
@@ -70463,7 +70465,6 @@
             "dwalsh",
             "jkaluza",
             "jnovy",
-            "lsm5",
             "luap99",
             "mheon",
             "nsella",
@@ -78122,7 +78123,6 @@
             "@go-sig",
             "jkaluza",
             "jnovy",
-            "lsm5",
             "vrothberg"
         ],
         "oci-systemd-hook": [
@@ -80355,8 +80355,7 @@
         "pack": [
             "@go-sig",
             "jkaluza",
-            "jnovy",
-            "lsm5"
+            "jnovy"
         ],
         "packETH": [
             "lystor",
@@ -82078,6 +82077,7 @@
         "perl-Authen-SASL": [
             "ammdispose",
             "jplesnik",
+            "mspacek",
             "perl-sig",
             "steve"
         ],
@@ -83999,7 +83999,8 @@
             "ppisar"
         ],
         "perl-Crypt-OpenSSL-Guess": [
-            "jplesnik"
+            "jplesnik",
+            "mspacek"
         ],
         "perl-Crypt-OpenSSL-PKCS10": [
             "hardaker",
@@ -84185,7 +84186,8 @@
         ],
         "perl-DBD-MariaDB": [
             "jplesnik",
-            "mschorm"
+            "mschorm",
+            "mspacek"
         ],
         "perl-DBD-Mock": [
             "lkundrak",
@@ -85229,6 +85231,7 @@
         "perl-Devel-StackTrace": [
             "jplesnik",
             "laxathom",
+            "mspacek",
             "perl-sig",
             "pghmcfc",
             "steve"
@@ -86130,6 +86133,7 @@
         "perl-File-Find-Rule": [
             "jplesnik",
             "laxathom",
+            "mspacek",
             "perl-sig",
             "pghmcfc",
             "spot"
@@ -86634,6 +86638,7 @@
         ],
         "perl-GSSAPI": [
             "jplesnik",
+            "mspacek",
             "perl-sig",
             "steve"
         ],
@@ -87834,6 +87839,7 @@
         ],
         "perl-IPC-Run3": [
             "jplesnik",
+            "mspacek",
             "perl-sig"
         ],
         "perl-IPC-ShareLite": [
@@ -88859,6 +88865,7 @@
         "perl-Mail-SPF": [
             "adelton",
             "jplesnik",
+            "mspacek",
             "perl-sig",
             "steve"
         ],
@@ -89516,6 +89523,7 @@
         "perl-Module-ScanDeps": [
             "ammdispose",
             "jplesnik",
+            "mspacek",
             "perl-sig",
             "steve"
         ],
@@ -90331,7 +90339,8 @@
             "cmadams"
         ],
         "perl-Net-DNS-Resolver-Mock": [
-            "jplesnik"
+            "jplesnik",
+            "mspacek"
         ],
         "perl-Net-DNS-Resolver-Programmable": [
             "perl-sig",
@@ -95795,6 +95804,7 @@
         "perl-XML-XPathEngine": [
             "alexlan",
             "jplesnik",
+            "mspacek",
             "perl-sig"
         ],
         "perl-XML-XQL": [
@@ -101848,7 +101858,6 @@
             "ghishadow",
             "jkaluza",
             "jnovy",
-            "lsm5",
             "luap99",
             "mheon",
             "mohanboddu",
@@ -120269,6 +120278,9 @@
         ],
         "python-tree-format": [
             "orphan"
+        ],
+        "python-tree-sitter": [
+            "mripard"
         ],
         "python-treq": [
             "@epel-packagers-sig",
@@ -144313,6 +144325,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-rbpf": [
+            "sveturi"
+        ],
         "rust-rbspy": [
             "@rust-sig",
             "dcavalca"
@@ -150436,6 +150451,7 @@
             "decathorpe"
         ],
         "rust-xml5ever0.35": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-xmlparser": [
@@ -150619,6 +150635,7 @@
             "decathorpe"
         ],
         "rust-zcheapstr": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-zcomponents": [
@@ -150687,9 +150704,11 @@
             "music"
         ],
         "rust-zgvariant": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-zgvariant_derive": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-zincati": [
@@ -152959,7 +152978,6 @@
             "jkaluza",
             "jnovy",
             "kwalker",
-            "lsm5",
             "luap99",
             "nsella",
             "runcom"

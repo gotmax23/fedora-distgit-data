@@ -22157,9 +22157,9 @@
             "fedora": "filiperosset"
         },
         "ddcutil": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "sentry",
+            "epel": "sentry",
+            "fedora": "sentry"
         },
         "ddd": {
             "admin": "limb",
@@ -33666,6 +33666,11 @@
             "epel": "salimma",
             "fedora": "qulogic"
         },
+        "fzssh": {
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
+        },
         "g-wrap": {
             "admin": "orphan",
             "epel": "laxathom",
@@ -34497,6 +34502,11 @@
             "fedora": "jjames"
         },
         "gap-pkg-uuid": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
+        "gap-pkg-vole": {
             "admin": "jjames",
             "epel": "jjames",
             "fedora": "jjames"
@@ -84756,6 +84766,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "meshoptimizer": {
+            "admin": "luya",
+            "epel": "luya",
+            "fedora": "luya"
+        },
         "meson": {
             "admin": "zbyszek",
             "epel": "zbyszek",
@@ -107522,9 +107537,9 @@
             "fedora": "richardfearn"
         },
         "perl-App-cpanminus": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-App-cpm": {
             "admin": "jplesnik",
@@ -107767,9 +107782,9 @@
             "fedora": "ixs"
         },
         "perl-Authen-SASL": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-Authen-SASL-SASLprep": {
             "admin": "ppisar",
@@ -108617,8 +108632,8 @@
             "fedora": "ppisar"
         },
         "perl-Capture-Tiny": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
+            "admin": "mspacek",
+            "epel": "mspacek",
             "fedora": "jplesnik"
         },
         "perl-Carmel": {
@@ -109367,9 +109382,9 @@
             "fedora": "jplesnik"
         },
         "perl-Class-Tiny": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-Class-Trigger": {
             "admin": "spot",
@@ -109752,9 +109767,9 @@
             "fedora": "jplesnik"
         },
         "perl-Convert-ASN1": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-Convert-Age": {
             "admin": "ppisar",
@@ -109982,9 +109997,9 @@
             "fedora": "ppisar"
         },
         "perl-Crypt-OpenSSL-Guess": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-Crypt-OpenSSL-PKCS10": {
             "admin": "mspacek",
@@ -111382,9 +111397,9 @@
             "fedora": "ppisar"
         },
         "perl-Devel-Size": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-Devel-SmallProf": {
             "admin": "jplesnik",
@@ -111392,9 +111407,9 @@
             "fedora": "jplesnik"
         },
         "perl-Devel-StackTrace": {
-            "admin": "jplesnik",
+            "admin": "mspacek",
             "epel": "orphan",
-            "fedora": "jplesnik"
+            "fedora": "mspacek"
         },
         "perl-Devel-StackTrace-AsHTML": {
             "admin": "jplesnik",
@@ -112337,9 +112352,9 @@
             "fedora": "limb"
         },
         "perl-File-DesktopEntry": {
-            "admin": "jplesnik",
+            "admin": "mspacek",
             "epel": "pghmcfc",
-            "fedora": "jplesnik"
+            "fedora": "mspacek"
         },
         "perl-File-DirCompare": {
             "admin": "eseyman",
@@ -112387,9 +112402,9 @@
             "fedora": "pghmcfc"
         },
         "perl-File-Find-Rule": {
-            "admin": "jplesnik",
+            "admin": "mspacek",
             "epel": "pghmcfc",
-            "fedora": "jplesnik"
+            "fedora": "mspacek"
         },
         "perl-File-Find-Rule-Age": {
             "admin": "orphan",
@@ -112492,9 +112507,9 @@
             "fedora": "eseyman"
         },
         "perl-File-MimeInfo": {
-            "admin": "jplesnik",
+            "admin": "mspacek",
             "epel": "pghmcfc",
-            "fedora": "jplesnik"
+            "fedora": "mspacek"
         },
         "perl-File-Modified": {
             "admin": "jplesnik",
@@ -112947,9 +112962,9 @@
             "fedora": "orphan"
         },
         "perl-GSSAPI": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-GStreamer": {
             "admin": "orphan",
@@ -113572,9 +113587,9 @@
             "fedora": "eseyman"
         },
         "perl-HTML-Parser": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-HTML-PrettyPrinter": {
             "admin": "xavierb",
@@ -113652,9 +113667,9 @@
             "fedora": "eseyman"
         },
         "perl-HTML-Tagset": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-HTML-Template": {
             "admin": "spot",
@@ -114322,9 +114337,9 @@
             "fedora": "orphan"
         },
         "perl-IPC-Run3": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-IPC-ShareLite": {
             "admin": "jplesnik",
@@ -114707,9 +114722,9 @@
             "fedora": "ppisar"
         },
         "perl-LDAP": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-LMDB_File": {
             "admin": "eseyman",
@@ -115492,7 +115507,7 @@
             "fedora": "ixs"
         },
         "perl-Mail-SPF": {
-            "admin": "jplesnik",
+            "admin": "mspacek",
             "epel": "adelton",
             "fedora": "jplesnik"
         },
@@ -116242,9 +116257,9 @@
             "fedora": "eseyman"
         },
         "perl-Module-ScanDeps": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-Module-Signature": {
             "admin": "pghmcfc",
@@ -117232,9 +117247,9 @@
             "fedora": "cmadams"
         },
         "perl-Net-DNS-Resolver-Mock": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-Net-DNS-Resolver-Programmable": {
             "admin": "pghmcfc",
@@ -117542,9 +117557,9 @@
             "fedora": "kni"
         },
         "perl-Net-SMTP-SSL": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-Net-SMTPS": {
             "admin": "eseyman",
@@ -118452,9 +118467,9 @@
             "fedora": "jplesnik"
         },
         "perl-Parse-PMFile": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-Parse-RecDescent": {
             "admin": "jplesnik",
@@ -120222,9 +120237,9 @@
             "fedora": "eseyman"
         },
         "perl-Sub-Quote": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-Sub-Uplevel": {
             "admin": "pghmcfc",
@@ -120922,9 +120937,9 @@
             "fedora": "jplesnik"
         },
         "perl-Test-Deep": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-Test-Deep-Fuzzy": {
             "admin": "yaneti",
@@ -122472,9 +122487,9 @@
             "fedora": "pghmcfc"
         },
         "perl-TimeDate": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-Titanium": {
             "admin": "eseyman",
@@ -123212,8 +123227,8 @@
             "fedora": "eseyman"
         },
         "perl-XML-Catalog": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
+            "admin": "mspacek",
+            "epel": "mspacek",
             "fedora": "jplesnik"
         },
         "perl-XML-CommonNS": {
@@ -123277,9 +123292,9 @@
             "fedora": "ixs"
         },
         "perl-XML-Generator": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-XML-Generator-DBI": {
             "admin": "xavierb",
@@ -123307,9 +123322,9 @@
             "fedora": "ppisar"
         },
         "perl-XML-LibXML": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-XML-LibXML-Common": {
             "admin": "orphan",
@@ -123357,14 +123372,14 @@
             "fedora": "ppisar"
         },
         "perl-XML-NamespaceSupport": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-XML-Parser": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-XML-Parser-Lite": {
             "admin": "jplesnik",
@@ -123402,14 +123417,14 @@
             "fedora": "pghmcfc"
         },
         "perl-XML-SAX": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-XML-SAX-Base": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-XML-SAX-ExpatXS": {
             "admin": "ppisar",
@@ -123427,9 +123442,9 @@
             "fedora": "pghmcfc"
         },
         "perl-XML-Simple": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-XML-Simple-DTDReader": {
             "admin": "xavierb",
@@ -123477,9 +123492,9 @@
             "fedora": "gtb"
         },
         "perl-XML-Twig": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-XML-Validator-Schema": {
             "admin": "ixs",
@@ -123497,14 +123512,14 @@
             "fedora": "cbm"
         },
         "perl-XML-XPath": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-XML-XPathEngine": {
-            "admin": "jplesnik",
-            "epel": "jplesnik",
-            "fedora": "jplesnik"
+            "admin": "mspacek",
+            "epel": "mspacek",
+            "fedora": "mspacek"
         },
         "perl-XML-XQL": {
             "admin": "jplesnik",
@@ -156361,6 +156376,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-tree-sitter": {
+            "admin": "mripard",
+            "epel": "mripard",
+            "fedora": "mripard"
+        },
         "python-treq": {
             "admin": "ykarel",
             "epel": "@epel-packagers-sig",
@@ -187436,6 +187456,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-rbpf": {
+            "admin": "sveturi",
+            "epel": "sveturi",
+            "fedora": "sveturi"
+        },
         "rust-rbspy": {
             "admin": "dcavalca",
             "epel": "@rust-sig",
@@ -205883,8 +205908,8 @@
         },
         "translate-toolkit": {
             "admin": "matiwari",
-            "epel": "sshil",
-            "fedora": "sshil"
+            "epel": "matiwari",
+            "fedora": "matiwari"
         },
         "translation-filter": {
             "admin": "orphan",
