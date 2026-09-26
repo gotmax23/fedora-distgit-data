@@ -11851,8 +11851,7 @@
         ],
         "boswars": [
             "bruno",
-            "jwrdegoede",
-            "orphan"
+            "jwrdegoede"
         ],
         "boswars-addons": [
             "bruno"
@@ -21670,8 +21669,8 @@
             "sagarun"
         ],
         "emacs-rpm-spec-mode": [
+            "mavit",
             "mschwendt",
-            "orphan",
             "phracek",
             "salimma"
         ],
@@ -29069,7 +29068,7 @@
         ],
         "ghc-language-c": [
             "@haskell-lang-sig",
-            "orphan",
+            "petersen",
             "salimma"
         ],
         "ghc-language-c99": [
@@ -33100,7 +33099,7 @@
         ],
         "gnugo": [
             "@kde-sig",
-            "orphan",
+            "limb",
             "salimma"
         ],
         "gnujump": [
@@ -48903,6 +48902,9 @@
             "fonts-sig",
             "tagoh"
         ],
+        "ipacta": [
+            "twoerner"
+        ],
         "ipcalc": [
             "nmav",
             "pemensik"
@@ -61987,10 +61989,12 @@
             "tagoh"
         ],
         "linux-sgx": [
-            "berrange"
+            "berrange",
+            "mrezanin"
         ],
         "linux-sgx-enclaves-prebuilt": [
-            "berrange"
+            "berrange",
+            "mrezanin"
         ],
         "linux-sysinfo-snapshot": [
             "dcavalca"
@@ -83254,7 +83258,8 @@
         "perl-Class-DBI": [
             "ignatenkobrain",
             "perl-sig",
-            "spot"
+            "spot",
+            "stevetraylen"
         ],
         "perl-Class-DBI-AbstractSearch": [
             "perl-sig",
@@ -110556,7 +110561,6 @@
             "orphan"
         ],
         "python-graphql-core": [
-            "orphan",
             "stevetraylen"
         ],
         "python-graphql-relay": [
@@ -124472,7 +124476,7 @@
             "marcindulak"
         ],
         "quarry": [
-            "orphan",
+            "limb",
             "salimma"
         ],
         "quarter": [
@@ -144326,6 +144330,7 @@
             "decathorpe"
         ],
         "rust-rbpf": [
+            "@rust-sig",
             "sveturi"
         ],
         "rust-rbspy": [
@@ -152261,10 +152266,12 @@
             "orphan"
         ],
         "sgx-pccs": [
-            "berrange"
+            "berrange",
+            "mrezanin"
         ],
         "sgx-rpm-macros": [
-            "berrange"
+            "berrange",
+            "mrezanin"
         ],
         "sh-elf-binutils": [
             "linville",

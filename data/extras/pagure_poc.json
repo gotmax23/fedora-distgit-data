@@ -15142,9 +15142,9 @@
             "fedora": "heffer"
         },
         "boswars": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "jwrdegoede",
+            "epel": "jwrdegoede",
+            "fedora": "jwrdegoede"
         },
         "boswars-addons": {
             "admin": "bruno",
@@ -28152,9 +28152,9 @@
             "fedora": "sagarun"
         },
         "emacs-rpm-spec-mode": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "mavit",
+            "epel": "mavit",
+            "fedora": "mavit"
         },
         "emacs-s": {
             "admin": "melmorabity",
@@ -37837,9 +37837,9 @@
             "fedora": "fdedden"
         },
         "ghc-language-c": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "ghc-language-c99": {
             "admin": "fdedden",
@@ -43012,9 +43012,9 @@
             "fedora": "orphan"
         },
         "gnugo": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "gnujump": {
             "admin": "limb",
@@ -63770,6 +63770,11 @@
             "admin": "tagoh",
             "epel": "tagoh",
             "fedora": "tagoh"
+        },
+        "ipacta": {
+            "admin": "twoerner",
+            "epel": "twoerner",
+            "fedora": "twoerner"
         },
         "ipcalc": {
             "admin": "nmav",
@@ -109153,7 +109158,7 @@
         },
         "perl-Class-DBI": {
             "admin": "spot",
-            "epel": "spot",
+            "epel": "stevetraylen",
             "fedora": "spot"
         },
         "perl-Class-DBI-AbstractSearch": {
@@ -143842,9 +143847,9 @@
             "fedora": "orphan"
         },
         "python-graphql-core": {
-            "admin": "orphan",
+            "admin": "stevetraylen",
             "epel": "stevetraylen",
-            "fedora": "orphan"
+            "fedora": "stevetraylen"
         },
         "python-graphql-relay": {
             "admin": "orphan",
@@ -161947,9 +161952,9 @@
             "fedora": "lecris"
         },
         "quarry": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "quarter": {
             "admin": "hobbes1069",
