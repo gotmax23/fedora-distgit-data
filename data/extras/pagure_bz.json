@@ -109902,6 +109902,7 @@
             "orphan"
         ],
         "python-fypp": [
+            "lecris",
             "rathann"
         ],
         "python-gabbi": [
@@ -166021,7 +166022,8 @@
         "zxcvbn-c": [
             "@libreoffice-sig",
             "limb",
-            "mattia"
+            "mattia",
+            "mikelo2"
         ],
         "zxing": [
             "java-sig",
