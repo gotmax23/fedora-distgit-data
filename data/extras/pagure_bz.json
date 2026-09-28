@@ -44775,6 +44775,7 @@
             "orphan"
         ],
         "grub2": [
+            "jannau",
             "josuedhg",
             "lkundrak",
             "lsandova",
@@ -158929,7 +158930,7 @@
         ],
         "ttyd": [
             "msuchy",
-            "neelc"
+            "orphan"
         ],
         "ttyplot": [
             "suve"

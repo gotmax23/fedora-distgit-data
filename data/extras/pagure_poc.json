@@ -206632,9 +206632,9 @@
             "fedora": "churchyard"
         },
         "ttyd": {
-            "admin": "neelc",
-            "epel": "neelc",
-            "fedora": "neelc"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "ttyplot": {
             "admin": "suve",
