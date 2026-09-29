@@ -11425,11 +11425,13 @@
         ],
         "blender": [
             "@epel-packagers-sig",
+            "@rocm-packagers-sig",
             "design-sw",
             "gang65",
             "luya",
             "music",
-            "slaanesh"
+            "slaanesh",
+            "trix"
         ],
         "bless": [
             "drago01",
@@ -32560,9 +32562,9 @@
             "orphan"
         ],
         "gnome-shell-extension-appindicator": [
-            "@epel-packagers-sig",
             "atim",
-            "jwrdegoede"
+            "jwrdegoede",
+            "ngompa"
         ],
         "gnome-shell-extension-argos": [
             "salimma"
@@ -78521,6 +78523,7 @@
             "ppisar"
         ],
         "oidn": [
+            "@rocm-packagers-sig",
             "aekoroglu",
             "design-sw",
             "luya",
@@ -115696,7 +115699,7 @@
         ],
         "python-pyconify": [
             "@neuro-sig",
-            "orphan"
+            "fedepell"
         ],
         "python-pycosat": [
             "orion"
@@ -121157,7 +121160,7 @@
         ],
         "python-volatile": [
             "@python-packagers-sig",
-            "orphan"
+            "fedepell"
         ],
         "python-volatility": [
             "orphan"
@@ -136139,7 +136142,7 @@
         ],
         "rust-gimoji": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-gio": [
             "@rust-sig",
@@ -144582,6 +144585,10 @@
             "music"
         ],
         "rust-reqsign-aws-v4": [
+            "@rust-sig",
+            "music"
+        ],
+        "rust-reqsign-aws-v4a": [
             "@rust-sig",
             "music"
         ],

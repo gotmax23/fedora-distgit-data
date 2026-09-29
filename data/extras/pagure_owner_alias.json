@@ -9591,6 +9591,7 @@
         "blender": [
             "luya",
             "design-sw",
+            "trix",
             "music",
             "ignatenkobrain",
             "slaanesh"
@@ -100510,7 +100511,7 @@
             "jcline"
         ],
         "python-pyconify": [
-            "orphan"
+            "fedepell"
         ],
         "python-pycosat": [
             "orion"
@@ -105195,7 +105196,7 @@
             "sharkcz"
         ],
         "python-volatile": [
-            "orphan"
+            "fedepell"
         ],
         "python-volatility": [
             "orphan"
@@ -117809,7 +117810,7 @@
             "decathorpe"
         ],
         "rust-gimoji": [
-            "decathorpe"
+            "orphan"
         ],
         "rust-gio": [
             "decathorpe"
@@ -124320,6 +124321,9 @@
             "music"
         ],
         "rust-reqsign-aws-v4": [
+            "music"
+        ],
+        "rust-reqsign-aws-v4a": [
             "music"
         ],
         "rust-reqsign-azure-storage": [

@@ -150462,9 +150462,9 @@
             "fedora": "jcline"
         },
         "python-pyconify": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-pycosat": {
             "admin": "orion",
@@ -157492,9 +157492,9 @@
             "fedora": "pingou"
         },
         "python-volatile": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-volatility": {
             "admin": "orphan",
@@ -177182,9 +177182,9 @@
             "fedora": "@rust-sig"
         },
         "rust-gimoji": {
-            "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-gio": {
             "admin": "decathorpe",
@@ -187782,6 +187782,11 @@
             "fedora": "music"
         },
         "rust-reqsign-aws-v4": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "rust-reqsign-aws-v4a": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"
