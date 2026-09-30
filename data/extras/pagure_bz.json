@@ -23245,17 +23245,17 @@
             "music"
         ],
         "fastapi-cli": [
-            "music",
+            "orphan",
             "pwouters",
             "rominf"
         ],
         "fastapi-cloud-cli": [
-            "music",
+            "orphan",
             "pwouters",
             "rominf"
         ],
         "fastapi-new": [
-            "music"
+            "orphan"
         ],
         "fastback": [
             "gavin",
@@ -29793,6 +29793,9 @@
         "ghc-shakespeare-text": [
             "orphan"
         ],
+        "ghc-shell-monad": [
+            "petersen"
+        ],
         "ghc-shelly": [
             "@haskell-lang-sig",
             "petersen"
@@ -30096,6 +30099,9 @@
         ],
         "ghc-toml-parser": [
             "@haskell-lang-sig",
+            "petersen"
+        ],
+        "ghc-toml-reader": [
             "petersen"
         ],
         "ghc-torrent": [
@@ -59989,7 +59995,6 @@
         "libpq": [
             "@db-sig",
             "fjanus",
-            "ndavidov",
             "praiskup"
         ],
         "libpqxx": [
@@ -64131,7 +64136,6 @@
         "mariadb11.8": [
             "@db-sig",
             "mschorm",
-            "ndavidov",
             "psloboda"
         ],
         "mariadb12.3": [
@@ -81180,7 +81184,7 @@
         ],
         "pcre2": [
             "@db-sig",
-            "ndavidov"
+            "dhandzus"
         ],
         "pcs": [
             "andyp",
@@ -96468,7 +96472,7 @@
         ],
         "pgbadger": [
             "@db-sig",
-            "ndavidov"
+            "dhandzus"
         ],
         "pgbouncer": [
             "devrim",
@@ -102272,8 +102276,7 @@
         ],
         "postgresql16": [
             "@db-sig",
-            "fjanus",
-            "ndavidov"
+            "fjanus"
         ],
         "postgresql16-anonymizer": [
             "@db-sig",
@@ -102293,7 +102296,7 @@
         ],
         "postgresql16-pg_tle": [
             "@db-sig",
-            "ndavidov"
+            "dhandzus"
         ],
         "postgresql16-pgaudit": [
             "@db-sig",
@@ -102315,13 +102318,11 @@
         ],
         "postgresql18": [
             "@db-sig",
-            "fjanus",
-            "ndavidov"
+            "fjanus"
         ],
         "postgresql18-decoderbufs": [
             "@db-sig",
-            "fjanus",
-            "ndavidov"
+            "fjanus"
         ],
         "postgresql18-pg_partman": [
             "@db-sig",
@@ -102329,18 +102330,15 @@
         ],
         "postgresql18-pg_repack": [
             "@db-sig",
-            "fjanus",
-            "ndavidov"
+            "fjanus"
         ],
         "postgresql18-pgaudit": [
             "@db-sig",
-            "fjanus",
-            "ndavidov"
+            "fjanus"
         ],
         "postgresql18-pgvector": [
             "@db-sig",
-            "fjanus",
-            "ndavidov"
+            "fjanus"
         ],
         "postgresql18-postgis": [
             "smani"
@@ -104492,7 +104490,7 @@
             "orphan"
         ],
         "python-agent-detector": [
-            "music",
+            "orphan",
             "pwouters",
             "rominf"
         ],
@@ -108924,6 +108922,7 @@
             "topazus"
         ],
         "python-esp-pylib": [
+            "@python-packagers-sig",
             "ksurma"
         ],
         "python-espeak": [
@@ -109152,12 +109151,12 @@
             "music"
         ],
         "python-fastapi": [
-            "music",
+            "orphan",
             "pwouters"
         ],
         "python-fastar": [
             "@rust-sig",
-            "music"
+            "orphan"
         ],
         "python-fastavro": [
             "@neuro-sig",
@@ -115436,7 +115435,6 @@
         ],
         "python-psycopg3": [
             "@db-sig",
-            "ndavidov",
             "wfp"
         ],
         "python-psygnal": [
@@ -117836,11 +117834,11 @@
             "samdoran"
         ],
         "python-rich-toolkit": [
-            "music"
+            "orphan"
         ],
         "python-rignore": [
             "@rust-sig",
-            "music"
+            "orphan"
         ],
         "python-ring-doorbell": [
             "orphan"
@@ -139613,6 +139611,9 @@
             "@rust-sig",
             "music"
         ],
+        "rust-libcramjam0.8": [
+            "music"
+        ],
         "rust-libcryptsetup-rs": [
             "@rust-sig",
             "bgurney",
@@ -154250,7 +154251,6 @@
         "sqlite": [
             "@db-sig",
             "fjanus",
-            "ndavidov",
             "pkhartsk",
             "pkubat"
         ],

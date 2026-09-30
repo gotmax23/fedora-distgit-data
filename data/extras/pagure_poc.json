@@ -30252,19 +30252,19 @@
             "fedora": "music"
         },
         "fastapi-cli": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "fastapi-cloud-cli": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "fastapi-new": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "fastback": {
             "admin": "jonathanspw",
@@ -38711,6 +38711,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "ghc-shell-monad": {
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
+        },
         "ghc-shelly": {
             "admin": "petersen",
             "epel": "petersen",
@@ -39067,6 +39072,11 @@
             "fedora": "qulogic"
         },
         "ghc-toml-parser": {
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
+        },
+        "ghc-toml-reader": {
             "admin": "petersen",
             "epel": "petersen",
             "fedora": "petersen"
@@ -106687,7 +106697,7 @@
             "fedora": "orphan"
         },
         "pcre2": {
-            "admin": "ndavidov",
+            "admin": "dhandzus",
             "epel": "ljavorsk",
             "fedora": "ljavorsk"
         },
@@ -124307,9 +124317,9 @@
             "fedora": "fjanus"
         },
         "pgbadger": {
-            "admin": "ndavidov",
-            "epel": "ndavidov",
-            "fedora": "ndavidov"
+            "admin": "dhandzus",
+            "epel": "dhandzus",
+            "fedora": "dhandzus"
         },
         "pgbouncer": {
             "admin": "devrim",
@@ -132977,9 +132987,9 @@
             "fedora": "fjanus"
         },
         "postgresql16-pg_tle": {
-            "admin": "ndavidov",
-            "epel": "ndavidov",
-            "fedora": "ndavidov"
+            "admin": "dhandzus",
+            "epel": "dhandzus",
+            "fedora": "dhandzus"
         },
         "postgresql16-pgaudit": {
             "admin": "fjanus",
@@ -135937,9 +135947,9 @@
             "fedora": "orphan"
         },
         "python-agent-detector": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-ailment": {
             "admin": "fab",
@@ -142072,14 +142082,14 @@
             "fedora": "music"
         },
         "python-fastapi": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-fastar": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-fastavro": {
             "admin": "ankursinha",
@@ -153217,14 +153227,14 @@
             "fedora": "@rhel-lightspeed"
         },
         "python-rich-toolkit": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-rignore": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-ring-doorbell": {
             "admin": "orphan",
@@ -181496,6 +181506,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "rust-libcramjam0.8": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-libcryptsetup-rs": {
             "admin": "jbaublitz",
             "epel": "@rust-sig",
@@ -187708,8 +187723,8 @@
         },
         "rust-relm4-css": {
             "admin": "jsteffan",
-            "epel": "jsteffan",
-            "fedora": "jsteffan"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-relm4-icons": {
             "admin": "jsteffan",
