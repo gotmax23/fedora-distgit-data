@@ -3679,7 +3679,7 @@
             "ctron"
         ],
         "4th": [
-            "lkundrak"
+            "orphan"
         ],
         "4ti2": [
             "jjames"
@@ -4052,8 +4052,7 @@
             "spot"
         ],
         "ETL": [
-            "limb",
-            "lkundrak"
+            "limb"
         ],
         "EekBoek": [
             "sciurius"
@@ -4131,7 +4130,7 @@
             "kwizart"
         ],
         "GLee": [
-            "lkundrak"
+            "orphan"
         ],
         "GMT": [
             "@scitech_sig",
@@ -4394,7 +4393,6 @@
         "ModemManager": [
             "bengal",
             "dcavalca",
-            "lkundrak",
             "mackgmbh",
             "tao-j",
             "thaller"
@@ -4420,7 +4418,7 @@
             "fedepell"
         ],
         "NaturalDocs": [
-            "lkundrak"
+            "orphan"
         ],
         "NearTree": [
             "krege"
@@ -4434,7 +4432,6 @@
             "ihuguet",
             "josie",
             "jvaclav",
-            "lkundrak",
             "mclasen",
             "rrajesh",
             "rstrode",
@@ -4442,7 +4439,7 @@
             "vbenes"
         ],
         "NetworkManager-fortisslvpn": [
-            "lkundrak",
+            "catanzaro",
             "pjgeorg",
             "slaanesh",
             "thaller"
@@ -4457,13 +4454,12 @@
         "NetworkManager-libreswan": [
             "bengal",
             "ihuguet",
-            "lkundrak",
+            "orphan",
             "thaller",
             "vbenes"
         ],
         "NetworkManager-openconnect": [
             "dwmw2",
-            "lkundrak",
             "nmav",
             "tdawson",
             "thaller"
@@ -4474,13 +4470,13 @@
         "NetworkManager-openvpn": [
             "bengal",
             "ihuguet",
-            "lkundrak",
+            "orphan",
             "steve",
             "tdawson",
             "thaller"
         ],
         "NetworkManager-pptp": [
-            "lkundrak",
+            "orphan",
             "tdawson",
             "thaller"
         ],
@@ -4489,15 +4485,14 @@
             "echevemaster"
         ],
         "NetworkManager-sstp": [
-            "lkundrak",
             "szpak"
         ],
         "NetworkManager-strongswan": [
             "pemensik"
         ],
         "NetworkManager-vpnc": [
+            "catanzaro",
             "huzaifas",
-            "lkundrak",
             "thaller"
         ],
         "NiaAML-GUI": [
@@ -6600,8 +6595,7 @@
         ],
         "SDL2_gfx": [
             "ignatenkobrain",
-            "limb",
-            "lkundrak"
+            "limb"
         ],
         "SDL2_image": [
             "fcami",
@@ -6651,8 +6645,7 @@
             "limb"
         ],
         "SDL_gfx": [
-            "limb",
-            "lkundrak"
+            "limb"
         ],
         "SDL_image": [
             "@epel-packagers-sig",
@@ -7477,7 +7470,6 @@
             "rebus"
         ],
         "afpfs-ng": [
-            "lkundrak",
             "rebus"
         ],
         "afraid-dyndns": [
@@ -8691,7 +8683,6 @@
             "didiksupriadi41",
             "filiperosset",
             "java-sig",
-            "lkundrak",
             "mizdebsk",
             "mkoncek"
         ],
@@ -8890,6 +8881,7 @@
             "tdawson"
         ],
         "appstream-data": [
+            "djasa",
             "rhughes"
         ],
         "appstream-generator": [
@@ -9787,7 +9779,9 @@
         "astronomy-bookmarks": [
             "orphan"
         ],
-        "astronomy-menus": [],
+        "astronomy-menus": [
+            "rcallicotte"
+        ],
         "astroterm": [
             "jonathanspw"
         ],
@@ -10628,7 +10622,7 @@
             "orphan"
         ],
         "bam": [
-            "lkundrak"
+            "orphan"
         ],
         "bamf": [
             "adamwill",
@@ -11608,7 +11602,6 @@
         "bluez": [
             "dwmw2",
             "hadess",
-            "lihis",
             "ngompa",
             "pbrobinson",
             "salimma"
@@ -12132,7 +12125,6 @@
             "orphan"
         ],
         "btkbdd": [
-            "lkundrak",
             "orphan"
         ],
         "btm": [
@@ -12502,11 +12494,9 @@
             "slaanesh"
         ],
         "c2050": [
-            "lkundrak",
             "orphan"
         ],
         "c2070": [
-            "lkundrak",
             "orphan"
         ],
         "c2esp": [
@@ -12999,7 +12989,7 @@
         ],
         "cave9": [
             "bogado",
-            "gui1ty"
+            "orphan"
         ],
         "cawbird": [
             "atim",
@@ -13246,7 +13236,7 @@
             "orphan"
         ],
         "centerim": [
-            "lkundrak"
+            "orphan"
         ],
         "centos-packager": [
             "dcavalca"
@@ -13378,7 +13368,6 @@
             "rcallicotte"
         ],
         "cglib": [
-            "lkundrak",
             "mizdebsk",
             "mkoncek"
         ],
@@ -13743,7 +13732,6 @@
             "sdgathman"
         ],
         "cjet": [
-            "lkundrak",
             "orphan"
         ],
         "cjkuni-fonts": [
@@ -14028,7 +14016,7 @@
             "rathann"
         ],
         "clearlooks-compact-gnome-theme": [
-            "lkundrak"
+            "orphan"
         ],
         "clearlooks-phenix": [
             "orphan"
@@ -15309,7 +15297,7 @@
             "lzaoral"
         ],
         "consolation": [
-            "lkundrak"
+            "orphan"
         ],
         "console-bridge": [
             "@robotics-sig",
@@ -15547,7 +15535,6 @@
             "orphan"
         ],
         "coreboot-utils": [
-            "lkundrak",
             "orphan"
         ],
         "corectrl": [
@@ -15594,7 +15581,7 @@
             "honzaf"
         ],
         "corrida": [
-            "lkundrak"
+            "orphan"
         ],
         "corrosion": [
             "@rust-sig",
@@ -16175,14 +16162,12 @@
         "cross-binutils": [
             "@epel-packagers-sig",
             "dhowells",
-            "lkundrak",
             "mcb30",
             "sharkcz"
         ],
         "cross-gcc": [
             "@epel-packagers-sig",
             "dhowells",
-            "lkundrak",
             "sharkcz"
         ],
         "crossfire": [
@@ -16368,7 +16353,6 @@
         ],
         "crystalspace": [
             "jwrdegoede",
-            "lkundrak",
             "orphan"
         ],
         "cscope": [
@@ -17291,7 +17275,6 @@
         ],
         "debootstrap": [
             "jonathanspw",
-            "lkundrak",
             "ngompa"
         ],
         "debugbreak": [
@@ -17715,7 +17698,6 @@
             "orphan"
         ],
         "derby": [
-            "lkundrak",
             "orphan"
         ],
         "derelict": [
@@ -17778,8 +17760,7 @@
             "wart"
         ],
         "dev86": [
-            "jnovy",
-            "lkundrak"
+            "jnovy"
         ],
         "devassistant": [
             "orphan"
@@ -17933,7 +17914,7 @@
         ],
         "dgit": [
             "filiperosset",
-            "lkundrak"
+            "ngompa"
         ],
         "dgop": [
             "@go-sig",
@@ -18546,7 +18527,6 @@
             "wojnilowicz"
         ],
         "dmg2img": [
-            "lkundrak",
             "peter"
         ],
         "dmidecode": [
@@ -21783,7 +21763,6 @@
         ],
         "enchant": [
             "limb",
-            "lkundrak",
             "uwog"
         ],
         "enchant2": [
@@ -22135,7 +22114,6 @@
         ],
         "erlang-epgsql": [
             "filabrazilska",
-            "lkundrak",
             "peter"
         ],
         "erlang-eradius": [
@@ -22147,7 +22125,6 @@
             "orphan"
         ],
         "erlang-erlsom": [
-            "lkundrak",
             "peter"
         ],
         "erlang-erlsyslog": [
@@ -22254,7 +22231,6 @@
             "peter"
         ],
         "erlang-ibrowse": [
-            "lkundrak",
             "peter"
         ],
         "erlang-iconv": [
@@ -22269,7 +22245,6 @@
             "peter"
         ],
         "erlang-jiffy": [
-            "lkundrak",
             "peter"
         ],
         "erlang-jose": [
@@ -22311,9 +22286,7 @@
         "erlang-luke": [
             "orphan"
         ],
-        "erlang-meck": [
-            "lkundrak"
-        ],
+        "erlang-meck": [],
         "erlang-merge_index": [
             "@erlang-maint-sig",
             "bowlofeggs",
@@ -22565,7 +22538,6 @@
             "peter"
         ],
         "erlang-xmlrpc": [
-            "lkundrak",
             "peter"
         ],
         "erlang-xmpp": [
@@ -22936,7 +22908,7 @@
         "extra-cmake-modules": [
             "@kde-sig",
             "cicku",
-            "lkundrak"
+            "ngompa"
         ],
         "extra-enforcer-rules": [
             "mizdebsk",
@@ -22955,7 +22927,6 @@
             "than"
         ],
         "extrema": [
-            "lkundrak",
             "terjeros"
         ],
         "extremetuxracer": [
@@ -22965,7 +22936,6 @@
             "robert"
         ],
         "eyesight": [
-            "lkundrak",
             "orphan"
         ],
         "ez-ipupdate": [
@@ -23181,7 +23151,6 @@
             "ngompa"
         ],
         "fakeroot": [
-            "lkundrak",
             "moceap",
             "ngompa"
         ],
@@ -24251,7 +24220,6 @@
         ],
         "fftw2": [
             "jamatos",
-            "lkundrak",
             "terjeros"
         ],
         "ffuf": [
@@ -24826,7 +24794,7 @@
             "omalwankar"
         ],
         "fluid": [
-            "lkundrak",
+            "orphan",
             "plfiorini"
         ],
         "fluid-soundfont": [
@@ -25474,7 +25442,7 @@
         ],
         "freerouting": [
             "dwrobel",
-            "lkundrak"
+            "orphan"
         ],
         "freesteam": [
             "orphan"
@@ -25785,7 +25753,6 @@
             "orphan"
         ],
         "fusecompress_offline1": [
-            "lkundrak",
             "orphan"
         ],
         "fuseiso": [
@@ -26086,7 +26053,6 @@
         ],
         "ganglia": [],
         "gant": [
-            "lkundrak",
             "orphan"
         ],
         "ganymed-ssh2": [
@@ -29794,6 +29760,7 @@
             "orphan"
         ],
         "ghc-shell-monad": [
+            "@haskell-lang-sig",
             "petersen"
         ],
         "ghc-shelly": [
@@ -30102,6 +30069,7 @@
             "petersen"
         ],
         "ghc-toml-reader": [
+            "@haskell-lang-sig",
             "petersen"
         ],
         "ghc-torrent": [
@@ -30753,7 +30721,6 @@
             "lbalhar"
         ],
         "git-bugzilla": [
-            "lkundrak",
             "orphan"
         ],
         "git-bz": [
@@ -30912,13 +30879,11 @@
             "skitt"
         ],
         "gitolite": [
-            "lkundrak",
             "orphan"
         ],
         "gitolite3": [
             "jtaylor",
-            "limb",
-            "lkundrak"
+            "limb"
         ],
         "gitosis": [
             "orphan"
@@ -44445,7 +44410,6 @@
         "gradle": [
             "danieljamesscott",
             "java-sig",
-            "lkundrak",
             "orphan"
         ],
         "grads": [
@@ -44594,8 +44558,7 @@
             "alebastr"
         ],
         "grep": [
-            "jskarvad",
-            "lkundrak"
+            "jskarvad"
         ],
         "grepcidr": [
             "robert"
@@ -44734,7 +44697,6 @@
         ],
         "groovy": [
             "java-sig",
-            "lkundrak",
             "msrb",
             "orphan"
         ],
@@ -44771,7 +44733,6 @@
             "filiperosset"
         ],
         "grub": [
-            "lkundrak",
             "orphan",
             "pjones"
         ],
@@ -44785,7 +44746,6 @@
         "grub2": [
             "jannau",
             "josuedhg",
-            "lkundrak",
             "lsandova",
             "mlewando",
             "nfrayer",
@@ -46139,8 +46099,7 @@
         ],
         "healpix": [
             "@astro-sig",
-            "limb",
-            "lkundrak"
+            "limb"
         ],
         "healpy": [
             "orphan"
@@ -46838,7 +46797,6 @@
         "http-parser": [
             "duck",
             "ignatenkobrain",
-            "lkundrak",
             "mrunge",
             "orphan",
             "scorreia",
@@ -47415,7 +47373,6 @@
             "vcrhonek"
         ],
         "hwinfo": [
-            "lkundrak",
             "ngompa"
         ],
         "hwk": [
@@ -47442,7 +47399,6 @@
             "tartina"
         ],
         "hydrogen-drumkits": [
-            "lkundrak",
             "orphan"
         ],
         "hyena": [
@@ -47859,6 +47815,7 @@
             "ueno"
         ],
         "ibus-libpinyin": [
+            "fujiwara",
             "i18n-team",
             "petersen",
             "pwu"
@@ -48091,7 +48048,6 @@
             "orphan"
         ],
         "icestorm": [
-            "lkundrak",
             "xanderlent"
         ],
         "icewm": [
@@ -48606,7 +48562,6 @@
         "inkscape": [
             "duffy",
             "limb",
-            "lkundrak",
             "ryanlerch"
         ],
         "inkscape-psd": [
@@ -49216,8 +49171,7 @@
             "orphan"
         ],
         "isync": [
-            "fab",
-            "lkundrak"
+            "fab"
         ],
         "itaka": [
             "orphan"
@@ -49292,7 +49246,7 @@
             "orphan"
         ],
         "iwd": [
-            "lkundrak"
+            "orphan"
         ],
         "iwhd": [
             "orphan"
@@ -49885,7 +49839,6 @@
         ],
         "java-1.6.0-openjdk": [
             "jvanek",
-            "lkundrak",
             "mjw",
             "omajid",
             "orphan"
@@ -50078,7 +50031,6 @@
         ],
         "java_cup": [
             "java-sig",
-            "lkundrak",
             "mizdebsk",
             "mkoncek"
         ],
@@ -50236,7 +50188,6 @@
         ],
         "jazzy": [
             "java-sig",
-            "lkundrak",
             "orphan"
         ],
         "jberet": [
@@ -50653,7 +50604,6 @@
             "orphan"
         ],
         "jcommon": [
-            "lkundrak",
             "orphan"
         ],
         "jcommon-serializer": [
@@ -51053,7 +51003,6 @@
             "mkoncek"
         ],
         "jfontchooser": [
-            "lkundrak",
             "orphan"
         ],
         "jfreechart": [
@@ -51101,7 +51050,6 @@
             "orphan"
         ],
         "jgraphx": [
-            "lkundrak",
             "orphan"
         ],
         "jgroups": [
@@ -51475,7 +51423,6 @@
             "orphan"
         ],
         "jps": [
-            "lkundrak",
             "orphan"
         ],
         "jpype": [
@@ -51669,7 +51616,6 @@
             "orphan"
         ],
         "jsl": [
-            "lkundrak",
             "orphan"
         ],
         "jsmath-fonts": [
@@ -51704,7 +51650,6 @@
         ],
         "json-lib": [
             "java-sig",
-            "lkundrak",
             "orphan"
         ],
         "json-parser": [
@@ -51935,7 +51880,6 @@
             "mkoncek"
         ],
         "justmoon": [
-            "lkundrak",
             "orphan"
         ],
         "jutils": [
@@ -52011,7 +51955,6 @@
         ],
         "kBuild": [
             "laxathom",
-            "lkundrak",
             "ngompa"
         ],
         "kaadbg": [
@@ -54177,7 +54120,7 @@
         ],
         "kgraphviewer": [
             "@kde-sig",
-            "lkundrak",
+            "ngompa",
             "smani"
         ],
         "kgtk": [
@@ -54910,8 +54853,7 @@
             "orphan"
         ],
         "koules": [
-            "cra",
-            "lkundrak"
+            "cra"
         ],
         "kover": [
             "adrian"
@@ -55700,7 +55642,6 @@
         "ladspa": [
             "@multimedia-sig",
             "dcavalca",
-            "lkundrak",
             "ngompa",
             "thomasvs",
             "troycurtisjr",
@@ -56731,7 +56672,6 @@
             "lnykryn"
         ],
         "libatomic_ops": [
-            "lkundrak",
             "praiskup",
             "sharkcz"
         ],
@@ -57046,8 +56986,8 @@
             "nonamedotc"
         ],
         "libclaw": [
-            "lkundrak",
             "martinkg",
+            "orphan",
             "xavierb"
         ],
         "libclc": [
@@ -57429,7 +57369,7 @@
             "rstrode"
         ],
         "libdrm-armada": [
-            "lkundrak"
+            "orphan"
         ],
         "libdsk": [
             "vtrefny"
@@ -57532,11 +57472,9 @@
             "orphan"
         ],
         "libeio": [
-            "lkundrak",
             "orphan"
         ],
         "libell": [
-            "lkundrak",
             "pbrobinson",
             "suve"
         ],
@@ -57599,7 +57537,7 @@
             "zfridric"
         ],
         "libetnaviv": [
-            "lkundrak"
+            "orphan"
         ],
         "libetonyek": [
             "dtardon",
@@ -57700,7 +57638,6 @@
             "codonell",
             "djdelorie",
             "fweimer",
-            "lkundrak",
             "mcermak"
         ],
         "libffi3.1": [
@@ -59083,7 +59020,7 @@
         "libmbim": [
             "bengal",
             "jtornosm",
-            "lkundrak",
+            "orphan",
             "thaller"
         ],
         "libmcrypt": [
@@ -59479,7 +59416,7 @@
         "libnma": [
             "bengal",
             "ihuguet",
-            "lkundrak",
+            "orphan",
             "thaller"
         ],
         "libnma-epel": [
@@ -59740,7 +59677,6 @@
             "orphan"
         ],
         "liboping": [
-            "lkundrak",
             "mrc0mmand"
         ],
         "libopkele": [
@@ -59919,6 +59855,7 @@
         ],
         "libpinyin": [
             "cheeselee",
+            "fujiwara",
             "i18n-team",
             "petersen",
             "pwu"
@@ -60086,11 +60023,10 @@
         ],
         "libqmi": [
             "bengal",
-            "lkundrak",
+            "orphan",
             "thaller"
         ],
         "libqrtr-glib": [
-            "lkundrak",
             "pbrobinson"
         ],
         "libqtelegram-ae": [
@@ -60109,7 +60045,6 @@
         "libqtxdg": [
             "@lxqt-sig",
             "cicku",
-            "lkundrak",
             "tieugene",
             "zsun"
         ],
@@ -60405,7 +60340,6 @@
         ],
         "libsamplerate": [
             "jwrdegoede",
-            "lkundrak",
             "nphilipp",
             "perex",
             "tartina"
@@ -61474,8 +61408,7 @@
             "catanzaro"
         ],
         "libwpg": [
-            "dtardon",
-            "lkundrak"
+            "dtardon"
         ],
         "libwps": [
             "dtardon"
@@ -61489,7 +61422,6 @@
             "jcpunk"
         ],
         "libx86emu": [
-            "lkundrak",
             "ngompa"
         ],
         "libxc": [
@@ -61949,7 +61881,7 @@
         ],
         "links": [
             "@epel-packagers-sig",
-            "lkundrak",
+            "orphan",
             "ovasik",
             "salimma"
         ],
@@ -62476,7 +62408,6 @@
             "deamn"
         ],
         "logisim": [
-            "lkundrak",
             "orphan"
         ],
         "logitech-27mhz-keyboard-encryption-setup": [
@@ -62708,7 +62639,6 @@
             "fale",
             "landgraf",
             "limb",
-            "lkundrak",
             "maha",
             "otaylor",
             "tjikkun"
@@ -62854,7 +62784,6 @@
         ],
         "lsyncd": [
             "cra",
-            "lkundrak",
             "pwouters"
         ],
         "lterm": [
@@ -63218,7 +63147,7 @@
             "orphan"
         ],
         "lumail": [
-            "lkundrak"
+            "orphan"
         ],
         "lumin": [
             "skitt"
@@ -63381,7 +63310,6 @@
             "linville"
         ],
         "lx": [
-            "lkundrak",
             "orphan"
         ],
         "lxappearance": [
@@ -63670,7 +63598,6 @@
             "orphan"
         ],
         "maatkit": [
-            "lkundrak",
             "slankes"
         ],
         "mac": [
@@ -64169,7 +64096,6 @@
             "orphan"
         ],
         "mars-sim": [
-            "lkundrak",
             "orphan"
         ],
         "marshalparser": [
@@ -64200,7 +64126,7 @@
         ],
         "massif-visualizer": [
             "@kde-sig",
-            "lkundrak",
+            "orphan",
             "smani"
         ],
         "mat2": [
@@ -65189,7 +65115,6 @@
         ],
         "mdbtools": [
             "jwrdegoede",
-            "lkundrak",
             "mschorm"
         ],
         "mdds": [
@@ -65453,7 +65378,6 @@
         "meld": [
             "@epel-packagers-sig",
             "dmaphy",
-            "lkundrak",
             "salimma"
         ],
         "mellowplayer": [
@@ -65537,7 +65461,6 @@
             "sbluhm"
         ],
         "mercury": [
-            "lkundrak",
             "orphan"
         ],
         "merkaartor": [
@@ -65796,7 +65719,6 @@
         ],
         "microba": [
             "java-sig",
-            "lkundrak",
             "orphan"
         ],
         "microcode_ctl": [
@@ -65812,7 +65734,7 @@
             "orphan"
         ],
         "micronucleus": [
-            "lkundrak"
+            "orphan"
         ],
         "micropipenv": [
             "lbalhar"
@@ -65908,7 +65830,6 @@
             "orphan"
         ],
         "min12xxw": [
-            "lkundrak",
             "orphan"
         ],
         "mina-ftpserver": [
@@ -67686,7 +67607,6 @@
         "minicom": [
             "jgorig",
             "jorton",
-            "lkundrak",
             "ngompa",
             "pzacik"
         ],
@@ -67728,7 +67648,6 @@
             "orphan"
         ],
         "minipro": [
-            "lkundrak",
             "sharkcz"
         ],
         "minirpc": [
@@ -68114,7 +68033,6 @@
         "mobile-broadband-provider-info": [
             "bengal",
             "dcavalca",
-            "lkundrak",
             "thaller"
         ],
         "mobile-broadband-provider-info-epel": [
@@ -68561,7 +68479,6 @@
             "sbonazzo"
         ],
         "mon": [
-            "lkundrak",
             "mspacek"
         ],
         "mona": [
@@ -70510,7 +70427,7 @@
             "orphan"
         ],
         "netbsd-iscsi": [
-            "lkundrak"
+            "orphan"
         ],
         "netcat": [
             "robert"
@@ -70658,7 +70575,7 @@
             "orphan"
         ],
         "netsurf": [
-            "lkundrak"
+            "orphan"
         ],
         "netsurf-buildsystem": [
             "cicku",
@@ -70702,7 +70619,7 @@
         "network-manager-applet": [
             "bengal",
             "ihuguet",
-            "lkundrak",
+            "orphan",
             "thaller"
         ],
         "network-manager-netbook": [
@@ -70785,7 +70702,7 @@
             "xplosionmind"
         ],
         "nextpnr": [
-            "lkundrak"
+            "orphan"
         ],
         "nexuiz": [
             "orphan"
@@ -70966,7 +70883,6 @@
             "orphan"
         ],
         "nightview": [
-            "lkundrak",
             "orphan"
         ],
         "nik4": [
@@ -76889,8 +76805,7 @@
             "raveit65"
         ],
         "numptyphysics": [
-            "limb",
-            "lkundrak"
+            "limb"
         ],
         "numpy": [
             "cstratak",
@@ -78954,7 +78869,6 @@
             "trix"
         ],
         "openclipart": [
-            "lkundrak",
             "orphan"
         ],
         "openclonk": [
@@ -79068,7 +78982,7 @@
         ],
         "openfortivpn": [
             "adrienverge",
-            "lkundrak"
+            "orphan"
         ],
         "openfst": [
             "@epel-packagers-sig",
@@ -79535,7 +79449,6 @@
             "dwalsh",
             "ellert",
             "jjelen",
-            "lkundrak",
             "tmraz"
         ],
         "openssh-blacklist": [
@@ -79988,7 +79901,6 @@
             "orphan"
         ],
         "orsa": [
-            "lkundrak",
             "zbyszek"
         ],
         "orthanc": [
@@ -80220,7 +80132,6 @@
             "mburket"
         ],
         "ovaldi": [
-            "lkundrak",
             "orphan"
         ],
         "overgod": [
@@ -80342,7 +80253,7 @@
             "ueno"
         ],
         "p11-remote": [
-            "lkundrak"
+            "orphan"
         ],
         "p7zip": [
             "dcavalca",
@@ -80413,7 +80324,7 @@
         ],
         "pacrunner": [
             "dwmw2",
-            "lkundrak"
+            "orphan"
         ],
         "padauk-fonts": [
             "fonts-sig",
@@ -81032,7 +80943,6 @@
             "fedepell"
         ],
         "patricia-trie": [
-            "lkundrak",
             "orphan"
         ],
         "paulstretch": [
@@ -81063,11 +80973,9 @@
             "rathann"
         ],
         "pbm2l2030": [
-            "lkundrak",
             "orphan"
         ],
         "pbm2l7k": [
-            "lkundrak",
             "orphan"
         ],
         "pbuilder": [
@@ -81101,11 +81009,9 @@
             "orphan"
         ],
         "pcb2gcode": [
-            "lkundrak",
             "orphan"
         ],
         "pcb2gcodeGUI": [
-            "lkundrak",
             "orphan"
         ],
         "pcc": [
@@ -81178,7 +81084,6 @@
         ],
         "pcre": [
             "@db-sig",
-            "lkundrak",
             "orphan",
             "thoger"
         ],
@@ -81528,7 +81433,6 @@
             "@perl-maint-sig",
             "corsepiu",
             "laxathom",
-            "lkundrak",
             "perl-sig",
             "ppisar"
         ],
@@ -81566,7 +81470,6 @@
             "perl-sig"
         ],
         "perl-Algorithm-Permute": [
-            "lkundrak",
             "orphan"
         ],
         "perl-Algorithm-SVM": [
@@ -81744,7 +81647,6 @@
         ],
         "perl-Apache-DBI-Cache": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Apache-Htpasswd": [
@@ -81987,7 +81889,6 @@
         ],
         "perl-Array-Utils": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Astro-FITS-CFITSIO": [
@@ -82038,7 +81939,6 @@
         ],
         "perl-Authen-Captcha": [
             "eseyman",
-            "lkundrak",
             "perl-sig",
             "xavierb"
         ],
@@ -82766,7 +82666,6 @@
         ],
         "perl-CSS-Tiny": [
             "eseyman",
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -82853,7 +82752,6 @@
         ],
         "perl-Carp-Always": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Carp-Assert": [
@@ -83225,7 +83123,6 @@
             "@perl-maint-sig",
             "corsepiu",
             "laxathom",
-            "lkundrak",
             "perl-sig",
             "ppisar"
         ],
@@ -83650,7 +83547,6 @@
         ],
         "perl-Config-General": [
             "gnat",
-            "lkundrak",
             "perl-sig",
             "pghmcfc"
         ],
@@ -83775,7 +83671,6 @@
         ],
         "perl-Const-Fast": [
             "eseyman",
-            "lkundrak",
             "perl-sig",
             "ppisar"
         ],
@@ -83788,7 +83683,6 @@
             "perl-sig"
         ],
         "perl-Contextual-Return": [
-            "lkundrak",
             "perl-sig",
             "pghmcfc"
         ],
@@ -83810,7 +83704,6 @@
             "ppisar"
         ],
         "perl-Convert-BER": [
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -83866,7 +83759,6 @@
         ],
         "perl-Convert-UU": [
             "jplesnik",
-            "lkundrak",
             "perl-sig",
             "ppisar"
         ],
@@ -84203,7 +84095,6 @@
             "mspacek"
         ],
         "perl-DBD-Mock": [
-            "lkundrak",
             "perl-sig"
         ],
         "perl-DBD-Multi": [
@@ -84218,7 +84109,6 @@
             "rstrode"
         ],
         "perl-DBD-ODBC": [
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -84561,7 +84451,6 @@
         ],
         "perl-Data-HexDump-XXD": [
             "jplesnik",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Data-Hexify": [
@@ -84757,7 +84646,6 @@
         ],
         "perl-Database-DumpTruck": [
             "jtaylor",
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -84904,13 +84792,11 @@
             "perl-sig"
         ],
         "perl-DateTime-Format-HTTP": [
-            "lkundrak",
             "mspacek",
             "perl-sig",
             "pghmcfc"
         ],
         "perl-DateTime-Format-IBeat": [
-            "lkundrak",
             "mspacek",
             "perl-sig",
             "pghmcfc"
@@ -85215,7 +85101,6 @@
             "steve"
         ],
         "perl-Devel-REPL": [
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Devel-Refactor": [
@@ -85262,7 +85147,6 @@
         ],
         "perl-Devel-StringInfo": [
             "jplesnik",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Devel-Symdump": [
@@ -85381,7 +85265,6 @@
         ],
         "perl-Directory-Scratch": [
             "jplesnik",
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -86185,7 +86068,6 @@
         "perl-File-Flat": [
             "corsepiu",
             "laxathom",
-            "lkundrak",
             "orphan",
             "perl-sig"
         ],
@@ -86247,7 +86129,6 @@
         "perl-File-Map": [
             "eseyman",
             "jplesnik",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-File-MimeInfo": [
@@ -86427,7 +86308,6 @@
         "perl-File-chmod": [
             "corsepiu",
             "jplesnik",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-File-pushd": [
@@ -86892,7 +86772,6 @@
         ],
         "perl-GraphViz": [
             "jplesnik",
-            "lkundrak",
             "perl-sig",
             "xavierb"
         ],
@@ -87077,7 +86956,6 @@
         "perl-HTML-Form": [
             "@perl-maint-sig",
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-HTML-FormFu": [
@@ -87267,7 +87145,6 @@
         ],
         "perl-HTML-Template-Pro": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-HTML-Tidy": [
@@ -87586,7 +87463,6 @@
         ],
         "perl-Heap": [
             "jplesnik",
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -88040,7 +87916,6 @@
         ],
         "perl-JSON-Any": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-JSON-Color": [
@@ -88417,7 +88292,6 @@
         ],
         "perl-Lingua-Stem-Snowball": [
             "jplesnik",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Lingua-Stem-Snowball-Da": [
@@ -88426,7 +88300,6 @@
         ],
         "perl-Lingua-StopWords": [
             "jplesnik",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Lingua-Translit": [
@@ -88534,7 +88407,6 @@
             "perl-sig"
         ],
         "perl-Locale-US": [
-            "lkundrak",
             "perl-sig",
             "pghmcfc"
         ],
@@ -88694,7 +88566,6 @@
             "ngompa"
         ],
         "perl-Lucy": [
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -88926,7 +88797,6 @@
             "ppisar"
         ],
         "perl-Marpa-XS": [
-            "lkundrak",
             "orphan",
             "perl-sig"
         ],
@@ -89250,7 +89120,6 @@
         ],
         "perl-Module-CPANTS-Analyse": [
             "berrange",
-            "lkundrak",
             "perl-sig",
             "pghmcfc"
         ],
@@ -89644,7 +89513,6 @@
             "perl-sig"
         ],
         "perl-Mon": [
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -89756,7 +89624,6 @@
         ],
         "perl-Moose": [
             "eseyman",
-            "lkundrak",
             "mspacek",
             "perl-sig",
             "pghmcfc"
@@ -90267,10 +90134,12 @@
         ],
         "perl-Net-Amazon-EC2": [
             "lkundrak",
+            "orphan",
             "perl-sig"
         ],
         "perl-Net-Amazon-EC2-Metadata": [
             "lkundrak",
+            "orphan",
             "perl-sig"
         ],
         "perl-Net-Amazon-S3": [
@@ -90392,7 +90261,6 @@
         ],
         "perl-Net-FTPSSL": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Net-FTPServer": [
@@ -90408,7 +90276,6 @@
             "spot"
         ],
         "perl-Net-GitHub": [
-            "lkundrak",
             "orphan",
             "perl-sig"
         ],
@@ -90445,7 +90312,6 @@
             "ppisar"
         ],
         "perl-Net-IMAP-Client": [
-            "lkundrak",
             "mspacek"
         ],
         "perl-Net-IMAP-Simple": [
@@ -90492,7 +90358,6 @@
         ],
         "perl-Net-IRC": [
             "jplesnik",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Net-Jabber": [
@@ -90544,7 +90409,6 @@
         ],
         "perl-Net-OAuth": [
             "eseyman",
-            "lkundrak",
             "perl-sig",
             "tjikkun",
             "xavierb"
@@ -90641,7 +90505,6 @@
             "spot"
         ],
         "perl-Net-SNPP": [
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -90682,7 +90545,6 @@
         ],
         "perl-Net-Server": [
             "fenris02",
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -90703,7 +90565,6 @@
             "perl-sig"
         ],
         "perl-Net-Stomp": [
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -90884,7 +90745,6 @@
         ],
         "perl-Object-MultiType": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Object-Pad": [
@@ -90924,6 +90784,7 @@
         "perl-OpenGL": [
             "jplesnik",
             "lkundrak",
+            "orphan",
             "perl-sig"
         ],
         "perl-OpenGL-GLUT": [
@@ -90984,7 +90845,6 @@
         ],
         "perl-PDL": [
             "jplesnik",
-            "lkundrak",
             "perl-sig",
             "rhughes",
             "rstrode"
@@ -91132,7 +90992,6 @@
             "xavierb"
         ],
         "perl-POSIX-strptime": [
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -91602,7 +91461,6 @@
             "pghmcfc"
         ],
         "perl-PerlIO-Layers": [
-            "lkundrak",
             "perl-sig",
             "ppisar"
         ],
@@ -91834,7 +91692,6 @@
         ],
         "perl-Pod-Simple-Wiki": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Pod-Snippets": [
@@ -91902,7 +91759,6 @@
             "perl-sig"
         ],
         "perl-Prima": [
-            "lkundrak",
             "perl-sig",
             "ppisar"
         ],
@@ -92061,7 +91917,6 @@
         ],
         "perl-RPM2": [
             "jplesnik",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-RRD-Simple": [
@@ -92097,7 +91952,6 @@
         ],
         "perl-Reaper": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Redis": [
@@ -92368,7 +92222,6 @@
         ],
         "perl-SVG-Parser": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-SVG-TT-Graph": [
@@ -92821,7 +92674,6 @@
         ],
         "perl-String-Random": [
             "eseyman",
-            "lkundrak",
             "perl-sig",
             "steve"
         ],
@@ -93075,7 +92927,6 @@
         ],
         "perl-Sys-Statistics-Linux": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Sys-Syscall": [
@@ -93132,7 +92983,6 @@
         ],
         "perl-TAP-Harness-Archive": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-TAP-Harness-Env": [
@@ -93141,7 +92991,6 @@
         ],
         "perl-TAP-Harness-JUnit": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-TAP-Harness-Multiple": [
@@ -93345,7 +93194,6 @@
             "@epel-packagers-sig",
             "cra",
             "eseyman",
-            "lkundrak",
             "orion",
             "perl-sig"
         ],
@@ -93723,7 +93571,6 @@
         "perl-Test-Inline": [
             "corsepiu",
             "laxathom",
-            "lkundrak",
             "orphan",
             "perl-sig"
         ],
@@ -93809,7 +93656,6 @@
             "nb"
         ],
         "perl-Test-Mock-LWP": [
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -93822,7 +93668,6 @@
             "xavierb"
         ],
         "perl-Test-MockObject": [
-            "lkundrak",
             "perl-sig",
             "spot",
             "xavierb"
@@ -94145,7 +93990,6 @@
         ],
         "perl-Test-Trap": [
             "jplesnik",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Test-Type": [
@@ -94202,6 +94046,7 @@
         ],
         "perl-Test-WWW-Selenium": [
             "lkundrak",
+            "orphan",
             "perl-sig"
         ],
         "perl-Test-Warn": [
@@ -94320,7 +94165,6 @@
         "perl-Text-ASCIITable": [
             "dfateyev",
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Text-Affixes": [
@@ -94365,7 +94209,6 @@
         ],
         "perl-Text-CSV": [
             "@epel-packagers-sig",
-            "lkundrak",
             "perl-sig",
             "robert",
             "sciurius",
@@ -94373,7 +94216,6 @@
         ],
         "perl-Text-CSV-Separator": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Text-CSV_XS": [
@@ -94504,7 +94346,6 @@
             "jplesnik"
         ],
         "perl-Text-Markdown": [
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -94780,7 +94621,6 @@
             "perl-sig"
         ],
         "perl-Tie-ToObject": [
-            "lkundrak",
             "mspacek",
             "perl-sig",
             "pghmcfc",
@@ -94792,7 +94632,6 @@
         ],
         "perl-Time-Duration": [
             "jplesnik",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-Time-Duration-Parse": [
@@ -94843,7 +94682,6 @@
             "xavierb"
         ],
         "perl-Time-Period": [
-            "lkundrak",
             "perl-sig",
             "robmv"
         ],
@@ -94933,7 +94771,6 @@
             "ppisar"
         ],
         "perl-Tk-GraphViz": [
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -94959,7 +94796,6 @@
             "xavierb"
         ],
         "perl-Tk-Text-SuperText": [
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -95345,6 +95181,7 @@
             "xavierb"
         ],
         "perl-WWW-GoodData": [
+            "orphan",
             "perl-sig"
         ],
         "perl-WWW-Google-Contacts": [
@@ -95362,7 +95199,6 @@
         ],
         "perl-WWW-Mechanize-GZip": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-WWW-Mechanize-TreeBuilder": [
@@ -95392,6 +95228,7 @@
         ],
         "perl-WWW-Salesforce": [
             "lkundrak",
+            "orphan",
             "perl-sig"
         ],
         "perl-WWW-Search": [
@@ -95403,7 +95240,6 @@
             "perl-sig"
         ],
         "perl-WWW-Splunk": [
-            "lkundrak",
             "mspacek",
             "perl-sig"
         ],
@@ -95421,7 +95257,6 @@
         "perl-Want": [
             "corsepiu",
             "laxathom",
-            "lkundrak",
             "perl-sig",
             "pghmcfc"
         ],
@@ -95528,7 +95363,6 @@
         ],
         "perl-XML-Atom-SimpleFeed": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-XML-Bare": [
@@ -95751,7 +95585,6 @@
         ],
         "perl-XML-Smart": [
             "eseyman",
-            "lkundrak",
             "perl-sig"
         ],
         "perl-XML-Spice": [
@@ -96502,8 +96335,8 @@
         ],
         "pgp-tools": [
             "fale",
-            "lkundrak",
-            "nb"
+            "nb",
+            "orphan"
         ],
         "pgpdump": [
             "@epel-packagers-sig",
@@ -96559,8 +96392,6 @@
         "phoc": [
             "@phosh-sig",
             "davidsch",
-            "lihis",
-            "lkundrak",
             "samcday"
         ],
         "phodav": [
@@ -96609,19 +96440,15 @@
             "@phosh-sig",
             "alho",
             "davidsch",
-            "lihis",
-            "lkundrak",
             "samcday"
         ],
         "phosh-mobile-settings": [
             "@phosh-sig",
             "davidsch",
-            "lihis",
             "samcday"
         ],
         "phosh-tour": [
             "@phosh-sig",
-            "lihis",
             "samcday"
         ],
         "photocollage": [
@@ -101477,7 +101304,6 @@
         ],
         "plee-the-bear": [
             "jwrdegoede",
-            "lkundrak",
             "martinkg",
             "spot"
         ],
@@ -101808,7 +101634,8 @@
             "tdawson"
         ],
         "pnglite": [
-            "lkundrak"
+            "lkundrak",
+            "orphan"
         ],
         "pngnq": [
             "jridky",
@@ -102168,7 +101995,8 @@
             "dcavalca"
         ],
         "poster": [
-            "lkundrak"
+            "lkundrak",
+            "orphan"
         ],
         "posterazor": [
             "orphan",
@@ -102627,7 +102455,6 @@
             "obudai"
         ],
         "printer-filters": [
-            "lkundrak",
             "orphan"
         ],
         "printoxx": [
@@ -102932,7 +102759,7 @@
             "sergiopr"
         ],
         "psftools": [
-            "lkundrak"
+            "orphan"
         ],
         "psgml": [
             "orphan"
@@ -103045,7 +102872,6 @@
             "orphan"
         ],
         "ptouch-driver": [
-            "lkundrak",
             "zdohnal"
         ],
         "ptpd": [
@@ -104873,8 +104699,7 @@
             "orphan"
         ],
         "python-anytree": [
-            "fedepell",
-            "lkundrak"
+            "fedepell"
         ],
         "python-anyvc": [
             "orphan"
@@ -106190,8 +106015,7 @@
             "davdunc",
             "fale",
             "gholms",
-            "limb",
-            "lkundrak"
+            "limb"
         ],
         "python-bottle": [
             "aekoroglu",
@@ -110814,6 +110638,9 @@
             "pwouters",
             "rommell"
         ],
+        "python-hiveplotlib": [
+            "jjames"
+        ],
         "python-hjson": [
             "@mkdocs-sig",
             "dcavalca"
@@ -111597,8 +111424,7 @@
             "fale",
             "gholms",
             "gotmax23",
-            "kevin",
-            "lkundrak"
+            "kevin"
         ],
         "python-jnius": [
             "@python-packagers-sig",
@@ -114581,6 +114407,9 @@
             "ignatenkobrain",
             "orphan"
         ],
+        "python-parallel-web": [
+            "cqi"
+        ],
         "python-param": [
             "orphan"
         ],
@@ -116114,7 +115943,7 @@
             "kevin"
         ],
         "python-pylint-venv": [
-            "gui1ty"
+            "orphan"
         ],
         "python-pylons": [
             "orphan"
@@ -117075,6 +116904,9 @@
         "python-pytest7": [
             "@python-packagers-sig",
             "thrnciar"
+        ],
+        "python-pytest_describe": [
+            "stevetraylen"
         ],
         "python-pytg": [
             "orphan"
@@ -118163,8 +117995,7 @@
             "orphan"
         ],
         "python-scales": [
-            "lbalhar",
-            "lkundrak"
+            "lbalhar"
         ],
         "python-scandir": [
             "orphan"
@@ -118511,6 +118342,9 @@
             "pwouters",
             "rominf",
             "rommell"
+        ],
+        "python-simple-term-menu": [
+            "cqi"
         ],
         "python-simple-websocket": [
             "music",
@@ -119374,7 +119208,8 @@
             "orphan"
         ],
         "python-sqlmodel": [
-            "music"
+            "music",
+            "orphan"
         ],
         "python-sqlobject": [
             "orphan"
@@ -119510,7 +119345,7 @@
         ],
         "python-stomper": [
             "@infra-sig",
-            "gui1ty",
+            "orphan",
             "ralph"
         ],
         "python-stompest": [
@@ -123925,7 +123760,6 @@
             "@kde-sig",
             "cicku",
             "jgrulich",
-            "lkundrak",
             "plfiorini",
             "than"
         ],
@@ -123946,7 +123780,6 @@
             "@kde-sig",
             "cicku",
             "jgrulich",
-            "lkundrak",
             "plfiorini",
             "than"
         ],
@@ -124023,7 +123856,6 @@
         "qt5-qtquickcontrols": [
             "@kde-sig",
             "jgrulich",
-            "lkundrak",
             "than"
         ],
         "qt5-qtquickcontrols2": [
@@ -124088,7 +123920,6 @@
         "qt5-qtwayland": [
             "@kde-sig",
             "jgrulich",
-            "lkundrak",
             "plfiorini",
             "siosm",
             "than"
@@ -124119,7 +123950,6 @@
         "qt5-qtx11extras": [
             "@kde-sig",
             "jgrulich",
-            "lkundrak",
             "than"
         ],
         "qt5-qtxmlpatterns": [
@@ -124380,7 +124210,8 @@
             "tdawson"
         ],
         "qtl866": [
-            "lkundrak"
+            "lkundrak",
+            "orphan"
         ],
         "qtlockedfile": [
             "@kde-sig",
@@ -126638,7 +126469,6 @@
         ],
         "rsyslog": [
             "alakatos",
-            "lkundrak",
             "rsroka",
             "zfridric"
         ],
@@ -127154,7 +126984,6 @@
             "vondruch"
         ],
         "rubygem-bacon": [
-            "lkundrak",
             "tdawson",
             "vondruch"
         ],
@@ -127414,7 +127243,8 @@
             "orphan"
         ],
         "rubygem-comp_tree": [
-            "lkundrak"
+            "lkundrak",
+            "orphan"
         ],
         "rubygem-compass": [
             "orphan"
@@ -127441,7 +127271,6 @@
             "vondruch"
         ],
         "rubygem-configuration": [
-            "lkundrak",
             "orphan",
             "tdawson"
         ],
@@ -127595,7 +127424,6 @@
             "orphan"
         ],
         "rubygem-diff-lcs": [
-            "lkundrak",
             "tdawson",
             "vondruch"
         ],
@@ -127621,7 +127449,8 @@
             "orphan"
         ],
         "rubygem-drake": [
-            "lkundrak"
+            "lkundrak",
+            "orphan"
         ],
         "rubygem-dynamic_form": [
             "orphan"
@@ -128603,7 +128432,6 @@
             "orphan"
         ],
         "rubygem-morph-cli": [
-            "lkundrak",
             "orphan"
         ],
         "rubygem-msgpack": [
@@ -128911,7 +128739,6 @@
             "orphan"
         ],
         "rubygem-polyglot": [
-            "lkundrak",
             "vondruch"
         ],
         "rubygem-poppler": [
@@ -129077,7 +128904,6 @@
             "vondruch"
         ],
         "rubygem-rack-test": [
-            "lkundrak",
             "vondruch"
         ],
         "rubygem-rackup": [
@@ -129502,7 +129328,6 @@
             "@ruby-packagers-sig",
             "clalance",
             "jaruga",
-            "lkundrak",
             "tdawson",
             "vondruch"
         ],
@@ -129614,7 +129439,6 @@
         "rubygem-sinatra": [
             "@ruby-packagers-sig",
             "jaruga",
-            "lkundrak",
             "valtri",
             "vondruch"
         ],
@@ -129708,7 +129532,6 @@
             "orphan"
         ],
         "rubygem-syntax": [
-            "lkundrak",
             "orphan"
         ],
         "rubygem-sys-filesystem": [
@@ -129832,7 +129655,6 @@
             "orphan"
         ],
         "rubygem-treetop": [
-            "lkundrak",
             "vondruch"
         ],
         "rubygem-trollop": [
@@ -139612,6 +139434,7 @@
             "music"
         ],
         "rust-libcramjam0.8": [
+            "@rust-sig",
             "music"
         ],
         "rust-libcryptsetup-rs": [
@@ -150970,8 +150793,7 @@
             "sharkcz"
         ],
         "s3cmd": [
-            "frankcrawford",
-            "lkundrak"
+            "frankcrawford"
         ],
         "s3fs-fuse": [
             "gaul",
@@ -151153,7 +150975,6 @@
             "teigland"
         ],
         "saoimage": [
-            "lkundrak",
             "orphan"
         ],
         "sap": [
@@ -152895,7 +152716,6 @@
             "@astro-sig",
             "fedepell",
             "kathenas",
-            "lkundrak",
             "mattia"
         ],
         "sirius": [
@@ -153017,7 +152837,6 @@
         ],
         "skychart": [
             "@astro-sig",
-            "lkundrak",
             "sergiopr"
         ],
         "skylable-sx": [
@@ -153026,6 +152845,7 @@
         ],
         "skyviewer": [
             "lkundrak",
+            "orphan",
             "rineau"
         ],
         "sl": [
@@ -153986,7 +153806,7 @@
             "orphan"
         ],
         "spi-tools": [
-            "lkundrak"
+            "orphan"
         ],
         "spicctrl": [
             "orphan",
@@ -154498,7 +154318,6 @@
             "pwouters"
         ],
         "sstp-client": [
-            "lkundrak",
             "szpak"
         ],
         "st": [
@@ -154609,7 +154428,6 @@
             "orphan"
         ],
         "starlab": [
-            "lkundrak",
             "orphan"
         ],
         "starplot": [
@@ -154739,7 +154557,6 @@
         ],
         "stevia": [
             "@phosh-sig",
-            "lihis",
             "samcday"
         ],
         "stfl": [
@@ -155321,7 +155138,8 @@
             "fed500"
         ],
         "sunxi-tools": [
-            "lkundrak"
+            "lkundrak",
+            "orphan"
         ],
         "super-csv": [
             "java-sig",
@@ -155604,7 +155422,6 @@
         "swing-layout": [
             "jandrlik",
             "java-sig",
-            "lkundrak",
             "pmikova"
         ],
         "swingx": [
@@ -155843,12 +155660,10 @@
             "orphan"
         ],
         "synfig": [
-            "lkundrak",
             "luya"
         ],
         "synfigstudio": [
             "limb",
-            "lkundrak",
             "luya"
         ],
         "synopsis": [
@@ -155899,7 +155714,6 @@
             "@gnome-sig",
             "giallu",
             "kalev",
-            "lkundrak",
             "mclasen"
         ],
         "sysprof-kmod": [
@@ -155962,7 +155776,6 @@
             "orphan"
         ],
         "system-config-keyboard": [
-            "lkundrak",
             "orphan"
         ],
         "system-config-kickstart": [
@@ -155999,7 +155812,8 @@
             "orphan"
         ],
         "system-config-rootpassword": [
-            "lkundrak"
+            "lkundrak",
+            "orphan"
         ],
         "system-config-samba": [
             "orphan"
@@ -156674,8 +156488,7 @@
         ],
         "teeworlds": [
             "ignatenkobrain",
-            "limb",
-            "lkundrak"
+            "limb"
         ],
         "teg": [
             "cheese"
@@ -156949,7 +156762,6 @@
         ],
         "testng": [
             "java-sig",
-            "lkundrak",
             "mizdebsk",
             "mkoncek"
         ],
@@ -158602,7 +158414,6 @@
             "limb"
         ],
         "trellis": [
-            "lkundrak",
             "xanderlent"
         ],
         "tremfusion": [
@@ -158989,6 +158800,7 @@
         ],
         "tunctl": [
             "lkundrak",
+            "orphan",
             "rjones"
         ],
         "tuned": [
@@ -159005,7 +158817,8 @@
             "orphan"
         ],
         "tunneler": [
-            "lkundrak"
+            "lkundrak",
+            "orphan"
         ],
         "tuptime": [
             "frankcrawford"
@@ -159036,7 +158849,6 @@
             "orphan"
         ],
         "tuxanci": [
-            "lkundrak",
             "ppisar"
         ],
         "tuxcmd": [
@@ -159930,13 +159742,11 @@
         "usb_modeswitch": [
             "ammdispose",
             "huzaifas",
-            "lkundrak",
             "ngompa"
         ],
         "usb_modeswitch-data": [
             "ammdispose",
-            "huzaifas",
-            "lkundrak"
+            "huzaifas"
         ],
         "usbauth": [
             "kochstefan"
@@ -159975,7 +159785,8 @@
             "orphan"
         ],
         "usbsniff": [
-            "lkundrak"
+            "lkundrak",
+            "orphan"
         ],
         "usbsoftrock": [
             "orphan"
@@ -160150,11 +159961,10 @@
             "jwrdegoede"
         ],
         "v8": [
-            "lkundrak",
             "orphan"
         ],
         "v8-314": [
-            "lkundrak",
+            "orphan",
             "spot"
         ],
         "vacation": [
@@ -162099,7 +161909,6 @@
         ],
         "wkhtmltopdf": [
             "gnat",
-            "lkundrak",
             "mtasaka"
         ],
         "wklej": [
@@ -162448,8 +162257,7 @@
         ],
         "wpa_supplicant": [
             "bengal",
-            "dcaratti",
-            "lkundrak"
+            "dcaratti"
         ],
         "wpan-tools": [
             "pbrobinson"
@@ -162579,8 +162387,7 @@
         "wv": [
             "abompard",
             "filiperosset",
-            "jamatos",
-            "lkundrak"
+            "jamatos"
         ],
         "wv2": [
             "orphan"
@@ -162724,8 +162531,7 @@
             "sharkcz"
         ],
         "xalan-c": [
-            "fed500",
-            "lkundrak"
+            "fed500"
         ],
         "xalan-j2": [
             "devrim",
@@ -163888,7 +163694,6 @@
             "rombobeorn"
         ],
         "xmlbeans": [
-            "lkundrak",
             "orphan"
         ],
         "xmlbeans-maven-plugin": [
@@ -163912,7 +163717,6 @@
         ],
         "xmlfy": [
             "arthurguru",
-            "lkundrak",
             "orphan"
         ],
         "xmlgraphics-commons": [
@@ -163979,6 +163783,7 @@
             "@db-sig",
             "lkundrak",
             "mschorm",
+            "orphan",
             "ovasik"
         ],
         "xmltool": [
@@ -164201,7 +164006,7 @@
             "orphan"
         ],
         "xorg-x11-drv-armada": [
-            "lkundrak"
+            "orphan"
         ],
         "xorg-x11-drv-armsoc": [
             "ausil",
@@ -164838,7 +164643,6 @@
             "@epel-packagers-sig",
             "cheese",
             "jonathanspw",
-            "lkundrak",
             "mtasaka"
         ],
         "xsd": [
@@ -164918,7 +164722,6 @@
         "xstream": [
             "didiksupriadi41",
             "java-sig",
-            "lkundrak",
             "mizdebsk",
             "mkoncek",
             "sbluhm"
@@ -164933,7 +164736,8 @@
             "jussilehtola"
         ],
         "xteddy": [
-            "lkundrak"
+            "lkundrak",
+            "orphan"
         ],
         "xtensor": [
             "sergesanspaille"
@@ -165242,7 +165046,6 @@
             "vcrhonek"
         ],
         "yaws": [
-            "lkundrak",
             "orphan"
         ],
         "yaz": [
@@ -165308,14 +165111,13 @@
             "wzzrd"
         ],
         "ykushcmd": [
-            "lkundrak"
+            "orphan"
         ],
         "yle-dl": [
             "oturpe",
             "vpv"
         ],
         "yofrankie-bge": [
-            "lkundrak",
             "orphan"
         ],
         "yokadi": [
@@ -165329,7 +165131,6 @@
         ],
         "yosys": [
             "brouhaha",
-            "lkundrak",
             "xanderlent"
         ],
         "yosyshq-abc": [

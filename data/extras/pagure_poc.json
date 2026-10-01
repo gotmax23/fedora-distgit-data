@@ -4617,9 +4617,9 @@
             "fedora": "ctron"
         },
         "4th": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "4ti2": {
             "admin": "jjames",
@@ -5257,9 +5257,9 @@
             "fedora": "kwizart"
         },
         "GLee": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "GMT": {
             "admin": "orion",
@@ -5632,9 +5632,9 @@
             "fedora": "fed500"
         },
         "NaturalDocs": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "NearTree": {
             "admin": "krege",
@@ -5652,9 +5652,9 @@
             "fedora": "bengal"
         },
         "NetworkManager-fortisslvpn": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "catanzaro",
+            "epel": "catanzaro",
+            "fedora": "catanzaro"
         },
         "NetworkManager-iodine": {
             "admin": "danfruehauf",
@@ -5667,9 +5667,9 @@
             "fedora": "dkosovic"
         },
         "NetworkManager-libreswan": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "NetworkManager-openconnect": {
             "admin": "dwmw2",
@@ -5682,14 +5682,14 @@
             "fedora": "orphan"
         },
         "NetworkManager-openvpn": {
-            "admin": "lkundrak",
+            "admin": "orphan",
             "epel": "limb",
-            "fedora": "lkundrak"
+            "fedora": "orphan"
         },
         "NetworkManager-pptp": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "NetworkManager-ssh": {
             "admin": "danfruehauf",
@@ -5707,9 +5707,9 @@
             "fedora": "pemensik"
         },
         "NetworkManager-vpnc": {
-            "admin": "lkundrak",
+            "admin": "catanzaro",
             "epel": "huzaifas",
-            "fedora": "lkundrak"
+            "fedora": "catanzaro"
         },
         "NiaAML-GUI": {
             "admin": "music",
@@ -12457,9 +12457,9 @@
             "fedora": "orphan"
         },
         "astronomy-menus": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "rcallicotte",
+            "epel": "rcallicotte",
+            "fedora": "rcallicotte"
         },
         "astroterm": {
             "admin": "jonathanspw",
@@ -13562,9 +13562,9 @@
             "fedora": "orphan"
         },
         "bam": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "bamf": {
             "admin": "topazus",
@@ -16647,9 +16647,9 @@
             "fedora": "larsks"
         },
         "cave9": {
-            "admin": "gui1ty",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "gui1ty"
+            "fedora": "orphan"
         },
         "cawbird": {
             "admin": "orphan",
@@ -16987,9 +16987,9 @@
             "fedora": "orphan"
         },
         "centerim": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "centos-packager": {
             "admin": "dcavalca",
@@ -17977,9 +17977,9 @@
             "fedora": "rathann"
         },
         "clearlooks-compact-gnome-theme": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "clearlooks-phenix": {
             "admin": "orphan",
@@ -19727,9 +19727,9 @@
             "fedora": "lzaoral"
         },
         "consolation": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "console-bridge": {
             "admin": "cottsay",
@@ -20057,9 +20057,9 @@
             "fedora": "honzaf"
         },
         "corrida": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "corrosion": {
             "admin": "decathorpe",
@@ -20778,12 +20778,12 @@
         },
         "cross-binutils": {
             "admin": "dhowells",
-            "epel": "lkundrak",
+            "epel": "dhowells",
             "fedora": "dhowells"
         },
         "cross-gcc": {
             "admin": "dhowells",
-            "epel": "lkundrak",
+            "epel": "dhowells",
             "fedora": "dhowells"
         },
         "crossfire": {
@@ -22962,9 +22962,9 @@
             "fedora": "orphan"
         },
         "dgit": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "dgop": {
             "admin": "ngompa",
@@ -28783,7 +28783,7 @@
         },
         "erlang-erlsom": {
             "admin": "peter",
-            "epel": "lkundrak",
+            "epel": "peter",
             "fedora": "peter"
         },
         "erlang-erlsyslog": {
@@ -28933,7 +28933,7 @@
         },
         "erlang-ibrowse": {
             "admin": "peter",
-            "epel": "lkundrak",
+            "epel": "peter",
             "fedora": "peter"
         },
         "erlang-iconv": {
@@ -29003,7 +29003,7 @@
         },
         "erlang-meck": {
             "admin": "peter",
-            "epel": "lkundrak",
+            "epel": "peter",
             "fedora": "peter"
         },
         "erlang-merge_index": {
@@ -29358,7 +29358,7 @@
         },
         "erlang-xmlrpc": {
             "admin": "peter",
-            "epel": "lkundrak",
+            "epel": "peter",
             "fedora": "peter"
         },
         "erlang-xmpp": {
@@ -29857,9 +29857,9 @@
             "fedora": "orphan"
         },
         "extra-cmake-modules": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "extra-enforcer-rules": {
             "admin": "mkoncek",
@@ -29883,7 +29883,7 @@
         },
         "extrema": {
             "admin": "terjeros",
-            "epel": "lkundrak",
+            "epel": "terjeros",
             "fedora": "terjeros"
         },
         "extremetuxracer": {
@@ -30158,7 +30158,7 @@
         },
         "fakeroot": {
             "admin": "ngompa",
-            "epel": "lkundrak",
+            "epel": "ngompa",
             "fedora": "ngompa"
         },
         "fakesystemd": {
@@ -31518,7 +31518,7 @@
         },
         "fftw2": {
             "admin": "jamatos",
-            "epel": "lkundrak",
+            "epel": "jamatos",
             "fedora": "jamatos"
         },
         "ffuf": {
@@ -32252,9 +32252,9 @@
             "fedora": "dcavalca"
         },
         "fluid": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "fluid-soundfont": {
             "admin": "limb",
@@ -33077,9 +33077,9 @@
             "fedora": "ngompa"
         },
         "freerouting": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "freesteam": {
             "admin": "orphan",
@@ -57312,9 +57312,9 @@
             "fedora": "mfabian"
         },
         "google-noto-emoji-fonts": {
-            "admin": "tagoh",
-            "epel": "tagoh",
-            "fedora": "tagoh"
+            "admin": "mfabian",
+            "epel": "mfabian",
+            "fedora": "mfabian"
         },
         "google-noto-fonts": {
             "admin": "tagoh",
@@ -61822,9 +61822,9 @@
             "fedora": "vcrhonek"
         },
         "hwinfo": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "hwk": {
             "admin": "petersen",
@@ -63453,7 +63453,7 @@
         },
         "insight": {
             "admin": "monnerat",
-            "epel": "lkundrak",
+            "epel": "monnerat",
             "fedora": "monnerat"
         },
         "inspektor-gadget": {
@@ -64173,7 +64173,7 @@
         },
         "isync": {
             "admin": "fab",
-            "epel": "lkundrak",
+            "epel": "fab",
             "fedora": "fab"
         },
         "itaka": {
@@ -64277,9 +64277,9 @@
             "fedora": "orphan"
         },
         "iwd": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "iwhd": {
             "admin": "orphan",
@@ -66543,7 +66543,7 @@
         },
         "jfreechart": {
             "admin": "didiksupriadi41",
-            "epel": "lkundrak",
+            "epel": "didiksupriadi41",
             "fedora": "didiksupriadi41"
         },
         "jfrog-cli": {
@@ -70417,9 +70417,9 @@
             "fedora": "kkofler"
         },
         "kgraphviewer": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "kgtk": {
             "admin": "orphan",
@@ -70473,7 +70473,7 @@
         },
         "kicad": {
             "admin": "stevenfalco",
-            "epel": "lkundrak",
+            "epel": "stevenfalco",
             "fedora": "stevenfalco"
         },
         "kicker-compiz": {
@@ -73912,9 +73912,9 @@
             "fedora": "nonamedotc"
         },
         "libclaw": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "libclc": {
             "admin": "tstellar",
@@ -74372,9 +74372,9 @@
             "fedora": "ajax"
         },
         "libdrm-armada": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "libdsk": {
             "admin": "vtrefny",
@@ -74592,9 +74592,9 @@
             "fedora": "alakatos"
         },
         "libetnaviv": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "libetonyek": {
             "admin": "dtardon",
@@ -74933,7 +74933,7 @@
         },
         "libgda": {
             "admin": "limb",
-            "epel": "lkundrak",
+            "epel": "limb",
             "fedora": "limb"
         },
         "libgda5": {
@@ -76477,9 +76477,9 @@
             "fedora": "lecris"
         },
         "libmbim": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "libmcrypt": {
             "admin": "spot",
@@ -77007,9 +77007,9 @@
             "fedora": "orphan"
         },
         "libnma": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "libnma-epel": {
             "admin": "tdawson",
@@ -77792,9 +77792,9 @@
             "fedora": "orphan"
         },
         "libqmi": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "libqrtr-glib": {
             "admin": "pbrobinson",
@@ -77822,9 +77822,9 @@
             "fedora": "orphan"
         },
         "libqtxdg": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "zsun",
+            "epel": "zsun",
+            "fedora": "zsun"
         },
         "libqtxdg-qt4": {
             "admin": "orphan",
@@ -79547,9 +79547,9 @@
             "fedora": "jcpunk"
         },
         "libx86emu": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "libxc": {
             "admin": "jussilehtola",
@@ -80137,9 +80137,9 @@
             "fedora": "churchyard"
         },
         "links": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "linode-cli": {
             "admin": "orphan",
@@ -81018,7 +81018,7 @@
         },
         "loudmouth": {
             "admin": "limb",
-            "epel": "lkundrak",
+            "epel": "limb",
             "fedora": "limb"
         },
         "loupe": {
@@ -81692,9 +81692,9 @@
             "fedora": "orphan"
         },
         "lumail": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "lumin": {
             "admin": "skitt",
@@ -83007,9 +83007,9 @@
             "fedora": "jonathanspw"
         },
         "massif-visualizer": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "mat2": {
             "admin": "infraw",
@@ -84218,7 +84218,7 @@
         },
         "mdbtools": {
             "admin": "jwrdegoede",
-            "epel": "lkundrak",
+            "epel": "jwrdegoede",
             "fedora": "jwrdegoede"
         },
         "mdds": {
@@ -84613,7 +84613,7 @@
         },
         "meld": {
             "admin": "dmaphy",
-            "epel": "lkundrak",
+            "epel": "dmaphy",
             "fedora": "dmaphy"
         },
         "mellowplayer": {
@@ -85042,9 +85042,9 @@
             "fedora": "orphan"
         },
         "micronucleus": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "micropipenv": {
             "admin": "lbalhar",
@@ -87732,9 +87732,9 @@
             "fedora": "orphan"
         },
         "minipro": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "sharkcz",
+            "epel": "sharkcz",
+            "fedora": "sharkcz"
         },
         "minirpc": {
             "admin": "orphan",
@@ -91452,9 +91452,9 @@
             "fedora": "orphan"
         },
         "netbsd-iscsi": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "netcat": {
             "admin": "robert",
@@ -91657,9 +91657,9 @@
             "fedora": "orphan"
         },
         "netsurf": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "netsurf-buildsystem": {
             "admin": "dtardon",
@@ -91712,9 +91712,9 @@
             "fedora": "orphan"
         },
         "network-manager-applet": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "network-manager-netbook": {
             "admin": "orphan",
@@ -91827,9 +91827,9 @@
             "fedora": "nonamedotc"
         },
         "nextpnr": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "nexuiz": {
             "admin": "orphan",
@@ -100798,7 +100798,7 @@
         },
         "nss-mdns": {
             "admin": "pemensik",
-            "epel": "lkundrak",
+            "epel": "pemensik",
             "fedora": "pemensik"
         },
         "nss-myhostname": {
@@ -103902,9 +103902,9 @@
             "fedora": "jskarvad"
         },
         "openfortivpn": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "openfst": {
             "admin": "mikep",
@@ -105133,7 +105133,7 @@
         },
         "orsa": {
             "admin": "zbyszek",
-            "epel": "lkundrak",
+            "epel": "zbyszek",
             "fedora": "zbyszek"
         },
         "orthanc": {
@@ -105582,9 +105582,9 @@
             "fedora": "ueno"
         },
         "p11-remote": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "p7zip": {
             "admin": "dcavalca",
@@ -105667,9 +105667,9 @@
             "fedora": "orphan"
         },
         "pacrunner": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "padauk-fonts": {
             "admin": "orphan",
@@ -106698,8 +106698,8 @@
         },
         "pcre2": {
             "admin": "dhandzus",
-            "epel": "ljavorsk",
-            "fedora": "ljavorsk"
+            "epel": "dhandzus",
+            "fedora": "dhandzus"
         },
         "pcs": {
             "admin": "cfeist",
@@ -107138,7 +107138,7 @@
         },
         "perl-Algorithm-Dependency": {
             "admin": "ppisar",
-            "epel": "lkundrak",
+            "epel": "ppisar",
             "fedora": "ppisar"
         },
         "perl-Algorithm-Diff": {
@@ -107743,7 +107743,7 @@
         },
         "perl-Authen-Captcha": {
             "admin": "eseyman",
-            "epel": "lkundrak",
+            "epel": "eseyman",
             "fedora": "eseyman"
         },
         "perl-Authen-Credential": {
@@ -109123,7 +109123,7 @@
         },
         "perl-Class-Autouse": {
             "admin": "ppisar",
-            "epel": "lkundrak",
+            "epel": "ppisar",
             "fedora": "ppisar"
         },
         "perl-Class-Base": {
@@ -109853,7 +109853,7 @@
         },
         "perl-Convert-UU": {
             "admin": "jplesnik",
-            "epel": "lkundrak",
+            "epel": "jplesnik",
             "fedora": "jplesnik"
         },
         "perl-Convert-UUlib": {
@@ -110648,7 +110648,7 @@
         },
         "perl-Data-HexDump-XXD": {
             "admin": "jplesnik",
-            "epel": "lkundrak",
+            "epel": "jplesnik",
             "fedora": "jplesnik"
         },
         "perl-Data-Hexify": {
@@ -111443,7 +111443,7 @@
         },
         "perl-Devel-StringInfo": {
             "admin": "jplesnik",
-            "epel": "lkundrak",
+            "epel": "jplesnik",
             "fedora": "jplesnik"
         },
         "perl-Devel-Symdump": {
@@ -112458,7 +112458,7 @@
         },
         "perl-File-Flat": {
             "admin": "orphan",
-            "epel": "lkundrak",
+            "epel": "orphan",
             "fedora": "orphan"
         },
         "perl-File-Flock": {
@@ -112518,7 +112518,7 @@
         },
         "perl-File-Map": {
             "admin": "eseyman",
-            "epel": "lkundrak",
+            "epel": "eseyman",
             "fedora": "eseyman"
         },
         "perl-File-MimeInfo": {
@@ -112723,7 +112723,7 @@
         },
         "perl-File-chmod": {
             "admin": "jplesnik",
-            "epel": "lkundrak",
+            "epel": "jplesnik",
             "fedora": "jplesnik"
         },
         "perl-File-pushd": {
@@ -113258,7 +113258,7 @@
         },
         "perl-GraphViz": {
             "admin": "jplesnik",
-            "epel": "lkundrak",
+            "epel": "jplesnik",
             "fedora": "jplesnik"
         },
         "perl-GraphViz2": {
@@ -113493,7 +113493,7 @@
         },
         "perl-HTML-Form": {
             "admin": "eseyman",
-            "epel": "lkundrak",
+            "epel": "eseyman",
             "fedora": "eseyman"
         },
         "perl-HTML-FormFu": {
@@ -113698,7 +113698,7 @@
         },
         "perl-HTML-Template-Pro": {
             "admin": "eseyman",
-            "epel": "lkundrak",
+            "epel": "eseyman",
             "fedora": "eseyman"
         },
         "perl-HTML-Tidy": {
@@ -117157,14 +117157,14 @@
             "fedora": "jplesnik"
         },
         "perl-Net-Amazon-EC2": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "perl-Net-Amazon-EC2-Metadata": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "perl-Net-Amazon-S3": {
             "admin": "ppisar",
@@ -117328,7 +117328,7 @@
         },
         "perl-Net-GitHub": {
             "admin": "orphan",
-            "epel": "lkundrak",
+            "epel": "orphan",
             "fedora": "orphan"
         },
         "perl-Net-Google-AuthSub": {
@@ -117418,7 +117418,7 @@
         },
         "perl-Net-IRC": {
             "admin": "jplesnik",
-            "epel": "lkundrak",
+            "epel": "jplesnik",
             "fedora": "jplesnik"
         },
         "perl-Net-Jabber": {
@@ -117588,7 +117588,7 @@
         },
         "perl-Net-SNPP": {
             "admin": "mspacek",
-            "epel": "lkundrak",
+            "epel": "mspacek",
             "fedora": "mspacek"
         },
         "perl-Net-SSH": {
@@ -117628,7 +117628,7 @@
         },
         "perl-Net-Server": {
             "admin": "fenris02",
-            "epel": "lkundrak",
+            "epel": "fenris02",
             "fedora": "fenris02"
         },
         "perl-Net-Server-Coro": {
@@ -117858,7 +117858,7 @@
         },
         "perl-Object-MultiType": {
             "admin": "eseyman",
-            "epel": "lkundrak",
+            "epel": "eseyman",
             "fedora": "eseyman"
         },
         "perl-Object-Pad": {
@@ -117902,9 +117902,9 @@
             "fedora": "jplesnik"
         },
         "perl-OpenGL": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "perl-OpenGL-GLUT": {
             "admin": "jplesnik",
@@ -117978,7 +117978,7 @@
         },
         "perl-PDL": {
             "admin": "jplesnik",
-            "epel": "lkundrak",
+            "epel": "jplesnik",
             "fedora": "jplesnik"
         },
         "perl-PDL-Graphics-PLplot": {
@@ -118733,7 +118733,7 @@
         },
         "perl-PerlIO-Layers": {
             "admin": "ppisar",
-            "epel": "lkundrak",
+            "epel": "ppisar",
             "fedora": "ppisar"
         },
         "perl-PerlIO-buffersize": {
@@ -119063,7 +119063,7 @@
         },
         "perl-Prima": {
             "admin": "ppisar",
-            "epel": "lkundrak",
+            "epel": "ppisar",
             "fedora": "ppisar"
         },
         "perl-Probe-Perl": {
@@ -120483,7 +120483,7 @@
         },
         "perl-TAP-Harness-JUnit": {
             "admin": "eseyman",
-            "epel": "lkundrak",
+            "epel": "eseyman",
             "fedora": "eseyman"
         },
         "perl-TAP-Harness-Multiple": {
@@ -121153,7 +121153,7 @@
         },
         "perl-Test-Inline": {
             "admin": "orphan",
-            "epel": "lkundrak",
+            "epel": "orphan",
             "fedora": "orphan"
         },
         "perl-Test-Inter": {
@@ -121268,7 +121268,7 @@
         },
         "perl-Test-MockObject": {
             "admin": "spot",
-            "epel": "lkundrak",
+            "epel": "spot",
             "fedora": "spot"
         },
         "perl-Test-MockRandom": {
@@ -121712,9 +121712,9 @@
             "fedora": "eseyman"
         },
         "perl-Test-WWW-Selenium": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "perl-Test-Warn": {
             "admin": "spot",
@@ -121863,7 +121863,7 @@
         },
         "perl-Text-ASCIITable": {
             "admin": "eseyman",
-            "epel": "lkundrak",
+            "epel": "eseyman",
             "fedora": "eseyman"
         },
         "perl-Text-Affixes": {
@@ -121913,12 +121913,12 @@
         },
         "perl-Text-CSV": {
             "admin": "sciurius",
-            "epel": "lkundrak",
+            "epel": "sciurius",
             "fedora": "sciurius"
         },
         "perl-Text-CSV-Separator": {
             "admin": "eseyman",
-            "epel": "lkundrak",
+            "epel": "eseyman",
             "fedora": "eseyman"
         },
         "perl-Text-CSV_XS": {
@@ -122453,7 +122453,7 @@
         },
         "perl-Time-Period": {
             "admin": "robmv",
-            "epel": "lkundrak",
+            "epel": "robmv",
             "fedora": "robmv"
         },
         "perl-Time-Piece": {
@@ -123012,9 +123012,9 @@
             "fedora": "xavierb"
         },
         "perl-WWW-GoodData": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "perl-WWW-Google-Contacts": {
             "admin": "orphan",
@@ -123033,7 +123033,7 @@
         },
         "perl-WWW-Mechanize-GZip": {
             "admin": "eseyman",
-            "epel": "lkundrak",
+            "epel": "eseyman",
             "fedora": "eseyman"
         },
         "perl-WWW-Mechanize-TreeBuilder": {
@@ -123067,9 +123067,9 @@
             "fedora": "mspacek"
         },
         "perl-WWW-Salesforce": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "perl-WWW-Search": {
             "admin": "xavierb",
@@ -123103,7 +123103,7 @@
         },
         "perl-Want": {
             "admin": "pghmcfc",
-            "epel": "lkundrak",
+            "epel": "pghmcfc",
             "fedora": "pghmcfc"
         },
         "perl-Web-ID": {
@@ -123468,7 +123468,7 @@
         },
         "perl-XML-Smart": {
             "admin": "eseyman",
-            "epel": "lkundrak",
+            "epel": "eseyman",
             "fedora": "eseyman"
         },
         "perl-XML-Spice": {
@@ -124357,9 +124357,9 @@
             "fedora": "dcavalca"
         },
         "pgp-tools": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "pgpdump": {
             "admin": "nb",
@@ -132377,9 +132377,9 @@
             "fedora": "nphilipp"
         },
         "pnglite": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "pngnq": {
             "admin": "kraxel",
@@ -132842,9 +132842,9 @@
             "fedora": "dcavalca"
         },
         "poster": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "posterazor": {
             "admin": "orphan",
@@ -133837,9 +133837,9 @@
             "fedora": "sergiopr"
         },
         "psftools": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "psgml": {
             "admin": "orphan",
@@ -136477,9 +136477,9 @@
             "fedora": "orphan"
         },
         "python-anytree": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-anyvc": {
             "admin": "orphan",
@@ -144181,6 +144181,11 @@
             "epel": "bugant",
             "fedora": "bugant"
         },
+        "python-hiveplotlib": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
         "python-hjson": {
             "admin": "dcavalca",
             "epel": "dcavalca",
@@ -149041,6 +149046,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-parallel-web": {
+            "admin": "cqi",
+            "epel": "cqi",
+            "fedora": "cqi"
+        },
         "python-param": {
             "admin": "orphan",
             "epel": "orphan",
@@ -151012,9 +151022,9 @@
             "fedora": "@infra-sig"
         },
         "python-pylint-venv": {
-            "admin": "gui1ty",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "gui1ty"
+            "fedora": "orphan"
         },
         "python-pylons": {
             "admin": "orphan",
@@ -152260,6 +152270,11 @@
             "admin": "thrnciar",
             "epel": "thrnciar",
             "fedora": "thrnciar"
+        },
+        "python-pytest_describe": {
+            "admin": "stevetraylen",
+            "epel": "stevetraylen",
+            "fedora": "stevetraylen"
         },
         "python-pytg": {
             "admin": "orphan",
@@ -154046,6 +154061,11 @@
             "epel": "pwouters",
             "fedora": "pwouters"
         },
+        "python-simple-term-menu": {
+            "admin": "cqi",
+            "epel": "cqi",
+            "fedora": "cqi"
+        },
         "python-simple-websocket": {
             "admin": "smani",
             "epel": "smani",
@@ -155207,9 +155227,9 @@
             "fedora": "orphan"
         },
         "python-sqlmodel": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-sqlobject": {
             "admin": "orphan",
@@ -155387,7 +155407,7 @@
             "fedora": "orphan"
         },
         "python-stomper": {
-            "admin": "gui1ty",
+            "admin": "orphan",
             "epel": "@infra-sig",
             "fedora": "@infra-sig"
         },
@@ -161302,9 +161322,9 @@
             "fedora": "jgrulich"
         },
         "qt5-qtaccountsservice": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "jgrulich",
+            "epel": "jgrulich",
+            "fedora": "jgrulich"
         },
         "qt5-qtbase": {
             "admin": "than",
@@ -161322,9 +161342,9 @@
             "fedora": "jgrulich"
         },
         "qt5-qtconfiguration": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "jgrulich",
+            "epel": "jgrulich",
+            "fedora": "jgrulich"
         },
         "qt5-qtconnectivity": {
             "admin": "than",
@@ -161407,9 +161427,9 @@
             "fedora": "orphan"
         },
         "qt5-qtquickcontrols": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "jgrulich",
+            "epel": "jgrulich",
+            "fedora": "jgrulich"
         },
         "qt5-qtquickcontrols2": {
             "admin": "plfiorini",
@@ -161477,9 +161497,9 @@
             "fedora": "jgrulich"
         },
         "qt5-qtwayland": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "jgrulich",
+            "epel": "jgrulich",
+            "fedora": "jgrulich"
         },
         "qt5-qtwebchannel": {
             "admin": "tdawson",
@@ -161507,9 +161527,9 @@
             "fedora": "jgrulich"
         },
         "qt5-qtx11extras": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "jgrulich",
+            "epel": "jgrulich",
+            "fedora": "jgrulich"
         },
         "qt5-qtxmlpatterns": {
             "admin": "than",
@@ -161832,9 +161852,9 @@
             "fedora": "nonamedotc"
         },
         "qtl866": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "qtlockedfile": {
             "admin": "raphgro",
@@ -165912,9 +165932,9 @@
             "fedora": "orphan"
         },
         "rubygem-comp_tree": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-compass": {
             "admin": "orphan",
@@ -166172,9 +166192,9 @@
             "fedora": "orphan"
         },
         "rubygem-drake": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-dynamic_form": {
             "admin": "orphan",
@@ -167968,7 +167988,7 @@
         },
         "rubygem-polyglot": {
             "admin": "vondruch",
-            "epel": "lkundrak",
+            "epel": "vondruch",
             "fedora": "vondruch"
         },
         "rubygem-poppler": {
@@ -168763,7 +168783,7 @@
         },
         "rubygem-sass": {
             "admin": "vondruch",
-            "epel": "lkundrak",
+            "epel": "vondruch",
             "fedora": "vondruch"
         },
         "rubygem-sass-rails": {
@@ -198632,9 +198652,9 @@
             "fedora": "orphan"
         },
         "skyviewer": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "sl": {
             "admin": "vtrefny",
@@ -199922,9 +199942,9 @@
             "fedora": "orphan"
         },
         "spi-tools": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "spicctrl": {
             "admin": "orphan",
@@ -201687,9 +201707,9 @@
             "fedora": "fed500"
         },
         "sunxi-tools": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "super-csv": {
             "admin": "orphan",
@@ -202622,9 +202642,9 @@
             "fedora": "orphan"
         },
         "system-config-rootpassword": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "system-config-samba": {
             "admin": "orphan",
@@ -206722,9 +206742,9 @@
             "fedora": "jkacur"
         },
         "tunctl": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "tuned": {
             "admin": "jskarvad",
@@ -206747,9 +206767,9 @@
             "fedora": "orphan"
         },
         "tunneler": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "tuptime": {
             "admin": "frankcrawford",
@@ -208047,9 +208067,9 @@
             "fedora": "orphan"
         },
         "usbsniff": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "usbsoftrock": {
             "admin": "orphan",
@@ -208272,9 +208292,9 @@
             "fedora": "orphan"
         },
         "v8-314": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "vacation": {
             "admin": "bubeck",
@@ -210918,7 +210938,7 @@
         },
         "wkhtmltopdf": {
             "admin": "mtasaka",
-            "epel": "lkundrak",
+            "epel": "orphan",
             "fedora": "mtasaka"
         },
         "wklej": {
@@ -211578,7 +211598,7 @@
         },
         "wv": {
             "admin": "filiperosset",
-            "epel": "lkundrak",
+            "epel": "filiperosset",
             "fedora": "filiperosset"
         },
         "wv2": {
@@ -213377,9 +213397,9 @@
             "fedora": "mschorm"
         },
         "xmltoman": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "xmltool": {
             "admin": "orphan",
@@ -213682,9 +213702,9 @@
             "fedora": "orphan"
         },
         "xorg-x11-drv-armada": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "xorg-x11-drv-armsoc": {
             "admin": "orphan",
@@ -214503,7 +214523,7 @@
         },
         "xscreensaver": {
             "admin": "mtasaka",
-            "epel": "lkundrak",
+            "epel": "mtasaka",
             "fedora": "mtasaka"
         },
         "xsd": {
@@ -214622,9 +214642,9 @@
             "fedora": "jussilehtola"
         },
         "xteddy": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "xtensor": {
             "admin": "sergesanspaille",
@@ -215112,9 +215132,9 @@
             "fedora": "wzzrd"
         },
         "ykushcmd": {
-            "admin": "lkundrak",
-            "epel": "lkundrak",
-            "fedora": "lkundrak"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "yle-dl": {
             "admin": "oturpe",
