@@ -77007,9 +77007,9 @@
             "fedora": "orphan"
         },
         "libnma": {
-            "admin": "orphan",
+            "admin": "leigh123linux",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "leigh123linux"
         },
         "libnma-epel": {
             "admin": "tdawson",
@@ -91712,9 +91712,9 @@
             "fedora": "orphan"
         },
         "network-manager-applet": {
-            "admin": "orphan",
+            "admin": "leigh123linux",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "leigh123linux"
         },
         "network-manager-netbook": {
             "admin": "orphan",

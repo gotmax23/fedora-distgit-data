@@ -31719,7 +31719,8 @@
             "devos",
             "fed500",
             "jsteffan",
-            "kkeithle"
+            "kkeithle",
+            "pbiering"
         ],
         "glusterfs-coreutils": [
             "anoopcs",
@@ -44419,7 +44420,6 @@
         ],
         "grafana": [
             "@go-sig",
-            "agerstmayr",
             "jkurik",
             "nathans",
             "samfeifer",
@@ -48922,6 +48922,7 @@
         ],
         "iproute": [
             "norbertus",
+            "pmukherj",
             "psutter"
         ],
         "iprutils": [
@@ -59416,7 +59417,7 @@
         "libnma": [
             "bengal",
             "ihuguet",
-            "orphan",
+            "leigh123linux",
             "thaller"
         ],
         "libnma-epel": [
@@ -70619,7 +70620,7 @@
         "network-manager-applet": [
             "bengal",
             "ihuguet",
-            "orphan",
+            "leigh123linux",
             "thaller"
         ],
         "network-manager-netbook": [
@@ -161369,6 +161370,7 @@
             "music"
         ],
         "wdisplays": [
+            "joshstrobl",
             "ngompa",
             "wef"
         ],
