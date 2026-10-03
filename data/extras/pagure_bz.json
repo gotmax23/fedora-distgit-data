@@ -7210,6 +7210,7 @@
             "topazus"
         ],
         "ada-url": [
+            "aekoroglu",
             "mochaa"
         ],
         "adanaxisgpl": [
@@ -46193,7 +46194,7 @@
         ],
         "helvum": [
             "@rust-sig",
-            "orphan"
+            "dreua"
         ],
         "herbstluftwm": [
             "sham1"
@@ -65627,7 +65628,8 @@
             "tartina"
         ],
         "methane": [
-            "jwrdegoede"
+            "jwrdegoede",
+            "suve"
         ],
         "metis": [
             "sagitter"
@@ -80693,6 +80695,7 @@
             "zdohnal"
         ],
         "pappl-retrofit": [
+            "pdancak",
             "zdohnal"
         ],
         "paprefs": [
@@ -87070,6 +87073,9 @@
             "orphan",
             "perl-sig",
             "sxw"
+        ],
+        "perl-HTML-Query": [
+            "xavierb"
         ],
         "perl-HTML-Quoted": [
             "eseyman",
@@ -138578,7 +138584,7 @@
         ],
         "rust-iri-string": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-iron": [
             "orphan"
@@ -141357,7 +141363,7 @@
             "orphan"
         ],
         "rust-obj": [
-            "orphan"
+            "jsteffan"
         ],
         "rust-object": [
             "@rust-sig",
@@ -143625,6 +143631,9 @@
             "@rust-sig",
             "v02460"
         ],
+        "rust-pythonize0.27": [
+            "decathorpe"
+        ],
         "rust-qapi": [
             "@rust-sig",
             "elmarco"
@@ -143763,6 +143772,9 @@
         ],
         "rust-quick-xml0.38": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-quick-xml0.41": [
             "decathorpe"
         ],
         "rust-quickcheck": [
@@ -144326,7 +144338,7 @@
         ],
         "rust-reis": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-reis0.2": [
             "@rust-sig",

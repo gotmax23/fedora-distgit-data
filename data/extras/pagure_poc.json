@@ -60162,7 +60162,7 @@
             "fedora": "suve"
         },
         "helvum": {
-            "admin": "orphan",
+            "admin": "dreua",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -113615,6 +113615,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "perl-HTML-Query": {
+            "admin": "xavierb",
+            "epel": "xavierb",
+            "fedora": "xavierb"
         },
         "perl-HTML-Quoted": {
             "admin": "eseyman",
@@ -180477,7 +180482,7 @@
             "fedora": "@rust-sig"
         },
         "rust-iri-string": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -183942,9 +183947,9 @@
             "fedora": "orphan"
         },
         "rust-obj": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "jsteffan",
+            "epel": "jsteffan",
+            "fedora": "jsteffan"
         },
         "rust-object": {
             "admin": "decathorpe",
@@ -186816,6 +186821,11 @@
             "epel": "v02460",
             "fedora": "v02460"
         },
+        "rust-pythonize0.27": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-qapi": {
             "admin": "elmarco",
             "epel": "elmarco",
@@ -186992,6 +187002,11 @@
             "fedora": "@rust-sig"
         },
         "rust-quick-xml0.38": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-quick-xml0.41": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -187707,7 +187722,7 @@
             "fedora": "alakatos"
         },
         "rust-reis": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
