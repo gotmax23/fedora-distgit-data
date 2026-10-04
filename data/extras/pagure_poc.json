@@ -157822,9 +157822,9 @@
             "fedora": "orphan"
         },
         "python-whatthepatch": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-wheel": {
             "admin": "churchyard",
@@ -199957,9 +199957,9 @@
             "fedora": "orphan"
         },
         "spi-tools": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "spicctrl": {
             "admin": "orphan",

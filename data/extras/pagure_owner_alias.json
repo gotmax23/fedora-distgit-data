@@ -105299,7 +105299,7 @@
             "orphan"
         ],
         "python-whatthepatch": [
-            "orphan",
+            "fedepell",
             "jonathanspw"
         ],
         "python-wheel": [
@@ -131819,7 +131819,7 @@
             "orphan"
         ],
         "spi-tools": [
-            "orphan"
+            "fedepell"
         ],
         "spicctrl": [
             "orphan"

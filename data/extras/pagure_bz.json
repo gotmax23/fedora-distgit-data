@@ -55612,6 +55612,7 @@
             "orphan"
         ],
         "labwc": [
+            "@budgie-sig",
             "@lxqt-sig",
             "@sway-sig",
             "atim",
@@ -121226,8 +121227,8 @@
         ],
         "python-whatthepatch": [
             "@neuro-sig",
-            "jonathanspw",
-            "orphan"
+            "fedepell",
+            "jonathanspw"
         ],
         "python-wheel": [
             "@python-packagers-sig",
@@ -141363,6 +141364,7 @@
             "orphan"
         ],
         "rust-obj": [
+            "@rust-sig",
             "jsteffan"
         ],
         "rust-object": [
@@ -143632,6 +143634,7 @@
             "v02460"
         ],
         "rust-pythonize0.27": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-qapi": [
@@ -143775,6 +143778,7 @@
             "decathorpe"
         ],
         "rust-quick-xml0.41": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-quickcheck": [
@@ -153819,7 +153823,7 @@
             "orphan"
         ],
         "spi-tools": [
-            "orphan"
+            "fedepell"
         ],
         "spicctrl": [
             "orphan",
