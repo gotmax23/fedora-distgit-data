@@ -59022,8 +59022,8 @@
         ],
         "libmbim": [
             "bengal",
+            "dcavalca",
             "jtornosm",
-            "orphan",
             "thaller"
         ],
         "libmcrypt": [
@@ -60026,7 +60026,7 @@
         ],
         "libqmi": [
             "bengal",
-            "orphan",
+            "dcavalca",
             "thaller"
         ],
         "libqrtr-glib": [

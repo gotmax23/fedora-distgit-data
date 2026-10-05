@@ -76477,9 +76477,9 @@
             "fedora": "lecris"
         },
         "libmbim": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "dcavalca",
+            "epel": "dcavalca",
+            "fedora": "dcavalca"
         },
         "libmcrypt": {
             "admin": "spot",
@@ -77792,9 +77792,9 @@
             "fedora": "orphan"
         },
         "libqmi": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "dcavalca",
+            "epel": "dcavalca",
+            "fedora": "dcavalca"
         },
         "libqrtr-glib": {
             "admin": "pbrobinson",
