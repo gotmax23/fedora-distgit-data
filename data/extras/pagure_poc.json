@@ -8991,6 +8991,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "aboot-deploy": {
+            "admin": "imullins",
+            "epel": "imullins",
+            "fedora": "imullins"
+        },
         "abootimg": {
             "admin": "yaneti",
             "epel": "yaneti",
@@ -16007,9 +16012,9 @@
             "fedora": "music"
         },
         "c4core0.2.8": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "c4fs": {
             "admin": "music",
@@ -20147,6 +20152,11 @@
             "fedora": "ryanabx"
         },
         "cosmic-osd": {
+            "admin": "ryanabx",
+            "epel": "ryanabx",
+            "fedora": "ryanabx"
+        },
+        "cosmic-osk": {
             "admin": "ryanabx",
             "epel": "ryanabx",
             "fedora": "ryanabx"
@@ -32692,7 +32702,7 @@
             "fedora": "gotmax23"
         },
         "forgejo": {
-            "admin": "nphilipp",
+            "admin": "nphilipp-rh",
             "epel": "@infra-sig",
             "fedora": "@infra-sig"
         },
@@ -110161,6 +110171,11 @@
             "epel": "ppisar",
             "fedora": "ppisar"
         },
+        "perl-Crypt-URandom-MonkeyPatch": {
+            "admin": "eseyman",
+            "epel": "eseyman",
+            "fedora": "eseyman"
+        },
         "perl-Crypt-URandom-Token": {
             "admin": "jplesnik",
             "epel": "jplesnik",
@@ -146982,9 +146997,9 @@
             "fedora": "mikelo2"
         },
         "python-mirrors-countme": {
-            "admin": "nphilipp",
-            "epel": "nphilipp",
-            "fedora": "nphilipp"
+            "admin": "nphilipp-rh",
+            "epel": "nphilipp-rh",
+            "fedora": "nphilipp-rh"
         },
         "python-missingno": {
             "admin": "lbazan",
@@ -210328,7 +210343,7 @@
         },
         "webkitgtk": {
             "admin": "catanzaro",
-            "epel": "thebeanogamer",
+            "epel": "catanzaro",
             "fedora": "catanzaro"
         },
         "webkitgtk3": {

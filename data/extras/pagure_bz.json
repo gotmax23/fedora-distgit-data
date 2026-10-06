@@ -7059,6 +7059,9 @@
             "oliver",
             "orphan"
         ],
+        "aboot-deploy": [
+            "imullins"
+        ],
         "abootimg": [
             "jkastner"
         ],
@@ -12201,6 +12204,7 @@
             "walters"
         ],
         "bucardo": [
+            "ankursinha",
             "lbazan",
             "orphan",
             "perl-sig"
@@ -12515,7 +12519,7 @@
             "music"
         ],
         "c4core0.2.8": [
-            "music"
+            "orphan"
         ],
         "c4fs": [
             "music"
@@ -15662,6 +15666,9 @@
         "cosmic-osd": [
             "@cosmic-sig",
             "@rust-sig",
+            "ryanabx"
+        ],
+        "cosmic-osk": [
             "ryanabx"
         ],
         "cosmic-panel": [
@@ -25137,7 +25144,8 @@
             "@infra-sig",
             "amessina",
             "gbailey",
-            "nphilipp"
+            "nphilipp",
+            "nphilipp-rh"
         ],
         "forgejo-runner": [
             "@go-sig",
@@ -46913,6 +46921,7 @@
             "@epel-packagers-sig",
             "@go-sig",
             "athoscr",
+            "jflory7",
             "loranallensmith",
             "mikep",
             "neil",
@@ -80693,6 +80702,7 @@
             "eclipseo"
         ],
         "pappl": [
+            "pdancak",
             "zdohnal"
         ],
         "pappl-retrofit": [
@@ -81293,7 +81303,9 @@
             "orphan"
         ],
         "pekwm": [
+            "@neuro-sig",
             "aarem",
+            "ankursinha",
             "lbazan"
         ],
         "pem": [
@@ -84044,6 +84056,9 @@
             "jplesnik",
             "perl-sig",
             "ppisar"
+        ],
+        "perl-Crypt-URandom-MonkeyPatch": [
+            "eseyman"
         ],
         "perl-Crypt-URandom-Token": [
             "jplesnik"
@@ -103297,6 +103312,7 @@
         ],
         "pydeps": [
             "@neuro-sig",
+            "ankursinha",
             "lbazan"
         ],
         "pydf": [
@@ -105862,6 +105878,7 @@
         "python-biopython": [
             "@neuro-sig",
             "alexlan",
+            "ankursinha",
             "jaruga",
             "lbazan",
             "sagitter"
@@ -106453,7 +106470,10 @@
         "python-chirpstack-api": [
             "orphan"
         ],
-        "python-chm": [],
+        "python-chm": [
+            "@neuro-sig",
+            "ankursinha"
+        ],
         "python-ci-info": [
             "orphan"
         ],
@@ -107790,6 +107810,8 @@
             "orphan"
         ],
         "python-django-ajax-selects": [
+            "@neuro-sig",
+            "ankursinha",
             "lbazan"
         ],
         "python-django-allauth": [
@@ -107889,6 +107911,8 @@
             "orphan"
         ],
         "python-django-crispy-forms": [
+            "@neuro-sig",
+            "ankursinha",
             "lbazan"
         ],
         "python-django-dajax": [
@@ -107947,7 +107971,9 @@
             "orphan"
         ],
         "python-django-filter": [
+            "@neuro-sig",
             "aekoroglu",
+            "ankursinha",
             "bkabrda",
             "lbazan"
         ],
@@ -108031,6 +108057,8 @@
             "orphan"
         ],
         "python-django-markdownx": [
+            "@neuro-sig",
+            "ankursinha",
             "lbazan"
         ],
         "python-django-memcached-pool": [
@@ -110588,6 +110616,7 @@
         ],
         "python-hdmf": [
             "@neuro-sig",
+            "ankursinha",
             "lbazan"
         ],
         "python-healpy": [
@@ -111155,6 +111184,8 @@
             "jjames"
         ],
         "python-ipmi": [
+            "@neuro-sig",
+            "ankursinha",
             "lbazan"
         ],
         "python-iptables": [
@@ -112829,10 +112860,12 @@
         "python-mirrors-countme": [
             "@infra-sig",
             "james",
-            "nphilipp"
+            "nphilipp",
+            "nphilipp-rh"
         ],
         "python-missingno": [
             "@neuro-sig",
+            "ankursinha",
             "lbazan"
         ],
         "python-mistralclient": [
@@ -114471,6 +114504,8 @@
             "alciregi"
         ],
         "python-parsley": [
+            "@neuro-sig",
+            "ankursinha",
             "lbazan"
         ],
         "python-parso": [
@@ -116097,6 +116132,8 @@
             "orphan"
         ],
         "python-pynwb": [
+            "@neuro-sig",
+            "ankursinha",
             "lbazan"
         ],
         "python-pyo": [
@@ -117605,6 +117642,7 @@
         "python-resumable-urlretrieve": [
             "@neuro-sig",
             "@python-packagers-sig",
+            "ankursinha",
             "lbazan"
         ],
         "python-retask": [
@@ -119311,6 +119349,7 @@
         ],
         "python-stdlib-list": [
             "@neuro-sig",
+            "ankursinha",
             "lbazan"
         ],
         "python-stdlibs": [
@@ -121541,6 +121580,7 @@
         ],
         "python-xnat": [
             "@neuro-sig",
+            "ankursinha",
             "lbazan"
         ],
         "python-xnat4tests": [
@@ -121611,6 +121651,7 @@
         ],
         "python-yapf": [
             "@neuro-sig",
+            "ankursinha",
             "lbazan"
         ],
         "python-yappi": [
