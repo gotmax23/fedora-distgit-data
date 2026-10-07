@@ -50517,9 +50517,9 @@
             "fedora": "dreua"
         },
         "golang-github-lyft-protoc-gen-star": {
-            "admin": "alexsaezm",
-            "epel": "alexsaezm",
-            "fedora": "alexsaezm"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-m-mizutani-urlscan": {
             "admin": "orphan",
@@ -75652,9 +75652,9 @@
             "fedora": "orphan"
         },
         "libicu72": {
-            "admin": "frantisekz",
-            "epel": "frantisekz",
-            "fedora": "frantisekz"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "libicu73": {
             "admin": "orphan",
@@ -75667,9 +75667,9 @@
             "fedora": "orphan"
         },
         "libicu76": {
-            "admin": "frantisekz",
-            "epel": "frantisekz",
-            "fedora": "frantisekz"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "libicu77": {
             "admin": "mfabian",
@@ -80612,9 +80612,9 @@
             "fedora": "petersen"
         },
         "llvm8.0": {
-            "admin": "frantisekz",
-            "epel": "frantisekz",
-            "fedora": "frantisekz"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "llvm9.0": {
             "admin": "orphan",
@@ -84117,9 +84117,9 @@
             "fedora": "dcavalca"
         },
         "mcelog": {
-            "admin": "prarit",
-            "epel": "prarit",
-            "fedora": "prarit"
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
         },
         "mchange-commons": {
             "admin": "orphan",
@@ -89407,9 +89407,9 @@
             "fedora": "orphan"
         },
         "mozjs60": {
-            "admin": "frantisekz",
-            "epel": "frantisekz",
-            "fedora": "frantisekz"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "mozjs68": {
             "admin": "orphan",
@@ -100766,6 +100766,11 @@
             "epel": "pemensik",
             "fedora": "pemensik"
         },
+        "nsjail": {
+            "admin": "spot",
+            "epel": "spot",
+            "fedora": "spot"
+        },
         "nsnake": {
             "admin": "thebeanogamer",
             "epel": "thebeanogamer",
@@ -108565,6 +108570,11 @@
             "admin": "eseyman",
             "epel": "eseyman",
             "fedora": "eseyman"
+        },
+        "perl-CSS-Inliner": {
+            "admin": "xavierb",
+            "epel": "xavierb",
+            "fedora": "xavierb"
         },
         "perl-CSS-Minifier": {
             "admin": "eseyman",
@@ -141651,6 +141661,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-elevenlabs": {
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
+        },
         "python-elfdata": {
             "admin": "orphan",
             "epel": "orphan",
@@ -146055,6 +146070,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "python-libcobblersignatures": {
+            "admin": "orion",
+            "epel": "orion",
+            "fedora": "orion"
         },
         "python-libcst": {
             "admin": "dcavalca",
@@ -152125,6 +152145,11 @@
             "admin": "jkucera",
             "epel": "jkucera",
             "fedora": "jkucera"
+        },
+        "python-pytest-remaster": {
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "python-pytest-remotedata": {
             "admin": "sergiopr",
@@ -200062,14 +200087,14 @@
             "fedora": "orphan"
         },
         "spirv-llvm-translator16": {
-            "admin": "frantisekz",
-            "epel": "frantisekz",
-            "fedora": "frantisekz"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "spirv-llvm-translator17": {
-            "admin": "frantisekz",
-            "epel": "frantisekz",
-            "fedora": "frantisekz"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "spirv-llvm-translator22": {
             "admin": "frantisekz",
@@ -200082,9 +200107,9 @@
             "fedora": "frantisekz"
         },
         "spirv-llvm8.0-translator": {
-            "admin": "frantisekz",
-            "epel": "frantisekz",
-            "fedora": "frantisekz"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "spirv-tools": {
             "admin": "airlied",
@@ -210342,7 +210367,7 @@
             "fedora": "orphan"
         },
         "webkitgtk": {
-            "admin": "catanzaro",
+            "admin": "orphan",
             "epel": "catanzaro",
             "fedora": "catanzaro"
         },
@@ -213573,7 +213598,7 @@
         },
         "xmountains": {
             "admin": "mtasaka",
-            "epel": "mtasaka",
+            "epel": "orphan",
             "fedora": "mtasaka"
         },
         "xmp": {

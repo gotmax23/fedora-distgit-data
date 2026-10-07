@@ -4428,7 +4428,6 @@
         ],
         "NetworkManager": [
             "bengal",
-            "ffmancera",
             "ihuguet",
             "josie",
             "jvaclav",
@@ -25368,6 +25367,7 @@
         ],
         "freeipa": [
             "abbra",
+            "dhanina",
             "ftrivino",
             "mhjacks",
             "rcritten",
@@ -38785,7 +38785,7 @@
         ],
         "golang-github-lyft-protoc-gen-star": [
             "@go-sig",
-            "alexsaezm"
+            "orphan"
         ],
         "golang-github-m-mizutani-urlscan": [
             "@go-sig",
@@ -58365,7 +58365,7 @@
             "orphan"
         ],
         "libicu72": [
-            "frantisekz"
+            "orphan"
         ],
         "libicu73": [
             "orphan"
@@ -58374,7 +58374,7 @@
             "orphan"
         ],
         "libicu76": [
-            "frantisekz"
+            "orphan"
         ],
         "libicu77": [
             "mfabian"
@@ -62291,7 +62291,7 @@
             "tstellar"
         ],
         "llvm8.0": [
-            "frantisekz",
+            "orphan",
             "sergesanspaille",
             "tstellar"
         ],
@@ -65044,7 +65044,7 @@
             "dcavalca"
         ],
         "mcelog": [
-            "prarit"
+            "suve"
         ],
         "mchange-commons": [
             "orphan"
@@ -68899,8 +68899,8 @@
             "orphan"
         ],
         "mozjs60": [
-            "frantisekz",
-            "kalev"
+            "kalev",
+            "orphan"
         ],
         "mozjs68": [
             "orphan"
@@ -71025,6 +71025,7 @@
             "ihuguet",
             "josie",
             "jvaclav",
+            "rrajesh",
             "till"
         ],
         "nng": [
@@ -76628,6 +76629,9 @@
         "nsdiff": [
             "@dns-sig",
             "pemensik"
+        ],
+        "nsjail": [
+            "spot"
         ],
         "nsnake": [
             "cicku",
@@ -82666,6 +82670,9 @@
         "perl-CSS-DOM": [
             "eseyman",
             "perl-sig"
+        ],
+        "perl-CSS-Inliner": [
+            "xavierb"
         ],
         "perl-CSS-Minifier": [
             "eseyman",
@@ -108670,6 +108677,9 @@
         "python-elephant": [
             "orphan"
         ],
+        "python-elevenlabs": [
+            "msuchy"
+        ],
         "python-elfdata": [
             "orphan"
         ],
@@ -112119,6 +112129,9 @@
         ],
         "python-libcnml": [
             "orphan"
+        ],
+        "python-libcobblersignatures": [
+            "orion"
         ],
         "python-libcst": [
             "@python-packagers-sig",
@@ -116831,6 +116844,9 @@
         ],
         "python-pytest-relaxed": [
             "jkucera"
+        ],
+        "python-pytest-remaster": [
+            "limb"
         ],
         "python-pytest-remotedata": [
             "@astro-sig",
@@ -153948,10 +153964,10 @@
             "orphan"
         ],
         "spirv-llvm-translator16": [
-            "frantisekz"
+            "orphan"
         ],
         "spirv-llvm-translator17": [
-            "frantisekz"
+            "orphan"
         ],
         "spirv-llvm-translator22": [
             "androniychuk",
@@ -153962,7 +153978,7 @@
             "frantisekz"
         ],
         "spirv-llvm8.0-translator": [
-            "frantisekz"
+            "orphan"
         ],
         "spirv-tools": [
             "airlied",
@@ -161504,8 +161520,8 @@
         ],
         "webkitgtk": [
             "@gnome-sig",
-            "catanzaro",
             "ghishadow",
+            "orphan",
             "thebeanogamer",
             "tpopela"
         ],
