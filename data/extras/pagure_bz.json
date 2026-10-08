@@ -4432,6 +4432,7 @@
             "josie",
             "jvaclav",
             "mclasen",
+            "praksany",
             "rrajesh",
             "rstrode",
             "till",
@@ -4454,6 +4455,7 @@
             "bengal",
             "ihuguet",
             "orphan",
+            "praksany",
             "thaller",
             "vbenes"
         ],
@@ -6985,7 +6987,9 @@
             "luap99",
             "mheon",
             "nsella",
-            "tomsweeneyredhat"
+            "rruzicka",
+            "tomsweeneyredhat",
+            "vmiticka2"
         ],
         "aasaver": [
             "orphan"
@@ -12286,8 +12290,10 @@
             "luap99",
             "nsella",
             "rishi",
+            "rruzicka",
             "runcom",
-            "tomsweeneyredhat"
+            "tomsweeneyredhat",
+            "vmiticka2"
         ],
         "buildbot": [
             "besser82",
@@ -12951,6 +12957,8 @@
         "catatonit": [
             "haircommander",
             "jkaluza",
+            "rruzicka",
+            "vmiticka2",
             "vrothberg"
         ],
         "catch": [
@@ -15268,10 +15276,14 @@
             "haircommander",
             "jkaluza",
             "jnovy",
-            "mohanboddu"
+            "mohanboddu",
+            "rruzicka",
+            "vmiticka2"
         ],
         "conmon-v3": [
-            "jkaluza"
+            "jkaluza",
+            "rruzicka",
+            "vmiticka2"
         ],
         "conmux": [
             "bpeck"
@@ -15363,7 +15375,9 @@
             "jkaluza",
             "luap99",
             "lvrabec",
-            "runcom"
+            "rruzicka",
+            "runcom",
+            "vmiticka2"
         ],
         "container-storage-setup": [
             "dwalsh",
@@ -15398,7 +15412,9 @@
             "jkaluza",
             "jnovy",
             "luap99",
-            "nsella"
+            "nsella",
+            "rruzicka",
+            "vmiticka2"
         ],
         "contextkit": [
             "orphan"
@@ -16260,7 +16276,9 @@
             "haircommander",
             "jkaluza",
             "luap99",
-            "nsella"
+            "nsella",
+            "rruzicka",
+            "vmiticka2"
         ],
         "crun-vm": [
             "afaria"
@@ -21768,6 +21786,9 @@
         "enca": [
             "buc"
         ],
+        "encapsule": [
+            "petersen"
+        ],
         "enchant": [
             "limb",
             "uwog"
@@ -23859,6 +23880,10 @@
             "@gnome-sig",
             "otaylor"
         ],
+        "fedora-third-party-repos": [
+            "decathorpe",
+            "ngompa"
+        ],
         "fedora-toolbox": [
             "blaise",
             "orphan"
@@ -25725,7 +25750,9 @@
             "gscrivano",
             "jkaluza",
             "lsm5",
-            "mathstuf"
+            "mathstuf",
+            "rruzicka",
+            "vmiticka2"
         ],
         "fuse-pingfs": [
             "mikelo2"
@@ -48691,7 +48718,7 @@
         ],
         "intel-llvm8.0-vc-intrinsics": [
             "aekoroglu",
-            "frantisekz"
+            "orphan"
         ],
         "intel-lpmd": [
             "aekoroglu",
@@ -70409,7 +70436,9 @@
             "luap99",
             "mheon",
             "nsella",
-            "tomsweeneyredhat"
+            "rruzicka",
+            "tomsweeneyredhat",
+            "vmiticka2"
         ],
         "netbeans": [
             "omajid",
@@ -78066,6 +78095,8 @@
             "@go-sig",
             "jkaluza",
             "jnovy",
+            "rruzicka",
+            "vmiticka2",
             "vrothberg"
         ],
         "oci-systemd-hook": [
@@ -80295,7 +80326,9 @@
         "pack": [
             "@go-sig",
             "jkaluza",
-            "jnovy"
+            "jnovy",
+            "rruzicka",
+            "vmiticka2"
         ],
         "packETH": [
             "lystor",
@@ -87461,6 +87494,9 @@
             "pghmcfc",
             "spot"
         ],
+        "perl-Hash-Merge-Extra": [
+            "xavierb"
+        ],
         "perl-Hash-Merge-Simple": [
             "perl-sig",
             "pghmcfc"
@@ -88825,6 +88861,9 @@
         "perl-Mango": [
             "perl-sig",
             "ppisar"
+        ],
+        "perl-Markdown-Render": [
+            "xavierb"
         ],
         "perl-Marpa-XS": [
             "orphan",
@@ -92347,6 +92386,9 @@
         "perl-Search-Xapian": [
             "eseyman",
             "perl-sig"
+        ],
+        "perl-Selenium-Remote-Driver": [
+            "xavierb"
         ],
         "perl-Sendmail-PMilter": [
             "perl-sig",
@@ -101733,7 +101775,9 @@
             "mohanboddu",
             "nsella",
             "patux",
-            "rishi"
+            "rishi",
+            "rruzicka",
+            "vmiticka2"
         ],
         "podman-compose": [
             "limb"
@@ -104979,7 +105023,7 @@
             "sergiopr"
         ],
         "python-asttokens": [
-            "@epel-packagers-sig",
+            "@python-packagers-sig",
             "romaingeissler1a",
             "salimma",
             "zbyszek"
@@ -110832,6 +110876,9 @@
             "carlwgeorge",
             "music"
         ],
+        "python-httpx2-pytest": [
+            "terjeros"
+        ],
         "python-huami-token": [
             "rathann"
         ],
@@ -111457,6 +111504,9 @@
         ],
         "python-jinja2_pluralize": [
             "@infra-sig"
+        ],
+        "python-jinxed": [
+            "aviso"
         ],
         "python-jira": [
             "lbalhar",
@@ -115037,7 +115087,9 @@
             "jnovy",
             "lsm5",
             "luap99",
-            "nsella"
+            "nsella",
+            "rruzicka",
+            "vmiticka2"
         ],
         "python-podman-api": [
             "orphan"
@@ -119270,7 +119322,6 @@
             "orphan"
         ],
         "python-sqlmodel": [
-            "music",
             "orphan"
         ],
         "python-sqlobject": [
@@ -145373,6 +145424,10 @@
             "@rust-sig",
             "alakatos"
         ],
+        "rust-scoped-error": [
+            "@rust-sig",
+            "kanru"
+        ],
         "rust-scoped-tls": [
             "@rust-sig",
             "decathorpe"
@@ -152891,7 +152946,9 @@
             "kwalker",
             "luap99",
             "nsella",
-            "runcom"
+            "rruzicka",
+            "runcom",
+            "vmiticka2"
         ],
         "skribilo": [
             "fed500"
@@ -160439,6 +160496,9 @@
         "vegastrike-music": [
             "orphan"
         ],
+        "velocitty": [
+            "leigh123linux"
+        ],
         "velocity": [
             "devrim",
             "java-sig",
@@ -161520,8 +161580,9 @@
         ],
         "webkitgtk": [
             "@gnome-sig",
+            "decathorpe",
             "ghishadow",
-            "orphan",
+            "ngompa",
             "thebeanogamer",
             "tpopela"
         ],
@@ -166830,7 +166891,6 @@
             "evgenyz",
             "jcerny",
             "marcusburghardt",
-            "matyc",
             "mmarhefk",
             "orphan",
             "vpolasek"

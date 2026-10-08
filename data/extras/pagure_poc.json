@@ -28316,6 +28316,11 @@
             "epel": "buc",
             "fedora": "buc"
         },
+        "encapsule": {
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
+        },
         "enchant": {
             "admin": "limb",
             "epel": "limb",
@@ -31085,6 +31090,11 @@
             "admin": "otaylor",
             "epel": "otaylor",
             "fedora": "otaylor"
+        },
+        "fedora-third-party-repos": {
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "fedora-toolbox": {
             "admin": "orphan",
@@ -63542,9 +63552,9 @@
             "fedora": "orphan"
         },
         "intel-llvm8.0-vc-intrinsics": {
-            "admin": "frantisekz",
-            "epel": "frantisekz",
-            "fedora": "frantisekz"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "intel-lpmd": {
             "admin": "aekoroglu",
@@ -80192,9 +80202,9 @@
             "fedora": "orphan"
         },
         "linux-firmware": {
-            "admin": "dwmw2",
-            "epel": "dwmw2",
-            "fedora": "dwmw2"
+            "admin": "pbrobinson",
+            "epel": "pbrobinson",
+            "fedora": "pbrobinson"
         },
         "linux-igd": {
             "admin": "orphan",
@@ -114061,6 +114071,11 @@
             "epel": "spot",
             "fedora": "spot"
         },
+        "perl-Hash-Merge-Extra": {
+            "admin": "xavierb",
+            "epel": "xavierb",
+            "fedora": "xavierb"
+        },
         "perl-Hash-Merge-Simple": {
             "admin": "pghmcfc",
             "epel": "pghmcfc",
@@ -115605,6 +115620,11 @@
             "admin": "ppisar",
             "epel": "ppisar",
             "fedora": "ppisar"
+        },
+        "perl-Markdown-Render": {
+            "admin": "xavierb",
+            "epel": "xavierb",
+            "fedora": "xavierb"
         },
         "perl-Marpa-XS": {
             "admin": "orphan",
@@ -119760,6 +119780,11 @@
             "admin": "eseyman",
             "epel": "eseyman",
             "fedora": "eseyman"
+        },
+        "perl-Selenium-Remote-Driver": {
+            "admin": "xavierb",
+            "epel": "xavierb",
+            "fedora": "xavierb"
         },
         "perl-Sendmail-PMilter": {
             "admin": "pghmcfc",
@@ -144416,6 +144441,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "python-httpx2-pytest": {
+            "admin": "terjeros",
+            "epel": "terjeros",
+            "fedora": "terjeros"
+        },
         "python-huami-token": {
             "admin": "rathann",
             "epel": "rathann",
@@ -145225,6 +145255,11 @@
             "admin": "dshea",
             "epel": "orphan",
             "fedora": "dshea"
+        },
+        "python-jinxed": {
+            "admin": "aviso",
+            "epel": "aviso",
+            "fedora": "aviso"
         },
         "python-jira": {
             "admin": "stevetraylen",
@@ -189026,6 +189061,11 @@
             "epel": "alakatos",
             "fedora": "alakatos"
         },
+        "rust-scoped-error": {
+            "admin": "kanru",
+            "epel": "kanru",
+            "fedora": "kanru"
+        },
         "rust-scoped-tls": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -208901,6 +208941,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "velocitty": {
+            "admin": "leigh123linux",
+            "epel": "leigh123linux",
+            "fedora": "leigh123linux"
+        },
         "velocity": {
             "admin": "mkoncek",
             "epel": "mkoncek",
@@ -210367,9 +210412,9 @@
             "fedora": "orphan"
         },
         "webkitgtk": {
-            "admin": "orphan",
-            "epel": "catanzaro",
-            "fedora": "catanzaro"
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "webkitgtk3": {
             "admin": "orphan",
