@@ -13267,8 +13267,7 @@
         ],
         "cepces": [
             "asn",
-            "dchen",
-            "rcritten"
+            "dchen"
         ],
         "ceph": [
             "kkeithle",
@@ -36331,7 +36330,7 @@
         ],
         "golang-github-felixge-httpsnoop": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-fernet": [
             "@go-sig",
@@ -36387,7 +36386,7 @@
         ],
         "golang-github-franela-goblin": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-franela-goreq": [
             "@go-sig",
@@ -36678,7 +36677,7 @@
         ],
         "golang-github-gobuffalo-packd": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-gobuffalo-packr": [
             "@go-sig",
@@ -37138,8 +37137,8 @@
         "golang-github-gorilla-websocket": [
             "@go-sig",
             "jchaloup",
-            "mikelo2",
-            "mrunge"
+            "mrunge",
+            "orphan"
         ],
         "golang-github-gorp-3": [
             "@go-sig",
@@ -38351,7 +38350,7 @@
         ],
         "golang-github-karrick-golf": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-katalix-l2tp": [
             "@go-sig",
@@ -39359,7 +39358,7 @@
         "golang-github-mitchellh-mapstructure": [
             "@go-sig",
             "jchaloup",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-mitchellh-ps": [
             "@go-sig",
@@ -40074,7 +40073,7 @@
         ],
         "golang-github-otiai10-copy": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-otiai10-mint": [
             "@go-sig",
@@ -40322,7 +40321,7 @@
         "golang-github-pkg-profile": [
             "@go-sig",
             "jchaloup",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-pkg-sftp": [
             "@go-sig",
@@ -41946,7 +41945,7 @@
         ],
         "golang-github-tv42-httpunix": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-twinj-uuid": [
             "@go-sig",
@@ -42848,7 +42847,7 @@
         ],
         "golang-gopkg-ini-1": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-gopkg-jcmturner-aescts-1": [
             "@go-sig",
@@ -45719,7 +45718,6 @@
         "gvisor-tap-vsock": [
             "@go-sig",
             "jnovy",
-            "lsm5",
             "teuf"
         ],
         "gvrng": [
@@ -61976,7 +61974,8 @@
             "mrezanin"
         ],
         "linux-sysinfo-snapshot": [
-            "dcavalca"
+            "dcavalca",
+            "salimma"
         ],
         "linux-system-roles": [
             "nathans",
@@ -71054,6 +71053,7 @@
             "ihuguet",
             "josie",
             "jvaclav",
+            "praksany",
             "rrajesh",
             "till"
         ],
@@ -106627,6 +106627,9 @@
             "mbaldessari",
             "salimma"
         ],
+        "python-clickdc": [
+            "terjeros"
+        ],
         "python-clientform": [
             "orphan"
         ],
@@ -116431,7 +116434,7 @@
             "hvad"
         ],
         "python-pyroaring": [
-            "orphan"
+            "music"
         ],
         "python-pyroute2": [
             "@copr-sig",
@@ -119070,7 +119073,8 @@
         "python-sphinxcontrib-apidoc": [
             "@openstack-sig",
             "@python-packagers-sig",
-            "lbalhar"
+            "lbalhar",
+            "stevetraylen"
         ],
         "python-sphinxcontrib-applehelp": [
             "@python-packagers-sig",
@@ -121770,6 +121774,9 @@
         ],
         "python-ypy-websocket": [
             "orphan"
+        ],
+        "python-yt-dlp-ejs": [
+            "gotmax23"
         ],
         "python-yte": [
             "orphan"
@@ -157591,6 +157598,7 @@
             "spot"
         ],
         "tinycompress": [
+            "aekoroglu",
             "perex"
         ],
         "tinydir": [

@@ -17067,9 +17067,9 @@
             "fedora": "orphan"
         },
         "certmonger": {
-            "admin": "rcritten",
-            "epel": "rcritten",
-            "fedora": "rcritten"
+            "admin": "ftweedal",
+            "epel": "ftweedal",
+            "fedora": "ftweedal"
         },
         "certwatch": {
             "admin": "jorton",
@@ -33022,9 +33022,9 @@
             "fedora": "ngompa"
         },
         "freeipa-healthcheck": {
-            "admin": "rcritten",
-            "epel": "rcritten",
-            "fedora": "rcritten"
+            "admin": "abbra",
+            "epel": "abbra",
+            "fedora": "abbra"
         },
         "freeipmi": {
             "admin": "pcahyna",
@@ -47267,9 +47267,9 @@
             "fedora": "orphan"
         },
         "golang-github-felixge-httpsnoop": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-fernet": {
             "admin": "alexsaezm",
@@ -47337,9 +47337,9 @@
             "fedora": "orphan"
         },
         "golang-github-franela-goblin": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-franela-goreq": {
             "admin": "orphan",
@@ -47732,9 +47732,9 @@
             "fedora": "orphan"
         },
         "golang-github-gobuffalo-packd": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-gobuffalo-packr": {
             "admin": "orphan",
@@ -48327,9 +48327,9 @@
             "fedora": "orphan"
         },
         "golang-github-gorilla-websocket": {
-            "admin": "mikelo2",
+            "admin": "orphan",
             "epel": "jchaloup",
-            "fedora": "mikelo2"
+            "fedora": "orphan"
         },
         "golang-github-gorp-3": {
             "admin": "dcavalca",
@@ -49937,9 +49937,9 @@
             "fedora": "orphan"
         },
         "golang-github-karrick-golf": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-katalix-l2tp": {
             "admin": "tomparkin",
@@ -51257,9 +51257,9 @@
             "fedora": "orphan"
         },
         "golang-github-mitchellh-mapstructure": {
-            "admin": "mikelo2",
+            "admin": "orphan",
             "epel": "jchaloup",
-            "fedora": "mikelo2"
+            "fedora": "orphan"
         },
         "golang-github-mitchellh-ps": {
             "admin": "orphan",
@@ -52167,9 +52167,9 @@
             "fedora": "orphan"
         },
         "golang-github-otiai10-copy": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-otiai10-mint": {
             "admin": "orphan",
@@ -52487,9 +52487,9 @@
             "fedora": "orphan"
         },
         "golang-github-pkg-profile": {
-            "admin": "mikelo2",
+            "admin": "orphan",
             "epel": "jchaloup",
-            "fedora": "mikelo2"
+            "fedora": "orphan"
         },
         "golang-github-pkg-sftp": {
             "admin": "orphan",
@@ -54607,9 +54607,9 @@
             "fedora": "alexsaezm"
         },
         "golang-github-tv42-httpunix": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-twinj-uuid": {
             "admin": "alexsaezm",
@@ -55812,9 +55812,9 @@
             "fedora": "orphan"
         },
         "golang-gopkg-ini-1": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-gopkg-jcmturner-aescts-1": {
             "admin": "qulogic",
@@ -138926,6 +138926,11 @@
             "epel": "mbaldessari",
             "fedora": "mbaldessari"
         },
+        "python-clickdc": {
+            "admin": "terjeros",
+            "epel": "terjeros",
+            "fedora": "terjeros"
+        },
         "python-clientform": {
             "admin": "orphan",
             "epel": "orphan",
@@ -150412,9 +150417,9 @@
             "fedora": "dcavalca"
         },
         "python-pyasn1": {
-            "admin": "rcritten",
-            "epel": "rcritten",
-            "fedora": "rcritten"
+            "admin": "spichugi",
+            "epel": "spichugi",
+            "fedora": "spichugi"
         },
         "python-pyasynchat": {
             "admin": "adamwill",
@@ -151572,9 +151577,9 @@
             "fedora": "frantisekz"
         },
         "python-pyroaring": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "python-pyroute2": {
             "admin": "praiskup",
@@ -154963,7 +154968,7 @@
         },
         "python-sphinxcontrib-apidoc": {
             "admin": "lbalhar",
-            "epel": "orphan",
+            "epel": "stevetraylen",
             "fedora": "lbalhar"
         },
         "python-sphinxcontrib-applehelp": {
@@ -158485,6 +158490,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "python-yt-dlp-ejs": {
+            "admin": "gotmax23",
+            "epel": "gotmax23",
+            "fedora": "gotmax23"
         },
         "python-yte": {
             "admin": "orphan",
