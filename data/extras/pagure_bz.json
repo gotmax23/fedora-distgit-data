@@ -4454,7 +4454,7 @@
         "NetworkManager-libreswan": [
             "bengal",
             "ihuguet",
-            "orphan",
+            "ngompa",
             "praksany",
             "thaller",
             "vbenes"
@@ -4471,13 +4471,13 @@
         "NetworkManager-openvpn": [
             "bengal",
             "ihuguet",
-            "orphan",
+            "ngompa",
             "steve",
             "tdawson",
             "thaller"
         ],
         "NetworkManager-pptp": [
-            "orphan",
+            "farchord",
             "tdawson",
             "thaller"
         ],
@@ -6606,7 +6606,8 @@
         "SDL2_mixer": [
             "fcami",
             "ignatenkobrain",
-            "ngompa"
+            "ngompa",
+            "suve"
         ],
         "SDL2_net": [
             "ignatenkobrain",
@@ -7973,6 +7974,7 @@
             "@miracle-sig",
             "@sway-sig",
             "ngompa",
+            "suve",
             "wef"
         ],
         "amoebax": [
@@ -47408,7 +47410,8 @@
             "vcrhonek"
         ],
         "hwinfo": [
-            "ngompa"
+            "ngompa",
+            "suve"
         ],
         "hwk": [
             "petersen"
@@ -61459,7 +61462,8 @@
             "jcpunk"
         ],
         "libx86emu": [
-            "ngompa"
+            "ngompa",
+            "suve"
         ],
         "libxc": [
             "jussilehtola"
@@ -70271,6 +70275,7 @@
         ],
         "neatvnc": [
             "ngompa",
+            "suve",
             "wef"
         ],
         "nebula": [
@@ -78083,6 +78088,7 @@
         "oci-delta": [
             "@go-sig",
             "alexl",
+            "miabbott",
             "saypaul"
         ],
         "oci-kvm-hook": [
@@ -107128,6 +107134,9 @@
         "python-coreapi": [
             "orphan"
         ],
+        "python-coremltools": [
+            "pbrobinson"
+        ],
         "python-coreschema": [
             "orphan"
         ],
@@ -116122,7 +116131,6 @@
         ],
         "python-pymilter": [
             "bojan",
-            "orphan",
             "pwouters",
             "sdgathman"
         ],
@@ -151759,7 +151767,8 @@
         ],
         "sdl12-compat": [
             "ignatenkobrain",
-            "ngompa"
+            "ngompa",
+            "suve"
         ],
         "sdl2-compat": [
             "ngompa",
@@ -161008,7 +161017,8 @@
         ],
         "vmtouch": [
             "@epel-packagers-sig",
-            "cheeselee"
+            "cheeselee",
+            "salimma"
         ],
         "vnc": [
             "orphan"
@@ -161743,7 +161753,8 @@
         "wget2": [
             "jonathanspw",
             "mruprich",
-            "ngompa"
+            "ngompa",
+            "suve"
         ],
         "wgrib": [
             "@scitech_sig",

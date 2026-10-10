@@ -5667,9 +5667,9 @@
             "fedora": "dkosovic"
         },
         "NetworkManager-libreswan": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "NetworkManager-openconnect": {
             "admin": "dwmw2",
@@ -5682,14 +5682,14 @@
             "fedora": "orphan"
         },
         "NetworkManager-openvpn": {
-            "admin": "orphan",
+            "admin": "ngompa",
             "epel": "limb",
-            "fedora": "orphan"
+            "fedora": "ngompa"
         },
         "NetworkManager-pptp": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "farchord",
+            "epel": "farchord",
+            "fedora": "farchord"
         },
         "NetworkManager-ssh": {
             "admin": "danfruehauf",
@@ -139621,6 +139621,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-coremltools": {
+            "admin": "pbrobinson",
+            "epel": "pbrobinson",
+            "fedora": "pbrobinson"
+        },
         "python-coreschema": {
             "admin": "orphan",
             "epel": "orphan",
@@ -151192,9 +151197,9 @@
             "fedora": "apevec"
         },
         "python-pymilter": {
-            "admin": "orphan",
+            "admin": "sdgathman",
             "epel": "bojan",
-            "fedora": "orphan"
+            "fedora": "sdgathman"
         },
         "python-pymoc": {
             "admin": "orphan",
