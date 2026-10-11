@@ -4418,7 +4418,7 @@
             "fedepell"
         ],
         "NaturalDocs": [
-            "orphan"
+            "sagitter"
         ],
         "NearTree": [
             "krege"
@@ -15314,7 +15314,7 @@
             "lzaoral"
         ],
         "consolation": [
-            "orphan"
+            "damiand"
         ],
         "console-bridge": [
             "@robotics-sig",
@@ -49285,7 +49285,7 @@
             "orphan"
         ],
         "iwd": [
-            "orphan"
+            "pbrobinson"
         ],
         "iwhd": [
             "orphan"
@@ -57026,8 +57026,8 @@
             "nonamedotc"
         ],
         "libclaw": [
+            "jwrdegoede",
             "martinkg",
-            "orphan",
             "xavierb"
         ],
         "libclc": [
@@ -108488,7 +108488,7 @@
         ],
         "python-docstring-to-markdown": [
             "@neuro-sig",
-            "orphan"
+            "fedepell"
         ],
         "python-docutils": [
             "@python-packagers-sig",
@@ -130902,6 +130902,10 @@
             "@rust-sig",
             "gotmax23"
         ],
+        "rust-astral-html": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-astral-pubgrub": [
             "@rust-sig",
             "music"
@@ -131611,6 +131615,9 @@
             "@rust-sig",
             "decathorpe",
             "pbrobinson"
+        ],
+        "rust-bitfield-macros": [
+            "decathorpe"
         ],
         "rust-bitfield-struct": [
             "@rust-sig",
@@ -155285,8 +155292,7 @@
             "fed500"
         ],
         "sunxi-tools": [
-            "lkundrak",
-            "orphan"
+            "lkundrak"
         ],
         "super-csv": [
             "java-sig",
@@ -161468,6 +161474,7 @@
         "wayvnc": [
             "lack-0",
             "ngompa",
+            "suve",
             "wef"
         ],
         "wb_builder": [
@@ -161703,6 +161710,7 @@
             "ngompa",
             "rhughes",
             "slaanesh",
+            "suve",
             "tdawson"
         ],
         "wev": [
@@ -163938,8 +163946,8 @@
             "@db-sig",
             "lkundrak",
             "mschorm",
-            "orphan",
-            "ovasik"
+            "ovasik",
+            "sagitter"
         ],
         "xmltool": [
             "guidograzioli",

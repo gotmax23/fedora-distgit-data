@@ -5632,9 +5632,9 @@
             "fedora": "fed500"
         },
         "NaturalDocs": {
-            "admin": "orphan",
+            "admin": "sagitter",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "sagitter"
         },
         "NearTree": {
             "admin": "krege",
@@ -19732,9 +19732,9 @@
             "fedora": "lzaoral"
         },
         "consolation": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "damiand",
+            "epel": "damiand",
+            "fedora": "damiand"
         },
         "console-bridge": {
             "admin": "cottsay",
@@ -64297,9 +64297,9 @@
             "fedora": "orphan"
         },
         "iwd": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "pbrobinson",
+            "epel": "pbrobinson",
+            "fedora": "pbrobinson"
         },
         "iwhd": {
             "admin": "orphan",
@@ -73932,9 +73932,9 @@
             "fedora": "nonamedotc"
         },
         "libclaw": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "jwrdegoede",
+            "epel": "jwrdegoede",
+            "fedora": "jwrdegoede"
         },
         "libclc": {
             "admin": "tstellar",
@@ -141352,9 +141352,9 @@
             "fedora": "pszubiak"
         },
         "python-docstring-to-markdown": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fedepell",
+            "epel": "fedepell",
+            "fedora": "fedepell"
         },
         "python-docutils": {
             "admin": "ksurma",
@@ -170731,6 +170731,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-astral-html": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-astral-pubgrub": {
             "admin": "music",
             "epel": "music",
@@ -171607,6 +171612,11 @@
             "fedora": "orion"
         },
         "rust-bitfield": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-bitfield-macros": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -201817,9 +201827,9 @@
             "fedora": "fed500"
         },
         "sunxi-tools": {
-            "admin": "orphan",
+            "admin": "pbrobinson",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "pbrobinson"
         },
         "super-csv": {
             "admin": "orphan",
@@ -213512,9 +213522,9 @@
             "fedora": "mschorm"
         },
         "xmltoman": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "sagitter",
+            "epel": "sagitter",
+            "fedora": "sagitter"
         },
         "xmltool": {
             "admin": "orphan",
