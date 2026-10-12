@@ -19320,8 +19320,8 @@
         ],
         "drpm": [
             "@rpm-software-management-sig",
-            "jmracek",
-            "orphan"
+            "dreua",
+            "jmracek"
         ],
         "drpython": [
             "orphan"
@@ -23243,7 +23243,7 @@
             "music"
         ],
         "fastapi-cli": [
-            "orphan",
+            "damiand",
             "pwouters",
             "rominf"
         ],
@@ -23253,7 +23253,7 @@
             "rominf"
         ],
         "fastapi-new": [
-            "orphan"
+            "damiand"
         ],
         "fastback": [
             "gavin",
@@ -109077,7 +109077,7 @@
             "music"
         ],
         "python-fastapi": [
-            "orphan",
+            "damiand",
             "pwouters"
         ],
         "python-fastar": [
@@ -115342,7 +115342,7 @@
         ],
         "python-proton-vpn-network-manager": [
             "calexandru2018",
-            "fed500"
+            "orphan"
         ],
         "python-prov": [
             "ignatenkobrain",
@@ -117791,7 +117791,7 @@
             "samdoran"
         ],
         "python-rich-toolkit": [
-            "orphan"
+            "damiand"
         ],
         "python-rignore": [
             "@rust-sig",
@@ -119334,7 +119334,7 @@
             "orphan"
         ],
         "python-sqlmodel": [
-            "orphan"
+            "damiand"
         ],
         "python-sqlobject": [
             "orphan"
@@ -126262,8 +126262,7 @@
             "frostyx"
         ],
         "rofi-wayland": [
-            "@sway-sig",
-            "alebastr"
+            "orphan"
         ],
         "rofimoji": [
             "mhayden"
@@ -131617,6 +131616,7 @@
             "pbrobinson"
         ],
         "rust-bitfield-macros": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-bitfield-struct": [
@@ -133780,6 +133780,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-darling0.21": [
+            "music"
+        ],
         "rust-darling_core": [
             "@rust-sig",
             "decathorpe"
@@ -133800,6 +133803,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-darling_core0.21": [
+            "music"
+        ],
         "rust-darling_macro": [
             "@rust-sig",
             "decathorpe"
@@ -133819,6 +133825,9 @@
         "rust-darling_macro0.20": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-darling_macro0.21": [
+            "music"
         ],
         "rust-dary_heap": [
             "@rust-sig",

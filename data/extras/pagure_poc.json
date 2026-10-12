@@ -16307,7 +16307,7 @@
             "fedora": "yselkowitz"
         },
         "calls": {
-            "admin": "torbuntu",
+            "admin": "lihis",
             "epel": "lihis",
             "fedora": "lihis"
         },
@@ -17217,7 +17217,7 @@
             "fedora": "solomoncyj"
         },
         "chatty": {
-            "admin": "torbuntu",
+            "admin": "lihis",
             "epel": "lihis",
             "fedora": "lihis"
         },
@@ -24812,9 +24812,9 @@
             "fedora": "liuhangbin"
         },
         "drpm": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "dreua",
+            "epel": "dreua",
+            "fedora": "dreua"
         },
         "drpython": {
             "admin": "orphan",
@@ -30267,9 +30267,9 @@
             "fedora": "music"
         },
         "fastapi-cli": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "damiand",
+            "epel": "damiand",
+            "fedora": "damiand"
         },
         "fastapi-cloud-cli": {
             "admin": "orphan",
@@ -30277,9 +30277,9 @@
             "fedora": "orphan"
         },
         "fastapi-new": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "damiand",
+            "epel": "damiand",
+            "fedora": "damiand"
         },
         "fastback": {
             "admin": "jonathanspw",
@@ -142152,9 +142152,9 @@
             "fedora": "music"
         },
         "python-fastapi": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "damiand",
+            "epel": "damiand",
+            "fedora": "damiand"
         },
         "python-fastar": {
             "admin": "orphan",
@@ -150157,9 +150157,9 @@
             "fedora": "orphan"
         },
         "python-proton-vpn-network-manager": {
-            "admin": "fed500",
-            "epel": "fed500",
-            "fedora": "fed500"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-prov": {
             "admin": "jonathanspw",
@@ -153332,9 +153332,9 @@
             "fedora": "@rhel-lightspeed"
         },
         "python-rich-toolkit": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "damiand",
+            "epel": "damiand",
+            "fedora": "damiand"
         },
         "python-rignore": {
             "admin": "orphan",
@@ -155317,9 +155317,9 @@
             "fedora": "orphan"
         },
         "python-sqlmodel": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "damiand",
+            "epel": "damiand",
+            "fedora": "damiand"
         },
         "python-sqlobject": {
             "admin": "orphan",
@@ -164502,9 +164502,9 @@
             "fedora": "frostyx"
         },
         "rofi-wayland": {
-            "admin": "alebastr",
-            "epel": "alebastr",
-            "fedora": "alebastr"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rofimoji": {
             "admin": "mhayden",
@@ -174391,6 +174391,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-darling0.21": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-darling_core": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -174416,6 +174421,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-darling_core0.21": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-darling_macro": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -174440,6 +174450,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-darling_macro0.21": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-dary_heap": {
             "admin": "dcavalca",
