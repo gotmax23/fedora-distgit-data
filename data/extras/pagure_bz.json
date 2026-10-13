@@ -16778,7 +16778,6 @@
             "@crypto-team",
             "ammdispose",
             "jjelen",
-            "rcritten",
             "simo"
         ],
         "cyrus-timezones": [
@@ -23248,7 +23247,7 @@
             "rominf"
         ],
         "fastapi-cloud-cli": [
-            "orphan",
+            "aekoroglu",
             "pwouters",
             "rominf"
         ],
@@ -52732,6 +52731,7 @@
         ],
         "kdepim": [
             "@kde-sig",
+            "orphan",
             "than"
         ],
         "kdepim-addons": [
@@ -54687,7 +54687,8 @@
         "knot-resolver": [
             "@dns-sig",
             "jruzicka",
-            "pspacek"
+            "pspacek",
+            "vcunat"
         ],
         "knotes": [
             "@kde-sig",
@@ -66767,7 +66768,7 @@
             "smani"
         ],
         "mingw-python-affine": [
-            "smani"
+            "orphan"
         ],
         "mingw-python-blinker": [
             "smani"
@@ -101712,8 +101713,8 @@
             "tdawson"
         ],
         "pnglite": [
-            "lkundrak",
-            "orphan"
+            "limb",
+            "lkundrak"
         ],
         "pngnq": [
             "jridky",
@@ -104397,7 +104398,7 @@
             "orphan"
         ],
         "python-agent-detector": [
-            "orphan",
+            "aekoroglu",
             "pwouters",
             "rominf"
         ],
@@ -109082,7 +109083,7 @@
         ],
         "python-fastar": [
             "@rust-sig",
-            "orphan"
+            "aekoroglu"
         ],
         "python-fastavro": [
             "@neuro-sig",
@@ -111896,7 +111897,7 @@
         "python-kerberos": [
             "abbra",
             "carlwgeorge",
-            "rcritten"
+            "orphan"
         ],
         "python-keyczar": [
             "orphan"
@@ -115348,6 +115349,9 @@
             "ignatenkobrain",
             "jonathanspw"
         ],
+        "python-proxy-py": [
+            "jjelen"
+        ],
         "python-pskc": [
             "gbcox",
             "orion"
@@ -117795,7 +117799,7 @@
         ],
         "python-rignore": [
             "@rust-sig",
-            "orphan"
+            "aekoroglu"
         ],
         "python-ring-doorbell": [
             "orphan"
@@ -127652,9 +127656,8 @@
             "orphan"
         ],
         "rubygem-ethon": [
-            "@ruby-packagers-sig",
             "jaruga",
-            "vondruch"
+            "orphan"
         ],
         "rubygem-eventmachine": [
             "@ruby-packagers-sig",
@@ -127714,7 +127717,7 @@
             "orphan"
         ],
         "rubygem-faraday": [
-            "vondruch"
+            "orphan"
         ],
         "rubygem-fast_gettext": [
             "brandfbb",
@@ -129808,9 +129811,8 @@
             "pvalena"
         ],
         "rubygem-typhoeus": [
-            "@ruby-packagers-sig",
             "jaruga",
-            "vondruch"
+            "orphan"
         ],
         "rubygem-tzinfo": [
             "@ruby-packagers-sig",
@@ -133781,6 +133783,7 @@
             "decathorpe"
         ],
         "rust-darling0.21": [
+            "@rust-sig",
             "music"
         ],
         "rust-darling_core": [
@@ -133804,6 +133807,7 @@
             "decathorpe"
         ],
         "rust-darling_core0.21": [
+            "@rust-sig",
             "music"
         ],
         "rust-darling_macro": [
@@ -133827,6 +133831,7 @@
             "decathorpe"
         ],
         "rust-darling_macro0.21": [
+            "@rust-sig",
             "music"
         ],
         "rust-dary_heap": [
@@ -146671,6 +146676,9 @@
         "rust-sqlx-sqlite": [
             "@rust-sig",
             "lecris"
+        ],
+        "rust-sqz": [
+            "decathorpe"
         ],
         "rust-srpm-macros": [
             "@rust-sig",

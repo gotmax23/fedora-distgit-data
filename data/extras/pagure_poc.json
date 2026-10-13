@@ -18652,9 +18652,9 @@
             "fedora": "martinpitt"
         },
         "cockpit-podman": {
-            "admin": "mmarusak",
-            "epel": "mmarusak",
-            "fedora": "mmarusak"
+            "admin": "jelly",
+            "epel": "jelly",
+            "fedora": "jelly"
         },
         "cockpit-session-recording": {
             "admin": "jstephen",
@@ -30272,9 +30272,9 @@
             "fedora": "damiand"
         },
         "fastapi-cloud-cli": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
         },
         "fastapi-new": {
             "admin": "damiand",
@@ -68822,9 +68822,9 @@
             "fedora": "ngompa"
         },
         "kdepim": {
-            "admin": "than",
-            "epel": "than",
-            "fedora": "than"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kdepim-addons": {
             "admin": "farchord",
@@ -86422,9 +86422,9 @@
             "fedora": "smani"
         },
         "mingw-python-affine": {
-            "admin": "smani",
-            "epel": "smani",
-            "fedora": "smani"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "mingw-python-blinker": {
             "admin": "smani",
@@ -132432,9 +132432,9 @@
             "fedora": "nphilipp"
         },
         "pnglite": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "pngnq": {
             "admin": "kraxel",
@@ -136002,9 +136002,9 @@
             "fedora": "orphan"
         },
         "python-agent-detector": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
         },
         "python-ailment": {
             "admin": "fab",
@@ -142157,9 +142157,9 @@
             "fedora": "damiand"
         },
         "python-fastar": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
         },
         "python-fastavro": {
             "admin": "ankursinha",
@@ -145737,9 +145737,9 @@
             "fedora": "orphan"
         },
         "python-kerberos": {
-            "admin": "rcritten",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "rcritten"
+            "fedora": "orphan"
         },
         "python-keyczar": {
             "admin": "orphan",
@@ -150166,6 +150166,11 @@
             "epel": "orphan",
             "fedora": "jonathanspw"
         },
+        "python-proxy-py": {
+            "admin": "jjelen",
+            "epel": "jjelen",
+            "fedora": "jjelen"
+        },
         "python-pskc": {
             "admin": "gbcox",
             "epel": "orion",
@@ -153337,9 +153342,9 @@
             "fedora": "damiand"
         },
         "python-rignore": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
         },
         "python-ring-doorbell": {
             "admin": "orphan",
@@ -166392,9 +166397,9 @@
             "fedora": "orphan"
         },
         "rubygem-ethon": {
-            "admin": "vondruch",
-            "epel": "vondruch",
-            "fedora": "vondruch"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-eventmachine": {
             "admin": "vondruch",
@@ -166477,9 +166482,9 @@
             "fedora": "orphan"
         },
         "rubygem-faraday": {
-            "admin": "vondruch",
-            "epel": "vondruch",
-            "fedora": "vondruch"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-fast_gettext": {
             "admin": "orphan",
@@ -169372,9 +169377,9 @@
             "fedora": "orphan"
         },
         "rubygem-typhoeus": {
-            "admin": "vondruch",
-            "epel": "vondruch",
-            "fedora": "vondruch"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-tzinfo": {
             "admin": "vondruch",
@@ -190620,6 +190625,11 @@
             "admin": "lecris",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-sqz": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-srpm-macros": {
             "admin": "orphan",
