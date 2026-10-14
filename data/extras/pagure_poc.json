@@ -9657,7 +9657,7 @@
             "fedora": "orphan"
         },
         "aide": {
-            "admin": "rsroka",
+            "admin": "alakatos",
             "epel": "alakatos",
             "fedora": "alakatos"
         },
@@ -24481,6 +24481,11 @@
             "epel": "omajid",
             "fedora": "omajid"
         },
+        "dotnet11.0": {
+            "admin": "omajid",
+            "epel": "omajid",
+            "fedora": "omajid"
+        },
         "dotnet3.1": {
             "admin": "orphan",
             "epel": "orphan",
@@ -30267,9 +30272,9 @@
             "fedora": "music"
         },
         "fastapi-cli": {
-            "admin": "damiand",
-            "epel": "damiand",
-            "fedora": "damiand"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "fastapi-cloud-cli": {
             "admin": "aekoroglu",
@@ -30277,9 +30282,9 @@
             "fedora": "aekoroglu"
         },
         "fastapi-new": {
-            "admin": "damiand",
-            "epel": "damiand",
-            "fedora": "damiand"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "fastback": {
             "admin": "jonathanspw",
@@ -131042,8 +131047,8 @@
             "fedora": "orphan"
         },
         "picard": {
-            "admin": "alexlan",
-            "epel": "alexlan",
+            "admin": "gbcox",
+            "epel": "gbcox",
             "fedora": "alexlan"
         },
         "picasso": {
@@ -142152,9 +142157,9 @@
             "fedora": "music"
         },
         "python-fastapi": {
-            "admin": "damiand",
-            "epel": "damiand",
-            "fedora": "damiand"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-fastar": {
             "admin": "aekoroglu",
@@ -189605,6 +189610,11 @@
             "admin": "decathorpe",
             "epel": "decathorpe",
             "fedora": "decathorpe"
+        },
+        "rust-serde_derive_internals0.29": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-serde_fmt": {
             "admin": "decathorpe",

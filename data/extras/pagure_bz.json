@@ -19083,6 +19083,9 @@
         "dotnet10.0": [
             "omajid"
         ],
+        "dotnet11.0": [
+            "omajid"
+        ],
         "dotnet3.1": [
             "hdost3",
             "orphan",
@@ -23242,7 +23245,7 @@
             "music"
         ],
         "fastapi-cli": [
-            "damiand",
+            "orphan",
             "pwouters",
             "rominf"
         ],
@@ -23252,7 +23255,7 @@
             "rominf"
         ],
         "fastapi-new": [
-            "damiand"
+            "orphan"
         ],
         "fastback": [
             "gavin",
@@ -68135,8 +68138,7 @@
             "buckaroogeek",
             "copperi",
             "gotmax23",
-            "madaggarwal",
-            "mh21"
+            "madaggarwal"
         ],
         "mocha": [
             "orphan"
@@ -109078,7 +109080,7 @@
             "music"
         ],
         "python-fastapi": [
-            "damiand",
+            "orphan",
             "pwouters"
         ],
         "python-fastar": [
@@ -145863,6 +145865,10 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-serde_derive_internals0.29": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-serde_fmt": [
             "@rust-sig",
             "decathorpe"
@@ -146678,6 +146684,7 @@
             "lecris"
         ],
         "rust-sqz": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-srpm-macros": [
