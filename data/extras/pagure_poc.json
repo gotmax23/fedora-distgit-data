@@ -90771,6 +90771,11 @@
             "epel": "aalvarez",
             "fedora": "orphan"
         },
+        "nagios-plugins-ltb": {
+            "admin": "xavierb",
+            "epel": "xavierb",
+            "fedora": "xavierb"
+        },
         "nagios-plugins-newest_file_age": {
             "admin": "thofmann",
             "epel": "thofmann",
@@ -131049,7 +131054,7 @@
         "picard": {
             "admin": "gbcox",
             "epel": "gbcox",
-            "fedora": "alexlan"
+            "fedora": "gbcox"
         },
         "picasso": {
             "admin": "fed500",
@@ -160021,6 +160026,11 @@
             "epel": "python-maint",
             "fedora": "python-maint"
         },
+        "python3.16": {
+            "admin": "ksurma",
+            "epel": "python-maint",
+            "fedora": "python-maint"
+        },
         "python3.5": {
             "admin": "orphan",
             "epel": "orphan",
@@ -170762,9 +170772,9 @@
             "fedora": "music"
         },
         "rust-astral-tl": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-astral-tokio-tar": {
             "admin": "music",
@@ -171250,6 +171260,11 @@
             "admin": "uril",
             "epel": "uril",
             "fedora": "uril"
+        },
+        "rust-azure-tpm": {
+            "admin": "alakatos",
+            "epel": "alakatos",
+            "fedora": "alakatos"
         },
         "rust-b3sum": {
             "admin": "music",
@@ -184101,6 +184116,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-object0.39": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-objekt": {
             "admin": "orphan",
             "epel": "orphan",
@@ -188602,9 +188622,9 @@
             "fedora": "@rust-sig"
         },
         "rust-rust-netrc": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-rust-stemmers": {
             "admin": "decathorpe",

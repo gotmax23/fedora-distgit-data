@@ -19018,8 +19018,6 @@
             "mkoncek"
         ],
         "dolfin": [
-            "@neuro-sig",
-            "@python-packagers-sig",
             "zbyszek"
         ],
         "dolphin": [
@@ -23136,7 +23134,6 @@
         ],
         "faad2": [
             "@multimedia-sig",
-            "kwizart",
             "rathann"
         ],
         "fabric": [
@@ -48569,6 +48566,7 @@
         ],
         "initial-setup": [
             "jkonecny",
+            "kkoukiou",
             "m4rtink",
             "rvykydal",
             "tdawson",
@@ -69941,6 +69939,9 @@
         "nagios-plugins-lcgdm": [
             "orphan",
             "rocha"
+        ],
+        "nagios-plugins-ltb": [
+            "xavierb"
         ],
         "nagios-plugins-newest_file_age": [
             "thofmann"
@@ -122843,6 +122844,11 @@
             "churchyard",
             "ksurma"
         ],
+        "python3.16": [
+            "@python-packagers-sig",
+            "churchyard",
+            "ksurma"
+        ],
         "python3.5": [
             "orphan"
         ],
@@ -130923,7 +130929,7 @@
         ],
         "rust-astral-tl": [
             "@rust-sig",
-            "music"
+            "orphan"
         ],
         "rust-astral-tokio-tar": [
             "@rust-sig",
@@ -131312,6 +131318,9 @@
         "rust-az-tdx-vtpm": [
             "@rust-sig",
             "uril"
+        ],
+        "rust-azure-tpm": [
+            "alakatos"
         ],
         "rust-b3sum": [
             "@rust-sig",
@@ -141533,6 +141542,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-object0.39": [
+            "decathorpe"
+        ],
         "rust-objekt": [
             "orphan"
         ],
@@ -145067,7 +145079,7 @@
         ],
         "rust-rust-netrc": [
             "@rust-sig",
-            "music"
+            "orphan"
         ],
         "rust-rust-stemmers": [
             "@rust-sig",
