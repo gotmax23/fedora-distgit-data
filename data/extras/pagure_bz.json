@@ -11428,6 +11428,7 @@
         ],
         "blender": [
             "@epel-packagers-sig",
+            "@multimedia-sig",
             "@rocm-packagers-sig",
             "design-sw",
             "gang65",
@@ -23760,6 +23761,7 @@
         ],
         "fedora-logos": [
             "rstrode",
+            "siosm",
             "spot"
         ],
         "fedora-messaging": [
@@ -23821,6 +23823,7 @@
             "pfrields"
         ],
         "fedora-remix-logos": [
+            "siosm",
             "spot"
         ],
         "fedora-repo-zdicts": [
@@ -48686,6 +48689,9 @@
             "androniychuk",
             "frantisekz",
             "rathann"
+        ],
+        "intel-dpcpp": [
+            "androniychuk"
         ],
         "intel-gen4asm": [
             "orphan"
@@ -119229,7 +119235,7 @@
             "tartina"
         ],
         "python-sphobjinv": [
-            "orphan"
+            "orion"
         ],
         "python-spiffgtkwidgets": [
             "orphan"
@@ -131319,7 +131325,12 @@
             "@rust-sig",
             "uril"
         ],
+        "rust-azure-guest-attestation-sdk": [
+            "@rust-sig",
+            "alakatos"
+        ],
         "rust-azure-tpm": [
+            "@rust-sig",
             "alakatos"
         ],
         "rust-b3sum": [
@@ -141543,6 +141554,7 @@
             "decathorpe"
         ],
         "rust-object0.39": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-objekt": [
@@ -152854,8 +152866,7 @@
         ],
         "singularity-ce": [
             "@go-sig",
-            "dctrud",
-            "dwd"
+            "dctrud"
         ],
         "sinjdoc": [
             "orphan"
@@ -157840,6 +157851,9 @@
             "fonts-sig",
             "spot"
         ],
+        "tlottie": [
+            "ivanromanov"
+        ],
         "tlp": [
             "tripledes"
         ],
@@ -161393,7 +161407,7 @@
         ],
         "wannier90": [
             "jussilehtola",
-            "orphan"
+            "lecris"
         ],
         "wapanel": [
             "orphan"
@@ -163958,7 +163972,6 @@
             "veillard"
         ],
         "xmlstarlet": [
-            "@epel-packagers-sig",
             "dcavalca",
             "dminer",
             "ngompa",

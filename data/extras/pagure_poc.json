@@ -63516,6 +63516,11 @@
             "epel": "frantisekz",
             "fedora": "frantisekz"
         },
+        "intel-dpcpp": {
+            "admin": "androniychuk",
+            "epel": "androniychuk",
+            "fedora": "androniychuk"
+        },
         "intel-gen4asm": {
             "admin": "orphan",
             "epel": "orphan",
@@ -146027,7 +146032,7 @@
             "fedora": "orphan"
         },
         "python-ldap": {
-            "admin": "cheimes",
+            "admin": "spichugi",
             "epel": "spichugi",
             "fedora": "spichugi"
         },
@@ -155172,9 +155177,9 @@
             "fedora": "fed500"
         },
         "python-sphobjinv": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "orion",
+            "epel": "orion",
+            "fedora": "orion"
         },
         "python-spiffgtkwidgets": {
             "admin": "orphan",
@@ -171260,6 +171265,11 @@
             "admin": "uril",
             "epel": "uril",
             "fedora": "uril"
+        },
+        "rust-azure-guest-attestation-sdk": {
+            "admin": "alakatos",
+            "epel": "alakatos",
+            "fedora": "alakatos"
         },
         "rust-azure-tpm": {
             "admin": "alakatos",
@@ -205321,6 +205331,11 @@
             "epel": "spot",
             "fedora": "spot"
         },
+        "tlottie": {
+            "admin": "ivanromanov",
+            "epel": "ivanromanov",
+            "fedora": "ivanromanov"
+        },
         "tlp": {
             "admin": "tripledes",
             "epel": "tripledes",
@@ -210162,9 +210177,9 @@
             "fedora": "salimma"
         },
         "wannier90": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "lecris",
+            "epel": "lecris",
+            "fedora": "lecris"
         },
         "wapanel": {
             "admin": "orphan",
