@@ -24651,6 +24651,11 @@
             "epel": "than",
             "fedora": "than"
         },
+        "dragon-media-backend": {
+            "admin": "farchord",
+            "epel": "farchord",
+            "fedora": "farchord"
+        },
         "dragonbox": {
             "admin": "mattia",
             "epel": "@libreoffice-sig",
@@ -30677,9 +30682,9 @@
             "fedora": "yanqiyu"
         },
         "fcl": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "lrossett",
+            "epel": "lrossett",
+            "fedora": "lrossett"
         },
         "fcode-utils": {
             "admin": "orion",
@@ -104252,9 +104257,9 @@
             "fedora": "yonhan"
         },
         "openpace": {
-            "admin": "vhanulik",
-            "epel": "vhanulik",
-            "fedora": "vhanulik"
+            "admin": "jjelen",
+            "epel": "jjelen",
+            "fedora": "jjelen"
         },
         "openpbx": {
             "admin": "orphan",
@@ -132912,9 +132917,9 @@
             "fedora": "dcavalca"
         },
         "poster": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "goeran",
+            "epel": "goeran",
+            "fedora": "goeran"
         },
         "posterazor": {
             "admin": "orphan",
@@ -208107,9 +208112,9 @@
             "fedora": "orphan"
         },
         "urdfdom": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "lrossett",
+            "epel": "lrossett",
+            "fedora": "lrossett"
         },
         "urdfdom-headers": {
             "admin": "cottsay",

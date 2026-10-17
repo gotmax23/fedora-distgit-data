@@ -19202,6 +19202,9 @@
             "@kde-sig",
             "than"
         ],
+        "dragon-media-backend": [
+            "farchord"
+        ],
         "dragonbox": [
             "@libreoffice-sig",
             "mattia"
@@ -23566,7 +23569,7 @@
         ],
         "fcl": [
             "@robotics-sig",
-            "orphan",
+            "lrossett",
             "thofmann"
         ],
         "fcode-utils": [
@@ -48691,7 +48694,8 @@
             "rathann"
         ],
         "intel-dpcpp": [
-            "androniychuk"
+            "androniychuk",
+            "dvrogozh83"
         ],
         "intel-gen4asm": [
             "orphan"
@@ -78647,6 +78651,7 @@
         "onednn": [
             "aekoroglu",
             "ajax",
+            "androniychuk",
             "kwizart"
         ],
         "onedrive": [
@@ -102085,8 +102090,8 @@
             "dcavalca"
         ],
         "poster": [
-            "lkundrak",
-            "orphan"
+            "goeran",
+            "lkundrak"
         ],
         "posterazor": [
             "orphan",
@@ -159881,7 +159886,7 @@
         ],
         "urdfdom": [
             "@robotics-sig",
-            "orphan"
+            "lrossett"
         ],
         "urdfdom-headers": [
             "@robotics-sig",
