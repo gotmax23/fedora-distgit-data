@@ -12350,7 +12350,7 @@
             "orphan"
         ],
         "bup": [
-            "orphan"
+            "farchord"
         ],
         "burp": [
             "orphan"
@@ -37764,7 +37764,7 @@
         ],
         "golang-github-insomniacslk-dhcp": [
             "@go-sig",
-            "dcavalca"
+            "orphan"
         ],
         "golang-github-insomniacslk-termhook": [
             "@go-sig",
@@ -140532,7 +140532,7 @@
         ],
         "rust-mdsh": [
             "@rust-sig",
-            "blinxen"
+            "orphan"
         ],
         "rust-memcached-rs": [
             "@rust-sig",

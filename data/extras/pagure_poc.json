@@ -15782,9 +15782,9 @@
             "fedora": "orphan"
         },
         "bup": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "farchord",
+            "epel": "farchord",
+            "fedora": "farchord"
         },
         "burp": {
             "admin": "orphan",
@@ -49157,9 +49157,9 @@
             "fedora": "qulogic"
         },
         "golang-github-insomniacslk-dhcp": {
-            "admin": "dcavalca",
-            "epel": "@go-sig",
-            "fedora": "@go-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-insomniacslk-termhook": {
             "admin": "dcavalca",
@@ -182827,9 +182827,9 @@
             "fedora": "@rust-sig"
         },
         "rust-mdsh": {
-            "admin": "blinxen",
-            "epel": "blinxen",
-            "fedora": "blinxen"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-memcached-rs": {
             "admin": "dcavalca",
