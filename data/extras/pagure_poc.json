@@ -73081,6 +73081,11 @@
             "epel": "suve",
             "fedora": "suve"
         },
+        "lib25519": {
+            "admin": "gsauthof",
+            "epel": "gsauthof",
+            "fedora": "gsauthof"
+        },
         "lib2geom": {
             "admin": "topazus",
             "epel": "topazus",
@@ -151471,6 +151476,11 @@
             "epel": "salimma",
             "fedora": "jjames"
         },
+        "python-pypsrp": {
+            "admin": "terjeros",
+            "epel": "terjeros",
+            "fedora": "terjeros"
+        },
         "python-pypubsub": {
             "admin": "swt2c",
             "epel": "swt2c",
@@ -158482,9 +158492,9 @@
             "fedora": "carlwgeorge"
         },
         "python-yaspin": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "terjeros",
+            "epel": "terjeros",
+            "fedora": "terjeros"
         },
         "python-yaswfp": {
             "admin": "orphan",
@@ -163665,6 +163675,11 @@
             "admin": "mikelo2",
             "epel": "mikelo2",
             "fedora": "mikelo2"
+        },
+        "reversal-icon-theme": {
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
         },
         "revisor": {
             "admin": "orphan",
