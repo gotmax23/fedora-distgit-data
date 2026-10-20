@@ -19108,6 +19108,9 @@
         "dotnet9.0": [
             "omajid"
         ],
+        "dotool": [
+            "wojnilowicz"
+        ],
         "double-conversion": [
             "music",
             "orion"
@@ -32611,6 +32614,9 @@
         ],
         "gnome-shell-extension-dash-to-panel": [
             "rathann"
+        ],
+        "gnome-shell-extension-ddterm": [
+            "churchyard"
         ],
         "gnome-shell-extension-desktop-icons": [
             "orphan"
@@ -57793,8 +57799,8 @@
             "till"
         ],
         "libfyaml": [
-            "fed500",
-            "ngompa"
+            "ngompa",
+            "orphan"
         ],
         "libg15render": [
             "jwrdegoede"
@@ -64640,6 +64646,7 @@
             "@epel-packagers-sig",
             "filiperosset",
             "java-sig",
+            "kkeithle",
             "mizdebsk",
             "mkoncek"
         ],
@@ -113391,6 +113398,9 @@
         "python-myhdl": [
             "filiperosset"
         ],
+        "python-mypy-coverage": [
+            "limb"
+        ],
         "python-mypy_extensions": [
             "cottsay",
             "jonathanspw",
@@ -149888,6 +149898,10 @@
             "@rust-sig",
             "dorinda",
             "sbonazzo"
+        ],
+        "rust-vhost-device-media": [
+            "@rust-sig",
+            "aesteve"
         ],
         "rust-vhost-device-scmi": [
             "@rust-sig",

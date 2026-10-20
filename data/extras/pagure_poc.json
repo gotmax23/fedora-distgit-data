@@ -24521,6 +24521,11 @@
             "epel": "omajid",
             "fedora": "omajid"
         },
+        "dotool": {
+            "admin": "wojnilowicz",
+            "epel": "wojnilowicz",
+            "fedora": "wojnilowicz"
+        },
         "double-conversion": {
             "admin": "nalimilan",
             "epel": "nalimilan",
@@ -42340,6 +42345,11 @@
             "admin": "rathann",
             "epel": "rathann",
             "fedora": "rathann"
+        },
+        "gnome-shell-extension-ddterm": {
+            "admin": "churchyard",
+            "epel": "churchyard",
+            "fedora": "churchyard"
         },
         "gnome-shell-extension-desktop-icons": {
             "admin": "orphan",
@@ -74882,9 +74892,9 @@
             "fedora": "orphan"
         },
         "libfyaml": {
-            "admin": "fed500",
-            "epel": "fed500",
-            "fedora": "fed500"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "libg15render": {
             "admin": "jwrdegoede",
@@ -147671,6 +147681,11 @@
             "epel": "filiperosset",
             "fedora": "filiperosset"
         },
+        "python-mypy-coverage": {
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
+        },
         "python-mypy_extensions": {
             "admin": "jonathanspw",
             "epel": "limb",
@@ -194700,6 +194715,11 @@
             "admin": "dorinda",
             "epel": "dorinda",
             "fedora": "dorinda"
+        },
+        "rust-vhost-device-media": {
+            "admin": "aesteve",
+            "epel": "aesteve",
+            "fedora": "aesteve"
         },
         "rust-vhost-device-scmi": {
             "admin": "mzamazal",
