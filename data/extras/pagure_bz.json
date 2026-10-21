@@ -6633,6 +6633,9 @@
             "@multimedia-sig",
             "slaanesh"
         ],
+        "SDL3_mixer": [
+            "suve"
+        ],
         "SDL3_net": [
             "suve"
         ],
@@ -19109,6 +19112,7 @@
             "omajid"
         ],
         "dotool": [
+            "@go-sig",
             "wojnilowicz"
         ],
         "double-conversion": [
@@ -23573,6 +23577,7 @@
         "fcl": [
             "@robotics-sig",
             "lrossett",
+            "roddiekieley",
             "thofmann"
         ],
         "fcode-utils": [
@@ -62402,6 +62407,9 @@
             "msrb",
             "orphan"
         ],
+        "localkdc": [
+            "asn"
+        ],
         "localsearch": [
             "@gnome-sig",
             "nmontero"
@@ -77377,6 +77385,12 @@
         "ocaml-bos": [
             "jjames"
         ],
+        "ocaml-bstr": [
+            "jjames"
+        ],
+        "ocaml-bytesrw": [
+            "jjames"
+        ],
         "ocaml-cairo": [
             "orion",
             "rjones"
@@ -77424,6 +77438,9 @@
         ],
         "ocaml-charinfo-width": [
             "orphan"
+        ],
+        "ocaml-checkseum": [
+            "jjames"
         ],
         "ocaml-cil": [
             "orphan"
@@ -77484,6 +77501,9 @@
         ],
         "ocaml-dbus": [
             "rjones"
+        ],
+        "ocaml-decompress": [
+            "jjames"
         ],
         "ocaml-deriving": [
             "orphan",
@@ -77729,6 +77749,9 @@
         "ocaml-openin": [
             "orphan",
             "rjones"
+        ],
+        "ocaml-optint": [
+            "jjames"
         ],
         "ocaml-ounit": [
             "andyli",
@@ -77986,6 +78009,9 @@
             "jjames"
         ],
         "ocaml-swhid-core": [
+            "jjames"
+        ],
+        "ocaml-tar": [
             "jjames"
         ],
         "ocaml-testo": [
@@ -111672,9 +111698,9 @@
         ],
         "python-jsonpointer": [
             "agerstmayr",
-            "ignatenkobrain",
             "jkurik",
-            "nathans"
+            "nathans",
+            "stevetraylen"
         ],
         "python-jsonref": [
             "@infra-sig",
@@ -112685,7 +112711,7 @@
             "orphan"
         ],
         "python-markups": [
-            "orphan"
+            "mattia"
         ],
         "python-markupsafe": [
             "@python-packagers-sig",
@@ -114979,7 +115005,6 @@
         "python-pint": [
             "@python-packagers-sig",
             "fedepell",
-            "lzachar",
             "mhoyer"
         ],
         "python-pip": [
@@ -117818,6 +117843,7 @@
             "stevetraylen"
         ],
         "python-rich-click": [
+            "kathenas",
             "ksurma"
         ],
         "python-rich-rst": [
@@ -125616,7 +125642,7 @@
             "orphan"
         ],
         "retext": [
-            "orphan"
+            "mattia"
         ],
         "retis": [
             "amorenoz",

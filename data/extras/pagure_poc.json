@@ -8441,6 +8441,11 @@
             "epel": "slaanesh",
             "fedora": "slaanesh"
         },
+        "SDL3_mixer": {
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
+        },
         "SDL3_net": {
             "admin": "suve",
             "epel": "suve",
@@ -80726,6 +80731,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "localkdc": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
         "localsearch": {
             "admin": "nmontero",
             "epel": "nmontero",
@@ -101726,6 +101736,16 @@
             "epel": "jjames",
             "fedora": "jjames"
         },
+        "ocaml-bstr": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
+        "ocaml-bytesrw": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
         "ocaml-cairo": {
             "admin": "rjones",
             "epel": "orion",
@@ -101795,6 +101815,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "ocaml-checkseum": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
         },
         "ocaml-cil": {
             "admin": "orphan",
@@ -101885,6 +101910,11 @@
             "admin": "rjones",
             "epel": "rjones",
             "fedora": "rjones"
+        },
+        "ocaml-decompress": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
         },
         "ocaml-deriving": {
             "admin": "orphan",
@@ -102235,6 +102265,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "ocaml-optint": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
         },
         "ocaml-ounit": {
             "admin": "rjones",
@@ -102602,6 +102637,11 @@
             "fedora": "jjames"
         },
         "ocaml-swhid-core": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
+        "ocaml-tar": {
             "admin": "jjames",
             "epel": "jjames",
             "fedora": "jjames"
@@ -145457,9 +145497,9 @@
             "fedora": "limb"
         },
         "python-jsonpointer": {
-            "admin": "ignatenkobrain",
-            "epel": "ignatenkobrain",
-            "fedora": "ignatenkobrain"
+            "admin": "stevetraylen",
+            "epel": "stevetraylen",
+            "fedora": "stevetraylen"
         },
         "python-jsonref": {
             "admin": "abompard",
@@ -146747,9 +146787,9 @@
             "fedora": "orphan"
         },
         "python-markups": {
-            "admin": "orphan",
+            "admin": "mattia",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "mattia"
         },
         "python-markupsafe": {
             "admin": "churchyard",
@@ -153373,7 +153413,7 @@
         },
         "python-rich-click": {
             "admin": "ksurma",
-            "epel": "ksurma",
+            "epel": "kathenas",
             "fedora": "ksurma"
         },
         "python-rich-rst": {
@@ -163642,9 +163682,9 @@
             "fedora": "@qa-tools-sig"
         },
         "retext": {
-            "admin": "orphan",
+            "admin": "mattia",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "mattia"
         },
         "retis": {
             "admin": "atenart",
