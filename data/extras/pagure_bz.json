@@ -14389,7 +14389,7 @@
             "tartare"
         ],
         "cmconvert": [
-            "pcfe"
+            "orphan"
         ],
         "cmdtest": [
             "filiperosset",
@@ -15888,7 +15888,8 @@
             "orphan"
         ],
         "cpptest": [
-            "fcami"
+            "fcami",
+            "mumble07"
         ],
         "cpptoml": [
             "orphan"
@@ -23253,7 +23254,7 @@
             "music"
         ],
         "fastapi-cli": [
-            "orphan",
+            "msuchy",
             "pwouters",
             "rominf"
         ],
@@ -23263,7 +23264,7 @@
             "rominf"
         ],
         "fastapi-new": [
-            "orphan"
+            "msuchy"
         ],
         "fastback": [
             "gavin",
@@ -32772,6 +32773,9 @@
         ],
         "gnome-shell-extension-theme-selector": [
             "orphan"
+        ],
+        "gnome-shell-extension-tiling-assistant": [
+            "thebeanogamer"
         ],
         "gnome-shell-extension-topicons-plus": [
             "orphan"
@@ -51474,7 +51478,7 @@
             "nforro"
         ],
         "jpilot-backup": [
-            "pcfe"
+            "orphan"
         ],
         "jpnevulator": [
             "jskarvad"
@@ -52968,7 +52972,6 @@
             "limb"
         ],
         "keepassxc": [
-            "ckujau",
             "germano",
             "mikelo2",
             "nixuser",
@@ -81210,6 +81213,7 @@
             "tojeline"
         ],
         "pcsc-cyberjack": [
+            "jjelen",
             "pcfe",
             "robert"
         ],
@@ -106267,6 +106271,9 @@
         "python-cagraph": [
             "orphan"
         ],
+        "python-caio": [
+            "chihlee"
+        ],
         "python-cairocffi": [
             "@epel-packagers-sig",
             "@python-packagers-sig",
@@ -109128,7 +109135,7 @@
             "music"
         ],
         "python-fastapi": [
-            "orphan",
+            "msuchy",
             "pwouters"
         ],
         "python-fastar": [
@@ -111243,8 +111250,7 @@
             "gotmax23"
         ],
         "python-interface-meta": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "python-interfile": [
             "orphan"
@@ -115167,8 +115173,7 @@
             "thrnciar"
         ],
         "python-poetry-dynamic-versioning": [
-            "@neuro-sig",
-            "ankursinha"
+            "orphan"
         ],
         "python-poetry-plugin-export": [
             "@python-packagers-sig",
@@ -151798,6 +151803,9 @@
         "scrub": [
             "scorreia",
             "spot"
+        ],
+        "scrubpony": [
+            "fed500"
         ],
         "scsi-target-utils": [
             "mlombard",

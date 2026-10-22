@@ -18472,9 +18472,9 @@
             "fedora": "tartare"
         },
         "cmconvert": {
-            "admin": "pcfe",
-            "epel": "pcfe",
-            "fedora": "pcfe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "cmdtest": {
             "admin": "orphan",
@@ -30287,9 +30287,9 @@
             "fedora": "music"
         },
         "fastapi-cli": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
         },
         "fastapi-cloud-cli": {
             "admin": "aekoroglu",
@@ -30297,9 +30297,9 @@
             "fedora": "aekoroglu"
         },
         "fastapi-new": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
         },
         "fastback": {
             "admin": "jonathanspw",
@@ -42590,6 +42590,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "gnome-shell-extension-tiling-assistant": {
+            "admin": "thebeanogamer",
+            "epel": "thebeanogamer",
+            "fedora": "thebeanogamer"
         },
         "gnome-shell-extension-topicons-plus": {
             "admin": "orphan",
@@ -67157,9 +67162,9 @@
             "fedora": "nforro"
         },
         "jpilot-backup": {
-            "admin": "pcfe",
-            "epel": "pcfe",
-            "fedora": "pcfe"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "jpnevulator": {
             "admin": "jskarvad",
@@ -106807,9 +106812,9 @@
             "fedora": "tojeline"
         },
         "pcsc-cyberjack": {
-            "admin": "pcfe",
-            "epel": "pcfe",
-            "fedora": "pcfe"
+            "admin": "jjelen",
+            "epel": "jjelen",
+            "fedora": "jjelen"
         },
         "pcsc-lite": {
             "admin": "rrelyea",
@@ -138486,6 +138491,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-caio": {
+            "admin": "chihlee",
+            "epel": "chihlee",
+            "fedora": "chihlee"
+        },
         "python-cairocffi": {
             "admin": "churchyard",
             "epel": "kkeithle",
@@ -142227,9 +142237,9 @@
             "fedora": "music"
         },
         "python-fastapi": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
         },
         "python-fastar": {
             "admin": "aekoroglu",
@@ -144912,9 +144922,9 @@
             "fedora": "eclipseo"
         },
         "python-interface-meta": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-interfile": {
             "admin": "orphan",
@@ -149937,9 +149947,9 @@
             "fedora": "thrnciar"
         },
         "python-poetry-dynamic-versioning": {
-            "admin": "ankursinha",
-            "epel": "ankursinha",
-            "fedora": "ankursinha"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-poetry-plugin-export": {
             "admin": "orphan",
@@ -197190,6 +197200,11 @@
             "admin": "spot",
             "epel": "spot",
             "fedora": "spot"
+        },
+        "scrubpony": {
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
         },
         "scsi-target-utils": {
             "admin": "mlombard",
