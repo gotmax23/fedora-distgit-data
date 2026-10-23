@@ -11442,9 +11442,9 @@
             "fedora": "trix"
         },
         "aqsis": {
-            "admin": "kwizart",
-            "epel": "kwizart",
-            "fedora": "kwizart"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "aqualung": {
             "admin": "dcavalca",
@@ -37446,6 +37446,11 @@
             "epel": "qulogic",
             "fedora": "qulogic"
         },
+        "ghc-gitea-api": {
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
+        },
         "ghc-gitrev": {
             "admin": "petersen",
             "epel": "petersen",
@@ -62230,6 +62235,11 @@
             "admin": "nikromen",
             "epel": "nikromen",
             "fedora": "nikromen"
+        },
+        "hyprmag": {
+            "admin": "mikep",
+            "epel": "mikep",
+            "fedora": "mikep"
         },
         "hyprpaper": {
             "admin": "orphan",
@@ -171136,6 +171146,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-atom_syndication": {
+            "admin": "phoebeharris",
+            "epel": "phoebeharris",
+            "fedora": "phoebeharris"
+        },
         "rust-atomic": {
             "admin": "saluki",
             "epel": "saluki",
@@ -201112,6 +201127,11 @@
             "fedora": "orphan"
         },
         "stb": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "stb_image_resize": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"

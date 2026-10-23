@@ -8981,7 +8981,7 @@
             "trix"
         ],
         "aqsis": [
-            "kwizart"
+            "orphan"
         ],
         "aqualung": [
             "@multimedia-sig",
@@ -28733,6 +28733,10 @@
             "@haskell-lang-sig",
             "qulogic"
         ],
+        "ghc-gitea-api": [
+            "@haskell-lang-sig",
+            "petersen"
+        ],
         "ghc-gitrev": [
             "@haskell-lang-sig",
             "petersen"
@@ -47684,6 +47688,9 @@
         ],
         "hyprlock": [
             "nikromen"
+        ],
+        "hyprmag": [
+            "mikep"
         ],
         "hyprpaper": [
             "orphan"
@@ -104544,6 +104551,7 @@
             "orphan"
         ],
         "python-aioitertools": [
+            "@python-packagers-sig",
             "mattia"
         ],
         "python-aiokafka": [
@@ -112717,6 +112725,7 @@
             "orphan"
         ],
         "python-markups": [
+            "@python-packagers-sig",
             "mattia"
         ],
         "python-markupsafe": [
@@ -124877,6 +124886,7 @@
             "@go-sig",
             "dwalsh",
             "lsm5",
+            "mikeb",
             "owalsh",
             "smooge"
         ],
@@ -131207,6 +131217,9 @@
             "atim",
             "ignatenkobrain"
         ],
+        "rust-atom_syndication": [
+            "phoebeharris"
+        ],
         "rust-atomic": [
             "@rust-sig",
             "saluki"
@@ -136365,8 +136378,7 @@
         ],
         "rust-gix-commitgraph": [
             "@rust-sig",
-            "blinxen",
-            "decathorpe"
+            "blinxen"
         ],
         "rust-gix-config": [
             "@rust-sig",
@@ -136374,8 +136386,7 @@
         ],
         "rust-gix-config-value": [
             "@rust-sig",
-            "blinxen",
-            "decathorpe"
+            "blinxen"
         ],
         "rust-gix-credentials": [
             "@rust-sig",
@@ -136411,13 +136422,11 @@
         ],
         "rust-gix-fs": [
             "@rust-sig",
-            "blinxen",
-            "decathorpe"
+            "blinxen"
         ],
         "rust-gix-glob": [
             "@rust-sig",
-            "blinxen",
-            "decathorpe"
+            "blinxen"
         ],
         "rust-gix-hash": [
             "@rust-sig",
@@ -136450,8 +136459,7 @@
         ],
         "rust-gix-mailmap": [
             "@rust-sig",
-            "blinxen",
-            "decathorpe"
+            "blinxen"
         ],
         "rust-gix-merge": [
             "@rust-sig",
@@ -136463,8 +136471,7 @@
         ],
         "rust-gix-object": [
             "@rust-sig",
-            "blinxen",
-            "decathorpe"
+            "blinxen"
         ],
         "rust-gix-odb": [
             "@rust-sig",
@@ -136476,8 +136483,7 @@
         ],
         "rust-gix-packetline": [
             "@rust-sig",
-            "blinxen",
-            "decathorpe"
+            "blinxen"
         ],
         "rust-gix-packetline-blocking": [
             "@rust-sig",
@@ -136554,8 +136560,7 @@
         ],
         "rust-gix-url": [
             "@rust-sig",
-            "blinxen",
-            "decathorpe"
+            "blinxen"
         ],
         "rust-gix-utils": [
             "@rust-sig",
@@ -152257,8 +152262,7 @@
             "mmalik",
             "plautrba",
             "rstrode",
-            "vmojzis",
-            "vsyncako"
+            "vmojzis"
         ],
         "setroubleshoot": [
             "ca-hu",
@@ -154767,6 +154771,10 @@
             "orphan"
         ],
         "stb": [
+            "churchyard",
+            "music"
+        ],
+        "stb_image_resize": [
             "churchyard",
             "music"
         ],
