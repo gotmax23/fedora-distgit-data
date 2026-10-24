@@ -12213,7 +12213,6 @@
             "walters"
         ],
         "bucardo": [
-            "ankursinha",
             "lbazan",
             "orphan",
             "perl-sig"
@@ -24410,6 +24409,7 @@
             "matwey"
         ],
         "fips-provider": [
+            "jjelen",
             "simo"
         ],
         "fipscheck": [
@@ -81408,9 +81408,7 @@
             "orphan"
         ],
         "pekwm": [
-            "@neuro-sig",
             "aarem",
-            "ankursinha",
             "lbazan"
         ],
         "pem": [
@@ -106593,10 +106591,7 @@
         "python-chirpstack-api": [
             "orphan"
         ],
-        "python-chm": [
-            "@neuro-sig",
-            "ankursinha"
-        ],
+        "python-chm": [],
         "python-ci-info": [
             "orphan"
         ],
@@ -108040,8 +108035,6 @@
             "orphan"
         ],
         "python-django-crispy-forms": [
-            "@neuro-sig",
-            "ankursinha",
             "lbazan"
         ],
         "python-django-dajax": [
@@ -108100,9 +108093,7 @@
             "orphan"
         ],
         "python-django-filter": [
-            "@neuro-sig",
             "aekoroglu",
-            "ankursinha",
             "bkabrda",
             "lbazan"
         ],
@@ -108186,8 +108177,6 @@
             "orphan"
         ],
         "python-django-markdownx": [
-            "@neuro-sig",
-            "ankursinha",
             "lbazan"
         ],
         "python-django-memcached-pool": [
@@ -130986,6 +130975,14 @@
             "@rust-sig",
             "music"
         ],
+        "rust-astral-ini": [
+            "@rust-sig",
+            "music"
+        ],
+        "rust-astral-mail-headers": [
+            "@rust-sig",
+            "music"
+        ],
         "rust-astral-pubgrub": [
             "@rust-sig",
             "music"
@@ -131218,6 +131215,7 @@
             "ignatenkobrain"
         ],
         "rust-atom_syndication": [
+            "@rust-sig",
             "phoebeharris"
         ],
         "rust-atomic": [
@@ -138811,7 +138809,7 @@
         ],
         "rust-iri-string": [
             "@rust-sig",
-            "orphan"
+            "music"
         ],
         "rust-iron": [
             "orphan"
@@ -154898,7 +154896,7 @@
             "salimma"
         ],
         "stp": [
-            "carlosrodrifernandez"
+            "orphan"
         ],
         "strace": [
             "esyr",

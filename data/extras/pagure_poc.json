@@ -170856,6 +170856,16 @@
             "epel": "music",
             "fedora": "music"
         },
+        "rust-astral-ini": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "rust-astral-mail-headers": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-astral-pubgrub": {
             "admin": "music",
             "epel": "music",
@@ -180732,9 +180742,9 @@
             "fedora": "@rust-sig"
         },
         "rust-iri-string": {
-            "admin": "orphan",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-iron": {
             "admin": "orphan",
@@ -201307,9 +201317,9 @@
             "fedora": "salimma"
         },
         "stp": {
-            "admin": "carlosrodrifernandez",
-            "epel": "carlosrodrifernandez",
-            "fedora": "carlosrodrifernandez"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "strace": {
             "admin": "ldv",
