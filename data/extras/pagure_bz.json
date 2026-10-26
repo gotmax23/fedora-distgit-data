@@ -46297,7 +46297,7 @@
             "orphan"
         ],
         "hexchat-autoaway": [
-            "dchen"
+            "orphan"
         ],
         "hexedit": [
             "@db-sig",
@@ -78136,8 +78136,8 @@
             "farchord"
         ],
         "ocfs2-tools": [
-            "cheeselee",
-            "fabbione"
+            "fabbione",
+            "orphan"
         ],
         "ochusha": [
             "mtasaka"
@@ -106055,7 +106055,7 @@
         ],
         "python-blessings": [
             "@python-packagers-sig",
-            "orphan"
+            "terjeros"
         ],
         "python-blindspin": [
             "orphan"
@@ -117144,6 +117144,9 @@
             "ignatenkobrain",
             "lenkaseg",
             "ramkrsna"
+        ],
+        "python-pytorch-tokenizers": [
+            "pbrobinson"
         ],
         "python-pytz-deprecation-shim": [
             "orphan"
@@ -132947,8 +132950,8 @@
         ],
         "rust-colored_json": [
             "@rust-sig",
-            "decathorpe",
-            "jistone"
+            "jistone",
+            "orphan"
         ],
         "rust-colored_json2": [
             "@rust-sig",
@@ -133801,7 +133804,7 @@
         ],
         "rust-cvss": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-cvt": [
             "@rust-sig",
@@ -134330,7 +134333,7 @@
         ],
         "rust-dir-test-macros": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-dircpy": [
             "@rust-sig",
@@ -134579,7 +134582,7 @@
         ],
         "rust-dummy": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-dunce": [
             "@rust-sig",
@@ -149005,7 +149008,7 @@
         ],
         "rust-unic-ucd-common": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-unic-ucd-hangul": [
             "@rust-sig",
@@ -149017,7 +149020,7 @@
         ],
         "rust-unic-ucd-segment": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-unic-ucd-version": [
             "@rust-sig",
@@ -149102,11 +149105,11 @@
         ],
         "rust-unicode_names2": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-unicode_names2_generator": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-unidecode": [
             "@rust-sig",
@@ -161728,7 +161731,6 @@
             "decathorpe",
             "ghishadow",
             "ngompa",
-            "thebeanogamer",
             "tpopela"
         ],
         "webkitgtk3": [
@@ -163229,7 +163231,7 @@
         ],
         "xe-guest-utilities-latest": [
             "@go-sig",
-            "cheeselee"
+            "orphan"
         ],
         "xed": [
             "leigh123linux",

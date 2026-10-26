@@ -60282,9 +60282,9 @@
             "fedora": "orphan"
         },
         "hexchat-autoaway": {
-            "admin": "dchen",
-            "epel": "dchen",
-            "fedora": "dchen"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "hexedit": {
             "admin": "fjanus",
@@ -102817,9 +102817,9 @@
             "fedora": "farchord"
         },
         "ocfs2-tools": {
-            "admin": "cheeselee",
-            "epel": "cheeselee",
-            "fedora": "cheeselee"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "ochusha": {
             "admin": "mtasaka",
@@ -138207,9 +138207,9 @@
             "fedora": "abompard"
         },
         "python-blessings": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "terjeros",
+            "epel": "terjeros",
+            "fedora": "terjeros"
         },
         "python-blindspin": {
             "admin": "orphan",
@@ -152540,6 +152540,11 @@
             "admin": "lenkaseg",
             "epel": "lenkaseg",
             "fedora": "lenkaseg"
+        },
+        "python-pytorch-tokenizers": {
+            "admin": "pbrobinson",
+            "epel": "pbrobinson",
+            "fedora": "pbrobinson"
         },
         "python-pytz-deprecation-shim": {
             "admin": "orphan",
@@ -173347,7 +173352,7 @@
             "fedora": "@rust-sig"
         },
         "rust-colored_json": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -174447,7 +174452,7 @@
             "fedora": "@rust-sig"
         },
         "rust-cvss": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -175102,7 +175107,7 @@
             "fedora": "@rust-sig"
         },
         "rust-dir-test-macros": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -175412,7 +175417,7 @@
             "fedora": "jamacku"
         },
         "rust-dummy": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -193617,7 +193622,7 @@
             "fedora": "@rust-sig"
         },
         "rust-unic-ucd-common": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -193632,7 +193637,7 @@
             "fedora": "blinxen"
         },
         "rust-unic-ucd-segment": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -193737,12 +193742,12 @@
             "fedora": "@rust-sig"
         },
         "rust-unicode_names2": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-unicode_names2_generator": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -212642,9 +212647,9 @@
             "fedora": "orphan"
         },
         "xe-guest-utilities-latest": {
-            "admin": "cheeselee",
-            "epel": "cheeselee",
-            "fedora": "cheeselee"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "xed": {
             "admin": "leigh123linux",
