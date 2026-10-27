@@ -12352,6 +12352,7 @@
             "orphan"
         ],
         "bup": [
+            "@kde-sig",
             "farchord"
         ],
         "burp": [
@@ -13884,7 +13885,7 @@
         ],
         "clang15": [
             "@fedora-llvm-team",
-            "frantisekz",
+            "orphan",
             "tuliom"
         ],
         "clang16": [
@@ -14795,6 +14796,9 @@
         ],
         "colrdx": [
             "orphan"
+        ],
+        "columntype-agbalumo-fonts": [
+            "fed500"
         ],
         "combblas": [
             "sagitter"
@@ -57422,6 +57426,9 @@
             "dcavalca",
             "salimma"
         ],
+        "libdnf5-plugins-rhsm": [
+            "jhnidek"
+        ],
         "libdockapp": [
             "sham1"
         ],
@@ -59998,6 +60005,7 @@
             "orphan"
         ],
         "libportal": [
+            "@gnome-sig",
             "ghishadow",
             "kalev",
             "klajo",
@@ -62291,7 +62299,7 @@
         ],
         "llvm15": [
             "@fedora-llvm-team",
-            "frantisekz",
+            "orphan",
             "tuliom"
         ],
         "llvm16": [
@@ -79961,7 +79969,6 @@
             "ghen2"
         ],
         "oraculum": [
-            "@qa-tools-sig",
             "frantisekz",
             "lbrabec"
         ],
@@ -86937,6 +86944,7 @@
         ],
         "perl-Growl-GNTP": [
             "churchyard",
+            "orphan",
             "perl-sig"
         ],
         "perl-Grpc-XS": [
@@ -95458,6 +95466,7 @@
         ],
         "perl-Wx-GLCanvas": [
             "churchyard",
+            "orphan",
             "perl-sig"
         ],
         "perl-Wx-Perl-DataWalker": [
@@ -103007,7 +103016,7 @@
             "orphan"
         ],
         "ptl": [
-            "topazus"
+            "orphan"
         ],
         "ptlib": [
             "orphan"
@@ -130344,6 +130353,18 @@
             "siosm",
             "tlbueno"
         ],
+        "rust-agirru": [
+            "abbra"
+        ],
+        "rust-agirru-crdt": [
+            "abbra"
+        ],
+        "rust-agirru-derive": [
+            "abbra"
+        ],
+        "rust-agirru-engine": [
+            "abbra"
+        ],
         "rust-ahash": [
             "@rust-sig",
             "decathorpe"
@@ -152524,6 +152545,10 @@
             "javierm",
             "pjones"
         ],
+        "shim-unsigned-riscv64": [
+            "abologna",
+            "pjones"
+        ],
         "shim-unsigned-x64": [
             "javierm",
             "pjones"
@@ -153165,6 +153190,7 @@
         ],
         "slic3r": [
             "churchyard",
+            "orphan",
             "perl-sig"
         ],
         "slic3r-prusa3d": [
@@ -154171,7 +154197,7 @@
         ],
         "spirv-llvm15.0-translator": [
             "androniychuk",
-            "frantisekz"
+            "orphan"
         ],
         "spirv-llvm8.0-translator": [
             "orphan"
@@ -161782,7 +161808,6 @@
         ],
         "weechat": [
             "luk1337",
-            "salimma",
             "stingray"
         ],
         "weighttp": [

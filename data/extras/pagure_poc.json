@@ -17777,9 +17777,9 @@
             "fedora": "nikic"
         },
         "clang15": {
-            "admin": "frantisekz",
-            "epel": "frantisekz",
-            "fedora": "frantisekz"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "clang16": {
             "admin": "tuliom",
@@ -19015,6 +19015,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "columntype-agbalumo-fonts": {
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
         },
         "combblas": {
             "admin": "sagitter",
@@ -74416,6 +74421,11 @@
             "epel": "dcavalca",
             "fedora": "dcavalca"
         },
+        "libdnf5-plugins-rhsm": {
+            "admin": "jhnidek",
+            "epel": "jhnidek",
+            "fedora": "jhnidek"
+        },
         "libdockapp": {
             "admin": "sham1",
             "epel": "sham1",
@@ -80587,9 +80597,9 @@
             "fedora": "nikic"
         },
         "llvm15": {
-            "admin": "frantisekz",
-            "epel": "frantisekz",
-            "fedora": "frantisekz"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "llvm16": {
             "admin": "tuliom",
@@ -113432,9 +113442,9 @@
             "fedora": "jplesnik"
         },
         "perl-Growl-GNTP": {
-            "admin": "churchyard",
-            "epel": "churchyard",
-            "fedora": "churchyard"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "perl-Grpc-XS": {
             "admin": "orphan",
@@ -123322,9 +123332,9 @@
             "fedora": "spot"
         },
         "perl-Wx-GLCanvas": {
-            "admin": "churchyard",
-            "epel": "churchyard",
-            "fedora": "churchyard"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "perl-Wx-Perl-DataWalker": {
             "admin": "jplesnik",
@@ -134132,9 +134142,9 @@
             "fedora": "orphan"
         },
         "ptl": {
-            "admin": "topazus",
-            "epel": "topazus",
-            "fedora": "topazus"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "ptlib": {
             "admin": "orphan",
@@ -170071,6 +170081,26 @@
             "epel": "@rust-sig",
             "fedora": "jlebon"
         },
+        "rust-agirru": {
+            "admin": "abbra",
+            "epel": "abbra",
+            "fedora": "abbra"
+        },
+        "rust-agirru-crdt": {
+            "admin": "abbra",
+            "epel": "abbra",
+            "fedora": "abbra"
+        },
+        "rust-agirru-derive": {
+            "admin": "abbra",
+            "epel": "abbra",
+            "fedora": "abbra"
+        },
+        "rust-agirru-engine": {
+            "admin": "abbra",
+            "epel": "abbra",
+            "fedora": "abbra"
+        },
         "rust-ahash": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -198166,6 +198196,11 @@
             "epel": "pjones",
             "fedora": "pjones"
         },
+        "shim-unsigned-riscv64": {
+            "admin": "pjones",
+            "epel": "pjones",
+            "fedora": "pjones"
+        },
         "shim-unsigned-x64": {
             "admin": "pjones",
             "epel": "pjones",
@@ -199027,9 +199062,9 @@
             "fedora": "ngompa"
         },
         "slic3r": {
-            "admin": "churchyard",
-            "epel": "churchyard",
-            "fedora": "churchyard"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "slic3r-prusa3d": {
             "admin": "orphan",
@@ -200357,9 +200392,9 @@
             "fedora": "frantisekz"
         },
         "spirv-llvm15.0-translator": {
-            "admin": "frantisekz",
-            "epel": "frantisekz",
-            "fedora": "frantisekz"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "spirv-llvm8.0-translator": {
             "admin": "orphan",
