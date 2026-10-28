@@ -118973,8 +118973,8 @@
         },
         "perl-Plack": {
             "admin": "eseyman",
-            "epel": "xavierb",
-            "fedora": "corsepiu"
+            "epel": "eseyman",
+            "fedora": "eseyman"
         },
         "perl-Plack-Middleware-Deflater": {
             "admin": "orphan",
@@ -156466,6 +156466,11 @@
             "epel": "mystro256",
             "fedora": "trix"
         },
+        "python-torchao": {
+            "admin": "pbrobinson",
+            "epel": "pbrobinson",
+            "fedora": "pbrobinson"
+        },
         "python-torchaudio": {
             "admin": "trix",
             "epel": "trix",
@@ -156590,6 +156595,11 @@
             "admin": "abompard",
             "epel": "@infra-sig",
             "fedora": "@infra-sig"
+        },
+        "python-transformers": {
+            "admin": "pbrobinson",
+            "epel": "pbrobinson",
+            "fedora": "pbrobinson"
         },
         "python-transforms3d": {
             "admin": "ankursinha",
@@ -162016,6 +162026,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "qtee-tas": {
+            "admin": "aekoroglu",
+            "epel": "aekoroglu",
+            "fedora": "aekoroglu"
+        },
         "qterm": {
             "admin": "orphan",
             "epel": "orphan",
@@ -165912,9 +165927,9 @@
             "fedora": "orphan"
         },
         "rubygem-bson": {
-            "admin": "vondruch",
-            "epel": "vondruch",
-            "fedora": "vondruch"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rubygem-bson_ext": {
             "admin": "orphan",
@@ -195822,7 +195837,7 @@
             "fedora": "@rust-sig"
         },
         "rust-zbus4": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -195842,7 +195857,7 @@
             "fedora": "@rust-sig"
         },
         "rust-zbus_macros4": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -195857,7 +195872,7 @@
             "fedora": "@rust-sig"
         },
         "rust-zbus_names3": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -196127,7 +196142,7 @@
             "fedora": "@rust-sig"
         },
         "rust-zvariant4": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -196147,7 +196162,7 @@
             "fedora": "@rust-sig"
         },
         "rust-zvariant_derive4": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -196162,7 +196177,7 @@
             "fedora": "@rust-sig"
         },
         "rust-zvariant_utils2": {
-            "admin": "decathorpe",
+            "admin": "orphan",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },

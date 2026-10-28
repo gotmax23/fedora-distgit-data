@@ -120192,6 +120192,9 @@
             "trix",
             "xanderlent"
         ],
+        "python-torchao": [
+            "pbrobinson"
+        ],
         "python-torchaudio": [
             "@rocm-packagers-sig",
             "trix"
@@ -120295,6 +120298,9 @@
             "@infra-sig",
             "abompard",
             "ondrejj"
+        ],
+        "python-transformers": [
+            "pbrobinson"
         ],
         "python-transforms3d": [
             "@neuro-sig",
@@ -124372,6 +124378,10 @@
         "qtdbf": [
             "orphan"
         ],
+        "qtee-tas": [
+            "aekoroglu",
+            "jwrdegoede"
+        ],
         "qterm": [
             "orphan"
         ],
@@ -127277,10 +127287,9 @@
             "orphan"
         ],
         "rubygem-bson": [
-            "@ruby-packagers-sig",
             "jaruga",
-            "tdawson",
-            "vondruch"
+            "orphan",
+            "tdawson"
         ],
         "rubygem-bson_ext": [
             "orphan"
@@ -130354,15 +130363,19 @@
             "tlbueno"
         ],
         "rust-agirru": [
+            "@rust-sig",
             "abbra"
         ],
         "rust-agirru-crdt": [
+            "@rust-sig",
             "abbra"
         ],
         "rust-agirru-derive": [
+            "@rust-sig",
             "abbra"
         ],
         "rust-agirru-engine": [
+            "@rust-sig",
             "abbra"
         ],
         "rust-ahash": [
@@ -150720,7 +150733,7 @@
         ],
         "rust-zbus4": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-zbus_macros": [
             "@rust-sig",
@@ -150736,7 +150749,7 @@
         ],
         "rust-zbus_macros4": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-zbus_names": [
             "@rust-sig",
@@ -150748,7 +150761,7 @@
         ],
         "rust-zbus_names3": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-zbus_polkit": [
             "@rust-sig",
@@ -150971,7 +150984,7 @@
         ],
         "rust-zvariant4": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-zvariant_derive": [
             "@rust-sig",
@@ -150987,7 +151000,7 @@
         ],
         "rust-zvariant_derive4": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust-zvariant_utils": [
             "@rust-sig",
@@ -150999,7 +151012,7 @@
         ],
         "rust-zvariant_utils2": [
             "@rust-sig",
-            "decathorpe"
+            "orphan"
         ],
         "rust2rpm": [
             "@rust-sig",
