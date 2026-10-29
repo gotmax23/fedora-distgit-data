@@ -5652,9 +5652,9 @@
             "fedora": "bengal"
         },
         "NetworkManager-fortisslvpn": {
-            "admin": "catanzaro",
-            "epel": "catanzaro",
-            "fedora": "catanzaro"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "NetworkManager-iodine": {
             "admin": "danfruehauf",
@@ -5707,9 +5707,9 @@
             "fedora": "pemensik"
         },
         "NetworkManager-vpnc": {
-            "admin": "catanzaro",
+            "admin": "orphan",
             "epel": "huzaifas",
-            "fedora": "catanzaro"
+            "fedora": "orphan"
         },
         "NiaAML-GUI": {
             "admin": "music",
@@ -15382,9 +15382,9 @@
             "fedora": "orphan"
         },
         "brewtarget": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
         },
         "brial": {
             "admin": "orphan",
@@ -19927,9 +19927,9 @@
             "fedora": "orphan"
         },
         "coolreader": {
-            "admin": "orphan",
+            "admin": "yselkowitz",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "yselkowitz"
         },
         "coot": {
             "admin": "orphan",
@@ -33122,9 +33122,9 @@
             "fedora": "ngompa"
         },
         "freerouting": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
         },
         "freesteam": {
             "admin": "orphan",
@@ -72912,9 +72912,9 @@
             "fedora": "mikelo2"
         },
         "legofy": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
         },
         "leiningen": {
             "admin": "orphan",
@@ -74922,9 +74922,9 @@
             "fedora": "orphan"
         },
         "libfyaml": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "libg15render": {
             "admin": "jwrdegoede",
@@ -83092,9 +83092,9 @@
             "fedora": "jonathanspw"
         },
         "massif-visualizer": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
         },
         "mat2": {
             "admin": "infraw",
@@ -164746,6 +164746,11 @@
             "epel": "orphan",
             "fedora": "remi"
         },
+        "roundingsat": {
+            "admin": "jjames",
+            "epel": "jjames",
+            "fedora": "jjames"
+        },
         "roundup": {
             "admin": "orphan",
             "epel": "orphan",
@@ -199012,8 +199017,8 @@
             "fedora": "orphan"
         },
         "skyviewer": {
-            "admin": "orphan",
-            "epel": "orphan",
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
             "fedora": "orphan"
         },
         "sl": {
@@ -212187,9 +212192,9 @@
             "fedora": "mkoncek"
         },
         "xaos": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
         },
         "xapian-bindings": {
             "admin": "canderson9",

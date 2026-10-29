@@ -4439,7 +4439,7 @@
             "vbenes"
         ],
         "NetworkManager-fortisslvpn": [
-            "catanzaro",
+            "orphan",
             "pjgeorg",
             "slaanesh",
             "thaller"
@@ -4492,8 +4492,8 @@
             "pemensik"
         ],
         "NetworkManager-vpnc": [
-            "catanzaro",
             "huzaifas",
+            "orphan",
             "thaller"
         ],
         "NiaAML-GUI": [
@@ -12028,7 +12028,7 @@
         ],
         "brewtarget": [
             "athoscr",
-            "orphan"
+            "yselkowitz"
         ],
         "brial": [
             "orphan"
@@ -15477,7 +15477,7 @@
             "orphan"
         ],
         "coolreader": [
-            "orphan"
+            "yselkowitz"
         ],
         "coot": [
             "orphan"
@@ -25495,7 +25495,7 @@
         ],
         "freerouting": [
             "dwrobel",
-            "orphan"
+            "yselkowitz"
         ],
         "freesteam": [
             "orphan"
@@ -47462,7 +47462,8 @@
         ],
         "hydrogen": [
             "nphilipp",
-            "tartina"
+            "tartina",
+            "ycollet"
         ],
         "hydrogen-drumkits": [
             "orphan"
@@ -56123,7 +56124,7 @@
         ],
         "legofy": [
             "lkf",
-            "orphan"
+            "yselkowitz"
         ],
         "leiningen": [
             "orphan",
@@ -57822,8 +57823,7 @@
             "till"
         ],
         "libfyaml": [
-            "ngompa",
-            "orphan"
+            "ngompa"
         ],
         "libg15render": [
             "jwrdegoede"
@@ -61489,8 +61489,7 @@
             "rstrode"
         ],
         "libwpe": [
-            "bunnyapocalypse",
-            "catanzaro"
+            "bunnyapocalypse"
         ],
         "libwpg": [
             "dtardon"
@@ -64216,8 +64215,8 @@
         ],
         "massif-visualizer": [
             "@kde-sig",
-            "orphan",
-            "smani"
+            "smani",
+            "yselkowitz"
         ],
         "mat2": [
             "infraw"
@@ -65797,6 +65796,7 @@
             "xavierb"
         ],
         "mhwaveedit": [
+            "kathenas",
             "peterbb"
         ],
         "miau": [
@@ -126425,6 +126425,9 @@
             "remi",
             "tmraz"
         ],
+        "roundingsat": [
+            "jjames"
+        ],
         "roundup": [
             "orphan"
         ],
@@ -153153,8 +153156,8 @@
         ],
         "skyviewer": [
             "lkundrak",
-            "orphan",
-            "rineau"
+            "rineau",
+            "yselkowitz"
         ],
         "sl": [
             "mcepl",
@@ -162589,8 +162592,7 @@
             "orphan"
         ],
         "wpebackend-fdo": [
-            "bunnyapocalypse",
-            "catanzaro"
+            "bunnyapocalypse"
         ],
         "wpewebkit": [
             "orphan"
@@ -162865,7 +162867,7 @@
         "xaos": [
             "dturner",
             "gemi",
-            "orphan"
+            "yselkowitz"
         ],
         "xapian-bindings": [
             "@python-packagers-sig",
