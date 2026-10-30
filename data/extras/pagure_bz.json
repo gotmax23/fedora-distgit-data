@@ -24413,6 +24413,7 @@
             "matwey"
         ],
         "fips-provider": [
+            "@rust-sig",
             "jjelen",
             "simo"
         ],
@@ -60301,6 +60302,9 @@
         ],
         "libresidfp": [
             "kvolny"
+        ],
+        "libresprite": [
+            "suve"
         ],
         "libreswan": [
             "pwouters",
@@ -104498,6 +104502,9 @@
         "python-aioesphomeapi": [
             "orphan"
         ],
+        "python-aiofile": [
+            "chihlee"
+        ],
         "python-aiofiles": [
             "@python-packagers-sig",
             "ankursinha",
@@ -121460,9 +121467,9 @@
             "suve"
         ],
         "python-whoosh": [
-            "@epel-packagers-sig",
             "abbra",
             "rkuska",
+            "salimma",
             "sgallagh"
         ],
         "python-widgetsnbextension": [
@@ -123353,6 +123360,7 @@
         "qatengine": [
             "aekoroglu",
             "gcabiddu",
+            "mdcornu",
             "venkatesh6911",
             "vladis",
             "yogaraj"
@@ -154829,6 +154837,9 @@
         "stdair": [
             "denisarnaud"
         ],
+        "stdexec": [
+            "junghans"
+        ],
         "stduuid": [
             "topazus"
         ],
@@ -156571,7 +156582,6 @@
             "renep"
         ],
         "tcl-pgtcl": [
-            "@db-sig",
             "hhorak",
             "orphan",
             "praiskup"

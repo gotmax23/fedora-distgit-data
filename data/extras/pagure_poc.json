@@ -78136,6 +78136,11 @@
             "epel": "kvolny",
             "fedora": "kvolny"
         },
+        "libresprite": {
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
+        },
         "libreswan": {
             "admin": "pwouters",
             "epel": "pwouters",
@@ -136145,6 +136150,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "python-aiofile": {
+            "admin": "chihlee",
+            "epel": "chihlee",
+            "fedora": "chihlee"
         },
         "python-aiofiles": {
             "admin": "ankursinha",
@@ -201215,6 +201225,11 @@
             "admin": "denisarnaud",
             "epel": "denisarnaud",
             "fedora": "denisarnaud"
+        },
+        "stdexec": {
+            "admin": "junghans",
+            "epel": "junghans",
+            "fedora": "junghans"
         },
         "stduuid": {
             "admin": "topazus",
