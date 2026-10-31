@@ -3392,6 +3392,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "xaos": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "xca": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -59340,6 +59345,11 @@
             "admin": "rjones",
             "epel": "rjones",
             "fedora": "rjones"
+        },
+        "gufo": {
+            "admin": "trix",
+            "epel": "trix",
+            "fedora": "trix"
         },
         "guichan": {
             "admin": "limb",
@@ -158085,6 +158095,11 @@
             "admin": "ngompa",
             "epel": "ngompa",
             "fedora": "ngompa"
+        },
+        "python-whodap": {
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
         },
         "python-whois": {
             "admin": "suve",

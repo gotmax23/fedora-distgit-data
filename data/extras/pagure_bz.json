@@ -2755,6 +2755,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "xaos": [
+            "yselkowitz"
+        ],
         "xca": [
             "@flatpak-sig",
             "yselkowitz"
@@ -45596,6 +45599,9 @@
         "guestfs-tools": [
             "rjones"
         ],
+        "gufo": [
+            "trix"
+        ],
         "guichan": [
             "bruno",
             "limb",
@@ -61746,7 +61752,8 @@
         ],
         "libyuv": [
             "eclipseo",
-            "peter"
+            "peter",
+            "saypaul"
         ],
         "libzapojit": [
             "orphan"
@@ -115482,6 +115489,7 @@
         ],
         "python-publicsuffix2": [
             "@epel-packagers-sig",
+            "@infra-sig",
             "rathann",
             "salimma"
         ],
@@ -121463,6 +121471,9 @@
             "ngompa",
             "piotrp"
         ],
+        "python-whodap": [
+            "suve"
+        ],
         "python-whois": [
             "suve"
         ],
@@ -122567,7 +122578,7 @@
             "orphan"
         ],
         "python3-openid": [
-            "@epel-packagers-sig",
+            "@infra-sig",
             "tdawson"
         ],
         "python3-pbr": [
