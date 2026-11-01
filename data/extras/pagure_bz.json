@@ -2756,6 +2756,7 @@
             "yselkowitz"
         ],
         "xaos": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "xca": [
@@ -53098,7 +53099,6 @@
             "adalloz",
             "fenris02",
             "filiperosset",
-            "sergiomb",
             "till"
         ],
         "keychecker": [
@@ -102336,6 +102336,9 @@
             "@db-sig",
             "fjanus"
         ],
+        "postgresql19-postgis": [
+            "smani"
+        ],
         "postgresql_anonymizer": [
             "@db-sig",
             "pkhartsk"
@@ -114092,6 +114095,9 @@
         "python-olpcgames": [
             "orphan"
         ],
+        "python-omegaconf": [
+            "pbrobinson"
+        ],
         "python-omemo": [
             "fed500"
         ],
@@ -114285,6 +114291,9 @@
             "orphan",
             "pwouters",
             "rominf"
+        ],
+        "python-opentelemetry-semantic-conventions": [
+            "sundaram123krishnan"
         ],
         "python-opentracing": [
             "music",

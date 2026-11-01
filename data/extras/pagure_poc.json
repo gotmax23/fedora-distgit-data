@@ -133226,6 +133226,11 @@
             "epel": "fjanus",
             "fedora": "fjanus"
         },
+        "postgresql19-postgis": {
+            "admin": "smani",
+            "epel": "smani",
+            "fedora": "smani"
+        },
         "postgresql_anonymizer": {
             "admin": "pkhartsk",
             "epel": "pkhartsk",
@@ -148606,6 +148611,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "python-omegaconf": {
+            "admin": "pbrobinson",
+            "epel": "pbrobinson",
+            "fedora": "pbrobinson"
+        },
         "python-omemo": {
             "admin": "fed500",
             "epel": "fed500",
@@ -148850,6 +148860,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "python-opentelemetry-semantic-conventions": {
+            "admin": "sundaram123krishnan",
+            "epel": "sundaram123krishnan",
+            "fedora": "sundaram123krishnan"
         },
         "python-opentracing": {
             "admin": "orphan",
