@@ -887,6 +887,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "dotnet11.0": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "dragon": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -2377,6 +2382,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "llvm23": {
+            "admin": "releng-bot",
+            "epel": "releng-bot",
+            "fedora": "releng-bot"
+        },
         "lokalize": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -2583,6 +2593,11 @@
             "fedora": "yselkowitz"
         },
         "nodejs24": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
+        "nodejs26": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
@@ -20531,6 +20546,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "cr2rpm": {
+            "admin": "renich",
+            "epel": "renich",
+            "fedora": "renich"
+        },
         "crack": {
             "admin": "c4chris",
             "epel": "c4chris",
@@ -21040,6 +21060,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "crystal-rpm-macros": {
+            "admin": "renich",
+            "epel": "renich",
+            "fedora": "renich"
         },
         "crystal-stacker": {
             "admin": "jwrdegoede",
@@ -26065,6 +26090,11 @@
             "admin": "dcavalca",
             "epel": "dcavalca",
             "fedora": "dcavalca"
+        },
+        "dupeguru": {
+            "admin": "carllibpst",
+            "epel": "carllibpst",
+            "fedora": "carllibpst"
         },
         "duperemove": {
             "admin": "jdieter",
@@ -71400,6 +71430,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "kopia": {
+            "admin": "imbearchild",
+            "epel": "imbearchild",
+            "fedora": "imbearchild"
         },
         "korganizer": {
             "admin": "farchord",
@@ -136892,9 +136927,9 @@
             "fedora": "orphan"
         },
         "python-assertpy": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-assets": {
             "admin": "orphan",

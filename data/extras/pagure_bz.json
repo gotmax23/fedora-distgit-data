@@ -723,6 +723,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "dotnet11.0": [
+            "yselkowitz"
+        ],
         "dragon": [
             "@flatpak-sig",
             "yselkowitz"
@@ -1938,6 +1941,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "llvm23": [
+            "releng-bot"
+        ],
         "lokalize": [
             "@flatpak-sig",
             "yselkowitz"
@@ -2105,6 +2111,9 @@
         ],
         "nodejs24": [
             "@flatpak-sig",
+            "yselkowitz"
+        ],
+        "nodejs26": [
             "yselkowitz"
         ],
         "nomacs": [
@@ -15976,6 +15985,9 @@
             "jjames",
             "music"
         ],
+        "cr2rpm": [
+            "renich"
+        ],
         "crack": [
             "c4chris"
         ],
@@ -16172,6 +16184,7 @@
             "rathann"
         ],
         "croaring": [
+            "music",
             "topazus"
         ],
         "cronie": [
@@ -16382,6 +16395,9 @@
         ],
         "crystal-project": [
             "orphan"
+        ],
+        "crystal-rpm-macros": [
+            "renich"
         ],
         "crystal-stacker": [
             "jwrdegoede"
@@ -20184,6 +20200,9 @@
             "jaredmarcuccilli-lhx",
             "ralston",
             "salimma"
+        ],
+        "dupeguru": [
+            "carllibpst"
         ],
         "duperemove": [
             "jdieter"
@@ -54922,6 +54941,9 @@
         "kopete-protocol-facebook": [
             "orphan"
         ],
+        "kopia": [
+            "imbearchild"
+        ],
         "korganizer": [
             "@kde-sig",
             "farchord"
@@ -64943,6 +64965,7 @@
         "maven-script-interpreter": [
             "@epel-packagers-sig",
             "java-sig",
+            "kkeithle",
             "korkeala",
             "mizdebsk",
             "mkoncek"
@@ -105046,7 +105069,7 @@
             "orphan"
         ],
         "python-assertpy": [
-            "music"
+            "orphan"
         ],
         "python-assets": [
             "orphan"
