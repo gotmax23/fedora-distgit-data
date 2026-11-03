@@ -1515,7 +1515,7 @@
             "yselkowitz"
         ],
         "llvm23": [
-            "releng-bot"
+            "yselkowitz"
         ],
         "lokalize": [
             "yselkowitz"
@@ -46952,7 +46952,8 @@
             "orphan"
         ],
         "kryoptic": [
-            "jjelen"
+            "jjelen",
+            "simo"
         ],
         "ks-install": [
             "cmadams"
@@ -91597,6 +91598,7 @@
         ],
         "python-authlib": [
             "v02460",
+            "chihlee",
             "tdawson",
             "dkirwan"
         ],
@@ -93090,6 +93092,9 @@
         ],
         "python-colcon-zsh": [
             "cottsay"
+        ],
+        "python-colibri-engine": [
+            "trix"
         ],
         "python-collada": [
             "hobbes1069"
@@ -138196,6 +138201,9 @@
         ],
         "vim-commentary": [
             "vondruch"
+        ],
+        "vim-crystal": [
+            "renich"
         ],
         "vim-ctrlp": [
             "osoukup"

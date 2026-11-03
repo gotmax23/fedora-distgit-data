@@ -724,6 +724,7 @@
             "yselkowitz"
         ],
         "dotnet11.0": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "dragon": [
@@ -1942,7 +1943,8 @@
             "yselkowitz"
         ],
         "llvm23": [
-            "releng-bot"
+            "@flatpak-sig",
+            "yselkowitz"
         ],
         "lokalize": [
             "@flatpak-sig",
@@ -2114,6 +2116,7 @@
             "yselkowitz"
         ],
         "nodejs26": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "nomacs": [
@@ -55189,7 +55192,8 @@
         ],
         "kryoptic": [
             "@rust-sig",
-            "jjelen"
+            "jjelen",
+            "simo"
         ],
         "ks-install": [
             "cmadams"
@@ -105246,6 +105250,7 @@
         "python-authlib": [
             "@epel-packagers-sig",
             "@python-packagers-sig",
+            "chihlee",
             "dkirwan",
             "v02460"
         ],
@@ -106997,6 +107002,9 @@
         ],
         "python-colcon-zsh": [
             "cottsay"
+        ],
+        "python-colibri-engine": [
+            "trix"
         ],
         "python-collada": [
             "hobbes1069"
@@ -160907,6 +160915,9 @@
         ],
         "vim-commentary": [
             "vondruch"
+        ],
+        "vim-crystal": [
+            "renich"
         ],
         "vim-ctrlp": [
             "osoukup"

@@ -2383,9 +2383,9 @@
             "fedora": "yselkowitz"
         },
         "llvm23": {
-            "admin": "releng-bot",
-            "epel": "releng-bot",
-            "fedora": "releng-bot"
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
         },
         "lokalize": {
             "admin": "yselkowitz",
@@ -139456,6 +139456,11 @@
             "epel": "cottsay",
             "fedora": "cottsay"
         },
+        "python-colibri-engine": {
+            "admin": "trix",
+            "epel": "trix",
+            "fedora": "trix"
+        },
         "python-collada": {
             "admin": "hobbes1069",
             "epel": "hobbes1069",
@@ -209535,6 +209540,11 @@
             "admin": "vondruch",
             "epel": "vondruch",
             "fedora": "vondruch"
+        },
+        "vim-crystal": {
+            "admin": "renich",
+            "epel": "renich",
+            "fedora": "renich"
         },
         "vim-ctrlp": {
             "admin": "osoukup",
