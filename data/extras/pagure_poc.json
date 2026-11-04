@@ -30986,6 +30986,11 @@
             "epel": "pwhalen",
             "fedora": "pwhalen"
         },
+        "fedora-jam-audio-config": {
+            "admin": "eeickmeyer",
+            "epel": "eeickmeyer",
+            "fedora": "eeickmeyer"
+        },
         "fedora-jam-backgrounds": {
             "admin": "q5sys",
             "epel": "q5sys",
@@ -62836,6 +62841,11 @@
             "epel": "mfabian",
             "fedora": "mfabian"
         },
+        "icu-tzdata": {
+            "admin": "remi",
+            "epel": "remi",
+            "fedora": "remi"
+        },
         "icu4j": {
             "admin": "jjames",
             "epel": "salimma",
@@ -80835,6 +80845,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "log-for-linux": {
+            "admin": "jskarvad",
+            "epel": "jskarvad",
+            "fedora": "jskarvad"
         },
         "log4c": {
             "admin": "valtri",
@@ -144437,9 +144452,9 @@
             "fedora": "orphan"
         },
         "python-hl7": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
         },
         "python-hole": {
             "admin": "orphan",
@@ -149712,9 +149727,9 @@
             "fedora": "swt2c"
         },
         "python-pg8000": {
-            "admin": "dreua",
-            "epel": "dreua",
-            "fedora": "dreua"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-pgpdump": {
             "admin": "orphan",
@@ -198872,9 +198887,9 @@
             "fedora": "orphan"
         },
         "singularity-ce": {
-            "admin": "dctrud",
-            "epel": "dctrud",
-            "fedora": "dctrud"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "sinjdoc": {
             "admin": "orphan",

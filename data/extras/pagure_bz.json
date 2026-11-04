@@ -23784,6 +23784,9 @@
             "pbrobinson",
             "pwhalen"
         ],
+        "fedora-jam-audio-config": [
+            "eeickmeyer"
+        ],
         "fedora-jam-backgrounds": [
             "q5sys"
         ],
@@ -48180,6 +48183,9 @@
             "mfabian",
             "rstrode"
         ],
+        "icu-tzdata": [
+            "remi"
+        ],
         "icu4j": [
             "@epel-packagers-sig",
             "java-sig",
@@ -62480,6 +62486,9 @@
         ],
         "lodash": [
             "orphan"
+        ],
+        "log-for-linux": [
+            "jskarvad"
         ],
         "log4c": [
             "stevetraylen",
@@ -110865,7 +110874,7 @@
             "orphan"
         ],
         "python-hl7": [
-            "orphan"
+            "fed500"
         ],
         "python-hole": [
             "orphan"
@@ -114970,7 +114979,7 @@
             "swt2c"
         ],
         "python-pg8000": [
-            "dreua"
+            "orphan"
         ],
         "python-pgpdump": [
             "orphan"
@@ -119443,7 +119452,8 @@
             "orphan"
         ],
         "python-sqlglot": [
-            "jonathanspw"
+            "jonathanspw",
+            "terjeros"
         ],
         "python-sqlite": [
             "orphan",
@@ -153035,7 +153045,7 @@
         ],
         "singularity-ce": [
             "@go-sig",
-            "dctrud"
+            "orphan"
         ],
         "sinjdoc": [
             "orphan"
