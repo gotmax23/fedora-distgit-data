@@ -2207,6 +2207,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "kst": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "kstars": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -4637,9 +4642,9 @@
             "fedora": "ctron"
         },
         "4th": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "4ti2": {
             "admin": "jjames",
@@ -72736,6 +72741,11 @@
             "epel": "rathann",
             "fedora": "rathann"
         },
+        "lazygit": {
+            "admin": "wojnilowicz",
+            "epel": "wojnilowicz",
+            "fedora": "wojnilowicz"
+        },
         "lbd": {
             "admin": "rebus",
             "epel": "rebus",
@@ -80277,9 +80287,9 @@
             "fedora": "churchyard"
         },
         "links": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
         },
         "linode-cli": {
             "admin": "orphan",
@@ -132046,6 +132056,11 @@
             "epel": "thunderbirdtr",
             "fedora": "thunderbirdtr"
         },
+        "plasma-pipewire-settings": {
+            "admin": "eeickmeyer",
+            "epel": "eeickmeyer",
+            "fedora": "eeickmeyer"
+        },
         "plasma-pk-updates": {
             "admin": "orphan",
             "epel": "orphan",
@@ -136942,9 +136957,9 @@
             "fedora": "orphan"
         },
         "python-assertpy": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "terjeros",
+            "epel": "terjeros",
+            "fedora": "terjeros"
         },
         "python-assets": {
             "admin": "orphan",
@@ -146632,19 +146647,19 @@
             "fedora": "orphan"
         },
         "python-lsp-jsonrpc": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-lsp-ruff": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-lsp-server": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-lsprotocol": {
             "admin": "topazus",
@@ -149727,9 +149742,9 @@
             "fedora": "swt2c"
         },
         "python-pg8000": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-pgpdump": {
             "admin": "orphan",
@@ -150917,9 +150932,9 @@
             "fedora": "@rhel-lightspeed"
         },
         "python-pydocstyle": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-pydoctor": {
             "admin": "jsteffan",
@@ -151312,9 +151327,9 @@
             "fedora": "@infra-sig"
         },
         "python-pylint-venv": {
-            "admin": "orphan",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "orphan"
+            "fedora": "filiperosset"
         },
         "python-pylons": {
             "admin": "orphan",
@@ -184216,6 +184231,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-num-bigint0.4": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-num-complex": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -184258,6 +184278,11 @@
         },
         "rust-num-modular": {
             "admin": "salimma",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-num-modular0.6": {
+            "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -186911,6 +186936,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-pyo3-build-config0.29": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-pyo3-ffi": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -186977,6 +187007,11 @@
             "fedora": "@rust-sig"
         },
         "rust-pyo3-ffi0.28": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-pyo3-ffi0.29": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -187071,6 +187106,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-pyo3-macros-backend0.29": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-pyo3-macros0.15": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -187141,6 +187181,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-pyo3-macros0.29": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-pyo3_0.15": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -187207,6 +187252,11 @@
             "fedora": "@rust-sig"
         },
         "rust-pyo3_0.28": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-pyo3_0.29": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -196191,12 +196241,22 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-zstd-safe7": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-zstd-sys": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
         "rust-zstd0.12": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-zstd0.13": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -198160,6 +198220,11 @@
             "admin": "smani",
             "epel": "smani",
             "fedora": "smani"
+        },
+        "shards": {
+            "admin": "renich",
+            "epel": "renich",
+            "fedora": "renich"
         },
         "share-like-connect": {
             "admin": "orphan",
@@ -207242,9 +207307,9 @@
             "fedora": "orphan"
         },
         "tunneler": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
         },
         "tuptime": {
             "admin": "frankcrawford",
@@ -212135,6 +212200,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "wxWidgets": {
+            "admin": "swt2c",
+            "epel": "swt2c",
+            "fedora": "swt2c"
         },
         "wxapt": {
             "admin": "hobbes1069",

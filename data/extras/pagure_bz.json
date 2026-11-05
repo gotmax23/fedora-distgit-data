@@ -1802,6 +1802,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "kst": [
+            "yselkowitz"
+        ],
         "kstars": [
             "@flatpak-sig",
             "yselkowitz"
@@ -3695,7 +3698,7 @@
             "ctron"
         ],
         "4th": [
-            "orphan"
+            "filiperosset"
         ],
         "4ti2": [
             "jjames"
@@ -14351,6 +14354,7 @@
         ],
         "cmake": [
             "besser82",
+            "electricbrass",
             "fujiwara",
             "ghishadow",
             "sagitter"
@@ -55980,6 +55984,10 @@
         "lazygal": [
             "rathann"
         ],
+        "lazygit": [
+            "@go-sig",
+            "wojnilowicz"
+        ],
         "lbd": [
             "lystor",
             "rebus"
@@ -62009,9 +62017,9 @@
         ],
         "links": [
             "@epel-packagers-sig",
-            "orphan",
             "ovasik",
-            "salimma"
+            "salimma",
+            "suve"
         ],
         "linode-cli": [
             "cicku",
@@ -71183,7 +71191,8 @@
             "orphan"
         ],
         "noctalia": [
-            "carlwgeorge"
+            "carlwgeorge",
+            "damiand"
         ],
         "node": [
             "orphan"
@@ -101364,6 +101373,9 @@
             "@kde-sig",
             "thunderbirdtr"
         ],
+        "plasma-pipewire-settings": [
+            "eeickmeyer"
+        ],
         "plasma-pk-updates": [
             "@kde-sig",
             "kkofler",
@@ -102730,7 +102742,8 @@
             "pghmcfc"
         ],
         "progman": [
-            "dcavalca"
+            "dcavalca",
+            "suve"
         ],
         "progress": [
             "flo"
@@ -105082,7 +105095,7 @@
             "orphan"
         ],
         "python-assertpy": [
-            "orphan"
+            "terjeros"
         ],
         "python-assets": [
             "orphan"
@@ -112572,18 +112585,18 @@
         ],
         "python-lsp-jsonrpc": [
             "@neuro-sig",
-            "jonathanspw",
-            "orphan"
+            "filiperosset",
+            "jonathanspw"
         ],
         "python-lsp-ruff": [
             "@neuro-sig",
-            "orphan"
+            "filiperosset"
         ],
         "python-lsp-server": [
             "@neuro-sig",
             "@python-packagers-sig",
-            "jonathanspw",
-            "orphan"
+            "filiperosset",
+            "jonathanspw"
         ],
         "python-lsprotocol": [
             "@python-packagers-sig",
@@ -114979,7 +114992,7 @@
             "swt2c"
         ],
         "python-pg8000": [
-            "orphan"
+            "filiperosset"
         ],
         "python-pgpdump": [
             "orphan"
@@ -115896,7 +115909,7 @@
         ],
         "python-pydocstyle": [
             "cottsay",
-            "orphan",
+            "filiperosset",
             "tadej"
         ],
         "python-pydoctor": [
@@ -116196,7 +116209,7 @@
             "kevin"
         ],
         "python-pylint-venv": [
-            "orphan"
+            "filiperosset"
         ],
         "python-pylons": [
             "orphan"
@@ -126048,7 +126061,8 @@
             "orphan"
         ],
         "rmlint": [
-            "suve"
+            "suve",
+            "vassili"
         ],
         "rmol": [
             "denisarnaud",
@@ -141588,6 +141602,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-num-bigint0.4": [
+            "decathorpe"
+        ],
         "rust-num-complex": [
             "@rust-sig",
             "decathorpe"
@@ -141623,6 +141640,9 @@
         "rust-num-modular": [
             "@rust-sig",
             "salimma"
+        ],
+        "rust-num-modular0.6": [
+            "decathorpe"
         ],
         "rust-num-order": [
             "@rust-sig",
@@ -143708,6 +143728,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-pyo3-build-config0.29": [
+            "decathorpe"
+        ],
         "rust-pyo3-ffi": [
             "@rust-sig",
             "decathorpe"
@@ -143762,6 +143785,9 @@
         ],
         "rust-pyo3-ffi0.28": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-pyo3-ffi0.29": [
             "decathorpe"
         ],
         "rust-pyo3-introspection": [
@@ -143837,6 +143863,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-pyo3-macros-backend0.29": [
+            "decathorpe"
+        ],
         "rust-pyo3-macros0.15": [
             "@rust-sig",
             "decathorpe"
@@ -143893,6 +143922,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-pyo3-macros0.29": [
+            "decathorpe"
+        ],
         "rust-pyo3_0.15": [
             "@rust-sig",
             "decathorpe"
@@ -143947,6 +143979,9 @@
         ],
         "rust-pyo3_0.28": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-pyo3_0.29": [
             "decathorpe"
         ],
         "rust-pyproject-toml": [
@@ -151014,12 +151049,18 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-zstd-safe7": [
+            "decathorpe"
+        ],
         "rust-zstd-sys": [
             "@rust-sig",
             "decathorpe"
         ],
         "rust-zstd0.12": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-zstd0.13": [
             "decathorpe"
         ],
         "rust-zune-core": [
@@ -152013,7 +152054,8 @@
             "mkoncek"
         ],
         "sdorfehs": [
-            "dcavalca"
+            "dcavalca",
+            "suve"
         ],
         "sdparm": [
             "carlwgeorge",
@@ -152522,6 +152564,9 @@
         "shapelib": [
             "smani",
             "tdawson"
+        ],
+        "shards": [
+            "renich"
         ],
         "share-like-connect": [
             "orphan"
@@ -159208,7 +159253,7 @@
         ],
         "tunneler": [
             "lkundrak",
-            "orphan"
+            "suve"
         ],
         "tuptime": [
             "frankcrawford"
@@ -160433,7 +160478,8 @@
             "orphan"
         ],
         "valeronoi": [
-            "dcavalca"
+            "dcavalca",
+            "suve"
         ],
         "valgrind": [
             "ahajkova",
@@ -162830,6 +162876,10 @@
             "mattdm",
             "orphan"
         ],
+        "wxWidgets": [
+            "electricbrass",
+            "swt2c"
+        ],
         "wxapt": [
             "hobbes1069"
         ],
@@ -162875,7 +162925,8 @@
             "ensc"
         ],
         "x11docker": [
-            "dcavalca"
+            "dcavalca",
+            "suve"
         ],
         "x11perf": [
             "ajax",
