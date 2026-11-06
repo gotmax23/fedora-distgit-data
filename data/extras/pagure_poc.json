@@ -14306,6 +14306,11 @@
             "epel": "mateusrodcosta",
             "fedora": "mateusrodcosta"
         },
+        "bigscreen-ui": {
+            "admin": "farchord",
+            "epel": "farchord",
+            "fedora": "farchord"
+        },
         "bijiben": {
             "admin": "mcrha",
             "epel": "@gnome-sig",
@@ -37292,6 +37297,11 @@
             "fedora": "fdedden"
         },
         "ghc-file-embed": {
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
+        },
+        "ghc-file-io": {
             "admin": "petersen",
             "epel": "petersen",
             "fedora": "petersen"
@@ -62726,6 +62736,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "ical": {
+            "admin": "carllibpst",
+            "epel": "carllibpst",
+            "fedora": "carllibpst"
+        },
         "icaro": {
             "admin": "orphan",
             "epel": "orphan",
@@ -70735,6 +70750,11 @@
             "admin": "vascom",
             "epel": "vascom",
             "fedora": "vascom"
+        },
+        "kio-gopher": {
+            "admin": "farchord",
+            "epel": "farchord",
+            "fedora": "farchord"
         },
         "kio-snapshot": {
             "admin": "farchord",
@@ -102902,9 +102922,9 @@
             "fedora": "farchord"
         },
         "ocfs2-tools": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "ochusha": {
             "admin": "mtasaka",
@@ -104102,9 +104122,9 @@
             "fedora": "jskarvad"
         },
         "openfortivpn": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "pjgeorg",
+            "epel": "pjgeorg",
+            "fedora": "pjgeorg"
         },
         "openfst": {
             "admin": "mikep",
@@ -121942,9 +121962,9 @@
             "fedora": "eseyman"
         },
         "perl-Test-WWW-Selenium": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "ppisar",
+            "epel": "ppisar",
+            "fedora": "ppisar"
         },
         "perl-Test-Warn": {
             "admin": "spot",
@@ -140662,9 +140682,9 @@
             "fedora": "aekoroglu"
         },
         "python-diff-match-patch": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-digitalocean": {
             "admin": "nb",
@@ -146642,9 +146662,9 @@
             "fedora": "peter"
         },
         "python-lsp-black": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-lsp-jsonrpc": {
             "admin": "filiperosset",
@@ -151347,9 +151367,9 @@
             "fedora": "orphan"
         },
         "python-pyls-spyder": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-pyls_black": {
             "admin": "orphan",
@@ -152672,9 +152692,9 @@
             "fedora": "mjg"
         },
         "python-pyuca": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-pyudev": {
             "admin": "dshea",
@@ -152887,9 +152907,9 @@
             "fedora": "orphan"
         },
         "python-qstylizer": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-qt5": {
             "admin": "farchord",
@@ -156372,9 +156392,9 @@
             "fedora": "sergiopr"
         },
         "python-three_merge": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-thriftpy": {
             "admin": "orphan",
@@ -157245,6 +157265,11 @@
             "admin": "music",
             "epel": "music",
             "fedora": "music"
+        },
+        "python-typing-validation": {
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
         },
         "python-typish": {
             "admin": "orphan",
@@ -198097,9 +198122,9 @@
             "fedora": "orphan"
         },
         "sfnt2woff-zopfli": {
-            "admin": "music",
-            "epel": "music",
-            "fedora": "music"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "sfntly": {
             "admin": "orphan",
@@ -207496,6 +207521,21 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "txnupd-maintenance-tools": {
+            "admin": "sfaulken",
+            "epel": "sfaulken",
+            "fedora": "sfaulken"
+        },
+        "txnupd-rootfs": {
+            "admin": "sfaulken",
+            "epel": "sfaulken",
+            "fedora": "sfaulken"
+        },
+        "txnupd-snapper-plugin": {
+            "admin": "sfaulken",
+            "epel": "sfaulken",
+            "fedora": "sfaulken"
+        },
         "txt2man": {
             "admin": "hobbes1069",
             "epel": "hobbes1069",
@@ -211812,9 +211852,9 @@
             "fedora": "orphan"
         },
         "woff": {
-            "admin": "music",
+            "admin": "orphan",
             "epel": "pnemade",
-            "fedora": "music"
+            "fedora": "orphan"
         },
         "woff2": {
             "admin": "pnemade",
@@ -217352,6 +217392,11 @@
             "admin": "bnater",
             "epel": "bnater",
             "fedora": "bnater"
+        },
+        "mstflint": {
+            "admin": "michich",
+            "epel": "michich",
+            "fedora": "michich"
         },
         "mutt": {
             "admin": "fjanus",

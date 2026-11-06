@@ -1803,6 +1803,7 @@
             "yselkowitz"
         ],
         "kst": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "kstars": [
@@ -11181,6 +11182,9 @@
         "bign-handheld-thumbnailer": [
             "aradchen",
             "mateusrodcosta"
+        ],
+        "bigscreen-ui": [
+            "farchord"
         ],
         "bijiben": [
             "@gnome-sig",
@@ -28608,6 +28612,9 @@
         ],
         "ghc-file-embed": [
             "@haskell-lang-sig",
+            "petersen"
+        ],
+        "ghc-file-io": [
             "petersen"
         ],
         "ghc-filemanip": [
@@ -47768,7 +47775,6 @@
         "i3": [
             "defolos",
             "pjgeorg",
-            "pysis",
             "runcom"
         ],
         "i3-gaps": [
@@ -48094,6 +48100,9 @@
             "jstanley",
             "michich",
             "orphan"
+        ],
+        "ical": [
+            "carllibpst"
         ],
         "icaro": [
             "echevemaster",
@@ -54391,6 +54400,9 @@
             "@kde-sig",
             "vascom",
             "wolnei"
+        ],
+        "kio-gopher": [
+            "farchord"
         ],
         "kio-snapshot": [
             "farchord"
@@ -78201,7 +78213,7 @@
         ],
         "ocfs2-tools": [
             "fabbione",
-            "orphan"
+            "filiperosset"
         ],
         "ochusha": [
             "mtasaka"
@@ -79162,7 +79174,7 @@
         ],
         "openfortivpn": [
             "adrienverge",
-            "orphan"
+            "pjgeorg"
         ],
         "openfst": [
             "@epel-packagers-sig",
@@ -94249,8 +94261,8 @@
         ],
         "perl-Test-WWW-Selenium": [
             "lkundrak",
-            "orphan",
-            "perl-sig"
+            "perl-sig",
+            "ppisar"
         ],
         "perl-Test-Warn": [
             "jplesnik",
@@ -107929,7 +107941,7 @@
         ],
         "python-diff-match-patch": [
             "amigadave",
-            "orphan"
+            "filiperosset"
         ],
         "python-digitalocean": [
             "@certbot-sig",
@@ -112580,8 +112592,8 @@
         ],
         "python-lsp-black": [
             "@neuro-sig",
-            "jonathanspw",
-            "orphan"
+            "filiperosset",
+            "jonathanspw"
         ],
         "python-lsp-jsonrpc": [
             "@neuro-sig",
@@ -116224,8 +116236,8 @@
         ],
         "python-pyls-spyder": [
             "@neuro-sig",
-            "jonathanspw",
-            "orphan"
+            "filiperosset",
+            "jonathanspw"
         ],
         "python-pyls_black": [
             "orphan"
@@ -117242,7 +117254,7 @@
         ],
         "python-pyuca": [
             "@neuro-sig",
-            "orphan"
+            "filiperosset"
         ],
         "python-pyudev": [
             "apevec",
@@ -117402,8 +117414,8 @@
         ],
         "python-qstylizer": [
             "@neuro-sig",
-            "jonathanspw",
-            "orphan"
+            "filiperosset",
+            "jonathanspw"
         ],
         "python-qt5": [
             "@kde-sig",
@@ -120112,8 +120124,8 @@
         ],
         "python-three_merge": [
             "@neuro-sig",
-            "jonathanspw",
-            "orphan"
+            "filiperosset",
+            "jonathanspw"
         ],
         "python-thriftpy": [
             "ignatenkobrain",
@@ -120804,6 +120816,9 @@
         "python-typing-inspection": [
             "@python-packagers-sig",
             "music"
+        ],
+        "python-typing-validation": [
+            "msuchy"
         ],
         "python-typish": [
             "orphan"
@@ -141603,6 +141618,7 @@
             "decathorpe"
         ],
         "rust-num-bigint0.4": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-num-complex": [
@@ -141642,6 +141658,7 @@
             "salimma"
         ],
         "rust-num-modular0.6": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-num-order": [
@@ -143729,6 +143746,7 @@
             "decathorpe"
         ],
         "rust-pyo3-build-config0.29": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-pyo3-ffi": [
@@ -143788,6 +143806,7 @@
             "decathorpe"
         ],
         "rust-pyo3-ffi0.29": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-pyo3-introspection": [
@@ -143864,6 +143883,7 @@
             "decathorpe"
         ],
         "rust-pyo3-macros-backend0.29": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-pyo3-macros0.15": [
@@ -143923,6 +143943,7 @@
             "decathorpe"
         ],
         "rust-pyo3-macros0.29": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-pyo3_0.15": [
@@ -143982,6 +144003,7 @@
             "decathorpe"
         ],
         "rust-pyo3_0.29": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-pyproject-toml": [
@@ -151050,6 +151072,7 @@
             "decathorpe"
         ],
         "rust-zstd-safe7": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-zstd-sys": [
@@ -151061,6 +151084,7 @@
             "decathorpe"
         ],
         "rust-zstd0.13": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-zune-core": [
@@ -152473,7 +152497,8 @@
             "orphan"
         ],
         "sfnt2woff-zopfli": [
-            "music"
+            "music",
+            "orphan"
         ],
         "sfntly": [
             "i18n-team",
@@ -159384,6 +159409,15 @@
         "txmpp": [
             "orphan"
         ],
+        "txnupd-maintenance-tools": [
+            "sfaulken"
+        ],
+        "txnupd-rootfs": [
+            "sfaulken"
+        ],
+        "txnupd-snapper-plugin": [
+            "sfaulken"
+        ],
         "txt2man": [
             "hobbes1069",
             "maxamillion",
@@ -162584,7 +162618,7 @@
         "woff": [
             "fonts-sig",
             "i18n-team",
-            "music",
+            "orphan",
             "pnemade",
             "sandeeps"
         ],
@@ -166939,6 +166973,9 @@
             "bnater",
             "icesalov",
             "lzachar"
+        ],
+        "mstflint": [
+            "michich"
         ],
         "mutt": [
             "fjanus"
