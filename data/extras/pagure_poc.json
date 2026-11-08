@@ -2732,6 +2732,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "perl-Finance-Quote": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "photoqt": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -13023,8 +13028,8 @@
         },
         "autolink-java": {
             "admin": "filiperosset",
-            "epel": "kkeithle",
-            "fedora": "jjames"
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "automake": {
             "admin": "fberat",
@@ -89296,6 +89301,11 @@
             "epel": "robert",
             "fedora": "robert"
         },
+        "moonlight-qt": {
+            "admin": "lecris",
+            "epel": "lecris",
+            "fedora": "lecris"
+        },
         "moos": {
             "admin": "orphan",
             "epel": "orphan",
@@ -134097,9 +134107,9 @@
             "fedora": "sergiopr"
         },
         "psftools": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "psgml": {
             "admin": "orphan",
@@ -145057,9 +145067,9 @@
             "fedora": "eclipseo"
         },
         "python-interface-meta": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-interfile": {
             "admin": "orphan",
@@ -154277,9 +154287,9 @@
             "fedora": "mattia"
         },
         "python-sgqlc": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "python-sgutils": {
             "admin": "orphan",
@@ -172541,6 +172551,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-caf": {
+            "admin": "jsteffan",
+            "epel": "jsteffan",
+            "fedora": "jsteffan"
+        },
         "rust-cairo-rs": {
             "admin": "decathorpe",
             "epel": "decathorpe",
@@ -184408,8 +184423,8 @@
         },
         "rust-obj": {
             "admin": "jsteffan",
-            "epel": "jsteffan",
-            "fedora": "jsteffan"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-object": {
             "admin": "decathorpe",
@@ -201567,9 +201582,9 @@
             "fedora": "salimma"
         },
         "stp": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "filiperosset",
+            "epel": "filiperosset",
+            "fedora": "filiperosset"
         },
         "strace": {
             "admin": "ldv",
@@ -209445,6 +209460,11 @@
             "admin": "aekoroglu",
             "epel": "aekoroglu",
             "fedora": "aekoroglu"
+        },
+        "venus-protocol": {
+            "admin": "jexposit",
+            "epel": "jexposit",
+            "fedora": "jexposit"
         },
         "vera++": {
             "admin": "orphan",

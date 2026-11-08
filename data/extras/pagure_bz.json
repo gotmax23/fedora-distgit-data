@@ -2224,6 +2224,10 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "perl-Finance-Quote": [
+            "@flatpak-sig",
+            "yselkowitz"
+        ],
         "photoqt": [
             "@flatpak-sig",
             "yselkowitz"
@@ -28615,6 +28619,7 @@
             "petersen"
         ],
         "ghc-file-io": [
+            "@haskell-lang-sig",
             "petersen"
         ],
         "ghc-filemanip": [
@@ -54967,6 +54972,7 @@
             "orphan"
         ],
         "kopia": [
+            "@go-sig",
             "imbearchild"
         ],
         "korganizer": [
@@ -68842,6 +68848,9 @@
         ],
         "moon-buggy": [
             "robert"
+        ],
+        "moonlight-qt": [
+            "lecris"
         ],
         "moos": [
             "orphan"
@@ -102984,7 +102993,7 @@
             "sergiopr"
         ],
         "psftools": [
-            "orphan"
+            "filiperosset"
         ],
         "psgml": [
             "orphan"
@@ -111339,7 +111348,7 @@
             "gotmax23"
         ],
         "python-interface-meta": [
-            "orphan"
+            "filiperosset"
         ],
         "python-interfile": [
             "orphan"
@@ -116269,7 +116278,8 @@
         ],
         "python-pymdown-extensions": [
             "@mkdocs-sig",
-            "dcavalca"
+            "dcavalca",
+            "mattia"
         ],
         "python-pymediainfo": [
             "vascom"
@@ -118536,7 +118546,7 @@
         ],
         "python-sgqlc": [
             "@neuro-sig",
-            "orphan"
+            "filiperosset"
         ],
         "python-sgutils": [
             "orphan"
@@ -132310,6 +132320,9 @@
         "rust-cachedir": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-caf": [
+            "jsteffan"
         ],
         "rust-cairo-rs": [
             "@rust-sig",
@@ -155085,7 +155098,7 @@
             "salimma"
         ],
         "stp": [
-            "orphan"
+            "filiperosset"
         ],
         "strace": [
             "esyr",
@@ -160852,6 +160865,9 @@
             "aekoroglu",
             "fonts-sig",
             "sandeeps"
+        ],
+        "venus-protocol": [
+            "jexposit"
         ],
         "vera++": [
             "orphan"
