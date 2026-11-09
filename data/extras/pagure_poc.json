@@ -17812,9 +17812,9 @@
             "fedora": "nikic"
         },
         "clang15": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "clang16": {
             "admin": "tuliom",
@@ -80692,9 +80692,9 @@
             "fedora": "nikic"
         },
         "llvm15": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
         },
         "llvm16": {
             "admin": "tuliom",
@@ -162500,6 +162500,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "quill": {
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "quilt": {
             "admin": "jwboyer",

@@ -13912,7 +13912,7 @@
         ],
         "clang15": [
             "@fedora-llvm-team",
-            "orphan",
+            "petersen",
             "tuliom"
         ],
         "clang16": [
@@ -62367,7 +62367,7 @@
         ],
         "llvm15": [
             "@fedora-llvm-team",
-            "orphan",
+            "petersen",
             "tuliom"
         ],
         "llvm16": [
@@ -124737,6 +124737,9 @@
             "drago01",
             "orphan"
         ],
+        "quill": [
+            "ngompa"
+        ],
         "quilt": [
             "besser82",
             "jwboyer"
@@ -132322,6 +132325,7 @@
             "decathorpe"
         ],
         "rust-caf": [
+            "@rust-sig",
             "jsteffan"
         ],
         "rust-cairo-rs": [
