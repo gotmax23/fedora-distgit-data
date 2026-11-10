@@ -80592,9 +80592,9 @@
             "fedora": "nikic"
         },
         "lld15": {
-            "admin": "frantisekz",
-            "epel": "frantisekz",
-            "fedora": "frantisekz"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "lld16": {
             "admin": "tuliom",
@@ -115774,7 +115774,7 @@
         "perl-Mail-SPF": {
             "admin": "mspacek",
             "epel": "adelton",
-            "fedora": "jplesnik"
+            "fedora": "mspacek"
         },
         "perl-Mail-SPF-Iterator": {
             "admin": "eseyman",

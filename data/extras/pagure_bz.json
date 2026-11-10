@@ -62256,7 +62256,7 @@
         ],
         "lld15": [
             "@fedora-llvm-team",
-            "frantisekz",
+            "orphan",
             "tuliom"
         ],
         "lld16": [
@@ -162221,6 +162221,7 @@
             "orphan"
         ],
         "wildcard": [
+            "@rust-sig",
             "dcavalca"
         ],
         "wildcardtl": [
@@ -166995,6 +166996,8 @@
             "lzachar"
         ],
         "mstflint": [
+            "convexity",
+            "kheib",
             "michich"
         ],
         "mutt": [
