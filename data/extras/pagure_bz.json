@@ -8268,7 +8268,8 @@
         ],
         "ansible-collection-community-docker": [
             "@infra-sig",
-            "gotmax23"
+            "gotmax23",
+            "salimma"
         ],
         "ansible-collection-community-general": [
             "@infra-sig",
@@ -8277,14 +8278,16 @@
         ],
         "ansible-collection-community-internal_test_tools": [
             "ahaupt",
-            "gotmax23"
+            "gotmax23",
+            "salimma"
         ],
         "ansible-collection-community-kubernetes": [
             "@infra-sig",
             "gotmax23"
         ],
         "ansible-collection-community-library_inventory_filtering_v1": [
-            "gotmax23"
+            "gotmax23",
+            "salimma"
         ],
         "ansible-collection-community-libvirt": [
             "gotmax23",
@@ -14519,7 +14522,8 @@
         ],
         "cockatrice": [
             "laiot",
-            "linkdupont"
+            "linkdupont",
+            "orphan"
         ],
         "cockpit": [
             "jelly",
@@ -16024,7 +16028,8 @@
         "crash": [
             "crash",
             "lijiang",
-            "liutgnu"
+            "liutgnu",
+            "yangrr"
         ],
         "crash-gcore-command": [
             "dhat180"
@@ -25247,7 +25252,7 @@
             "shlomif"
         ],
         "fossil": [
-            "defolos",
+            "filiperosset",
             "ivzhh",
             "petasis"
         ],
@@ -34998,7 +35003,7 @@
         ],
         "golang-github-chappjc-logrus-prefix": [
             "@go-sig",
-            "dcavalca"
+            "orphan"
         ],
         "golang-github-charlievieth-fastwalk": [
             "@go-sig",
@@ -39093,7 +39098,7 @@
         ],
         "golang-github-matrix-org-util": [
             "@go-sig",
-            "v02460"
+            "orphan"
         ],
         "golang-github-matryer-try": [
             "@go-sig",
@@ -42333,7 +42338,7 @@
         ],
         "golang-github-x-cray-logrus-prefixed-formatter": [
             "@go-sig",
-            "dcavalca"
+            "orphan"
         ],
         "golang-github-x448-float16": [
             "@go-sig",
@@ -46809,8 +46814,7 @@
             "orphan"
         ],
         "hstr": [
-            "jonathanspw",
-            "yangrr"
+            "jonathanspw"
         ],
         "hstsparser": [
             "thebeanogamer"
@@ -112457,7 +112461,7 @@
             "jkastner"
         ],
         "python-linuxdoc": [
-            "orphan"
+            "ngompa"
         ],
         "python-lion-pytorch": [
             "trix"
@@ -120713,6 +120717,9 @@
             "dcavalca",
             "fed500",
             "salimma"
+        ],
+        "python-typelets": [
+            "alebastr"
         ],
         "python-typepad": [
             "orphan"
@@ -135630,7 +135637,7 @@
         ],
         "rust-font-kit": [
             "@rust-sig",
-            "pbrobinson"
+            "orphan"
         ],
         "rust-font-test-data": [
             "@rust-sig",
@@ -137018,6 +137025,10 @@
             "@rust-sig",
             "dustymabe",
             "jlebon"
+        ],
+        "rust-granit-parser": [
+            "@rust-sig",
+            "alebastr"
         ],
         "rust-graphene-rs": [
             "@rust-sig",
@@ -144754,7 +144765,7 @@
         ],
         "rust-reis": [
             "@rust-sig",
-            "orphan"
+            "decathorpe"
         ],
         "rust-reis0.2": [
             "@rust-sig",
@@ -153097,6 +153108,7 @@
             "orphan"
         ],
         "simpleini": [
+            "salimma",
             "topazus"
         ],
         "simplevalidation": [
@@ -159225,7 +159237,7 @@
         ],
         "ttyd": [
             "msuchy",
-            "orphan"
+            "yselkowitz"
         ],
         "ttyplot": [
             "suve"

@@ -18647,9 +18647,9 @@
             "fedora": "rjones"
         },
         "cockatrice": {
-            "admin": "linkdupont",
-            "epel": "linkdupont",
-            "fedora": "linkdupont"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "cockpit": {
             "admin": "jelly",
@@ -32812,9 +32812,9 @@
             "fedora": "ngompa"
         },
         "fossil": {
-            "admin": "defolos",
+            "admin": "filiperosset",
             "epel": "orphan",
-            "fedora": "defolos"
+            "fedora": "filiperosset"
         },
         "fotocx": {
             "admin": "limb",
@@ -45512,9 +45512,9 @@
             "fedora": "orphan"
         },
         "golang-github-chappjc-logrus-prefix": {
-            "admin": "dcavalca",
-            "epel": "@go-sig",
-            "fedora": "@go-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-charlievieth-fastwalk": {
             "admin": "qulogic",
@@ -50912,9 +50912,9 @@
             "fedora": "orphan"
         },
         "golang-github-matrix-org-util": {
-            "admin": "v02460",
-            "epel": "v02460",
-            "fedora": "v02460"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-matryer-try": {
             "admin": "qulogic",
@@ -55122,9 +55122,9 @@
             "fedora": "orphan"
         },
         "golang-github-x-cray-logrus-prefixed-formatter": {
-            "admin": "dcavalca",
-            "epel": "@go-sig",
-            "fedora": "@go-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-x448-float16": {
             "admin": "trix",
@@ -146492,9 +146492,9 @@
             "fedora": "jkacur"
         },
         "python-linuxdoc": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "ngompa",
+            "epel": "ngompa",
+            "fedora": "ngompa"
         },
         "python-lion-pytorch": {
             "admin": "trix",
@@ -157155,6 +157155,11 @@
             "admin": "fed500",
             "epel": "fed500",
             "fedora": "fed500"
+        },
+        "python-typelets": {
+            "admin": "alebastr",
+            "epel": "alebastr",
+            "fedora": "alebastr"
         },
         "python-typepad": {
             "admin": "orphan",
@@ -176752,9 +176757,9 @@
             "fedora": "@rust-sig"
         },
         "rust-font-kit": {
-            "admin": "pbrobinson",
-            "epel": "@rust-sig",
-            "fedora": "@rust-sig"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "rust-font-test-data": {
             "admin": "pnemade",
@@ -178515,6 +178520,11 @@
             "admin": "jlebon",
             "epel": "jlebon",
             "fedora": "jlebon"
+        },
+        "rust-granit-parser": {
+            "admin": "alebastr",
+            "epel": "alebastr",
+            "fedora": "alebastr"
         },
         "rust-graphene-rs": {
             "admin": "decathorpe",
@@ -188232,7 +188242,7 @@
             "fedora": "alakatos"
         },
         "rust-reis": {
-            "admin": "orphan",
+            "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -198948,7 +198958,7 @@
         },
         "simpleini": {
             "admin": "topazus",
-            "epel": "topazus",
+            "epel": "salimma",
             "fedora": "topazus"
         },
         "simplevalidation": {
@@ -207257,9 +207267,9 @@
             "fedora": "churchyard"
         },
         "ttyd": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
         },
         "ttyplot": {
             "admin": "suve",
