@@ -2091,6 +2091,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "musescore": [
+            "yselkowitz"
+        ],
         "mypaint": [
             "@flatpak-sig",
             "yselkowitz"
@@ -14368,6 +14371,7 @@
             "electricbrass",
             "fujiwara",
             "ghishadow",
+            "ngompa",
             "sagitter"
         ],
         "cmake-elementary": [
@@ -16995,7 +16999,6 @@
         "dash": [
             "dcantrell",
             "huzaifas",
-            "svashisht",
             "wzzrd"
         ],
         "dasher": [
@@ -24550,8 +24553,7 @@
             "defolos",
             "ignatenkobrain",
             "ngompa",
-            "salimma",
-            "svashisht"
+            "salimma"
         ],
         "fishbowl": [
             "didiksupriadi41"
@@ -65278,6 +65280,7 @@
             "agk",
             "jonathanspw",
             "jsorensen",
+            "prajnoha",
             "xiao"
         ],
         "mdbtools": [
@@ -115282,7 +115285,7 @@
             "thrnciar"
         ],
         "python-poetry-dynamic-versioning": [
-            "orphan"
+            "limb"
         ],
         "python-poetry-plugin-export": [
             "@python-packagers-sig",
@@ -122935,7 +122938,7 @@
             "gotmax23"
         ],
         "python3.11-tomli-w-epel": [
-            "gotmax23"
+            "orphan"
         ],
         "python3.11-winrm-epel": [
             "orion"
@@ -140120,6 +140123,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-libsqlite3-sys0.36": [
+            "decathorpe"
+        ],
         "rust-libssh2-sys": [
             "@rust-sig",
             "decathorpe"
@@ -145291,6 +145297,9 @@
         ],
         "rust-rusqlite0.31": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-rusqlite0.38": [
             "decathorpe"
         ],
         "rust-rust-embed": [

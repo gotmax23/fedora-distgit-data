@@ -2567,6 +2567,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "musescore": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "mypaint": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -8928,8 +8933,8 @@
         },
         "aardvark-dns": {
             "admin": "jkaluza",
-            "epel": "jkaluza",
-            "fedora": "jkaluza"
+            "epel": "rruzicka",
+            "fedora": "rruzicka"
         },
         "aasaver": {
             "admin": "orphan",
@@ -15758,8 +15763,8 @@
         },
         "buildah": {
             "admin": "jkaluza",
-            "epel": "jkaluza",
-            "fedora": "jkaluza"
+            "epel": "rruzicka",
+            "fedora": "rruzicka"
         },
         "buildbot": {
             "admin": "limb",
@@ -19738,8 +19743,8 @@
         },
         "conmon-v3": {
             "admin": "jkaluza",
-            "epel": "jkaluza",
-            "fedora": "jkaluza"
+            "epel": "rruzicka",
+            "fedora": "rruzicka"
         },
         "conmux": {
             "admin": "bpeck",
@@ -19848,8 +19853,8 @@
         },
         "container-selinux": {
             "admin": "jkaluza",
-            "epel": "jkaluza",
-            "fedora": "jkaluza"
+            "epel": "rruzicka",
+            "fedora": "rruzicka"
         },
         "container-storage-setup": {
             "admin": "lsm5",
@@ -19883,8 +19888,8 @@
         },
         "containers-common": {
             "admin": "jkaluza",
-            "epel": "jkaluza",
-            "fedora": "jkaluza"
+            "epel": "rruzicka",
+            "fedora": "rruzicka"
         },
         "contextkit": {
             "admin": "orphan",
@@ -33553,8 +33558,8 @@
         },
         "fuse-overlayfs": {
             "admin": "jkaluza",
-            "epel": "jkaluza",
-            "fedora": "jkaluza"
+            "epel": "rruzicka",
+            "fedora": "rruzicka"
         },
         "fuse-pingfs": {
             "admin": "mikelo2",
@@ -91608,8 +91613,8 @@
         },
         "netavark": {
             "admin": "jkaluza",
-            "epel": "jkaluza",
-            "fedora": "jkaluza"
+            "epel": "rruzicka",
+            "fedora": "rruzicka"
         },
         "netbeans": {
             "admin": "orphan",
@@ -105843,8 +105848,8 @@
         },
         "pack": {
             "admin": "jkaluza",
-            "epel": "jkaluza",
-            "fedora": "jkaluza"
+            "epel": "rruzicka",
+            "fedora": "rruzicka"
         },
         "packETH": {
             "admin": "rebus",
@@ -132713,8 +132718,8 @@
         },
         "podman": {
             "admin": "jkaluza",
-            "epel": "jkaluza",
-            "fedora": "jkaluza"
+            "epel": "rruzicka",
+            "fedora": "rruzicka"
         },
         "podman-compose": {
             "admin": "limb",
@@ -150102,9 +150107,9 @@
             "fedora": "thrnciar"
         },
         "python-poetry-dynamic-versioning": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "python-poetry-plugin-export": {
             "admin": "orphan",
@@ -160157,9 +160162,9 @@
             "fedora": "gotmax23"
         },
         "python3.11-tomli-w-epel": {
-            "admin": "gotmax23",
-            "epel": "gotmax23",
-            "fedora": "gotmax23"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python3.11-winrm-epel": {
             "admin": "orion",
@@ -182356,6 +182361,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-libsqlite3-sys0.36": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-libssh2-sys": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -185968,8 +185978,8 @@
         },
         "rust-platforms": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-pleaser": {
             "admin": "eneville",
@@ -188930,6 +188940,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-rusqlite0.38": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-rust-embed": {
             "admin": "decathorpe",
@@ -199198,8 +199213,8 @@
         },
         "skopeo": {
             "admin": "jkaluza",
-            "epel": "jkaluza",
-            "fedora": "jkaluza"
+            "epel": "rruzicka",
+            "fedora": "rruzicka"
         },
         "skribilo": {
             "admin": "fed500",
