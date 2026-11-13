@@ -2092,6 +2092,7 @@
             "yselkowitz"
         ],
         "musescore": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "mypaint": [
@@ -22213,6 +22214,9 @@
         ],
         "erlang-erlando": [
             "orphan"
+        ],
+        "erlang-erlfmt": [
+            "peter"
         ],
         "erlang-erlsom": [
             "peter"
@@ -45608,7 +45612,7 @@
         ],
         "guake": [
             "jonathanspw",
-            "pingou"
+            "orphan"
         ],
         "guava": [
             "mizdebsk",
@@ -48829,7 +48833,7 @@
         "intel-mediasdk": [
             "@multimedia-sig",
             "aekoroglu",
-            "rathann"
+            "orphan"
         ],
         "intel-metee": [
             "aekoroglu",
@@ -81735,6 +81739,7 @@
             "perl-sig"
         ],
         "perl-Alien-ProtoBuf": [
+            "@perl-maint-sig",
             "ppisar"
         ],
         "perl-Alien-ROOT": [
@@ -101940,6 +101945,7 @@
             "patux",
             "rishi",
             "rruzicka",
+            "tosedlac",
             "vmiticka2"
         ],
         "podman-compose": [
@@ -102210,7 +102216,7 @@
             "orphan"
         ],
         "portmidi": [
-            "mjg",
+            "orphan",
             "xavierb"
         ],
         "portpub": [
@@ -102683,7 +102689,7 @@
             "walki"
         ],
         "primer3": [
-            "pingou"
+            "orphan"
         ],
         "primesieve": [
             "walki"
@@ -119057,6 +119063,7 @@
         ],
         "python-sphinx-autoapi": [
             "@python-packagers-sig",
+            "dcavalca",
             "qulogic"
         ],
         "python-sphinx-autobuild": [
@@ -121891,7 +121898,7 @@
         ],
         "python-xvfbwrapper": [
             "mrunge",
-            "vtrefny"
+            "orphan"
         ],
         "python-xword-dl": [
             "dcavalca",
@@ -140124,6 +140131,7 @@
             "decathorpe"
         ],
         "rust-libsqlite3-sys0.36": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-libssh2-sys": [
@@ -145300,6 +145308,7 @@
             "decathorpe"
         ],
         "rust-rusqlite0.38": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-rust-embed": [
@@ -158871,11 +158880,17 @@
         "tree-sitter-python": [
             "mavit"
         ],
+        "tree-sitter-regex": [
+            "mripard"
+        ],
         "tree-sitter-ruby": [
             "mavit"
         ],
         "tree-sitter-rust": [
             "mavit"
+        ],
+        "tree-sitter-sql": [
+            "mripard"
         ],
         "tree-sitter-srpm-macros": [
             "mavit"
@@ -158885,6 +158900,9 @@
         ],
         "tree-sitter-typescript": [
             "mavit"
+        ],
+        "tree-sitter-xml": [
+            "mripard"
         ],
         "tree-sitter-yaml": [
             "mavit"
@@ -164521,7 +164539,7 @@
             "orphan"
         ],
         "xorg-x11-drv-amdgpu": [
-            "rathann",
+            "orphan",
             "slaanesh"
         ],
         "xorg-x11-drv-apm": [
@@ -167086,6 +167104,7 @@
         "openscap": [
             "evgenyz",
             "jcerny",
+            "mburket",
             "mmarhefk",
             "vpolasek"
         ],

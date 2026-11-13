@@ -28876,6 +28876,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "erlang-erlfmt": {
+            "admin": "peter",
+            "epel": "peter",
+            "fedora": "peter"
+        },
         "erlang-erlsom": {
             "admin": "peter",
             "epel": "peter",
@@ -59357,9 +59362,9 @@
             "fedora": "orphan"
         },
         "guake": {
-            "admin": "pingou",
+            "admin": "orphan",
             "epel": "orphan",
-            "fedora": "pingou"
+            "fedora": "orphan"
         },
         "guava": {
             "admin": "mkoncek",
@@ -63697,9 +63702,9 @@
             "fedora": "frantisekz"
         },
         "intel-mediasdk": {
-            "admin": "rathann",
-            "epel": "rathann",
-            "fedora": "rathann"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "intel-metee": {
             "admin": "aekoroglu",
@@ -133077,9 +133082,9 @@
             "fedora": "orphan"
         },
         "portmidi": {
-            "admin": "mjg",
+            "admin": "orphan",
             "epel": "xavierb",
-            "fedora": "mjg"
+            "fedora": "orphan"
         },
         "portpub": {
             "admin": "orphan",
@@ -133692,8 +133697,8 @@
             "fedora": "walki"
         },
         "primer3": {
-            "admin": "pingou",
-            "epel": "pingou",
+            "admin": "orphan",
+            "epel": "orphan",
             "fedora": "pingou"
         },
         "primesieve": {
@@ -158662,9 +158667,9 @@
             "fedora": "orphan"
         },
         "python-xvfbwrapper": {
-            "admin": "vtrefny",
-            "epel": "vtrefny",
-            "fedora": "vtrefny"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "python-xword-dl": {
             "admin": "dcavalca",
@@ -182363,8 +182368,8 @@
         },
         "rust-libsqlite3-sys0.36": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-libssh2-sys": {
             "admin": "decathorpe",
@@ -188943,8 +188948,8 @@
         },
         "rust-rusqlite0.38": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-rust-embed": {
             "admin": "decathorpe",
@@ -206736,6 +206741,11 @@
             "epel": "mavit",
             "fedora": "mavit"
         },
+        "tree-sitter-regex": {
+            "admin": "mripard",
+            "epel": "mripard",
+            "fedora": "mripard"
+        },
         "tree-sitter-ruby": {
             "admin": "mavit",
             "epel": "mavit",
@@ -206745,6 +206755,11 @@
             "admin": "mavit",
             "epel": "mavit",
             "fedora": "mavit"
+        },
+        "tree-sitter-sql": {
+            "admin": "mripard",
+            "epel": "mripard",
+            "fedora": "mripard"
         },
         "tree-sitter-srpm-macros": {
             "admin": "mavit",
@@ -206760,6 +206775,11 @@
             "admin": "mavit",
             "epel": "mavit",
             "fedora": "mavit"
+        },
+        "tree-sitter-xml": {
+            "admin": "mripard",
+            "epel": "mripard",
+            "fedora": "mripard"
         },
         "tree-sitter-yaml": {
             "admin": "mavit",
@@ -214332,9 +214352,9 @@
             "fedora": "orphan"
         },
         "xorg-x11-drv-amdgpu": {
-            "admin": "rathann",
-            "epel": "rathann",
-            "fedora": "rathann"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "leigh123linux"
         },
         "xorg-x11-drv-apm": {
             "admin": "orphan",
