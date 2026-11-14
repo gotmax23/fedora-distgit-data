@@ -71641,6 +71641,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "kraft": {
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
+        },
         "kranky-fonts": {
             "admin": "orphan",
             "epel": "orphan",
@@ -77770,6 +77775,11 @@
             "admin": "ngompa",
             "epel": "ngompa",
             "fedora": "ngompa"
+        },
+        "libpicomemo": {
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
         },
         "libpinyin": {
             "admin": "pwu",
@@ -96751,6 +96761,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "nodejs-lightningcss": {
+            "admin": "gordonmessmer",
+            "epel": "gordonmessmer",
+            "fedora": "gordonmessmer"
+        },
         "nodejs-line-numbers": {
             "admin": "orphan",
             "epel": "orphan",
@@ -97761,6 +97776,16 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "nodejs-oxc-parser": {
+            "admin": "gordonmessmer",
+            "epel": "gordonmessmer",
+            "fedora": "gordonmessmer"
+        },
+        "nodejs-oxc-resolver": {
+            "admin": "gordonmessmer",
+            "epel": "gordonmessmer",
+            "fedora": "gordonmessmer"
+        },
         "nodejs-p-finally": {
             "admin": "orphan",
             "epel": "orphan",
@@ -98765,6 +98790,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "nodejs-rolldown": {
+            "admin": "gordonmessmer",
+            "epel": "gordonmessmer",
+            "fedora": "gordonmessmer"
         },
         "nodejs-rollup": {
             "admin": "orphan",
@@ -104005,6 +104035,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "opencloud-desktop-shell-integration-resources": {
+            "admin": "fed500",
+            "epel": "fed500",
+            "fedora": "fed500"
         },
         "opencolorio1": {
             "admin": "orphan",
@@ -110752,6 +110787,11 @@
             "fedora": "ppisar"
         },
         "perl-Dancer2-Plugin-REST": {
+            "admin": "eseyman",
+            "epel": "eseyman",
+            "fedora": "eseyman"
+        },
+        "perl-Dancer2-Serializer-Dumper": {
             "admin": "eseyman",
             "epel": "eseyman",
             "fedora": "eseyman"
@@ -140295,6 +140335,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "python-dacite": {
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
         },
         "python-daemon": {
             "admin": "kushal",

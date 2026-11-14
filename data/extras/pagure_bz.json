@@ -16127,19 +16127,23 @@
         ],
         "cri-o1.34": [
             "@go-sig",
-            "buckaroogeek"
+            "buckaroogeek",
+            "copperi"
         ],
         "cri-o1.35": [
             "@go-sig",
-            "buckaroogeek"
+            "buckaroogeek",
+            "copperi"
         ],
         "cri-o1.36": [
             "@go-sig",
-            "buckaroogeek"
+            "buckaroogeek",
+            "copperi"
         ],
         "cri-o1.37": [
             "@go-sig",
-            "buckaroogeek"
+            "buckaroogeek",
+            "copperi"
         ],
         "cri-tools": [
             "@go-sig",
@@ -16170,19 +16174,23 @@
         ],
         "cri-tools1.34": [
             "@go-sig",
-            "buckaroogeek"
+            "buckaroogeek",
+            "copperi"
         ],
         "cri-tools1.35": [
             "@go-sig",
-            "buckaroogeek"
+            "buckaroogeek",
+            "copperi"
         ],
         "cri-tools1.36": [
             "@go-sig",
-            "buckaroogeek"
+            "buckaroogeek",
+            "copperi"
         ],
         "cri-tools1.37": [
             "@go-sig",
-            "buckaroogeek"
+            "buckaroogeek",
+            "copperi"
         ],
         "cricscore-applet": [
             "orphan",
@@ -23384,6 +23392,7 @@
         ],
         "fatsort": [
             "lukaskotek",
+            "suve",
             "till"
         ],
         "faust": [
@@ -44447,6 +44456,7 @@
             "trix"
         ],
         "gpscorrelate": [
+            "suve",
             "till"
         ],
         "gpsd": [
@@ -55102,6 +55112,9 @@
         "kradio4": [
             "orphan"
         ],
+        "kraft": [
+            "fed500"
+        ],
         "kranky-fonts": [
             "orphan"
         ],
@@ -55550,19 +55563,23 @@
         ],
         "kubernetes1.34": [
             "@go-sig",
-            "buckaroogeek"
+            "buckaroogeek",
+            "copperi"
         ],
         "kubernetes1.35": [
             "@go-sig",
-            "buckaroogeek"
+            "buckaroogeek",
+            "copperi"
         ],
         "kubernetes1.36": [
             "@go-sig",
-            "buckaroogeek"
+            "buckaroogeek",
+            "copperi"
         ],
         "kubernetes1.37": [
             "@go-sig",
-            "buckaroogeek"
+            "buckaroogeek",
+            "copperi"
         ],
         "kubrick": [
             "@kde-sig",
@@ -60011,6 +60028,9 @@
             "@kde-sig",
             "ngompa",
             "thunderbirdtr"
+        ],
+        "libpicomemo": [
+            "fed500"
         ],
         "libpinyin": [
             "cheeselee",
@@ -69300,7 +69320,8 @@
         ],
         "msedit": [
             "@rust-sig",
-            "julicen"
+            "julicen",
+            "nixuser"
         ],
         "msgpack": [
             "@epel-packagers-sig",
@@ -74022,6 +74043,9 @@
         "nodejs-libxmljs": [
             "orphan"
         ],
+        "nodejs-lightningcss": [
+            "gordonmessmer"
+        ],
         "nodejs-line-numbers": [
             "orphan"
         ],
@@ -74680,6 +74704,12 @@
         ],
         "nodejs-own-or-env": [
             "orphan"
+        ],
+        "nodejs-oxc-parser": [
+            "gordonmessmer"
+        ],
+        "nodejs-oxc-resolver": [
+            "gordonmessmer"
         ],
         "nodejs-p-finally": [
             "jsmith",
@@ -75346,6 +75376,9 @@
         "nodejs-rndm": [
             "jsmith",
             "orphan"
+        ],
+        "nodejs-rolldown": [
+            "gordonmessmer"
         ],
         "nodejs-rollup": [
             "orphan"
@@ -79086,6 +79119,9 @@
         "openclonk": [
             "martinkg",
             "orphan"
+        ],
+        "opencloud-desktop-shell-integration-resources": [
+            "fed500"
         ],
         "opencolorio1": [
             "orphan"
@@ -84556,6 +84592,9 @@
         "perl-Dancer2-Plugin-REST": [
             "eseyman",
             "perl-sig"
+        ],
+        "perl-Dancer2-Serializer-Dumper": [
+            "eseyman"
         ],
         "perl-Danga-Socket": [
             "jplesnik",
@@ -107640,6 +107679,9 @@
         "python-daap": [
             "orphan"
         ],
+        "python-dacite": [
+            "msuchy"
+        ],
         "python-daemon": [
             "@infra-sig",
             "@python-packagers-sig",
@@ -126504,6 +126546,7 @@
         ],
         "root": [
             "@r-maint-sig",
+            "averbyts",
             "ellert"
         ],
         "root-tail": [
