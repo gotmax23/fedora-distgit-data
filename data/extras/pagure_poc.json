@@ -75711,6 +75711,11 @@
             "epel": "orphan",
             "fedora": "orphan"
         },
+        "libhipcxx": {
+            "admin": "trix",
+            "epel": "trix",
+            "fedora": "trix"
+        },
         "libhocr": {
             "admin": "orphan",
             "epel": "orphan",

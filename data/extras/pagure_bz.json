@@ -58445,6 +58445,10 @@
             "orphan",
             "salimma"
         ],
+        "libhipcxx": [
+            "@rocm-packagers-sig",
+            "trix"
+        ],
         "libhocr": [
             "orphan"
         ],
@@ -60532,7 +60536,6 @@
         ],
         "libsass": [
             "abompard",
-            "music",
             "tdawson"
         ],
         "libsavitar": [
