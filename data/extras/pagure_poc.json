@@ -27486,6 +27486,11 @@
             "epel": "ngompa",
             "fedora": "ngompa"
         },
+        "egl-manpages": {
+            "admin": "elmarco",
+            "epel": "elmarco",
+            "fedora": "elmarco"
+        },
         "egl-wayland": {
             "admin": "ngompa",
             "epel": "ngompa",
@@ -41367,9 +41372,9 @@
             "fedora": "orphan"
         },
         "gluster-block": {
-            "admin": "devos",
-            "epel": "devos",
-            "fedora": "devos"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "glusterd2": {
             "admin": "orphan",
@@ -138140,6 +138145,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "python-bases": {
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
         },
         "python-bash-kernel": {
             "admin": "orphan",
