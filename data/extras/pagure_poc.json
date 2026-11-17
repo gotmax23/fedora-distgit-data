@@ -2787,6 +2787,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "poppler-data": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "prusa-slicer": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -48422,9 +48427,9 @@
             "fedora": "orphan"
         },
         "golang-github-gorilla-mux": {
-            "admin": "mikelo2",
+            "admin": "orphan",
             "epel": "jchaloup",
-            "fedora": "mikelo2"
+            "fedora": "orphan"
         },
         "golang-github-gorilla-schema": {
             "admin": "alexsaezm",
@@ -56197,9 +56202,9 @@
             "fedora": "orphan"
         },
         "golang-gopkg-tomb-1": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-gopkg-tomb-2": {
             "admin": "alexsaezm",
@@ -64014,7 +64019,7 @@
         "iproute": {
             "admin": "psutter",
             "epel": "norbertus",
-            "fedora": "norbertus"
+            "fedora": "pmukherj"
         },
         "iprutils": {
             "admin": "jcajka",
@@ -77805,6 +77810,11 @@
             "admin": "nforro",
             "epel": "nforro",
             "fedora": "nforro"
+        },
+        "libpisp": {
+            "admin": "pbrobinson",
+            "epel": "pbrobinson",
+            "fedora": "pbrobinson"
         },
         "libpkgmanifest": {
             "admin": "jkolarik",
@@ -175981,6 +175991,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-enum-map-derive0.17": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
+        },
         "rust-enum-map-derive0.6": {
             "admin": "orphan",
             "epel": "@rust-sig",
@@ -175995,6 +176010,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "rust-enum-map2": {
+            "admin": "decathorpe",
+            "epel": "decathorpe",
+            "fedora": "decathorpe"
         },
         "rust-enum-ordinalize": {
             "admin": "ueno",
@@ -181316,12 +181336,27 @@
             "epel": "music",
             "fedora": "music"
         },
+        "rust-jiff-core0.1": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-jiff-icu": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"
         },
+        "rust-jiff-icu0.2": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
         "rust-jiff0.1": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
+        },
+        "rust-jiff0.2": {
             "admin": "music",
             "epel": "music",
             "fedora": "music"

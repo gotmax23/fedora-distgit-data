@@ -2268,6 +2268,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "poppler-data": [
+            "yselkowitz"
+        ],
         "prusa-slicer": [
             "@flatpak-sig",
             "yselkowitz"
@@ -37216,7 +37219,7 @@
         "golang-github-gorilla-mux": [
             "@go-sig",
             "jchaloup",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-gorilla-schema": [
             "@go-sig",
@@ -43152,7 +43155,7 @@
         ],
         "golang-gopkg-tomb-1": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-gopkg-tomb-2": [
             "@go-sig",
@@ -60052,6 +60055,9 @@
             "@db-sig",
             "jchaloup",
             "nforro"
+        ],
+        "libpisp": [
+            "pbrobinson"
         ],
         "libpkgmanifest": [
             "@rpm-software-management-sig",
@@ -111864,7 +111870,6 @@
             "mathstuf"
         ],
         "python-jsonpointer": [
-            "agerstmayr",
             "jkurik",
             "nathans",
             "stevetraylen"
@@ -135029,6 +135034,9 @@
             "@rust-sig",
             "dcavalca"
         ],
+        "rust-enum-map-derive0.17": [
+            "decathorpe"
+        ],
         "rust-enum-map-derive0.6": [
             "@rust-sig",
             "orphan"
@@ -135039,6 +135047,9 @@
         ],
         "rust-enum-map1.1": [
             "orphan"
+        ],
+        "rust-enum-map2": [
+            "decathorpe"
         ],
         "rust-enum-ordinalize": [
             "@rust-sig",
@@ -139257,12 +139268,21 @@
             "@rust-sig",
             "music"
         ],
+        "rust-jiff-core0.1": [
+            "music"
+        ],
         "rust-jiff-icu": [
             "@rust-sig",
             "music"
         ],
+        "rust-jiff-icu0.2": [
+            "music"
+        ],
         "rust-jiff0.1": [
             "@rust-sig",
+            "music"
+        ],
+        "rust-jiff0.2": [
             "music"
         ],
         "rust-jiter": [
