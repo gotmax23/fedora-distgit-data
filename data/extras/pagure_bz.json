@@ -855,6 +855,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "flare-im": [
+            "yselkowitz"
+        ],
         "flatpak-kde5-runtime": [
             "@flatpak-sig",
             "@kde-sig",
@@ -1244,6 +1247,9 @@
         ],
         "granatier": [
             "@flatpak-sig",
+            "yselkowitz"
+        ],
+        "gravity-beams-and-evaporating-stars": [
             "yselkowitz"
         ],
         "grisbi": [
@@ -2269,6 +2275,7 @@
             "yselkowitz"
         ],
         "poppler-data": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "prusa-slicer": [
@@ -6726,6 +6733,11 @@
             "suve",
             "wtaymans"
         ],
+        "SFML2": [
+            "@multimedia-sig",
+            "dcavalca",
+            "suve"
+        ],
         "SIBsim4": [
             "c4chris"
         ],
@@ -10054,7 +10066,6 @@
             "dtimms",
             "imcinerney",
             "jonathanspw",
-            "limb",
             "manpaz"
         ],
         "audex": [
@@ -15831,7 +15842,6 @@
             "wwoods"
         ],
         "cowsql": [
-            "@epel-packagers-sig",
             "neil",
             "topazus"
         ],
@@ -17123,6 +17133,9 @@
         ],
         "dbh": [
             "limb"
+        ],
+        "dbip-lite": [
+            "nmav"
         ],
         "dblatex": [
             "alexlan",
@@ -33514,7 +33527,7 @@
         ],
         "golang-aead-minisign": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-apache-thrift": [
             "orphan"
@@ -33572,7 +33585,7 @@
         ],
         "golang-cloud-google-compute-metadata": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-cloud-google-datacatalog": [
             "@go-sig",
@@ -33748,7 +33761,7 @@
         ],
         "golang-filippo-edwards25519": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-gioui": [
             "@go-sig",
@@ -34256,7 +34269,7 @@
         ],
         "golang-github-apache-arrow": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-apache-arrow12": [
             "@go-sig",
@@ -35491,8 +35504,7 @@
         ],
         "golang-github-coreos-semver": [
             "@go-sig",
-            "eclipseo",
-            "limb"
+            "eclipseo"
         ],
         "golang-github-coreos-systemd": [
             "@go-sig",
@@ -36828,7 +36840,7 @@
         "golang-github-godbus-dbus": [
             "@go-sig",
             "jchaloup",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-gofiber-fiber-2": [
             "@go-sig",
@@ -36840,7 +36852,7 @@
         ],
         "golang-github-gofrs-flock": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-gofrs-uuid": [
             "@go-sig",
@@ -37111,7 +37123,7 @@
         ],
         "golang-github-google-shlex": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-google-slothfs": [
             "@go-sig",
@@ -37570,7 +37582,7 @@
         ],
         "golang-github-hashicorp-retryablehttp": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-hashicorp-rootcerts": [
             "@go-sig",
@@ -37605,7 +37617,7 @@
         ],
         "golang-github-hashicorp-uuid": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-hashicorp-version": [
             "@go-sig",
@@ -38464,7 +38476,7 @@
         "golang-github-kballard-shellquote": [
             "@go-sig",
             "dfateyev",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-kdar-factorlog": [
             "orphan"
@@ -38877,7 +38889,7 @@
         ],
         "golang-github-logrusorgru-aurora4": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-lpabon-godbc": [
             "lpabon",
@@ -39165,7 +39177,7 @@
         ],
         "golang-github-mattn-isatty": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-mattn-localereader": [
             "@go-sig",
@@ -39177,7 +39189,7 @@
         ],
         "golang-github-mattn-runewidth": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-mattn-shellwords": [
             "@go-sig",
@@ -39185,7 +39197,7 @@
         ],
         "golang-github-mattn-sqlite3": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-mattn-tty": [
             "@go-sig",
@@ -39321,7 +39333,7 @@
         "golang-github-microcosm-cc-bluemonday": [
             "@go-sig",
             "jchaloup",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-microsoft-applicationinsights": [
             "@go-sig",
@@ -39341,7 +39353,7 @@
         "golang-github-miekg-dns": [
             "@go-sig",
             "jchaloup",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-miekg-mmark": [
             "orphan"
@@ -40141,7 +40153,7 @@
         ],
         "golang-github-oracle-oci-sdk": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-oracle-oci-sdk-24": [
             "@go-sig",
@@ -40353,7 +40365,7 @@
         ],
         "golang-github-philhofer-fwd": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-phpdave11-gofpdf": [
             "orphan"
@@ -40447,15 +40459,15 @@
         ],
         "golang-github-playground-assert-2": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-playground-locales": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-playground-universal-translator": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-playground-validator-10": [
             "@go-sig",
@@ -41925,7 +41937,7 @@
         ],
         "golang-github-tidwall-pretty": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-tidwall-sjson": [
             "@go-sig",
@@ -42403,7 +42415,7 @@
         "golang-github-xeipuuv-gojsonpointer": [
             "@go-sig",
             "jchaloup",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-xeipuuv-gojsonreference": [
             "@go-sig",
@@ -42425,7 +42437,7 @@
         ],
         "golang-github-xhit-str2duration2": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-xi2-xz": [
             "@go-sig",
@@ -43129,7 +43141,7 @@
         ],
         "golang-gopkg-src-d-billy-4": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-gopkg-src-d-git": [
             "orphan"
@@ -43197,13 +43209,13 @@
             "@epel-packagers-sig",
             "@go-sig",
             "dfateyev",
-            "mikelo2"
+            "orphan"
         ],
         "golang-gopkg-yaml-3": [
             "@epel-packagers-sig",
             "@go-sig",
             "dfateyev",
-            "mikelo2"
+            "orphan"
         ],
         "golang-gorgonia-vecf32": [
             "@go-sig",
@@ -43822,15 +43834,15 @@
         ],
         "golang-uber-multierr": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-uber-ratelimit": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-uber-zap": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-vbom-util": [
             "@go-sig",
@@ -103988,7 +104000,6 @@
             "tao-j"
         ],
         "pyshp": [
-            "limb",
             "music"
         ],
         "pyside-tools": [
@@ -109896,6 +109907,9 @@
             "@python-packagers-sig",
             "kylev",
             "ondrejj"
+        ],
+        "python-formerly": [
+            "echevemaster"
         ],
         "python-formulaic": [
             "orphan"
@@ -117328,6 +117342,7 @@
             "orphan"
         ],
         "python-pytzdata": [
+            "kkeithle",
             "mjg"
         ],
         "python-pyuca": [
@@ -122134,6 +122149,10 @@
             "churchyard",
             "frankcrawford",
             "lbalhar"
+        ],
+        "python-zipremove": [
+            "@python-packagers-sig",
+            "music"
         ],
         "python-zipstream": [
             "kwizart"
@@ -135035,6 +135054,7 @@
             "dcavalca"
         ],
         "rust-enum-map-derive0.17": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-enum-map-derive0.6": [
@@ -135049,6 +135069,7 @@
             "orphan"
         ],
         "rust-enum-map2": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-enum-ordinalize": [
@@ -135422,6 +135443,9 @@
         "rust-faster-hex": [
             "@rust-sig",
             "blinxen"
+        ],
+        "rust-faster-hex0.10": [
+            "decathorpe"
         ],
         "rust-fasteval": [
             "@rust-sig",
@@ -139269,6 +139293,7 @@
             "music"
         ],
         "rust-jiff-core0.1": [
+            "@rust-sig",
             "music"
         ],
         "rust-jiff-icu": [
@@ -139276,6 +139301,7 @@
             "music"
         ],
         "rust-jiff-icu0.2": [
+            "@rust-sig",
             "music"
         ],
         "rust-jiff0.1": [
@@ -139283,6 +139309,7 @@
             "music"
         ],
         "rust-jiff0.2": [
+            "@rust-sig",
             "music"
         ],
         "rust-jiter": [
