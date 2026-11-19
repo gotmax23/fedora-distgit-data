@@ -856,6 +856,7 @@
             "yselkowitz"
         ],
         "flare-im": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "flatpak-kde5-runtime": [
@@ -1250,6 +1251,7 @@
             "yselkowitz"
         ],
         "gravity-beams-and-evaporating-stars": [
+            "@flatpak-sig",
             "yselkowitz"
         ],
         "grisbi": [
@@ -3889,6 +3891,9 @@
             "krege"
         ],
         "CSFML": [
+            "suve"
+        ],
+        "CSFML2": [
             "suve"
         ],
         "CTL": [
@@ -11889,6 +11894,7 @@
         ],
         "booth": [
             "clumens",
+            "fabbione",
             "honzaf"
         ],
         "bootparamd": [
@@ -15653,10 +15659,12 @@
         ],
         "corosync-epel": [
             "dcavalca",
+            "fabbione",
             "honzaf",
             "salimma"
         ],
         "corosync-qdevice": [
+            "fabbione",
             "honzaf"
         ],
         "corrida": [
@@ -31136,7 +31144,8 @@
         ],
         "glab": [
             "@go-sig",
-            "mikelo2"
+            "mikelo2",
+            "ziegenberg"
         ],
         "glabels": [
             "pgordon",
@@ -49147,6 +49156,7 @@
             "robert"
         ],
         "ipvsadm": [
+            "fabbione",
             "honzaf",
             "oalbrigt",
             "rohara"
@@ -55227,6 +55237,7 @@
         ],
         "kronosnet-epel": [
             "dcavalca",
+            "fabbione",
             "honzaf"
         ],
         "krop": [
@@ -60216,6 +60227,7 @@
         ],
         "libqb-epel": [
             "dcavalca",
+            "fabbione",
             "honzaf",
             "salimma"
         ],
@@ -72682,6 +72694,7 @@
             "orphan"
         ],
         "nodejs-electron": [
+            "@go-sig",
             "gordonmessmer"
         ],
         "nodejs-emojione": [
@@ -105932,7 +105945,6 @@
         ],
         "python-b2sdk": [
             "jonny",
-            "limb",
             "supakeen"
         ],
         "python-b4": [
@@ -106320,6 +106332,7 @@
         ],
         "python-boto": [
             "apevec",
+            "davdunc",
             "gholms",
             "limb",
             "orion"
@@ -107586,6 +107599,9 @@
         ],
         "python-cssutils": [
             "kevin"
+        ],
+        "python-cstq": [
+            "dcavalca"
         ],
         "python-csvkit": [
             "orphan"
@@ -112943,7 +112959,6 @@
         "python-matplotlib": [
             "@epel-packagers-sig",
             "@python-packagers-sig",
-            "limb",
             "qulogic"
         ],
         "python-matplotlib-inline": [
@@ -118328,6 +118343,7 @@
             "orphan"
         ],
         "python-s3transfer": [
+            "davdunc",
             "fale",
             "limb"
         ],
@@ -135445,6 +135461,7 @@
             "blinxen"
         ],
         "rust-faster-hex0.10": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-fasteval": [
@@ -151530,7 +151547,7 @@
         ],
         "sandia-omega-h": [
             "@neuro-sig",
-            "orphan"
+            "ankursinha"
         ],
         "sandogasa": [
             "@rust-sig",
@@ -152426,7 +152443,10 @@
             "zpytela"
         ],
         "semacro": [
-            "jjanasek"
+            "jjanasek",
+            "omos",
+            "plautrba",
+            "vmojzis"
         ],
         "semantik": [
             "orphan"
@@ -154265,6 +154285,7 @@
             "smani"
         ],
         "spausedd": [
+            "fabbione",
             "honzaf"
         ],
         "spawn": [

@@ -4921,6 +4921,11 @@
             "epel": "suve",
             "fedora": "suve"
         },
+        "CSFML2": {
+            "admin": "suve",
+            "epel": "suve",
+            "fedora": "suve"
+        },
         "CTL": {
             "admin": "kwizart",
             "epel": "kwizart",
@@ -138542,9 +138547,9 @@
             "fedora": "athoscr"
         },
         "python-boto": {
-            "admin": "limb",
-            "epel": "limb",
-            "fedora": "limb"
+            "admin": "davdunc",
+            "epel": "davdunc",
+            "fedora": "davdunc"
         },
         "python-boto3": {
             "admin": "cstratak",
@@ -140210,6 +140215,11 @@
             "admin": "kevin",
             "epel": "kevin",
             "fedora": "kevin"
+        },
+        "python-cstq": {
+            "admin": "dcavalca",
+            "epel": "dcavalca",
+            "fedora": "dcavalca"
         },
         "python-csvkit": {
             "admin": "orphan",
@@ -154032,9 +154042,9 @@
             "fedora": "orphan"
         },
         "python-s3transfer": {
-            "admin": "limb",
+            "admin": "davdunc",
             "epel": "orphan",
-            "fedora": "limb"
+            "fedora": "davdunc"
         },
         "python-safetensors": {
             "admin": "xanderlent",
@@ -176513,8 +176523,8 @@
         },
         "rust-faster-hex0.10": {
             "admin": "decathorpe",
-            "epel": "decathorpe",
-            "fedora": "decathorpe"
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-fasteval": {
             "admin": "zbyszek",
@@ -196857,9 +196867,9 @@
             "fedora": "orphan"
         },
         "sandia-omega-h": {
-            "admin": "orphan",
-            "epel": "orphan",
-            "fedora": "orphan"
+            "admin": "ankursinha",
+            "epel": "ankursinha",
+            "fedora": "ankursinha"
         },
         "sandogasa": {
             "admin": "salimma",
