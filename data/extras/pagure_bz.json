@@ -12917,7 +12917,7 @@
             "jjames"
         ],
         "carbon-c-relay": [
-            "ignatenkobrain"
+            "orphan"
         ],
         "carbonate": [
             "orphan"
@@ -16446,6 +16446,9 @@
         "crystal-dock": [
             "@kde-sig",
             "farchord"
+        ],
+        "crystal-lang": [
+            "renich"
         ],
         "crystal-project": [
             "orphan"
@@ -46639,6 +46642,10 @@
         "hipsparselt7.2": [
             "trix"
         ],
+        "hiptensor": [
+            "@rocm-packagers-sig",
+            "trix"
+        ],
         "hiran-perizia-fonts": [
             "ankursinha",
             "fonts-sig"
@@ -72694,6 +72701,7 @@
             "orphan"
         ],
         "nodejs-electron": [
+            "@chromium-sig",
             "@go-sig",
             "gordonmessmer"
         ],
@@ -102895,6 +102903,10 @@
         "projecteur": [
             "dcavalca"
         ],
+        "projectm-eval": [
+            "@multimedia-sig",
+            "owensz"
+        ],
         "prometheus": [
             "@go-sig",
             "mikelo2"
@@ -112653,6 +112665,9 @@
             "msuchy",
             "ttomecek"
         ],
+        "python-logfire-api": [
+            "msuchy"
+        ],
         "python-logfury": [
             "jonny",
             "supakeen"
@@ -113528,6 +113543,9 @@
             "@neuro-sig",
             "music"
         ],
+        "python-multiformats-config": [
+            "msuchy"
+        ],
         "python-multihash": [
             "peter"
         ],
@@ -114215,6 +114233,9 @@
             "pwouters",
             "rominf",
             "rommell"
+        ],
+        "python-odfdo": [
+            "limb"
         ],
         "python-odict": [
             "orphan"
@@ -130524,6 +130545,9 @@
             "@rust-sig",
             "decathorpe"
         ],
+        "rust-addr2line0.25": [
+            "decathorpe"
+        ],
         "rust-adler": [
             "@rust-sig",
             "decathorpe"
@@ -131110,6 +131134,9 @@
         ],
         "rust-ashpd0.12": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-ashpd0.13": [
             "decathorpe"
         ],
         "rust-ashpd0.6": [
@@ -132031,6 +132058,9 @@
         "rust-blake2": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-blake2_0.10": [
+            "music"
         ],
         "rust-blake2b_simd": [
             "@rust-sig",
@@ -133854,6 +133884,10 @@
         ],
         "rust-crypto-mac0.8": [
             "orphan"
+        ],
+        "rust-crypto-primes": [
+            "@rust-sig",
+            "music"
         ],
         "rust-crypto_secretbox": [
             "@rust-sig",
@@ -136474,6 +136508,9 @@
         ],
         "rust-gimli": [
             "@rust-sig",
+            "decathorpe"
+        ],
+        "rust-gimli0.32": [
             "decathorpe"
         ],
         "rust-gimoji": [
@@ -142037,6 +142074,15 @@
             "@rust-sig",
             "asn"
         ],
+        "rust-opendal-layer-concurrent-limit": [
+            "asn"
+        ],
+        "rust-opendal-layer-logging": [
+            "asn"
+        ],
+        "rust-opendal-layer-timeout": [
+            "asn"
+        ],
         "rust-opener": [
             "@rust-sig",
             "decathorpe"
@@ -143049,6 +143095,9 @@
         "rust-pkcs1_0.2": [
             "@rust-sig",
             "decathorpe"
+        ],
+        "rust-pkcs1_0.7": [
+            "music"
         ],
         "rust-pkcs5": [
             "@rust-sig",
@@ -151025,6 +151074,9 @@
             "@rust-sig",
             "orphan"
         ],
+        "rust-zbus5": [
+            "decathorpe"
+        ],
         "rust-zbus_macros": [
             "@rust-sig",
             "elmarco"
@@ -151041,6 +151093,9 @@
             "@rust-sig",
             "orphan"
         ],
+        "rust-zbus_macros5": [
+            "decathorpe"
+        ],
         "rust-zbus_names": [
             "@rust-sig",
             "decathorpe"
@@ -151056,6 +151111,9 @@
         "rust-zbus_polkit": [
             "@rust-sig",
             "music"
+        ],
+        "rust-zbus_utils": [
+            "decathorpe"
         ],
         "rust-zbus_xml": [
             "@rust-sig",
@@ -151182,6 +151240,9 @@
             "@rust-sig",
             "asn"
         ],
+        "rust-zlink-names": [
+            "asn"
+        ],
         "rust-zlink-smol": [
             "@rust-sig",
             "asn"
@@ -151219,6 +151280,9 @@
             "@epel-packagers-sig",
             "@rust-sig",
             "zbyszek"
+        ],
+        "rust-zruntime": [
+            "decathorpe"
         ],
         "rust-zstd": [
             "@rust-sig",

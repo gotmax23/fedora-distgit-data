@@ -16527,9 +16527,9 @@
             "fedora": "jjames"
         },
         "carbon-c-relay": {
-            "admin": "ignatenkobrain",
-            "epel": "ignatenkobrain",
-            "fedora": "ignatenkobrain"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "carbonate": {
             "admin": "orphan",
@@ -21100,6 +21100,11 @@
             "admin": "farchord",
             "epel": "farchord",
             "fedora": "farchord"
+        },
+        "crystal-lang": {
+            "admin": "renich",
+            "epel": "renich",
+            "fedora": "renich"
         },
         "crystal-project": {
             "admin": "orphan",
@@ -60716,6 +60721,11 @@
             "epel": "trix",
             "fedora": "trix"
         },
+        "hiptensor": {
+            "admin": "trix",
+            "epel": "trix",
+            "fedora": "trix"
+        },
         "hiran-perizia-fonts": {
             "admin": "ankursinha",
             "epel": "ankursinha",
@@ -94683,8 +94693,8 @@
         },
         "nodejs-electron": {
             "admin": "gordonmessmer",
-            "epel": "gordonmessmer",
-            "fedora": "gordonmessmer"
+            "epel": "@chromium-sig",
+            "fedora": "@chromium-sig"
         },
         "nodejs-emojione": {
             "admin": "orphan",
@@ -133971,6 +133981,11 @@
             "epel": "dcavalca",
             "fedora": "dcavalca"
         },
+        "projectm-eval": {
+            "admin": "owensz",
+            "epel": "owensz",
+            "fedora": "owensz"
+        },
         "prometheus": {
             "admin": "mikelo2",
             "epel": "mikelo2",
@@ -146721,6 +146736,11 @@
             "epel": "msuchy",
             "fedora": "msuchy"
         },
+        "python-logfire-api": {
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
+        },
         "python-logfury": {
             "admin": "jonny",
             "epel": "supakeen",
@@ -147856,6 +147876,11 @@
             "epel": "music",
             "fedora": "music"
         },
+        "python-multiformats-config": {
+            "admin": "msuchy",
+            "epel": "msuchy",
+            "fedora": "msuchy"
+        },
         "python-multihash": {
             "admin": "peter",
             "epel": "peter",
@@ -148765,6 +148790,11 @@
             "admin": "pwouters",
             "epel": "pwouters",
             "fedora": "pwouters"
+        },
+        "python-odfdo": {
+            "admin": "limb",
+            "epel": "limb",
+            "fedora": "limb"
         },
         "python-odict": {
             "admin": "orphan",
@@ -170306,6 +170336,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-addr2line0.25": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-adler": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -171032,6 +171067,11 @@
             "fedora": "@rust-sig"
         },
         "rust-ashpd0.12": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-ashpd0.13": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -172175,6 +172215,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-blake2_0.10": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-blake2b_simd": {
             "admin": "salimma",
@@ -174520,6 +174565,11 @@
             "admin": "orphan",
             "epel": "orphan",
             "fedora": "orphan"
+        },
+        "rust-crypto-primes": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-crypto_secretbox": {
             "admin": "lecris",
@@ -177822,6 +177872,11 @@
             "fedora": "music"
         },
         "rust-gimli": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-gimli0.32": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
@@ -184776,6 +184831,21 @@
             "epel": "asn",
             "fedora": "asn"
         },
+        "rust-opendal-layer-concurrent-limit": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
+        "rust-opendal-layer-logging": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
+        "rust-opendal-layer-timeout": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
         "rust-opener": {
             "admin": "decathorpe",
             "epel": "@rust-sig",
@@ -186070,6 +186140,11 @@
             "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
+        },
+        "rust-pkcs1_0.7": {
+            "admin": "music",
+            "epel": "music",
+            "fedora": "music"
         },
         "rust-pkcs5": {
             "admin": "decathorpe",
@@ -196206,6 +196281,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-zbus5": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
         "rust-zbus_macros": {
             "admin": "elmarco",
             "epel": "@rust-sig",
@@ -196223,6 +196303,11 @@
         },
         "rust-zbus_macros4": {
             "admin": "orphan",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-zbus_macros5": {
+            "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
@@ -196245,6 +196330,11 @@
             "admin": "music",
             "epel": "music",
             "fedora": "music"
+        },
+        "rust-zbus_utils": {
+            "admin": "decathorpe",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
         },
         "rust-zbus_xml": {
             "admin": "decathorpe",
@@ -196396,6 +196486,11 @@
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
+        "rust-zlink-names": {
+            "admin": "asn",
+            "epel": "asn",
+            "fedora": "asn"
+        },
         "rust-zlink-smol": {
             "admin": "asn",
             "epel": "asn",
@@ -196438,6 +196533,11 @@
         },
         "rust-zram-generator": {
             "admin": "zbyszek",
+            "epel": "@rust-sig",
+            "fedora": "@rust-sig"
+        },
+        "rust-zruntime": {
+            "admin": "decathorpe",
             "epel": "@rust-sig",
             "fedora": "@rust-sig"
         },
