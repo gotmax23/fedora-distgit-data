@@ -762,6 +762,11 @@
             "epel": "yselkowitz",
             "fedora": "yselkowitz"
         },
+        "coolreader": {
+            "admin": "yselkowitz",
+            "epel": "yselkowitz",
+            "fedora": "yselkowitz"
+        },
         "cosmic-edit": {
             "admin": "yselkowitz",
             "epel": "yselkowitz",
@@ -14762,9 +14767,9 @@
             "fedora": "fed500"
         },
         "blogilo": {
-            "admin": "kkofler",
-            "epel": "kkofler",
-            "fedora": "kkofler"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "blogtk": {
             "admin": "orphan",
@@ -17147,9 +17152,9 @@
             "fedora": "jorton"
         },
         "cervisia": {
-            "admin": "than",
-            "epel": "than",
-            "fedora": "than"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "cf-bonveno-fonts": {
             "admin": "ankursinha",
@@ -37326,6 +37331,11 @@
             "epel": "qulogic",
             "fedora": "qulogic"
         },
+        "ghc-fedora-krb": {
+            "admin": "petersen",
+            "epel": "petersen",
+            "fedora": "petersen"
+        },
         "ghc-fedora-releases": {
             "admin": "petersen",
             "epel": "petersen",
@@ -44317,9 +44327,9 @@
             "fedora": "orphan"
         },
         "golang-github-alecthomas-kingpin2": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-alecthomas-kong": {
             "admin": "qulogic",
@@ -44552,9 +44562,9 @@
             "fedora": "orphan"
         },
         "golang-github-apache-arrow12": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-apache-arrow15": {
             "admin": "orphan",
@@ -45707,9 +45717,9 @@
             "fedora": "mikelo2"
         },
         "golang-github-chzyer-test": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-cilium-ebpf": {
             "admin": "alexsaezm",
@@ -47512,9 +47522,9 @@
             "fedora": "v02460"
         },
         "golang-github-fsnotify": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-fsnotify-fsnotify": {
             "admin": "orphan",
@@ -50987,9 +50997,9 @@
             "fedora": "orphan"
         },
         "golang-github-mattn-colorable": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-mattn-go-colorable": {
             "admin": "orphan",
@@ -51447,9 +51457,9 @@
             "fedora": "orphan"
         },
         "golang-github-mmcloughlin-avo": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-mmcloughlin-geohash": {
             "admin": "orphan",
@@ -52972,9 +52982,9 @@
             "fedora": "orphan"
         },
         "golang-github-puerkitobio-goquery": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-github-puerkitobio-purell": {
             "admin": "alexsaezm",
@@ -57067,9 +57077,9 @@
             "fedora": "hedayat"
         },
         "golang-uber-atomic": {
-            "admin": "mikelo2",
-            "epel": "mikelo2",
-            "fedora": "mikelo2"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "golang-uber-automaxprocs": {
             "admin": "olem",
@@ -68947,9 +68957,9 @@
             "fedora": "than"
         },
         "kdelibs": {
-            "admin": "than",
-            "epel": "than",
-            "fedora": "than"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kdelibs-experimental": {
             "admin": "orphan",
@@ -69037,9 +69047,9 @@
             "fedora": "orphan"
         },
         "kdepimlibs": {
-            "admin": "than",
-            "epel": "than",
-            "fedora": "than"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kdeplasma-addons": {
             "admin": "farchord",
@@ -69997,9 +70007,9 @@
             "fedora": "orphan"
         },
         "kf5-libkgapi": {
-            "admin": "aleasto",
-            "epel": "aleasto",
-            "fedora": "aleasto"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kf5-libkgeomap": {
             "admin": "orphan",
@@ -71187,9 +71197,9 @@
             "fedora": "farchord"
         },
         "kmplayer": {
-            "admin": "moceap",
-            "epel": "moceap",
-            "fedora": "moceap"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kmplot": {
             "admin": "than",
@@ -71507,9 +71517,9 @@
             "fedora": "farchord"
         },
         "kopete": {
-            "admin": "than",
-            "epel": "than",
-            "fedora": "than"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kopete-bonjour": {
             "admin": "orphan",
@@ -71592,9 +71602,9 @@
             "fedora": "cra"
         },
         "kpeoplevcard": {
-            "admin": "thunderbirdtr",
-            "epel": "thunderbirdtr",
-            "fedora": "thunderbirdtr"
+            "admin": "orphan",
+            "epel": "orphan",
+            "fedora": "orphan"
         },
         "kphone": {
             "admin": "orphan",
@@ -151614,7 +151624,7 @@
         "python-pymongo": {
             "admin": "limb",
             "epel": "orion",
-            "fedora": "apevec"
+            "fedora": "limb"
         },
         "python-pymssql": {
             "admin": "melmorabity",

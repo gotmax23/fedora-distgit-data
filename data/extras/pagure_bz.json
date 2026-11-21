@@ -623,6 +623,9 @@
             "@flatpak-sig",
             "yselkowitz"
         ],
+        "coolreader": [
+            "yselkowitz"
+        ],
         "cosmic-edit": [
             "@flatpak-sig",
             "yselkowitz"
@@ -11548,7 +11551,7 @@
         ],
         "blogilo": [
             "@kde-sig",
-            "kkofler"
+            "orphan"
         ],
         "blogtk": [
             "orphan",
@@ -13380,6 +13383,7 @@
         "cervisia": [
             "@kde-sig",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "cf-bonveno-fonts": [
@@ -15655,6 +15659,7 @@
         "corosync": [
             "agk",
             "andyp",
+            "aring",
             "honzaf"
         ],
         "corosync-epel": [
@@ -15664,6 +15669,7 @@
             "salimma"
         ],
         "corosync-qdevice": [
+            "aring",
             "fabbione",
             "honzaf"
         ],
@@ -18611,6 +18617,7 @@
         "dlm": [
             "agk",
             "andyp",
+            "aring",
             "teigland"
         ],
         "dlrn": [
@@ -28645,6 +28652,9 @@
             "@haskell-lang-sig",
             "qulogic"
         ],
+        "ghc-fedora-krb": [
+            "petersen"
+        ],
         "ghc-fedora-releases": [
             "@haskell-lang-sig",
             "petersen"
@@ -34100,7 +34110,7 @@
         ],
         "golang-github-alecthomas-kingpin2": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-alecthomas-kong": [
             "@go-sig",
@@ -34285,7 +34295,7 @@
         ],
         "golang-github-apache-arrow12": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-apache-arrow15": [
             "@go-sig",
@@ -35161,7 +35171,7 @@
             "@go-sig",
             "dfateyev",
             "jchaloup",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-cilium-ebpf": [
             "@go-sig",
@@ -36531,7 +36541,7 @@
         ],
         "golang-github-fsnotify": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-fsnotify-fsnotify": [
             "orphan"
@@ -39160,7 +39170,7 @@
         ],
         "golang-github-mattn-colorable": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-mattn-go-colorable": [
             "orphan"
@@ -39515,7 +39525,7 @@
         ],
         "golang-github-mmcloughlin-avo": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-mmcloughlin-geohash": [
             "orphan"
@@ -40716,7 +40726,7 @@
         ],
         "golang-github-puerkitobio-goquery": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-github-puerkitobio-purell": [
             "@go-sig",
@@ -43818,7 +43828,7 @@
         ],
         "golang-uber-atomic": [
             "@go-sig",
-            "mikelo2"
+            "orphan"
         ],
         "golang-uber-automaxprocs": [
             "@go-sig",
@@ -52838,6 +52848,7 @@
             "@kde-sig",
             "jgrulich",
             "kkofler",
+            "orphan",
             "than"
         ],
         "kdelibs-experimental": [
@@ -52909,6 +52920,7 @@
         "kdepimlibs": [
             "@kde-sig",
             "jgrulich",
+            "orphan",
             "than"
         ],
         "kdeplasma-addons": [
@@ -53801,7 +53813,7 @@
             "orphan"
         ],
         "kf5-libkgapi": [
-            "aleasto"
+            "orphan"
         ],
         "kf5-libkgeomap": [
             "@kde-sig",
@@ -54758,7 +54770,8 @@
             "than"
         ],
         "kmplayer": [
-            "moceap"
+            "moceap",
+            "orphan"
         ],
         "kmplot": [
             "@kde-sig",
@@ -55014,6 +55027,7 @@
         "kopete": [
             "@kde-sig",
             "nucleo",
+            "orphan",
             "than"
         ],
         "kopete-bonjour": [
@@ -55077,7 +55091,7 @@
         ],
         "kpeoplevcard": [
             "@kde-sig",
-            "thunderbirdtr"
+            "orphan"
         ],
         "kphone": [
             "orphan"
@@ -60229,6 +60243,7 @@
             "tdawson"
         ],
         "libqb": [
+            "aring",
             "cfeist",
             "chrissie"
         ],
@@ -130546,6 +130561,7 @@
             "decathorpe"
         ],
         "rust-addr2line0.25": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-adler": [
@@ -131137,6 +131153,7 @@
             "decathorpe"
         ],
         "rust-ashpd0.13": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-ashpd0.6": [
@@ -132060,6 +132077,7 @@
             "decathorpe"
         ],
         "rust-blake2_0.10": [
+            "@rust-sig",
             "music"
         ],
         "rust-blake2b_simd": [
@@ -136511,6 +136529,7 @@
             "decathorpe"
         ],
         "rust-gimli0.32": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-gimoji": [
@@ -142075,12 +142094,15 @@
             "asn"
         ],
         "rust-opendal-layer-concurrent-limit": [
+            "@rust-sig",
             "asn"
         ],
         "rust-opendal-layer-logging": [
+            "@rust-sig",
             "asn"
         ],
         "rust-opendal-layer-timeout": [
+            "@rust-sig",
             "asn"
         ],
         "rust-opener": [
@@ -143097,6 +143119,7 @@
             "decathorpe"
         ],
         "rust-pkcs1_0.7": [
+            "@rust-sig",
             "music"
         ],
         "rust-pkcs5": [
@@ -151075,6 +151098,7 @@
             "orphan"
         ],
         "rust-zbus5": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-zbus_macros": [
@@ -151094,6 +151118,7 @@
             "orphan"
         ],
         "rust-zbus_macros5": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-zbus_names": [
@@ -151113,6 +151138,7 @@
             "music"
         ],
         "rust-zbus_utils": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-zbus_xml": [
@@ -151241,6 +151267,7 @@
             "asn"
         ],
         "rust-zlink-names": [
+            "@rust-sig",
             "asn"
         ],
         "rust-zlink-smol": [
@@ -151282,6 +151309,7 @@
             "zbyszek"
         ],
         "rust-zruntime": [
+            "@rust-sig",
             "decathorpe"
         ],
         "rust-zstd": [
